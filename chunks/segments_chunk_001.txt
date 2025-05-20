@@ -1,0 +1,1008 @@
+488974691	#L1 #unknown-type
+1423189477	#L1 #unknown-type
+3303914329	#L1 #unknown-type
+3391127012	#L1 #unknown-type
+3477521741	#L1 #unknown-type
+3549519523	#L1 #unknown-type
+3549650915	#L1 #unknown-type
+3580545460	#L1 #unknown-type
+3622217558	#L1 #unknown-type
+3652965794	#L1 #unknown-type
+3784380431	#L1 #unknown-type
+3871691872	#L1 #unknown-type
+4046346445	#L1 #unknown-type
+4074235031	#L1 #unknown-type
+4104034517	#L1 #unknown-type
+4133893763	#L1 #unknown-type
+4439481006	#L1 #unknown-type
+4918887324	#L1 #unknown-type
+4992637510	#L1 #unknown-type
+5107708499	#L1 #unknown-type
+5458526010	#L1 #unknown-type
+5487057154	#L1 #unknown-type
+18251352963	#L1 #unknown-type
+26986152288	#L1 #unknown-type
+29244578242	#L1 #unknown-type
+29404663975	#L1 #unknown-type
+31529460203	#L1 #unknown-type
+32883614330	#L1 #unknown-type
+41108124795	#L1 #unknown-type
+41457787422	#L1 #unknown-type
+56362869587	#L1 #unknown-type
+56537482893	#L1 #unknown-type
+57003927680	#L1 #unknown-type
+650038323	#L1 #unknown-type #dark
+3347528803	#L1 #unknown-type #dark
+4364794026	#L1 #unknown-type #dark
+4628620412	#L1 #unknown-type #dark
+4672307788	#L1 #unknown-type #dark
+4847007334	#L1 #unknown-type #dark
+5589483327	#L1 #unknown-type #dark
+13042608136	#L1 #unknown-type #dark
+13129921762	#L1 #unknown-type #dark
+15051545323	#L1 #unknown-type #dark
+23523965741	#L1 #unknown-type #dark
+30889586026	#L1 #unknown-type #dark
+680130619	#L1 #unknown-type #grey
+5152753476	#L1 #unknown-type #grey
+300928228	#L1 #neuron #interneuron
+302124216	#L1 #neuron #interneuron
+316084337	#L1 #neuron #interneuron
+343606869	#L1 #neuron #interneuron
+344002075	#L1 #neuron #interneuron
+358180009	#L1 #neuron #interneuron
+358470011	#L1 #neuron #interneuron
+388402067	#L1 #neuron #interneuron
+389161997	#L1 #neuron #interneuron
+402243288	#L1 #neuron #interneuron
+418101442	#L1 #neuron #interneuron
+433198784	#L1 #neuron #interneuron
+447126518	#L1 #neuron #interneuron
+475060082	#L1 #neuron #interneuron
+490361490	#L1 #neuron #interneuron
+490988719	#L1 #neuron #interneuron
+491470940	#L1 #neuron #interneuron
+504524120	#L1 #neuron #interneuron
+547669847	#L1 #neuron #interneuron
+577194056	#L1 #neuron #interneuron
+578506580	#L1 #neuron #interneuron
+607796980	#L1 #neuron #interneuron
+621478193	#L1 #neuron #interneuron
+636444441	#L1 #neuron #interneuron
+664273973	#L1 #neuron #interneuron
+664609550	#L1 #neuron #interneuron
+708018837	#L1 #neuron #interneuron
+738183508	#L1 #neuron #interneuron
+780980674	#L1 #neuron #interneuron
+781431706	#L1 #neuron #interneuron
+810707256	#L1 #neuron #interneuron
+811525279	#L1 #neuron #interneuron
+811787484	#L1 #neuron #interneuron
+853649072	#L1 #neuron #interneuron
+854320424	#L1 #neuron #interneuron
+883449860	#L1 #neuron #interneuron
+883726166	#L1 #neuron #interneuron
+899232962	#L1 #neuron #interneuron
+913133483	#L1 #neuron #interneuron
+927486043	#L1 #neuron #interneuron
+943050752	#L1 #neuron #interneuron
+958074601	#L1 #neuron #interneuron
+986693191	#L1 #neuron #interneuron
+987088265	#L1 #neuron #interneuron
+1015938656	#L1 #neuron #interneuron
+1058252732	#L1 #neuron #interneuron
+1117240930	#L1 #neuron #interneuron
+1118086339	#L1 #neuron #interneuron
+1131037838	#L1 #neuron #interneuron
+1131360148	#L1 #neuron #interneuron
+1131564543	#L1 #neuron #interneuron
+1132060745	#L1 #neuron #interneuron
+1146077537	#L1 #neuron #interneuron
+1174972633	#L1 #neuron #interneuron
+1190639030	#L1 #neuron #interneuron
+1277339675	#L1 #neuron #interneuron
+1335057414	#L1 #neuron #interneuron
+1392674067	#L1 #neuron #interneuron
+1407713303	#L1 #neuron #interneuron
+1409333198	#L1 #neuron #interneuron
+1422824150	#L1 #neuron #interneuron
+1423554082	#L1 #neuron #interneuron
+1452668296	#L1 #neuron #interneuron
+1496165980	#L1 #neuron #interneuron
+1540493416	#L1 #neuron #interneuron
+1584559994	#L1 #neuron #interneuron
+1613381323	#L1 #neuron #interneuron
+1627574992	#L1 #neuron #interneuron
+1641546980	#L1 #neuron #interneuron
+1656542260	#L1 #neuron #interneuron
+1684707204	#L1 #neuron #interneuron
+1685875680	#L1 #neuron #interneuron
+1700024740	#L1 #neuron #interneuron
+1714084950	#L1 #neuron #interneuron
+1715457604	#L1 #neuron #interneuron
+1729080661	#L1 #neuron #interneuron
+1831900660	#L1 #neuron #interneuron
+1846940343	#L1 #neuron #interneuron
+1917973755	#L1 #neuron #interneuron
+1918849113	#L1 #neuron #interneuron
+1976216768	#L1 #neuron #interneuron
+1990541441	#L1 #neuron #interneuron
+2004923225	#L1 #neuron #interneuron
+2005856933	#L1 #neuron #interneuron
+2049062003	#L1 #neuron #interneuron
+2065122584	#L1 #neuron #interneuron
+2079227335	#L1 #neuron #interneuron
+2079651031	#L1 #neuron #interneuron
+2137208420	#L1 #neuron #interneuron
+2138112811	#L1 #neuron #interneuron
+2152728378	#L1 #neuron #interneuron
+2196355634	#L1 #neuron #interneuron
+2225484605	#L1 #neuron #interneuron
+2238904595	#L1 #neuron #interneuron
+2282603804	#L1 #neuron #interneuron
+2312712183	#L1 #neuron #interneuron
+2325998949	#L1 #neuron #interneuron
+2414816848	#L1 #neuron #interneuron
+2427883788	#L1 #neuron #interneuron
+2443974770	#L1 #neuron #interneuron
+2471920132	#L1 #neuron #interneuron
+2487586995	#L1 #neuron #interneuron
+2502408426	#L1 #neuron #interneuron
+2530864514	#L1 #neuron #interneuron
+2573485097	#L1 #neuron #interneuron
+2573528477	#L1 #neuron #interneuron
+2574347429	#L1 #neuron #interneuron
+2575076408	#L1 #neuron #interneuron
+2647206763	#L1 #neuron #interneuron
+2677122575	#L1 #neuron #interneuron
+2704908258	#L1 #neuron #interneuron
+2735322281	#L1 #neuron #interneuron
+2735615609	#L1 #neuron #interneuron
+2777301746	#L1 #neuron #interneuron
+2778891671	#L1 #neuron #interneuron
+2821834529	#L1 #neuron #interneuron
+2851284771	#L1 #neuron #interneuron
+2879610919	#L1 #neuron #interneuron
+2939679657	#L1 #neuron #interneuron
+2996942996	#L1 #neuron #interneuron
+3039637673	#L1 #neuron #interneuron
+3112232654	#L1 #neuron #interneuron
+3112365418	#L1 #neuron #interneuron
+3112628145	#L1 #neuron #interneuron
+3113022318	#L1 #neuron #interneuron
+3142779153	#L1 #neuron #interneuron
+3143290274	#L1 #neuron #interneuron
+3156431067	#L1 #neuron #interneuron
+3170841289	#L1 #neuron #interneuron
+3172213830	#L1 #neuron #interneuron
+3185662264	#L1 #neuron #interneuron
+3201547056	#L1 #neuron #interneuron
+3301154728	#L1 #neuron #interneuron
+3303039498	#L1 #neuron #interneuron
+3346331321	#L1 #neuron #interneuron
+3360318069	#L1 #neuron #interneuron
+3403480065	#L1 #neuron #interneuron
+3418182519	#L1 #neuron #interneuron
+3476966495	#L1 #neuron #interneuron
+3521018165	#L1 #neuron #interneuron
+3549519370	#L1 #neuron #interneuron
+3594328405	#L1 #neuron #interneuron
+3594431669	#L1 #neuron #interneuron
+3594737701	#L1 #neuron #interneuron
+3595029053	#L1 #neuron #interneuron
+3622801184	#L1 #neuron #interneuron
+3623486412	#L1 #neuron #interneuron
+3637737369	#L1 #neuron #interneuron
+3638395096	#L1 #neuron #interneuron
+3638526024	#L1 #neuron #interneuron
+3680357754	#L1 #neuron #interneuron
+3680606691	#L1 #neuron #interneuron
+3696550777	#L1 #neuron #interneuron
+3725650869	#L1 #neuron #interneuron
+3738498474	#L1 #neuron #interneuron
+3739243388	#L1 #neuron #interneuron
+3797122866	#L1 #neuron #interneuron
+3811328569	#L1 #neuron #interneuron
+3812935125	#L1 #neuron #interneuron
+3827141799	#L1 #neuron #interneuron
+3827506176	#L1 #neuron #interneuron
+3870871266	#L1 #neuron #interneuron
+3900453597	#L1 #neuron #interneuron
+3914529842	#L1 #neuron #interneuron
+3943876735	#L1 #neuron #interneuron
+3986306672	#L1 #neuron #interneuron
+3987125234	#L1 #neuron #interneuron
+4002616369	#L1 #neuron #interneuron
+4030168185	#L1 #neuron #interneuron
+4044390785	#L1 #neuron #interneuron
+4089623446	#L1 #neuron #interneuron
+4205381458	#L1 #neuron #interneuron
+4248482323	#L1 #neuron #interneuron
+4525229663	#L1 #neuron #interneuron
+4598805287	#L1 #neuron #interneuron
+4627598544	#L1 #neuron #interneuron
+4642650773	#L1 #neuron #interneuron
+4657603947	#L1 #neuron #interneuron
+4672072837	#L1 #neuron #interneuron
+4686046478	#L1 #neuron #interneuron
+4686512220	#L1 #neuron #interneuron
+4715641281	#L1 #neuron #interneuron
+4729790880	#L1 #neuron #interneuron
+4743983272	#L1 #neuron #interneuron
+4861243475	#L1 #neuron #interneuron
+4889889583	#L1 #neuron #interneuron
+5005850706	#L1 #neuron #interneuron
+5035900304	#L1 #neuron #interneuron
+5195255512	#L1 #neuron #interneuron
+5195825649	#L1 #neuron #interneuron
+5253951379	#L1 #neuron #interneuron
+5282497383	#L1 #neuron #interneuron
+5414373682	#L1 #neuron #interneuron
+5429281493	#L1 #neuron #interneuron
+5676695402	#L1 #neuron #interneuron
+5778609363	#L1 #neuron #interneuron
+5996514814	#L1 #neuron #interneuron
+6083989114	#L1 #neuron #interneuron
+10026098277	#L1 #neuron #interneuron
+10551967962	#L1 #neuron #interneuron
+10667944275	#L1 #neuron #interneuron
+10726202405	#L1 #neuron #interneuron
+11336816497	#L1 #neuron #interneuron
+11396534358	#L1 #neuron #interneuron
+14469023205	#L1 #neuron #interneuron
+15080309129	#L1 #neuron #interneuron
+18134617294	#L1 #neuron #interneuron
+18163732347	#L1 #neuron #interneuron
+18192920080	#L1 #neuron #interneuron
+18382470185	#L1 #neuron #interneuron
+18557506918	#L1 #neuron #interneuron
+18687456361	#L1 #neuron #interneuron
+18805227503	#L1 #neuron #interneuron
+18891563242	#L1 #neuron #interneuron
+18921961764	#L1 #neuron #interneuron
+18979927628	#L1 #neuron #interneuron
+19111176030	#L1 #neuron #interneuron
+19111191826	#L1 #neuron #interneuron
+19125165060	#L1 #neuron #interneuron
+19664977477	#L1 #neuron #interneuron
+19765170569	#L1 #neuron #interneuron
+20057249036	#L1 #neuron #interneuron
+20408241268	#L1 #neuron #interneuron
+20582971332	#L1 #neuron #interneuron
+20931950621	#L1 #neuron #interneuron
+21323637311	#L1 #neuron #interneuron
+21498674495	#L1 #neuron #interneuron
+21717908337	#L1 #neuron #interneuron
+24237178228	#L1 #neuron #interneuron
+24265680264	#L1 #neuron #interneuron
+24324127313	#L1 #neuron #interneuron
+26998740948	#L1 #neuron #interneuron
+27232079787	#L1 #neuron #interneuron
+27248225946	#L1 #neuron #interneuron
+27362700438	#L1 #neuron #interneuron
+27435851686	#L1 #neuron #interneuron
+27598182404	#L1 #neuron #interneuron
+27669598317	#L1 #neuron #interneuron
+27697734565	#L1 #neuron #interneuron
+27815958890	#L1 #neuron #interneuron
+27889385624	#L1 #neuron #interneuron
+27903666758	#L1 #neuron #interneuron
+27918718136	#L1 #neuron #interneuron
+28224944968	#L1 #neuron #interneuron
+28354721210	#L1 #neuron #interneuron
+28413940497	#L1 #neuron #interneuron
+28632677850	#L1 #neuron #interneuron
+28703305432	#L1 #neuron #interneuron
+28719918831	#L1 #neuron #interneuron
+28792064571	#L1 #neuron #interneuron
+28806665367	#L1 #neuron #interneuron
+28891950842	#L1 #neuron #interneuron
+29023885243	#L1 #neuron #interneuron
+29113053062	#L1 #neuron #interneuron
+29185502823	#L1 #neuron #interneuron
+29199971792	#L1 #neuron #interneuron
+29200000371	#L1 #neuron #interneuron
+29212690935	#L1 #neuron #interneuron
+29273560552	#L1 #neuron #interneuron
+29329791878	#L1 #neuron #interneuron
+29373813886	#L1 #neuron #interneuron
+29548265340	#L1 #neuron #interneuron
+29563669960	#L1 #neuron #interneuron
+29578431064	#L1 #neuron #interneuron
+29592827819	#L1 #neuron #interneuron
+29650762991	#L1 #neuron #interneuron
+29693896616	#L1 #neuron #interneuron
+29723930368	#L1 #neuron #interneuron
+29868888048	#L1 #neuron #interneuron
+29943426971	#L1 #neuron #interneuron
+30117456344	#L1 #neuron #interneuron
+30159799672	#L1 #neuron #interneuron
+30291121483	#L1 #neuron #interneuron
+30714198683	#L1 #neuron #interneuron
+30817077566	#L1 #neuron #interneuron
+31078201683	#L1 #neuron #interneuron
+31151732414	#L1 #neuron #interneuron
+31282630243	#L1 #neuron #interneuron
+31326038404	#L1 #neuron #interneuron
+31339560339	#L1 #neuron #interneuron
+31544367620	#L1 #neuron #interneuron
+31733086368	#L1 #neuron #interneuron
+31878964222	#L1 #neuron #interneuron
+31980616908	#L1 #neuron #interneuron
+35718106909	#L1 #neuron #interneuron
+35761881446	#L1 #neuron #interneuron
+35806443174	#L1 #neuron #interneuron
+35820241326	#L1 #neuron #interneuron
+36010258987	#L1 #neuron #interneuron
+36040495167	#L1 #neuron #interneuron
+36096681531	#L1 #neuron #interneuron
+36126555101	#L1 #neuron #interneuron
+36170168467	#L1 #neuron #interneuron
+36171919332	#L1 #neuron #interneuron
+36214264050	#L1 #neuron #interneuron
+36228251348	#L1 #neuron #interneuron
+36258519843	#L1 #neuron #interneuron
+36345292668	#L1 #neuron #interneuron
+36388293317	#L1 #neuron #interneuron
+36389708786	#L1 #neuron #interneuron
+36462275639	#L1 #neuron #interneuron
+36491054355	#L1 #neuron #interneuron
+36504736465	#L1 #neuron #interneuron
+36520488598	#L1 #neuron #interneuron
+36621719715	#L1 #neuron #interneuron
+36636349501	#L1 #neuron #interneuron
+36680151910	#L1 #neuron #interneuron
+36681233232	#L1 #neuron #interneuron
+36738877941	#L1 #neuron #interneuron
+36753726428	#L1 #neuron #interneuron
+36797733900	#L1 #neuron #interneuron
+36972756865	#L1 #neuron #interneuron
+36986437970	#L1 #neuron #interneuron
+36999885275	#L1 #neuron #interneuron
+37044505889	#L1 #neuron #interneuron
+37088455260	#L1 #neuron #interneuron
+37103345919	#L1 #neuron #interneuron
+37145705245	#L1 #neuron #interneuron
+37204633909	#L1 #neuron #interneuron
+37263710577	#L1 #neuron #interneuron
+37292211030	#L1 #neuron #interneuron
+37335781117	#L1 #neuron #interneuron
+37352555622	#L1 #neuron #interneuron
+37381013126	#L1 #neuron #interneuron
+37408801249	#L1 #neuron #interneuron
+37452457096	#L1 #neuron #interneuron
+37585224550	#L1 #neuron #interneuron
+37598202955	#L1 #neuron #interneuron
+37657193082	#L1 #neuron #interneuron
+37702045826	#L1 #neuron #interneuron
+37714443412	#L1 #neuron #interneuron
+37728430863	#L1 #neuron #interneuron
+37744361943	#L1 #neuron #interneuron
+37789286205	#L1 #neuron #interneuron
+37890253294	#L1 #neuron #interneuron
+37891172759	#L1 #neuron #interneuron
+37933063877	#L1 #neuron #interneuron
+38021722126	#L1 #neuron #interneuron
+38180069462	#L1 #neuron #interneuron
+38180508026	#L1 #neuron #interneuron
+38195400935	#L1 #neuron #interneuron
+38398981809	#L1 #neuron #interneuron
+38400981287	#L1 #neuron #interneuron
+38485858513	#L1 #neuron #interneuron
+38500561611	#L1 #neuron #interneuron
+38502896595	#L1 #neuron #interneuron
+38559067111	#L1 #neuron #interneuron
+38778725243	#L1 #neuron #interneuron
+38937774009	#L1 #neuron #interneuron
+38981767262	#L1 #neuron #interneuron
+39156656786	#L1 #neuron #interneuron
+39418830936	#L1 #neuron #interneuron
+39680834142	#L1 #neuron #interneuron
+39738915522	#L1 #neuron #interneuron
+40015795997	#L1 #neuron #interneuron
+40088567417	#L1 #neuron #interneuron
+40132674612	#L1 #neuron #interneuron
+40467200014	#L1 #neuron #interneuron
+41574215785	#L1 #neuron #interneuron
+44554661751	#L1 #neuron #interneuron
+44642136011	#L1 #neuron #interneuron
+44657160088	#L1 #neuron #interneuron
+44700831942	#L1 #neuron #interneuron
+44874130663	#L1 #neuron #interneuron
+45021177747	#L1 #neuron #interneuron
+45078033971	#L1 #neuron #interneuron
+45136686165	#L1 #neuron #interneuron
+45196681853	#L1 #neuron #interneuron
+45427669385	#L1 #neuron #interneuron
+45471793802	#L1 #neuron #interneuron
+45590689309	#L1 #neuron #interneuron
+45662833911	#L1 #neuron #interneuron
+45750160648	#L1 #neuron #interneuron
+45998612778	#L1 #neuron #interneuron
+46055848703	#L1 #neuron #interneuron
+46274980038	#L1 #neuron #interneuron
+46405498324	#L1 #neuron #interneuron
+46580374526	#L1 #neuron #interneuron
+46595326207	#L1 #neuron #interneuron
+47017134747	#L1 #neuron #interneuron
+47264168839	#L1 #neuron #interneuron
+47438767396	#L1 #neuron #interneuron
+47526285767	#L1 #neuron #interneuron
+47527059826	#L1 #neuron #interneuron
+47905065243	#L1 #neuron #interneuron
+48400346098	#L1 #neuron #interneuron
+48443958991	#L1 #neuron #interneuron
+48487163030	#L1 #neuron #interneuron
+48648109640	#L1 #neuron #interneuron
+53508286578	#L1 #neuron #interneuron
+53581160084	#L1 #neuron #interneuron
+53581801123	#L1 #neuron #interneuron
+53594812181	#L1 #neuron #interneuron
+53712844777	#L1 #neuron #interneuron
+53829172838	#L1 #neuron #interneuron
+53975210644	#L1 #neuron #interneuron
+54295921745	#L1 #neuron #interneuron
+54674555030	#L1 #neuron #interneuron
+54689156934	#L1 #neuron #interneuron
+54760701933	#L1 #neuron #interneuron
+54805263682	#L1 #neuron #interneuron
+55038324642	#L1 #neuron #interneuron
+55081996255	#L1 #neuron #interneuron
+55213025507	#L1 #neuron #interneuron
+55431427452	#L1 #neuron #interneuron
+55577014606	#L1 #neuron #interneuron
+55766359917	#L1 #neuron #interneuron
+55794919130	#L1 #neuron #interneuron
+55940813059	#L1 #neuron #interneuron
+56013832360	#L1 #neuron #interneuron
+56057182600	#L1 #neuron #interneuron
+56377499112	#L1 #neuron #interneuron
+56479751201	#L1 #neuron #interneuron
+57352977341	#L1 #neuron #interneuron
+57484006609	#L1 #neuron #interneuron
+57542469669	#L1 #neuron #interneuron
+62286756901	#L1 #neuron #interneuron
+62432447413	#L1 #neuron #interneuron
+62548802459	#L1 #neuron #interneuron
+62634859808	#L1 #neuron #interneuron
+62825754903	#L1 #neuron #interneuron
+62853494343	#L1 #neuron #interneuron
+62956930716	#L1 #neuron #interneuron
+63204372250	#L1 #neuron #interneuron
+63263199445	#L1 #neuron #interneuron
+63306566360	#L1 #neuron #interneuron
+63319399055	#L1 #neuron #interneuron
+63598060330	#L1 #neuron #interneuron
+66042996282	#L1 #neuron #interneuron
+66582608816	#L1 #neuron #interneuron
+71050511276	#L1 #neuron #interneuron
+71079655344	#L1 #neuron #interneuron
+71371338337	#L1 #neuron #interneuron
+71398409113	#L1 #neuron #interneuron
+71690852789	#L1 #neuron #interneuron
+72085021829	#L1 #neuron #interneuron
+72097753851	#L1 #neuron #interneuron
+72491105147	#L1 #neuron #interneuron
+72578652442	#L1 #neuron #interneuron
+79944025645	#L1 #neuron #interneuron
+80263450394	#L1 #neuron #interneuron
+80394261450	#L1 #neuron #interneuron
+81240139569	#L1 #neuron #interneuron
+81443737282	#L1 #neuron #interneuron
+81851542893	#L1 #neuron #interneuron
+89696952585	#L1 #neuron #interneuron
+97616621809	#L1 #neuron #interneuron
+98301204773	#L1 #neuron #interneuron
+98461130452	#L1 #neuron #interneuron
+98941648080	#L1 #neuron #interneuron
+99553137136	#L1 #neuron #interneuron
+1394191531	#L1 #neuron #interneuron #sparsely-spiny
+1685612723	#L1 #neuron #interneuron #sparsely-spiny
+2298314345	#L1 #neuron #interneuron #sparsely-spiny
+2414816333	#L1 #neuron #interneuron #sparsely-spiny
+2777213733	#L1 #neuron #interneuron #sparsely-spiny
+2952498956	#L1 #neuron #interneuron #sparsely-spiny
+3025210803	#L1 #neuron #interneuron #sparsely-spiny
+3345951565	#L1 #neuron #interneuron #sparsely-spiny
+3389652538	#L1 #neuron #interneuron #sparsely-spiny
+3608346614	#L1 #neuron #interneuron #sparsely-spiny
+4146669672	#L1 #neuron #interneuron #sparsely-spiny
+4234523851	#L1 #neuron #interneuron #sparsely-spiny
+4262996986	#L1 #neuron #interneuron #sparsely-spiny
+4336760370	#L1 #neuron #interneuron #sparsely-spiny
+4395105438	#L1 #neuron #interneuron #sparsely-spiny
+4408670292	#L1 #neuron #interneuron #sparsely-spiny
+4510862285	#L1 #neuron #interneuron #sparsely-spiny
+5704947797	#L1 #neuron #interneuron #sparsely-spiny
+27843642573	#L1 #neuron #interneuron #sparsely-spiny
+30888476935	#L1 #neuron #interneuron #sparsely-spiny
+36432489438	#L1 #neuron #interneuron #sparsely-spiny
+36592823290	#L1 #neuron #interneuron #sparsely-spiny
+36636276414	#L1 #neuron #interneuron #sparsely-spiny
+36767758567	#L1 #neuron #interneuron #sparsely-spiny
+36826482986	#L1 #neuron #interneuron #sparsely-spiny
+37729205125	#L1 #neuron #interneuron #sparsely-spiny
+37888926140	#L1 #neuron #interneuron #sparsely-spiny
+38049361279	#L1 #neuron #interneuron #sparsely-spiny
+38122322669	#L1 #neuron #interneuron #sparsely-spiny
+38456962083	#L1 #neuron #interneuron #sparsely-spiny
+38660880666	#L1 #neuron #interneuron #sparsely-spiny
+38675963543	#L1 #neuron #interneuron #sparsely-spiny
+47365849004	#L1 #neuron #interneuron #sparsely-spiny
+47890770785	#L1 #neuron #interneuron #sparsely-spiny
+54178544824	#L1 #neuron #interneuron #sparsely-spiny
+55736807651	#L1 #neuron #interneuron #sparsely-spiny
+56828860412	#L1 #neuron #interneuron #sparsely-spiny
+36825330266	#L1 #neuron #interneuron #sparsely-spiny #lot-of-axon
+57061935940	#L1 #neuron #interneuron #sparsely-spiny #lot-of-axon
+330158986	#L1 #neuron #interneuron #web-like-interneuron
+460458122	#L1 #neuron #interneuron #web-like-interneuron
+505559910	#L1 #neuron #interneuron #web-like-interneuron
+1408047444	#L1 #neuron #interneuron #web-like-interneuron
+1787105373	#L1 #neuron #interneuron #web-like-interneuron
+2617623934	#L1 #neuron #interneuron #web-like-interneuron
+3578647965	#L1 #neuron #interneuron #web-like-interneuron
+3695368389	#L1 #neuron #interneuron #web-like-interneuron
+3856591986	#L1 #neuron #interneuron #web-like-interneuron
+4380314835	#L1 #neuron #interneuron #web-like-interneuron
+4729526740	#L1 #neuron #interneuron #web-like-interneuron
+5472060932	#L1 #neuron #interneuron #web-like-interneuron
+9268701545	#L1 #neuron #interneuron #web-like-interneuron
+36112421929	#L1 #neuron #interneuron #web-like-interneuron
+36301826370	#L1 #neuron #interneuron #web-like-interneuron
+36330415163	#L1 #neuron #interneuron #web-like-interneuron
+36621675715	#L1 #neuron #interneuron #web-like-interneuron
+36709718670	#L1 #neuron #interneuron #web-like-interneuron
+36942459652	#L1 #neuron #interneuron #web-like-interneuron
+37015552275	#L1 #neuron #interneuron #web-like-interneuron
+37073838900	#L1 #neuron #interneuron #web-like-interneuron
+37146142910	#L1 #neuron #interneuron #web-like-interneuron
+37452370153	#L1 #neuron #interneuron #web-like-interneuron
+38559038773	#L1 #neuron #interneuron #web-like-interneuron
+44991274970	#L1 #neuron #interneuron #web-like-interneuron
+45021732268	#L1 #neuron #interneuron #web-like-interneuron
+45501258150	#L1 #neuron #interneuron #web-like-interneuron
+53711736366	#L1 #neuron #interneuron #web-like-interneuron
+54062321026	#L1 #neuron #interneuron #web-like-interneuron
+55256624362	#L1 #neuron #interneuron #web-like-interneuron
+55824385083	#L1 #neuron #interneuron #web-like-interneuron
+56785232264	#L1 #neuron #interneuron #web-like-interneuron
+942670284	#L1 #neuron #interneuron #lot-of-axon
+2661588172	#L1 #neuron #interneuron #lot-of-axon
+37145660784	#L1 #neuron #interneuron #lot-of-axon
+45996538940	#L1 #neuron #interneuron #lot-of-axon
+71573679935	#L1 #neuron #interneuron #lot-of-axon
+45152964910	#L1 #neuron #interneuron #dark
+315528882	#L1 #neuron #unclassified-neuron
+316113467	#L1 #neuron #unclassified-neuron
+372472494	#L1 #neuron #unclassified-neuron
+1758166471	#L1 #neuron #unclassified-neuron
+1788448718	#L1 #neuron #unclassified-neuron
+1844750035	#L1 #neuron #unclassified-neuron
+2079753175	#L1 #neuron #unclassified-neuron
+3142398270	#L1 #neuron #unclassified-neuron
+3637008624	#L1 #neuron #unclassified-neuron
+5953296034	#L1 #neuron #unclassified-neuron
+15371685265	#L1 #neuron #unclassified-neuron
+18353617625	#L1 #neuron #unclassified-neuron
+19082106052	#L1 #neuron #unclassified-neuron
+26942495251	#L1 #neuron #unclassified-neuron
+28165827587	#L1 #neuron #unclassified-neuron
+31252275353	#L1 #neuron #unclassified-neuron
+31893769478	#L1 #neuron #unclassified-neuron
+37498419641	#L1 #neuron #unclassified-neuron
+39302726047	#L1 #neuron #unclassified-neuron
+53464835551	#L1 #neuron #unclassified-neuron
+56319211533	#L1 #neuron #unclassified-neuron
+63946832547	#L1 #neuron #unclassified-neuron
+65810797252	#L1 #neuron #unclassified-neuron
+74938247160	#L1 #neuron #unclassified-neuron
+1844894888	#L1 #neuron #unclassified-neuron #sparsely-spiny
+2282065084	#L1 #neuron #unclassified-neuron #sparsely-spiny
+620660687	#L1 #neuron #unclassified-neuron #possible-interneuron
+258279044	#L1 #astrocyte #glial
+272264889	#L1 #astrocyte #glial
+272367447	#L1 #astrocyte #glial
+272500389	#L1 #astrocyte #glial
+272996600	#L1 #astrocyte #glial
+286632262	#L1 #astrocyte #glial
+286706241	#L1 #astrocyte #glial
+286780310	#L1 #astrocyte #glial
+329135766	#L1 #astrocyte #glial
+329445529	#L1 #astrocyte #glial
+374298147	#L1 #astrocyte #glial
+389204353	#L1 #astrocyte #glial
+417458580	#L1 #astrocyte #glial
+418699890	#L1 #astrocyte #glial
+432279138	#L1 #astrocyte #glial
+446222995	#L1 #astrocyte #glial
+447040047	#L1 #astrocyte #glial
+447083921	#L1 #astrocyte #glial
+447258991	#L1 #astrocyte #glial
+461407741	#L1 #astrocyte #glial
+475760180	#L1 #astrocyte #glial
+475862151	#L1 #astrocyte #glial
+476387728	#L1 #astrocyte #glial
+476899462	#L1 #astrocyte #glial
+490536459	#L1 #astrocyte #glial
+504261895	#L1 #astrocyte #glial
+505210969	#L1 #astrocyte #glial
+519330274	#L1 #astrocyte #glial
+549494652	#L1 #astrocyte #glial
+563249964	#L1 #astrocyte #glial
+577076541	#L1 #astrocyte #glial
+622106211	#L1 #astrocyte #glial
+622646374	#L1 #astrocyte #glial
+680100966	#L1 #astrocyte #glial
+680304858	#L1 #astrocyte #glial
+680408764	#L1 #astrocyte #glial
+753820442	#L1 #astrocyte #glial
+768072025	#L1 #astrocyte #glial
+781518804	#L1 #astrocyte #glial
+781987221	#L1 #astrocyte #glial
+782847693	#L1 #astrocyte #glial
+810634106	#L1 #astrocyte #glial
+811349852	#L1 #astrocyte #glial
+811553968	#L1 #astrocyte #glial
+825118553	#L1 #astrocyte #glial
+840755680	#L1 #astrocyte #glial
+854042268	#L1 #astrocyte #glial
+855795112	#L1 #astrocyte #glial
+869885298	#L1 #astrocyte #glial
+869958152	#L1 #astrocyte #glial
+870176700	#L1 #astrocyte #glial
+883317637	#L1 #astrocyte #glial
+884500452	#L1 #astrocyte #glial
+884675422	#L1 #astrocyte #glial
+898196400	#L1 #astrocyte #glial
+942845761	#L1 #astrocyte #glial
+957767494	#L1 #astrocyte #glial
+970923617	#L1 #astrocyte #glial
+985817344	#L1 #astrocyte #glial
+986371117	#L1 #astrocyte #glial
+1016142420	#L1 #astrocyte #glial
+1016244708	#L1 #astrocyte #glial
+1030349492	#L1 #astrocyte #glial
+1030350177	#L1 #astrocyte #glial
+1043723715	#L1 #astrocyte #glial
+1058545074	#L1 #astrocyte #glial
+1073013085	#L1 #astrocyte #glial
+1074137430	#L1 #astrocyte #glial
+1074328067	#L1 #astrocyte #glial
+1074489316	#L1 #astrocyte #glial
+1087600742	#L1 #astrocyte #glial
+1088987135	#L1 #astrocyte #glial
+1102054623	#L1 #astrocyte #glial
+1102595104	#L1 #astrocyte #glial
+1102712061	#L1 #astrocyte #glial
+1131607422	#L1 #astrocyte #glial
+1131651160	#L1 #astrocyte #glial
+1132557094	#L1 #astrocyte #glial
+1146515442	#L1 #astrocyte #glial
+1160372017	#L1 #astrocyte #glial
+1174563483	#L1 #astrocyte #glial
+1176023607	#L1 #astrocyte #glial
+1176520869	#L1 #astrocyte #glial
+1190639091	#L1 #astrocyte #glial
+1191120796	#L1 #astrocyte #glial
+1204159222	#L1 #astrocyte #glial
+1204495375	#L1 #astrocyte #glial
+1219680591	#L1 #astrocyte #glial
+1220090094	#L1 #astrocyte #glial
+1277208586	#L1 #astrocyte #glial
+1278274483	#L1 #astrocyte #glial
+1292510974	#L1 #astrocyte #glial
+1307126835	#L1 #astrocyte #glial
+1320880179	#L1 #astrocyte #glial
+1351395751	#L1 #astrocyte #glial
+1365063562	#L1 #astrocyte #glial
+1379196627	#L1 #astrocyte #glial
+1380014274	#L1 #astrocyte #glial
+1394251015	#L1 #astrocyte #glial
+1394294073	#L1 #astrocyte #glial
+1395141278	#L1 #astrocyte #glial
+1408982494	#L1 #astrocyte #glial
+1409348250	#L1 #astrocyte #glial
+1423977826	#L1 #astrocyte #glial
+1438008696	#L1 #astrocyte #glial
+1438535680	#L1 #astrocyte #glial
+1451748946	#L1 #astrocyte #glial
+1451837215	#L1 #astrocyte #glial
+1453062671	#L1 #astrocyte #glial
+1453106800	#L1 #astrocyte #glial
+1481959344	#L1 #astrocyte #glial
+1495638993	#L1 #astrocyte #glial
+1495990003	#L1 #astrocyte #glial
+1496777906	#L1 #astrocyte #glial
+1510445343	#L1 #astrocyte #glial
+1538858736	#L1 #astrocyte #glial
+1539530684	#L1 #astrocyte #glial
+1554160890	#L1 #astrocyte #glial
+1554219346	#L1 #astrocyte #glial
+1569608486	#L1 #astrocyte #glial
+1583756735	#L1 #astrocyte #glial
+1598241131	#L1 #astrocyte #glial
+1598679003	#L1 #astrocyte #glial
+1612521519	#L1 #astrocyte #glial
+1627574069	#L1 #astrocyte #glial
+1642014252	#L1 #astrocyte #glial
+1656308935	#L1 #astrocyte #glial
+1656644868	#L1 #astrocyte #glial
+1657023929	#L1 #astrocyte #glial
+1670953424	#L1 #astrocyte #glial
+1671231031	#L1 #astrocyte #glial
+1671348297	#L1 #astrocyte #glial
+1685730408	#L1 #astrocyte #glial
+1699615908	#L1 #astrocyte #glial
+1700097766	#L1 #astrocyte #glial
+1714917419	#L1 #astrocyte #glial
+1715078235	#L1 #astrocyte #glial
+1728846712	#L1 #astrocyte #glial
+1729985914	#L1 #astrocyte #glial
+1730306480	#L1 #astrocyte #glial
+1743666925	#L1 #astrocyte #glial
+1743915823	#L1 #astrocyte #glial
+1744528094	#L1 #astrocyte #glial
+1757684425	#L1 #astrocyte #glial
+1758471587	#L1 #astrocyte #glial
+1758501188	#L1 #astrocyte #glial
+1759393150	#L1 #astrocyte #glial
+1786842798	#L1 #astrocyte #glial
+1787732799	#L1 #astrocyte #glial
+1801866009	#L1 #astrocyte #glial
+1830922100	#L1 #astrocyte #glial
+1831740380	#L1 #astrocyte #glial
+1861073636	#L1 #astrocyte #glial
+1875324885	#L1 #astrocyte #glial
+1889326624	#L1 #astrocyte #glial
+1889356142	#L1 #astrocyte #glial
+1889924725	#L1 #astrocyte #glial
+1904321863	#L1 #astrocyte #glial
+1904875850	#L1 #astrocyte #glial
+1918922829	#L1 #astrocyte #glial
+1932909909	#L1 #astrocyte #glial
+1947189561	#L1 #astrocyte #glial
+1961849865	#L1 #astrocyte #glial
+1962565718	#L1 #astrocyte #glial
+1963076012	#L1 #astrocyte #glial
+1977793335	#L1 #astrocyte #glial
+1992117236	#L1 #astrocyte #glial
+2006631090	#L1 #astrocyte #glial
+2020035432	#L1 #astrocyte #glial
+2020575243	#L1 #astrocyte #glial
+2034854850	#L1 #astrocyte #glial
+2049689745	#L1 #astrocyte #glial
+2065005408	#L1 #astrocyte #glial
+2079081021	#L1 #astrocyte #glial
+2079475335	#L1 #astrocyte #glial
+2094631939	#L1 #astrocyte #glial
+2152450724	#L1 #astrocyte #glial
+2166905464	#L1 #astrocyte #glial
+2167036802	#L1 #astrocyte #glial
+2180894759	#L1 #astrocyte #glial
+2180967729	#L1 #astrocyte #glial
+2181317435	#L1 #astrocyte #glial
+2181726049	#L1 #astrocyte #glial
+2194881387	#L1 #astrocyte #glial
+2195612350	#L1 #astrocyte #glial
+2209468995	#L1 #astrocyte #glial
+2210212572	#L1 #astrocyte #glial
+2223923019	#L1 #astrocyte #glial
+2224813873	#L1 #astrocyte #glial
+2225002745	#L1 #astrocyte #glial
+2238670924	#L1 #astrocyte #glial
+2254059346	#L1 #astrocyte #glial
+2282546661	#L1 #astrocyte #glial
+2283129614	#L1 #astrocyte #glial
+2283875121	#L1 #astrocyte #glial
+2297102797	#L1 #astrocyte #glial
+2297162768	#L1 #astrocyte #glial
+2297629027	#L1 #astrocyte #glial
+2297672327	#L1 #astrocyte #glial
+2311208509	#L1 #astrocyte #glial
+2326173589	#L1 #astrocyte #glial
+2326728064	#L1 #astrocyte #glial
+2326787595	#L1 #astrocyte #glial
+2340790097	#L1 #astrocyte #glial
+2355988393	#L1 #astrocyte #glial
+2371012848	#L1 #astrocyte #glial
+2385613664	#L1 #astrocyte #glial
+2400112598	#L1 #astrocyte #glial
+2413634599	#L1 #astrocyte #glial
+2429066483	#L1 #astrocyte #glial
+2443185999	#L1 #astrocyte #glial
+2443595582	#L1 #astrocyte #glial
+2457042912	#L1 #astrocyte #glial
+2457349866	#L1 #astrocyte #glial
+2458195816	#L1 #astrocyte #glial
+2458721018	#L1 #astrocyte #glial
+2472359620	#L1 #astrocyte #glial
+2472709793	#L1 #astrocyte #glial
+2486581008	#L1 #astrocyte #glial
+2500742516	#L1 #astrocyte #glial
+2502290724	#L1 #astrocyte #glial
+2515344447	#L1 #astrocyte #glial
+2515564236	#L1 #astrocyte #glial
+2515636354	#L1 #astrocyte #glial
+2516657587	#L1 #astrocyte #glial
+2559497934	#L1 #astrocyte #glial
+2559527790	#L1 #astrocyte #glial
+2559658296	#L1 #astrocyte #glial
+2559980126	#L1 #astrocyte #glial
+2560461370	#L1 #astrocyte #glial
+2573647129	#L1 #astrocyte #glial
+2574128636	#L1 #astrocyte #glial
+2575019057	#L1 #astrocyte #glial
+2575296566	#L1 #astrocyte #glial
+2588816966	#L1 #astrocyte #glial
+2589443800	#L1 #astrocyte #glial
+2589516579	#L1 #astrocyte #glial
+2602454818	#L1 #astrocyte #glial
+2603067082	#L1 #astrocyte #glial
+2617902842	#L1 #astrocyte #glial
+2618456040	#L1 #astrocyte #glial
+2618572703	#L1 #astrocyte #glial
+2618631166	#L1 #astrocyte #glial
+2619246536	#L1 #astrocyte #glial
+2647687979	#L1 #astrocyte #glial
+2661938609	#L1 #astrocyte #glial
+2675138417	#L1 #astrocyte #glial
+2691534589	#L1 #astrocyte #glial
+2692162098	#L1 #astrocyte #glial
+2706735052	#L1 #astrocyte #glial
+2719933845	#L1 #astrocyte #glial
+2720078839	#L1 #astrocyte #glial
+2748814528	#L1 #astrocyte #glial
+2763707985	#L1 #astrocyte #glial
+2779052672	#L1 #astrocyte #glial
+2792807211	#L1 #astrocyte #glial
+2793419550	#L1 #astrocyte #glial
+2808167385	#L1 #astrocyte #glial
+2820710351	#L1 #astrocyte #glial
+2821031778	#L1 #astrocyte #glial
+2821805100	#L1 #astrocyte #glial
+2837442842	#L1 #astrocyte #glial
+2837502116	#L1 #astrocyte #glial
+2850145640	#L1 #astrocyte #glial
+2850876056	#L1 #astrocyte #glial
+2851955648	#L1 #astrocyte #glial
+2865432258	#L1 #astrocyte #glial
+2865462243	#L1 #astrocyte #glial
+2865579295	#L1 #astrocyte #glial
+2865695360	#L1 #astrocyte #glial
+2879639004	#L1 #astrocyte #glial
+2895920648	#L1 #astrocyte #glial
+2909278925	#L1 #astrocyte #glial
+2909965869	#L1 #astrocyte #glial
+2923690109	#L1 #astrocyte #glial
+2952454130	#L1 #astrocyte #glial
+2953096882	#L1 #astrocyte #glial
+2966996921	#L1 #astrocyte #glial
+2967114742	#L1 #astrocyte #glial
+2981949030	#L1 #astrocyte #glial
+2982663789	#L1 #astrocyte #glial
+2982723144	#L1 #astrocyte #glial
+3025576398	#L1 #astrocyte #glial
+3039754274	#L1 #astrocyte #glial
+3054822131	#L1 #astrocyte #glial
+3070021191	#L1 #astrocyte #glial
+3070124442	#L1 #astrocyte #glial
+3070679585	#L1 #astrocyte #glial
+3083454876	#L1 #astrocyte #glial
+3085221637	#L1 #astrocyte #glial
+3099325558	#L1 #astrocyte #glial
+3114483165	#L1 #astrocyte #glial
+3128893748	#L1 #astrocyte #glial
+3142063277	#L1 #astrocyte #glial
+3142588543	#L1 #astrocyte #glial
+3142763676	#L1 #astrocyte #glial
+3143537447	#L1 #astrocyte #glial
+3171396566	#L1 #astrocyte #glial
+3185631897	#L1 #astrocyte #glial
+3200350560	#L1 #astrocyte #glial
+3200510811	#L1 #astrocyte #glial
+3200744311	#L1 #astrocyte #glial
+3201459507	#L1 #astrocyte #glial
+3215375068	#L1 #astrocyte #glial
+3215783064	#L1 #astrocyte #glial
+3215856021	#L1 #astrocyte #glial
+3215973640	#L1 #astrocyte #glial
+3229188131	#L1 #astrocyte #glial
+3244299198	#L1 #astrocyte #glial
+3244533318	#L1 #astrocyte #glial
+3245409118	#L1 #astrocyte #glial
+3259921972	#L1 #astrocyte #glial
+3272639351	#L1 #astrocyte #glial
+3272829754	#L1 #astrocyte #glial
+3302031617	#L1 #astrocyte #glial
+3317217287	#L1 #astrocyte #glial
+3318005692	#L1 #astrocyte #glial
+3331613917	#L1 #astrocyte #glial
+3361136383	#L1 #astrocyte #glial
+3361223959	#L1 #astrocyte #glial
+3375518855	#L1 #astrocyte #glial
+3389390187	#L1 #astrocyte #glial
+3391232151	#L1 #astrocyte #glial
+3404093203	#L1 #astrocyte #glial
+3433644549	#L1 #astrocyte #glial
+3434755925	#L1 #astrocyte #glial
+3448011908	#L1 #astrocyte #glial
+3448085241	#L1 #astrocyte #glial
+3448318862	#L1 #astrocyte #glial
+3462628475	#L1 #astrocyte #glial
+3463825816	#L1 #astrocyte #glial
+3477023898	#L1 #astrocyte #glial
+3492004958	#L1 #astrocyte #glial
+3507044894	#L1 #astrocyte #glial
+3507644647	#L1 #astrocyte #glial
+3521470248	#L1 #astrocyte #glial
+3521528243	#L1 #astrocyte #glial
+3521689191	#L1 #astrocyte #glial
+3522127694	#L1 #astrocyte #glial
+3536348264	#L1 #astrocyte #glial
+3536509212	#L1 #astrocyte #glial
+3550716414	#L1 #astrocyte #glial
+3551051430	#L1 #astrocyte #glial
+3594752401	#L1 #astrocyte #glial
+3609455952	#L1 #astrocyte #glial
+3622918632	#L1 #astrocyte #glial
+3623384423	#L1 #astrocyte #glial
+3651973191	#L1 #astrocyte #glial
+3666136445	#L1 #astrocyte #glial
+3681555395	#L1 #astrocyte #glial
+3681862365	#L1 #astrocyte #glial
+3695411580	#L1 #astrocyte #glial
+3695995920	#L1 #astrocyte #glial
+3696053404	#L1 #astrocyte #glial
+3696156321	#L1 #astrocyte #glial
+3710055981	#L1 #astrocyte #glial
+3710247238	#L1 #astrocyte #glial
+3724423584	#L1 #astrocyte #glial
+3724745253	#L1 #astrocyte #glial
+3725972898	#L1 #astrocyte #glial
+3768723536	#L1 #astrocyte #glial
+3769454002	#L1 #astrocyte #glial
+3769526559	#L1 #astrocyte #glial
+3782857383	#L1 #astrocyte #glial
+3797340749	#L1 #astrocyte #glial
+3797604859	#L1 #astrocyte #glial
+3798217693	#L1 #astrocyte #glial
+3798742205	#L1 #astrocyte #glial
+3798757697	#L1 #astrocyte #glial
+3812818834	#L1 #astrocyte #glial
+3826368817	#L1 #astrocyte #glial
+3841085157	#L1 #astrocyte #glial
+3841435785	#L1 #astrocyte #glial
+3841933391	#L1 #astrocyte #glial
+3842123266	#L1 #astrocyte #glial
+3885574782	#L1 #astrocyte #glial
+3885838729	#L1 #astrocyte #glial
+3886012463	#L1 #astrocyte #glial
+3899812150	#L1 #astrocyte #glial
+3900453338	#L1 #astrocyte #glial
+3914529837	#L1 #astrocyte #glial
+3928297933	#L1 #astrocyte #glial
+3929421806	#L1 #astrocyte #glial
+3929510477	#L1 #astrocyte #glial
+3942723939	#L1 #astrocyte #glial
+3958097756	#L1 #astrocyte #glial
+3973092990	#L1 #astrocyte #glial
+4001098771	#L1 #astrocyte #glial
+4001580598	#L1 #astrocyte #glial
+4002046672	#L1 #astrocyte #glial
+4015596820	#L1 #astrocyte #glial
+4016005554	#L1 #astrocyte #glial
+4016063721	#L1 #astrocyte #glial
+4016180677	#L1 #astrocyte #glial
+4031001282	#L1 #astrocyte #glial
+4031045356	#L1 #astrocyte #glial
+4045397203	#L1 #astrocyte #glial
+4046142659	#L1 #astrocyte #glial
+4046231080	#L1 #astrocyte #glial
+4089784586	#L1 #astrocyte #glial
+4103334099	#L1 #astrocyte #glial
+4118461167	#L1 #astrocyte #glial
+4118592444	#L1 #astrocyte #glial
+4133499987	#L1 #astrocyte #glial
+4176120266	#L1 #astrocyte #glial
+4176236460	#L1 #astrocyte #glial

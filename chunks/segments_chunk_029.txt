@@ -1,0 +1,1000 @@
+4998010245	#L5 #glial #microglia/opc
+5043900937	#L5 #glial #microglia/opc
+5043916414	#L5 #glial #microglia/opc
+5070388314	#L5 #glial #microglia/opc
+5071512603	#L5 #glial #microglia/opc
+5072651447	#L5 #glial #microglia/opc
+5087310190	#L5 #glial #microglia/opc
+5100188757	#L5 #glial #microglia/opc
+5101283127	#L5 #glial #microglia/opc
+5102569000	#L5 #glial #microglia/opc
+5114556177	#L5 #glial #microglia/opc
+5189284108	#L5 #glial #microglia/opc
+5232123676	#L5 #glial #microglia/opc
+5247425202	#L5 #glial #microglia/opc
+5247425439	#L5 #glial #microglia/opc
+5261164134	#L5 #glial #microglia/opc
+5274758114	#L5 #glial #microglia/opc
+5276058064	#L5 #glial #microglia/opc
+5289081805	#L5 #glial #microglia/opc
+5304733622	#L5 #glial #microglia/opc
+5320533704	#L5 #glial #microglia/opc
+5347923296	#L5 #glial #microglia/opc
+5349121232	#L5 #glial #microglia/opc
+5363619613	#L5 #glial #microglia/opc
+5392617424	#L5 #glial #microglia/opc
+5393653592	#L5 #glial #microglia/opc
+5405700294	#L5 #glial #microglia/opc
+5406021674	#L5 #glial #microglia/opc
+5408268822	#L5 #glial #microglia/opc
+5422052160	#L5 #glial #microglia/opc
+5436551728	#L5 #glial #microglia/opc
+5436712383	#L5 #glial #microglia/opc
+5451153516	#L5 #glial #microglia/opc
+5464498607	#L5 #glial #microglia/opc
+5479756256	#L5 #glial #microglia/opc
+5482224120	#L5 #glial #microglia/opc
+5507920974	#L5 #glial #microglia/opc
+5508241865	#L5 #glial #microglia/opc
+5523412295	#L5 #glial #microglia/opc
+5524347144	#L5 #glial #microglia/opc
+5537487952	#L5 #glial #microglia/opc
+5552309127	#L5 #glial #microglia/opc
+5609806722	#L5 #glial #microglia/opc
+5624554158	#L5 #glial #microglia/opc
+5640337864	#L5 #glial #microglia/opc
+5712963875	#L5 #glial #microglia/opc
+5714030099	#L5 #glial #microglia/opc
+5741216276	#L5 #glial #microglia/opc
+5741960952	#L5 #glial #microglia/opc
+5771732969	#L5 #glial #microglia/opc
+5786668457	#L5 #glial #microglia/opc
+5800307055	#L5 #glial #microglia/opc
+5813826408	#L5 #glial #microglia/opc
+5843964247	#L5 #glial #microglia/opc
+5874363133	#L5 #glial #microglia/opc
+5902529647	#L5 #glial #microglia/opc
+5916063641	#L5 #glial #microglia/opc
+5917085335	#L5 #glial #microglia/opc
+5931510258	#L5 #glial #microglia/opc
+5944958895	#L5 #glial #microglia/opc
+5974453568	#L5 #glial #microglia/opc
+5990630074	#L5 #glial #microglia/opc
+6005172477	#L5 #glial #microglia/opc
+6005348996	#L5 #glial #microglia/opc
+6017570217	#L5 #glial #microglia/opc
+6017919428	#L5 #glial #microglia/opc
+6033835347	#L5 #glial #microglia/opc
+6034273493	#L5 #glial #microglia/opc
+6034943841	#L5 #glial #microglia/opc
+6076192287	#L5 #glial #microglia/opc
+6091129383	#L5 #glial #microglia/opc
+6120549421	#L5 #glial #microglia/opc
+6163549891	#L5 #glial #microglia/opc
+6193452206	#L5 #glial #microglia/opc
+6208711477	#L5 #glial #microglia/opc
+6209630355	#L5 #glial #microglia/opc
+6250718509	#L5 #glial #microglia/opc
+6252674631	#L5 #glial #microglia/opc
+6266093411	#L5 #glial #microglia/opc
+6266588797	#L5 #glial #microglia/opc
+6294886086	#L5 #glial #microglia/opc
+6338425926	#L5 #glial #microglia/opc
+6340500111	#L5 #glial #microglia/opc
+6355263459	#L5 #glial #microglia/opc
+6367395052	#L5 #glial #microglia/opc
+6382389450	#L5 #glial #microglia/opc
+6383192874	#L5 #glial #microglia/opc
+6383573158	#L5 #glial #microglia/opc
+6396508601	#L5 #glial #microglia/opc
+6412730986	#L5 #glial #microglia/opc
+6413387533	#L5 #glial #microglia/opc
+6455248621	#L5 #glial #microglia/opc
+6455818932	#L5 #glial #microglia/opc
+6456859299	#L5 #glial #microglia/opc
+6471500173	#L5 #glial #microglia/opc
+6485808928	#L5 #glial #microglia/opc
+6542140380	#L5 #glial #microglia/opc
+6542796969	#L5 #glial #microglia/opc
+6558054964	#L5 #glial #microglia/opc
+6572202563	#L5 #glial #microglia/opc
+6573371361	#L5 #glial #microglia/opc
+6601697066	#L5 #glial #microglia/opc
+6631161708	#L5 #glial #microglia/opc
+6659282535	#L5 #glial #microglia/opc
+6690222796	#L5 #glial #microglia/opc
+6703509820	#L5 #glial #microglia/opc
+6719205943	#L5 #glial #microglia/opc
+6719249568	#L5 #glial #microglia/opc
+6746435923	#L5 #glial #microglia/opc
+6747561481	#L5 #glial #microglia/opc
+6748247443	#L5 #glial #microglia/opc
+6762702073	#L5 #glial #microglia/opc
+6775360645	#L5 #glial #microglia/opc
+6776719685	#L5 #glial #microglia/opc
+6849228122	#L5 #glial #microglia/opc
+6850278645	#L5 #glial #microglia/opc
+6892723803	#L5 #glial #microglia/opc
+6894184983	#L5 #glial #microglia/opc
+6906332578	#L5 #glial #microglia/opc
+6935752684	#L5 #glial #microglia/opc
+6980169416	#L5 #glial #microglia/opc
+6996114136	#L5 #glial #microglia/opc
+7081529837	#L5 #glial #microglia/opc
+7082069880	#L5 #glial #microglia/opc
+7097416206	#L5 #glial #microglia/opc
+7111710406	#L5 #glial #microglia/opc
+7125463969	#L5 #glial #microglia/opc
+7139670001	#L5 #glial #microglia/opc
+7141188504	#L5 #glial #microglia/opc
+7242199447	#L5 #glial #microglia/opc
+7389463896	#L5 #glial #microglia/opc
+7446276978	#L5 #glial #microglia/opc
+7475844557	#L5 #glial #microglia/opc
+7503790032	#L5 #glial #microglia/opc
+12247217956	#L5 #glial #microglia/opc
+12931917091	#L5 #glial #microglia/opc
+13163226447	#L5 #glial #microglia/opc
+13542954153	#L5 #glial #microglia/opc
+13804546563	#L5 #glial #microglia/opc
+14156619159	#L5 #glial #microglia/opc
+14810496159	#L5 #glial #microglia/opc
+15044827606	#L5 #glial #microglia/opc
+15393513734	#L5 #glial #microglia/opc
+15451319542	#L5 #glial #microglia/opc
+15759283679	#L5 #glial #microglia/opc
+16006537564	#L5 #glial #microglia/opc
+16049420036	#L5 #glial #microglia/opc
+16064941245	#L5 #glial #microglia/opc
+16194992027	#L5 #glial #microglia/opc
+16267662012	#L5 #glial #microglia/opc
+21068483937	#L5 #glial #microglia/opc
+21562245798	#L5 #glial #microglia/opc
+21562596245	#L5 #glial #microglia/opc
+21591710995	#L5 #glial #microglia/opc
+21608415617	#L5 #glial #microglia/opc
+22205873737	#L5 #glial #microglia/opc
+22496725374	#L5 #glial #microglia/opc
+22670345926	#L5 #glial #microglia/opc
+22786686058	#L5 #glial #microglia/opc
+22845324663	#L5 #glial #microglia/opc
+23136555819	#L5 #glial #microglia/opc
+23196580330	#L5 #glial #microglia/opc
+23413434485	#L5 #glial #microglia/opc
+23662498608	#L5 #glial #microglia/opc
+23678062926	#L5 #glial #microglia/opc
+23779904750	#L5 #glial #microglia/opc
+23792315772	#L5 #glial #microglia/opc
+24695884106	#L5 #glial #microglia/opc
+24755076544	#L5 #glial #microglia/opc
+24828812000	#L5 #glial #microglia/opc
+24945239974	#L5 #glial #microglia/opc
+25061726287	#L5 #glial #microglia/opc
+25177847644	#L5 #glial #microglia/opc
+25191646926	#L5 #glial #microglia/opc
+29787821776	#L5 #glial #microglia/opc
+29875544346	#L5 #glial #microglia/opc
+30123893835	#L5 #glial #microglia/opc
+30181685895	#L5 #glial #microglia/opc
+30211267447	#L5 #glial #microglia/opc
+30238846700	#L5 #glial #microglia/opc
+30341027193	#L5 #glial #microglia/opc
+30341959369	#L5 #glial #microglia/opc
+30503389411	#L5 #glial #microglia/opc
+30545951466	#L5 #glial #microglia/opc
+30546330960	#L5 #glial #microglia/opc
+30603683769	#L5 #glial #microglia/opc
+30675784220	#L5 #glial #microglia/opc
+30748655201	#L5 #glial #microglia/opc
+30779231419	#L5 #glial #microglia/opc
+30791483060	#L5 #glial #microglia/opc
+30808870726	#L5 #glial #microglia/opc
+30838525577	#L5 #glial #microglia/opc
+30866822943	#L5 #glial #microglia/opc
+30938002898	#L5 #glial #microglia/opc
+30998291035	#L5 #glial #microglia/opc
+31025361154	#L5 #glial #microglia/opc
+31129290447	#L5 #glial #microglia/opc
+31144546818	#L5 #glial #microglia/opc
+31157149105	#L5 #glial #microglia/opc
+31188394860	#L5 #glial #microglia/opc
+31245075961	#L5 #glial #microglia/opc
+31304502242	#L5 #glial #microglia/opc
+31319336742	#L5 #glial #microglia/opc
+31331600502	#L5 #glial #microglia/opc
+31390691382	#L5 #glial #microglia/opc
+31494343305	#L5 #glial #microglia/opc
+31508098392	#L5 #glial #microglia/opc
+31508594696	#L5 #glial #microglia/opc
+31521531200	#L5 #glial #microglia/opc
+31551376030	#L5 #glial #microglia/opc
+31552046118	#L5 #glial #microglia/opc
+31580737606	#L5 #glial #microglia/opc
+31609428717	#L5 #glial #microglia/opc
+31638368421	#L5 #glial #microglia/opc
+31696685079	#L5 #glial #microglia/opc
+31783837783	#L5 #glial #microglia/opc
+31798294323	#L5 #glial #microglia/opc
+31799504974	#L5 #glial #microglia/opc
+31886775297	#L5 #glial #microglia/opc
+31900106207	#L5 #glial #microglia/opc
+31974542154	#L5 #glial #microglia/opc
+32031718774	#L5 #glial #microglia/opc
+32048087477	#L5 #glial #microglia/opc
+32091189108	#L5 #glial #microglia/opc
+32176911780	#L5 #glial #microglia/opc
+32193396696	#L5 #glial #microglia/opc
+32206390409	#L5 #glial #microglia/opc
+32251156911	#L5 #glial #microglia/opc
+32323870105	#L5 #glial #microglia/opc
+32367279136	#L5 #glial #microglia/opc
+32368141286	#L5 #glial #microglia/opc
+32381544880	#L5 #glial #microglia/opc
+32382420103	#L5 #glial #microglia/opc
+32410264256	#L5 #glial #microglia/opc
+32412105069	#L5 #glial #microglia/opc
+32425624016	#L5 #glial #microglia/opc
+32439422684	#L5 #glial #microglia/opc
+32512792305	#L5 #glial #microglia/opc
+32702254653	#L5 #glial #microglia/opc
+32703321163	#L5 #glial #microglia/opc
+32716243701	#L5 #glial #microglia/opc
+32775727856	#L5 #glial #microglia/opc
+32833049998	#L5 #glial #microglia/opc
+32848192493	#L5 #glial #microglia/opc
+32877540952	#L5 #glial #microglia/opc
+33007664771	#L5 #glial #microglia/opc
+33022849350	#L5 #glial #microglia/opc
+33081939021	#L5 #glial #microglia/opc
+33110702832	#L5 #glial #microglia/opc
+33168626293	#L5 #glial #microglia/opc
+33284558125	#L5 #glial #microglia/opc
+33285215536	#L5 #glial #microglia/opc
+33299757692	#L5 #glial #microglia/opc
+33358423565	#L5 #glial #microglia/opc
+33517210206	#L5 #glial #microglia/opc
+33546878904	#L5 #glial #microglia/opc
+33620497679	#L5 #glial #microglia/opc
+33634704376	#L5 #glial #microglia/opc
+33664096059	#L5 #glial #microglia/opc
+33837614675	#L5 #glial #microglia/opc
+33852347300	#L5 #glial #microglia/opc
+33852697856	#L5 #glial #microglia/opc
+33984340631	#L5 #glial #microglia/opc
+34189205168	#L5 #glial #microglia/opc
+34246017679	#L5 #glial #microglia/opc
+38667755799	#L5 #glial #microglia/opc
+38667829840	#L5 #glial #microglia/opc
+38726248558	#L5 #glial #microglia/opc
+38769641308	#L5 #glial #microglia/opc
+38857554982	#L5 #glial #microglia/opc
+38871602183	#L5 #glial #microglia/opc
+38872565175	#L5 #glial #microglia/opc
+38900921565	#L5 #glial #microglia/opc
+38973765556	#L5 #glial #microglia/opc
+38988059489	#L5 #glial #microglia/opc
+39018167396	#L5 #glial #microglia/opc
+39031905691	#L5 #glial #microglia/opc
+39062012867	#L5 #glial #microglia/opc
+39076672829	#L5 #glial #microglia/opc
+39077183510	#L5 #glial #microglia/opc
+39148349332	#L5 #glial #microglia/opc
+39176835358	#L5 #glial #microglia/opc
+39177683110	#L5 #glial #microglia/opc
+39192415161	#L5 #glial #microglia/opc
+39193232289	#L5 #glial #microglia/opc
+39236086472	#L5 #glial #microglia/opc
+39265755498	#L5 #glial #microglia/opc
+39278589594	#L5 #glial #microglia/opc
+39292899433	#L5 #glial #microglia/opc
+39293891521	#L5 #glial #microglia/opc
+39308040722	#L5 #glial #microglia/opc
+39323940879	#L5 #glial #microglia/opc
+39367933813	#L5 #glial #microglia/opc
+39395193178	#L5 #glial #microglia/opc
+39395500224	#L5 #glial #microglia/opc
+39396638746	#L5 #glial #microglia/opc
+39410582953	#L5 #glial #microglia/opc
+39426045351	#L5 #glial #microglia/opc
+39426322630	#L5 #glial #microglia/opc
+39439069113	#L5 #glial #microglia/opc
+39441260050	#L5 #glial #microglia/opc
+39484726645	#L5 #glial #microglia/opc
+39498291050	#L5 #glial #microglia/opc
+39525945503	#L5 #glial #microglia/opc
+39542604962	#L5 #glial #microglia/opc
+39558023983	#L5 #glial #microglia/opc
+39572566116	#L5 #glial #microglia/opc
+39614836079	#L5 #glial #microglia/opc
+39628706645	#L5 #glial #microglia/opc
+39671999190	#L5 #glial #microglia/opc
+39672203607	#L5 #glial #microglia/opc
+39673327999	#L5 #glial #microglia/opc
+39686585704	#L5 #glial #microglia/opc
+39731936505	#L5 #glial #microglia/opc
+39746332927	#L5 #glial #microglia/opc
+39759751616	#L5 #glial #microglia/opc
+39774716147	#L5 #glial #microglia/opc
+39788675277	#L5 #glial #microglia/opc
+39804517217	#L5 #glial #microglia/opc
+39805072926	#L5 #glial #microglia/opc
+39818111282	#L5 #glial #microglia/opc
+39833164963	#L5 #glial #microglia/opc
+39834800285	#L5 #glial #microglia/opc
+39848451788	#L5 #glial #microglia/opc
+39863680675	#L5 #glial #microglia/opc
+39891247623	#L5 #glial #microglia/opc
+39891729424	#L5 #glial #microglia/opc
+39919909439	#L5 #glial #microglia/opc
+39921238115	#L5 #glial #microglia/opc
+39966325437	#L5 #glial #microglia/opc
+39994782791	#L5 #glial #microglia/opc
+40168593799	#L5 #glial #microglia/opc
+40213345935	#L5 #glial #microglia/opc
+40226602884	#L5 #glial #microglia/opc
+40256667494	#L5 #glial #microglia/opc
+40269370505	#L5 #glial #microglia/opc
+40299023260	#L5 #glial #microglia/opc
+40301374821	#L5 #glial #microglia/opc
+40314326243	#L5 #glial #microglia/opc
+40356756310	#L5 #glial #microglia/opc
+40400735256	#L5 #glial #microglia/opc
+40417057729	#L5 #glial #microglia/opc
+40503160906	#L5 #glial #microglia/opc
+40505335912	#L5 #glial #microglia/opc
+40519031790	#L5 #glial #microglia/opc
+40546569824	#L5 #glial #microglia/opc
+40561463180	#L5 #glial #microglia/opc
+40576195124	#L5 #glial #microglia/opc
+40592022859	#L5 #glial #microglia/opc
+40620261417	#L5 #glial #microglia/opc
+40649930352	#L5 #glial #microglia/opc
+40664267632	#L5 #glial #microglia/opc
+40692915605	#L5 #glial #microglia/opc
+40694521634	#L5 #glial #microglia/opc
+40721386926	#L5 #glial #microglia/opc
+40736922254	#L5 #glial #microglia/opc
+40766548183	#L5 #glial #microglia/opc
+40767380184	#L5 #glial #microglia/opc
+40780958936	#L5 #glial #microglia/opc
+40781938388	#L5 #glial #microglia/opc
+40796538872	#L5 #glial #microglia/opc
+40881882189	#L5 #glial #microglia/opc
+40882421973	#L5 #glial #microglia/opc
+40897971906	#L5 #glial #microglia/opc
+40913156817	#L5 #glial #microglia/opc
+40925363886	#L5 #glial #microglia/opc
+40942490656	#L5 #glial #microglia/opc
+40942504389	#L5 #glial #microglia/opc
+41057620650	#L5 #glial #microglia/opc
+41071782366	#L5 #glial #microglia/opc
+41086018082	#L5 #glial #microglia/opc
+41087448708	#L5 #glial #microglia/opc
+41115892243	#L5 #glial #microglia/opc
+41188443676	#L5 #glial #microglia/opc
+41188488539	#L5 #glial #microglia/opc
+41203905572	#L5 #glial #microglia/opc
+41217060944	#L5 #glial #microglia/opc
+41233620228	#L5 #glial #microglia/opc
+41233912238	#L5 #glial #microglia/opc
+41262866096	#L5 #glial #microglia/opc
+41319765353	#L5 #glial #microglia/opc
+41333708989	#L5 #glial #microglia/opc
+41350223239	#L5 #glial #microglia/opc
+41393572778	#L5 #glial #microglia/opc
+41407342546	#L5 #glial #microglia/opc
+41422453873	#L5 #glial #microglia/opc
+41423462263	#L5 #glial #microglia/opc
+41436879422	#L5 #glial #microglia/opc
+41451948263	#L5 #glial #microglia/opc
+41509476588	#L5 #glial #microglia/opc
+41596308823	#L5 #glial #microglia/opc
+41600280547	#L5 #glial #microglia/opc
+41611113248	#L5 #glial #microglia/opc
+41612223558	#L5 #glial #microglia/opc
+41641090021	#L5 #glial #microglia/opc
+41669590608	#L5 #glial #microglia/opc
+41685681478	#L5 #glial #microglia/opc
+41712854216	#L5 #glial #microglia/opc
+41742041328	#L5 #glial #microglia/opc
+41843853783	#L5 #glial #microglia/opc
+41872749180	#L5 #glial #microglia/opc
+41918319546	#L5 #glial #microglia/opc
+41932612638	#L5 #glial #microglia/opc
+41945550100	#L5 #glial #microglia/opc
+41990331004	#L5 #glial #microglia/opc
+42004450306	#L5 #glial #microglia/opc
+42005793475	#L5 #glial #microglia/opc
+42076622321	#L5 #glial #microglia/opc
+42077776194	#L5 #glial #microglia/opc
+42149466766	#L5 #glial #microglia/opc
+42164155270	#L5 #glial #microglia/opc
+42223917888	#L5 #glial #microglia/opc
+42252185703	#L5 #glial #microglia/opc
+42266378447	#L5 #glial #microglia/opc
+42282862812	#L5 #glial #microglia/opc
+42311860318	#L5 #glial #microglia/opc
+42368598434	#L5 #glial #microglia/opc
+42382864529	#L5 #glial #microglia/opc
+42383448963	#L5 #glial #microglia/opc
+42398910509	#L5 #glial #microglia/opc
+42470134012	#L5 #glial #microglia/opc
+42472558712	#L5 #glial #microglia/opc
+42484648228	#L5 #glial #microglia/opc
+42501029416	#L5 #glial #microglia/opc
+42529706588	#L5 #glial #microglia/opc
+42586358907	#L5 #glial #microglia/opc
+42586826237	#L5 #glial #microglia/opc
+42617428222	#L5 #glial #microglia/opc
+42631300549	#L5 #glial #microglia/opc
+42674723276	#L5 #glial #microglia/opc
+42675395726	#L5 #glial #microglia/opc
+42704319684	#L5 #glial #microglia/opc
+42717899394	#L5 #glial #microglia/opc
+42719738607	#L5 #glial #microglia/opc
+42747056460	#L5 #glial #microglia/opc
+42761847214	#L5 #glial #microglia/opc
+42835729207	#L5 #glial #microglia/opc
+42921524487	#L5 #glial #microglia/opc
+43097392403	#L5 #glial #microglia/opc
+43227939704	#L5 #glial #microglia/opc
+47475722342	#L5 #glial #microglia/opc
+47547589085	#L5 #glial #microglia/opc
+47562525339	#L5 #glial #microglia/opc
+47620841793	#L5 #glial #microglia/opc
+47751229053	#L5 #glial #microglia/opc
+47752922315	#L5 #glial #microglia/opc
+47852939538	#L5 #glial #microglia/opc
+47971498660	#L5 #glial #microglia/opc
+48014178181	#L5 #glial #microglia/opc
+48029071563	#L5 #glial #microglia/opc
+48130328444	#L5 #glial #microglia/opc
+48202107640	#L5 #glial #microglia/opc
+48333268393	#L5 #glial #microglia/opc
+48391088964	#L5 #glial #microglia/opc
+48407104728	#L5 #glial #microglia/opc
+48407323940	#L5 #glial #microglia/opc
+48435868691	#L5 #glial #microglia/opc
+48466078106	#L5 #glial #microglia/opc
+48567658308	#L5 #glial #microglia/opc
+48596188084	#L5 #glial #microglia/opc
+48656212996	#L5 #glial #microglia/opc
+48668754265	#L5 #glial #microglia/opc
+48772130338	#L5 #glial #microglia/opc
+48786321484	#L5 #glial #microglia/opc
+48859459041	#L5 #glial #microglia/opc
+48887770180	#L5 #glial #microglia/opc
+48890048048	#L5 #glial #microglia/opc
+48960745323	#L5 #glial #microglia/opc
+48961022869	#L5 #glial #microglia/opc
+49005687752	#L5 #glial #microglia/opc
+49093440568	#L5 #glial #microglia/opc
+49208890422	#L5 #glial #microglia/opc
+49238836696	#L5 #glial #microglia/opc
+49341174480	#L5 #glial #microglia/opc
+49353936332	#L5 #glial #microglia/opc
+49383999968	#L5 #glial #microglia/opc
+49412559755	#L5 #glial #microglia/opc
+49484892926	#L5 #glial #microglia/opc
+49501932113	#L5 #glial #microglia/opc
+49516094919	#L5 #glial #microglia/opc
+49558700658	#L5 #glial #microglia/opc
+49675669818	#L5 #glial #microglia/opc
+49689861608	#L5 #glial #microglia/opc
+49835038942	#L5 #glial #microglia/opc
+49837112534	#L5 #glial #microglia/opc
+49864504289	#L5 #glial #microglia/opc
+49879995906	#L5 #glial #microglia/opc
+49923068469	#L5 #glial #microglia/opc
+50024312419	#L5 #glial #microglia/opc
+50039789280	#L5 #glial #microglia/opc
+50054419397	#L5 #glial #microglia/opc
+50068202051	#L5 #glial #microglia/opc
+50142580325	#L5 #glial #microglia/opc
+50243998571	#L5 #glial #microglia/opc
+50317179328	#L5 #glial #microglia/opc
+50432074234	#L5 #glial #microglia/opc
+50432175341	#L5 #glial #microglia/opc
+50446690149	#L5 #glial #microglia/opc
+50448631801	#L5 #glial #microglia/opc
+50504831263	#L5 #glial #microglia/opc
+50578113783	#L5 #glial #microglia/opc
+50579661208	#L5 #glial #microglia/opc
+50592992046	#L5 #glial #microglia/opc
+50606994257	#L5 #glial #microglia/opc
+50608584920	#L5 #glial #microglia/opc
+50709784967	#L5 #glial #microglia/opc
+50753705116	#L5 #glial #microglia/opc
+50856758902	#L5 #glial #microglia/opc
+50900006795	#L5 #glial #microglia/opc
+50927924208	#L5 #glial #microglia/opc
+50987686485	#L5 #glial #microglia/opc
+51014624984	#L5 #glial #microglia/opc
+51117066159	#L5 #glial #microglia/opc
+51132571911	#L5 #glial #microglia/opc
+51204919295	#L5 #glial #microglia/opc
+51205386629	#L5 #glial #microglia/opc
+51278814655	#L5 #glial #microglia/opc
+51570251860	#L5 #glial #microglia/opc
+51584370754	#L5 #glial #microglia/opc
+51772635882	#L5 #glial #microglia/opc
+51904190656	#L5 #glial #microglia/opc
+56369425881	#L5 #glial #microglia/opc
+56442809554	#L5 #glial #microglia/opc
+56515114261	#L5 #glial #microglia/opc
+56601638492	#L5 #glial #microglia/opc
+56704109072	#L5 #glial #microglia/opc
+56791759206	#L5 #glial #microglia/opc
+56834539673	#L5 #glial #microglia/opc
+56908158341	#L5 #glial #microglia/opc
+57128165041	#L5 #glial #microglia/opc
+57185678681	#L5 #glial #microglia/opc
+57315145985	#L5 #glial #microglia/opc
+57316286215	#L5 #glial #microglia/opc
+57359825409	#L5 #glial #microglia/opc
+57375988686	#L5 #glial #microglia/opc
+57448424077	#L5 #glial #microglia/opc
+57449241514	#L5 #glial #microglia/opc
+57622205158	#L5 #glial #microglia/opc
+57637770577	#L5 #glial #microglia/opc
+57725274491	#L5 #glial #microglia/opc
+57739188242	#L5 #glial #microglia/opc
+57755439469	#L5 #glial #microglia/opc
+57957136984	#L5 #glial #microglia/opc
+57972497968	#L5 #glial #microglia/opc
+57986894980	#L5 #glial #microglia/opc
+58146804644	#L5 #glial #microglia/opc
+58336369369	#L5 #glial #microglia/opc
+58439248802	#L5 #glial #microglia/opc
+58453834515	#L5 #glial #microglia/opc
+58483415791	#L5 #glial #microglia/opc
+58511712748	#L5 #glial #microglia/opc
+58525408782	#L5 #glial #microglia/opc
+58629323001	#L5 #glial #microglia/opc
+58774560058	#L5 #glial #microglia/opc
+58801907459	#L5 #glial #microglia/opc
+58803192763	#L5 #glial #microglia/opc
+59167004855	#L5 #glial #microglia/opc
+59240696474	#L5 #glial #microglia/opc
+59356307483	#L5 #glial #microglia/opc
+59459112877	#L5 #glial #microglia/opc
+59474341171	#L5 #glial #microglia/opc
+59647261944	#L5 #glial #microglia/opc
+59648517473	#L5 #glial #microglia/opc
+59676901698	#L5 #glial #microglia/opc
+59721084115	#L5 #glial #microglia/opc
+59735334907	#L5 #glial #microglia/opc
+59896559001	#L5 #glial #microglia/opc
+59998692323	#L5 #glial #microglia/opc
+60027165273	#L5 #glial #microglia/opc
+60056483651	#L5 #glial #microglia/opc
+60128233064	#L5 #glial #microglia/opc
+60187703112	#L5 #glial #microglia/opc
+60230673466	#L5 #glial #microglia/opc
+60259204508	#L5 #glial #microglia/opc
+60288961065	#L5 #glial #microglia/opc
+60361791089	#L5 #glial #microglia/opc
+60405447828	#L5 #glial #microglia/opc
+60450272357	#L5 #glial #microglia/opc
+60638656052	#L5 #glial #microglia/opc
+65351697143	#L5 #glial #microglia/opc
+65525112655	#L5 #glial #microglia/opc
+65569310640	#L5 #glial #microglia/opc
+65612748754	#L5 #glial #microglia/opc
+65613245157	#L5 #glial #microglia/opc
+65758364242	#L5 #glial #microglia/opc
+65817498235	#L5 #glial #microglia/opc
+65832932209	#L5 #glial #microglia/opc
+65859884731	#L5 #glial #microglia/opc
+65917807469	#L5 #glial #microglia/opc
+65920975736	#L5 #glial #microglia/opc
+66020759306	#L5 #glial #microglia/opc
+66064283732	#L5 #glial #microglia/opc
+66109488843	#L5 #glial #microglia/opc
+66254010668	#L5 #glial #microglia/opc
+66269735004	#L5 #glial #microglia/opc
+66298309017	#L5 #glial #microglia/opc
+66387375432	#L5 #glial #microglia/opc
+66401756749	#L5 #glial #microglia/opc
+66414986179	#L5 #glial #microglia/opc
+66473521066	#L5 #glial #microglia/opc
+66618727441	#L5 #glial #microglia/opc
+66633124989	#L5 #glial #microglia/opc
+66635198451	#L5 #glial #microglia/opc
+66895183471	#L5 #glial #microglia/opc
+67115819360	#L5 #glial #microglia/opc
+67215572428	#L5 #glial #microglia/opc
+67229999516	#L5 #glial #microglia/opc
+67348456861	#L5 #glial #microglia/opc
+67449816486	#L5 #glial #microglia/opc
+67509023620	#L5 #glial #microglia/opc
+67623889741	#L5 #glial #microglia/opc
+67669707915	#L5 #glial #microglia/opc
+67741632852	#L5 #glial #microglia/opc
+67799189356	#L5 #glial #microglia/opc
+68207535905	#L5 #glial #microglia/opc
+68353005627	#L5 #glial #microglia/opc
+68528831417	#L5 #glial #microglia/opc
+68541986229	#L5 #glial #microglia/opc
+68631139601	#L5 #glial #microglia/opc
+68804249167	#L5 #glial #microglia/opc
+68804921369	#L5 #glial #microglia/opc
+68847468622	#L5 #glial #microglia/opc
+68848782856	#L5 #glial #microglia/opc
+68862580592	#L5 #glial #microglia/opc
+68921918927	#L5 #glial #microglia/opc
+68980454333	#L5 #glial #microglia/opc
+69109745625	#L5 #glial #microglia/opc
+69111965398	#L5 #glial #microglia/opc
+69286623451	#L5 #glial #microglia/opc
+69314861422	#L5 #glial #microglia/opc
+69342865863	#L5 #glial #microglia/opc
+69401648779	#L5 #glial #microglia/opc
+69416060933	#L5 #glial #microglia/opc
+69460111970	#L5 #glial #microglia/opc
+69561925234	#L5 #glial #microglia/opc
+73939611334	#L5 #glial #microglia/opc
+74011622895	#L5 #glial #microglia/opc
+74159444493	#L5 #glial #microglia/opc
+74230432866	#L5 #glial #microglia/opc
+74287887929	#L5 #glial #microglia/opc
+74302752331	#L5 #glial #microglia/opc
+74303409986	#L5 #glial #microglia/opc
+74318784075	#L5 #glial #microglia/opc
+74332055763	#L5 #glial #microglia/opc
+74448192167	#L5 #glial #microglia/opc
+74506347838	#L5 #glial #microglia/opc
+74581427233	#L5 #glial #microglia/opc
+74624018523	#L5 #glial #microglia/opc
+74711727053	#L5 #glial #microglia/opc
+74741805146	#L5 #glial #microglia/opc
+74753967639	#L5 #glial #microglia/opc
+74843267120	#L5 #glial #microglia/opc
+75047885487	#L5 #glial #microglia/opc
+75063158043	#L5 #glial #microglia/opc
+75206481966	#L5 #glial #microglia/opc
+75323406687	#L5 #glial #microglia/opc
+75367560284	#L5 #glial #microglia/opc
+75383474662	#L5 #glial #microglia/opc
+75499625568	#L5 #glial #microglia/opc
+75527176871	#L5 #glial #microglia/opc
+75585128573	#L5 #glial #microglia/opc
+75586443339	#L5 #glial #microglia/opc
+75599847522	#L5 #glial #microglia/opc
+75615981130	#L5 #glial #microglia/opc
+75658908106	#L5 #glial #microglia/opc
+75703046757	#L5 #glial #microglia/opc
+75791981765	#L5 #glial #microglia/opc
+75805896216	#L5 #glial #microglia/opc
+76008966462	#L5 #glial #microglia/opc
+76111144583	#L5 #glial #microglia/opc
+76212461245	#L5 #glial #microglia/opc
+76226857606	#L5 #glial #microglia/opc
+76257228532	#L5 #glial #microglia/opc
+76285013590	#L5 #glial #microglia/opc
+76358412995	#L5 #glial #microglia/opc
+76387994819	#L5 #glial #microglia/opc
+76446442073	#L5 #glial #microglia/opc
+76504043606	#L5 #glial #microglia/opc
+76824082242	#L5 #glial #microglia/opc
+76825440350	#L5 #glial #microglia/opc
+76912783519	#L5 #glial #microglia/opc
+76985073214	#L5 #glial #microglia/opc
+77000768711	#L5 #glial #microglia/opc
+77029737511	#L5 #glial #microglia/opc
+77101458178	#L5 #glial #microglia/opc
+77188173648	#L5 #glial #microglia/opc
+77379081364	#L5 #glial #microglia/opc
+77654689883	#L5 #glial #microglia/opc
+77684023189	#L5 #glial #microglia/opc
+77786419496	#L5 #glial #microglia/opc
+77787835050	#L5 #glial #microglia/opc
+77875325022	#L5 #glial #microglia/opc
+77961004195	#L5 #glial #microglia/opc
+78048244941	#L5 #glial #microglia/opc
+78049280908	#L5 #glial #microglia/opc
+78151664087	#L5 #glial #microglia/opc
+78252921573	#L5 #glial #microglia/opc
+78297513199	#L5 #glial #microglia/opc
+78311691188	#L5 #glial #microglia/opc
+78326831319	#L5 #glial #microglia/opc
+78383016835	#L5 #glial #microglia/opc
+78384184331	#L5 #glial #microglia/opc
+78456459736	#L5 #glial #microglia/opc
+78472067384	#L5 #glial #microglia/opc
+78513988297	#L5 #glial #microglia/opc
+78573310389	#L5 #glial #microglia/opc
+78689125752	#L5 #glial #microglia/opc
+82979397485	#L5 #glial #microglia/opc
+83082567206	#L5 #glial #microglia/opc
+83255049772	#L5 #glial #microglia/opc
+83316432350	#L5 #glial #microglia/opc
+83359447643	#L5 #glial #microglia/opc
+83388868211	#L5 #glial #microglia/opc
+83431415197	#L5 #glial #microglia/opc
+83576227021	#L5 #glial #microglia/opc
+83593208012	#L5 #glial #microglia/opc
+83752798629	#L5 #glial #microglia/opc
+83794864031	#L5 #glial #microglia/opc
+83841236158	#L5 #glial #microglia/opc
+83913188529	#L5 #glial #microglia/opc
+83955109295	#L5 #glial #microglia/opc
+84013849075	#L5 #glial #microglia/opc
+84174620598	#L5 #glial #microglia/opc
+84175043196	#L5 #glial #microglia/opc
+84203501262	#L5 #glial #microglia/opc
+84217356918	#L5 #glial #microglia/opc
+84322207461	#L5 #glial #microglia/opc
+84365133788	#L5 #glial #microglia/opc
+84435964661	#L5 #glial #microglia/opc
+84438110208	#L5 #glial #microglia/opc
+84482058605	#L5 #glial #microglia/opc
+84482102340	#L5 #glial #microglia/opc
+84511100453	#L5 #glial #microglia/opc
+84654846871	#L5 #glial #microglia/opc
+84728143592	#L5 #glial #microglia/opc
+84830569553	#L5 #glial #microglia/opc
+84888345500	#L5 #glial #microglia/opc
+84904247737	#L5 #glial #microglia/opc
+84976405245	#L5 #glial #microglia/opc
+85341195616	#L5 #glial #microglia/opc
+85472561495	#L5 #glial #microglia/opc
+85836097604	#L5 #glial #microglia/opc
+86083233738	#L5 #glial #microglia/opc
+86476642781	#L5 #glial #microglia/opc
+86551268834	#L5 #glial #microglia/opc
+86696621839	#L5 #glial #microglia/opc
+86944020170	#L5 #glial #microglia/opc
+86957527073	#L5 #glial #microglia/opc
+87248583641	#L5 #glial #microglia/opc
+87424101920	#L5 #glial #microglia/opc
+91902142813	#L5 #glial #microglia/opc
+91977350782	#L5 #glial #microglia/opc
+91990667027	#L5 #glial #microglia/opc
+92004859131	#L5 #glial #microglia/opc
+92237087675	#L5 #glial #microglia/opc
+92399582958	#L5 #glial #microglia/opc
+92502636237	#L5 #glial #microglia/opc
+92967328743	#L5 #glial #microglia/opc
+93012226277	#L5 #glial #microglia/opc
+93230817944	#L5 #glial #microglia/opc
+93464360710	#L5 #glial #microglia/opc
+93476625569	#L5 #glial #microglia/opc
+93536738104	#L5 #glial #microglia/opc
+93609056849	#L5 #glial #microglia/opc
+93972898633	#L5 #glial #microglia/opc
+94527911635	#L5 #glial #microglia/opc
+94774654572	#L5 #glial #microglia/opc
+95603961208	#L5 #glial #microglia/opc
+95706753124	#L5 #glial #microglia/opc
+95778720524	#L5 #glial #microglia/opc
+95953991859	#L5 #glial #microglia/opc
+96332567068	#L5 #glial #microglia/opc
+96332871842	#L5 #glial #microglia/opc
+4137487085	#L5 #glial #microglia/opc #c-shaped
+4330102993	#L5 #glial #microglia/opc #c-shaped
+4561338084	#L5 #glial #microglia/opc #c-shaped
+4837619361	#L5 #glial #microglia/opc #c-shaped
+4868061088	#L5 #glial #microglia/opc #c-shaped
+4911674918	#L5 #glial #microglia/opc #c-shaped
+5027446030	#L5 #glial #microglia/opc #c-shaped
+5494825008	#L5 #glial #microglia/opc #c-shaped
+5537765607	#L5 #glial #microglia/opc #c-shaped
+5699297678	#L5 #glial #microglia/opc #c-shaped
+5930926495	#L5 #glial #microglia/opc #c-shaped
+12785264153	#L5 #glial #microglia/opc #c-shaped
+13019610574	#L5 #glial #microglia/opc #c-shaped
+13427255984	#L5 #glial #microglia/opc #c-shaped
+24449098228	#L5 #glial #microglia/opc #c-shaped
+30996042070	#L5 #glial #microglia/opc #c-shaped
+31302049695	#L5 #glial #microglia/opc #c-shaped
+31347267460	#L5 #glial #microglia/opc #c-shaped
+31419631528	#L5 #glial #microglia/opc #c-shaped
+31697502621	#L5 #glial #microglia/opc #c-shaped
+31959356278	#L5 #glial #microglia/opc #c-shaped
+38712742108	#L5 #glial #microglia/opc #c-shaped
+39208329517	#L5 #glial #microglia/opc #c-shaped
+39307281069	#L5 #glial #microglia/opc #c-shaped
+39878106837	#L5 #glial #microglia/opc #c-shaped
+40167922426	#L5 #glial #microglia/opc #c-shaped
+40298892424	#L5 #glial #microglia/opc #c-shaped
+40432375379	#L5 #glial #microglia/opc #c-shaped
+40590008181	#L5 #glial #microglia/opc #c-shaped
+40737653405	#L5 #glial #microglia/opc #c-shaped
+40809971444	#L5 #glial #microglia/opc #c-shaped
+41626211619	#L5 #glial #microglia/opc #c-shaped
+42193459885	#L5 #glial #microglia/opc #c-shaped
+47839724601	#L5 #glial #microglia/opc #c-shaped
+48114720774	#L5 #glial #microglia/opc #c-shaped
+48830913916	#L5 #glial #microglia/opc #c-shaped
+56850644636	#L5 #glial #microglia/opc #c-shaped
+57609137447	#L5 #glial #microglia/opc #c-shaped
+65410729112	#L5 #glial #microglia/opc #c-shaped
+66123418643	#L5 #glial #microglia/opc #c-shaped
+68251951171	#L5 #glial #microglia/opc #c-shaped
+68295082635	#L5 #glial #microglia/opc #c-shaped
+69357787182	#L5 #glial #microglia/opc #c-shaped
+74727525188	#L5 #glial #microglia/opc #c-shaped
+74771152264	#L5 #glial #microglia/opc #c-shaped
+84452243655	#L5 #glial #microglia/opc #c-shaped
+92618160042	#L5 #glial #microglia/opc #c-shaped
+5567624628	#L5 #blood-vessel-cell
+6163506248	#L5 #blood-vessel-cell
+6514237427	#L5 #blood-vessel-cell
+30852222261	#L5 #blood-vessel-cell
+42573174310	#L5 #blood-vessel-cell
+49689977355	#L5 #blood-vessel-cell
+56631044773	#L5 #blood-vessel-cell
+58293602559	#L5 #blood-vessel-cell
+60362608453	#L5 #blood-vessel-cell
+60435146382	#L5 #blood-vessel-cell
+66984731863	#L5 #blood-vessel-cell
+67449831539	#L5 #blood-vessel-cell
+74143923179	#L5 #blood-vessel-cell
+74258977686	#L5 #blood-vessel-cell
+74316754913	#L5 #blood-vessel-cell
+76169607239	#L5 #blood-vessel-cell
+83095840474	#L5 #blood-vessel-cell
+84817063604	#L5 #blood-vessel-cell
+85968031762	#L5 #blood-vessel-cell
+86201151126	#L5 #blood-vessel-cell
+87118167142	#L5 #blood-vessel-cell
+87147412831	#L5 #blood-vessel-cell
+93507156261	#L5 #blood-vessel-cell
+96144082478	#L5 #blood-vessel-cell
+4268063413	#L6 #unknown-type
+4355727918	#L6 #unknown-type
+4414088544	#L6 #unknown-type
+4995659409	#L6 #unknown-type
+5127842388	#L6 #unknown-type
+5303419475	#L6 #unknown-type
+5549622369	#L6 #unknown-type
+5827872494	#L6 #unknown-type
+6017103720	#L6 #unknown-type
+6030243831	#L6 #unknown-type
+6058729926	#L6 #unknown-type
+6483807933	#L6 #unknown-type
+6627875892	#L6 #unknown-type
+6862310731	#L6 #unknown-type
+7123478208	#L6 #unknown-type
+13802882958	#L6 #unknown-type
+21983776805	#L6 #unknown-type
+22682742950	#L6 #unknown-type
+23979647375	#L6 #unknown-type
+31883854836	#L6 #unknown-type
+32569751520	#L6 #unknown-type
+40677248305	#L6 #unknown-type
+40705370224	#L6 #unknown-type
+40894497734	#L6 #unknown-type
+40938169017	#L6 #unknown-type
+41157052166	#L6 #unknown-type
+41477354444	#L6 #unknown-type
+49046293584	#L6 #unknown-type
+58260371343	#L6 #unknown-type
+59952817137	#L6 #unknown-type
+66106934533	#L6 #unknown-type
+66617311952	#L6 #unknown-type
+66923319260	#L6 #unknown-type
+67228860712	#L6 #unknown-type
+78192020889	#L6 #unknown-type
+78703260389	#L6 #unknown-type
+83574519823	#L6 #unknown-type
+83837264268	#L6 #unknown-type
+92541854552	#L6 #unknown-type
+4384433443	#L6 #unknown-type #dark
+4836816071	#L6 #unknown-type #dark
+4937591706	#L6 #unknown-type #dark
+5097619129	#L6 #unknown-type #dark
+5316867429	#L6 #unknown-type #dark
+6103890693	#L6 #unknown-type #dark
+6293426779	#L6 #unknown-type #dark
+23702885108	#L6 #unknown-type #dark
+31620789389	#L6 #unknown-type #dark
+31680843330	#L6 #unknown-type #dark
+31824049917	#L6 #unknown-type #dark
+32423653220	#L6 #unknown-type #dark
+39656799448	#L6 #unknown-type #dark
+40151583567	#L6 #unknown-type #dark
+40427923139	#L6 #unknown-type #dark
+40545650366	#L6 #unknown-type #dark
+40675497237	#L6 #unknown-type #dark
+41958733501	#L6 #unknown-type #dark
+42395450422	#L6 #unknown-type #dark
+48260073224	#L6 #unknown-type #dark
+51086272075	#L6 #unknown-type #dark
+57591543365	#L6 #unknown-type #dark
+57881738371	#L6 #unknown-type #dark
+65874150862	#L6 #unknown-type #dark
+67492087247	#L6 #unknown-type #dark
+67593155507	#L6 #unknown-type #dark
+77260622864	#L6 #unknown-type #dark
+77785192884	#L6 #unknown-type #dark
+94976891923	#L6 #unknown-type #dark
+96083225174	#L6 #unknown-type #dark
+4982081131	#L6 #unknown-type #grey
+5418374289	#L6 #unknown-type #grey
+22100630081	#L6 #unknown-type #grey
+34011994965	#L6 #unknown-type #grey
+40180523267	#L6 #unknown-type #grey
+40354375240	#L6 #unknown-type #grey
+59295917776	#L6 #unknown-type #grey
+66703982773	#L6 #unknown-type #grey
+67359830951	#L6 #unknown-type #grey
+74593472037	#L6 #unknown-type #grey
+76255490378	#L6 #unknown-type #grey
+3455560544	#L6 #pyramidal #neuron
+3498487692	#L6 #pyramidal #neuron
+3498634310	#L6 #pyramidal #neuron
+3673437753	#L6 #pyramidal #neuron
+3774285518	#L6 #pyramidal #neuron
+3834428866	#L6 #pyramidal #neuron
+3847452359	#L6 #pyramidal #neuron
+3875529059	#L6 #pyramidal #neuron
+3922662571	#L6 #pyramidal #neuron
+3933494896	#L6 #pyramidal #neuron
+3934531728	#L6 #pyramidal #neuron
+3934897317	#L6 #pyramidal #neuron
+4064700596	#L6 #pyramidal #neuron
+4079067680	#L6 #pyramidal #neuron
+4094560299	#L6 #pyramidal #neuron
+4108998829	#L6 #pyramidal #neuron
+4155431871	#L6 #pyramidal #neuron
+4224669724	#L6 #pyramidal #neuron
+4224887271	#L6 #pyramidal #neuron
+4254776487	#L6 #pyramidal #neuron
+4254907635	#L6 #pyramidal #neuron
+4255154834	#L6 #pyramidal #neuron
+4355741801	#L6 #pyramidal #neuron
+4386563997	#L6 #pyramidal #neuron
+4386870830	#L6 #pyramidal #neuron
+4401062719	#L6 #pyramidal #neuron
+4415810884	#L6 #pyramidal #neuron
+4443157539	#L6 #pyramidal #neuron
+4460415817	#L6 #pyramidal #neuron
+4486202239	#L6 #pyramidal #neuron
+4573311372	#L6 #pyramidal #neuron
+4591811376	#L6 #pyramidal #neuron
+4602952284	#L6 #pyramidal #neuron
+4617814480	#L6 #pyramidal #neuron
+4617989711	#L6 #pyramidal #neuron
+4619596261	#L6 #pyramidal #neuron
+4632079662	#L6 #pyramidal #neuron
+4632590745	#L6 #pyramidal #neuron
+4647557296	#L6 #pyramidal #neuron
+4648726505	#L6 #pyramidal #neuron
+4661064547	#L6 #pyramidal #neuron
+4661676099	#L6 #pyramidal #neuron
+4704661228	#L6 #pyramidal #neuron
+4707581686	#L6 #pyramidal #neuron
+4708911067	#L6 #pyramidal #neuron
+4733586594	#L6 #pyramidal #neuron
+4752948144	#L6 #pyramidal #neuron
+4763620067	#L6 #pyramidal #neuron
+4792298134	#L6 #pyramidal #neuron
+4811789343	#L6 #pyramidal #neuron
+4822330854	#L6 #pyramidal #neuron
+4836786953	#L6 #pyramidal #neuron
+4837399163	#L6 #pyramidal #neuron
+4880413862	#L6 #pyramidal #neuron
+4910419569	#L6 #pyramidal #neuron
+4939649726	#L6 #pyramidal #neuron
+4941153636	#L6 #pyramidal #neuron
+4982431978	#L6 #pyramidal #neuron
+4997353939	#L6 #pyramidal #neuron
+4997820387	#L6 #pyramidal #neuron
+5012202771	#L6 #pyramidal #neuron
+5013063676	#L6 #pyramidal #neuron
+5015430105	#L6 #pyramidal #neuron
+5015985064	#L6 #pyramidal #neuron
+5040528028	#L6 #pyramidal #neuron
+5055406469	#L6 #pyramidal #neuron
+5057043146	#L6 #pyramidal #neuron
+5084740096	#L6 #pyramidal #neuron
+5128646163	#L6 #pyramidal #neuron
+5129725553	#L6 #pyramidal #neuron
+5141727580	#L6 #pyramidal #neuron
+5158051474	#L6 #pyramidal #neuron
+5159133234	#L6 #pyramidal #neuron
+5171630412	#L6 #pyramidal #neuron
+5172360932	#L6 #pyramidal #neuron
+5187545499	#L6 #pyramidal #neuron

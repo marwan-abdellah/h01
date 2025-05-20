@@ -1,0 +1,1000 @@
+47317914686	#L4 #glial #microglia/opc
+47330427911	#L4 #glial #microglia/opc
+47346911978	#L4 #glial #microglia/opc
+47359848903	#L4 #glial #microglia/opc
+47360388080	#L4 #glial #microglia/opc
+47446345280	#L4 #glial #microglia/opc
+47548756320	#L4 #glial #microglia/opc
+47607540536	#L4 #glial #microglia/opc
+47636844586	#L4 #glial #microglia/opc
+47651211499	#L4 #glial #microglia/opc
+47694357792	#L4 #glial #microglia/opc
+47695862100	#L4 #glial #microglia/opc
+47884608691	#L4 #glial #microglia/opc
+47929521396	#L4 #glial #microglia/opc
+48002920842	#L4 #glial #microglia/opc
+48015959154	#L4 #glial #microglia/opc
+48031903304	#L4 #glial #microglia/opc
+48059309894	#L4 #glial #microglia/opc
+48104397423	#L4 #glial #microglia/opc
+48191886078	#L4 #glial #microglia/opc
+48395293082	#L4 #glial #microglia/opc
+48481920514	#L4 #glial #microglia/opc
+48555072615	#L4 #glial #microglia/opc
+48614745837	#L4 #glial #microglia/opc
+48629273615	#L4 #glial #microglia/opc
+48731378843	#L4 #glial #microglia/opc
+48789111254	#L4 #glial #microglia/opc
+48963183568	#L4 #glial #microglia/opc
+48992854042	#L4 #glial #microglia/opc
+49051885812	#L4 #glial #microglia/opc
+49197297272	#L4 #glial #microglia/opc
+49270418193	#L4 #glial #microglia/opc
+49386057573	#L4 #glial #microglia/opc
+49414910471	#L4 #glial #microglia/opc
+49662761528	#L4 #glial #microglia/opc
+50027524308	#L4 #glial #microglia/opc
+50099419469	#L4 #glial #microglia/opc
+50099828521	#L4 #glial #microglia/opc
+50099974220	#L4 #glial #microglia/opc
+50129249226	#L4 #glial #microglia/opc
+50290255720	#L4 #glial #microglia/opc
+50318522266	#L4 #glial #microglia/opc
+50362122151	#L4 #glial #microglia/opc
+50434628984	#L4 #glial #microglia/opc
+50522629767	#L4 #glial #microglia/opc
+50712456718	#L4 #glial #microglia/opc
+50726854065	#L4 #glial #microglia/opc
+51076241489	#L4 #glial #microglia/opc
+51148998256	#L4 #glial #microglia/opc
+51163219153	#L4 #glial #microglia/opc
+51164270194	#L4 #glial #microglia/opc
+51265280408	#L4 #glial #microglia/opc
+51396266329	#L4 #glial #microglia/opc
+55395421867	#L4 #glial #microglia/opc
+55511631449	#L4 #glial #microglia/opc
+55526159604	#L4 #glial #microglia/opc
+55541125082	#L4 #glial #microglia/opc
+55541285763	#L4 #glial #microglia/opc
+55730674230	#L4 #glial #microglia/opc
+55818792410	#L4 #glial #microglia/opc
+55847540842	#L4 #glial #microglia/opc
+55860872556	#L4 #glial #microglia/opc
+55948930895	#L4 #glial #microglia/opc
+55962290650	#L4 #glial #microglia/opc
+56007392990	#L4 #glial #microglia/opc
+56037062449	#L4 #glial #microglia/opc
+56066351801	#L4 #glial #microglia/opc
+56108782063	#L4 #glial #microglia/opc
+56152045451	#L4 #glial #microglia/opc
+56194474579	#L4 #glial #microglia/opc
+56197410431	#L4 #glial #microglia/opc
+56299865709	#L4 #glial #microglia/opc
+56343610259	#L4 #glial #microglia/opc
+56386945009	#L4 #glial #microglia/opc
+56445788079	#L4 #glial #microglia/opc
+56473120503	#L4 #glial #microglia/opc
+56473792924	#L4 #glial #microglia/opc
+56502410799	#L4 #glial #microglia/opc
+56531947790	#L4 #glial #microglia/opc
+56794664135	#L4 #glial #microglia/opc
+56852251269	#L4 #glial #microglia/opc
+56908698505	#L4 #glial #microglia/opc
+56924788477	#L4 #glial #microglia/opc
+56955450456	#L4 #glial #microglia/opc
+57042106407	#L4 #glial #microglia/opc
+57043158433	#L4 #glial #microglia/opc
+57217377697	#L4 #glial #microglia/opc
+57245294780	#L4 #glial #microglia/opc
+57275985245	#L4 #glial #microglia/opc
+57276234667	#L4 #glial #microglia/opc
+57305158967	#L4 #glial #microglia/opc
+57406957485	#L4 #glial #microglia/opc
+57625081414	#L4 #glial #microglia/opc
+57712264170	#L4 #glial #microglia/opc
+57727638638	#L4 #glial #microglia/opc
+58046845800	#L4 #glial #microglia/opc
+58062234896	#L4 #glial #microglia/opc
+58105103431	#L4 #glial #microglia/opc
+58105366801	#L4 #glial #microglia/opc
+58280097158	#L4 #glial #microglia/opc
+58892681542	#L4 #glial #microglia/opc
+59081341550	#L4 #glial #microglia/opc
+59402198274	#L4 #glial #microglia/opc
+59432276073	#L4 #glial #microglia/opc
+59578038388	#L4 #glial #microglia/opc
+59766566545	#L4 #glial #microglia/opc
+59810836619	#L4 #glial #microglia/opc
+60246778856	#L4 #glial #microglia/opc
+60306248240	#L4 #glial #microglia/opc
+64188027323	#L4 #glial #microglia/opc
+64246139163	#L4 #glial #microglia/opc
+64421598311	#L4 #glial #microglia/opc
+64449354699	#L4 #glial #microglia/opc
+64494020581	#L4 #glial #microglia/opc
+64594840038	#L4 #glial #microglia/opc
+64609264932	#L4 #glial #microglia/opc
+64770343925	#L4 #glial #microglia/opc
+64830076623	#L4 #glial #microglia/opc
+64858139752	#L4 #glial #microglia/opc
+64917419924	#L4 #glial #microglia/opc
+64929800786	#L4 #glial #microglia/opc
+64930852440	#L4 #glial #microglia/opc
+65004178827	#L4 #glial #microglia/opc
+65120664748	#L4 #glial #microglia/opc
+65163797062	#L4 #glial #microglia/opc
+65279787188	#L4 #glial #microglia/opc
+65383964751	#L4 #glial #microglia/opc
+65398011089	#L4 #glial #microglia/opc
+65412408021	#L4 #glial #microglia/opc
+65514060010	#L4 #glial #microglia/opc
+65514498478	#L4 #glial #microglia/opc
+65542284366	#L4 #glial #microglia/opc
+65542823267	#L4 #glial #microglia/opc
+65587649522	#L4 #glial #microglia/opc
+65718970799	#L4 #glial #microglia/opc
+65849314197	#L4 #glial #microglia/opc
+65892999949	#L4 #glial #microglia/opc
+66052603704	#L4 #glial #microglia/opc
+66052808565	#L4 #glial #microglia/opc
+66228312054	#L4 #glial #microglia/opc
+66272509252	#L4 #glial #microglia/opc
+66389083656	#L4 #glial #microglia/opc
+66416985772	#L4 #glial #microglia/opc
+66505395275	#L4 #glial #microglia/opc
+66534772453	#L4 #glial #microglia/opc
+66650339081	#L4 #glial #microglia/opc
+66651477995	#L4 #glial #microglia/opc
+66753203126	#L4 #glial #microglia/opc
+66782010743	#L4 #glial #microglia/opc
+66854811412	#L4 #glial #microglia/opc
+66883050022	#L4 #glial #microglia/opc
+67131208724	#L4 #glial #microglia/opc
+67175376830	#L4 #glial #microglia/opc
+67262120812	#L4 #glial #microglia/opc
+67263507758	#L4 #glial #microglia/opc
+67277101446	#L4 #glial #microglia/opc
+67350559463	#L4 #glial #microglia/opc
+67583620800	#L4 #glial #microglia/opc
+67860499490	#L4 #glial #microglia/opc
+67976737790	#L4 #glial #microglia/opc
+68064255637	#L4 #glial #microglia/opc
+68224429911	#L4 #glial #microglia/opc
+68238577862	#L4 #glial #microglia/opc
+68383886964	#L4 #glial #microglia/opc
+68689806841	#L4 #glial #microglia/opc
+68836532550	#L4 #glial #microglia/opc
+68952478924	#L4 #glial #microglia/opc
+68995770301	#L4 #glial #microglia/opc
+69024958275	#L4 #glial #microglia/opc
+69025833882	#L4 #glial #microglia/opc
+69200009020	#L4 #glial #microglia/opc
+69301720518	#L4 #glial #microglia/opc
+69315999129	#L4 #glial #microglia/opc
+73052862792	#L4 #glial #microglia/opc
+73096373557	#L4 #glial #microglia/opc
+73431364520	#L4 #glial #microglia/opc
+73473984583	#L4 #glial #microglia/opc
+73517816704	#L4 #glial #microglia/opc
+73532563375	#L4 #glial #microglia/opc
+73577316640	#L4 #glial #microglia/opc
+73706870178	#L4 #glial #microglia/opc
+73737664480	#L4 #glial #microglia/opc
+73794330156	#L4 #glial #microglia/opc
+73808596072	#L4 #glial #microglia/opc
+73822991851	#L4 #glial #microglia/opc
+73953934390	#L4 #glial #microglia/opc
+74058624077	#L4 #glial #microglia/opc
+74130445381	#L4 #glial #microglia/opc
+74189842801	#L4 #glial #microglia/opc
+74481469172	#L4 #glial #microglia/opc
+74510466154	#L4 #glial #microglia/opc
+74626208717	#L4 #glial #microglia/opc
+74685211122	#L4 #glial #microglia/opc
+74700994738	#L4 #glial #microglia/opc
+74715011404	#L4 #glial #microglia/opc
+74801420611	#L4 #glial #microglia/opc
+74816999806	#L4 #glial #microglia/opc
+74918753710	#L4 #glial #microglia/opc
+74947620462	#L4 #glial #microglia/opc
+75165423617	#L4 #glial #microglia/opc
+75369793903	#L4 #glial #microglia/opc
+75531411715	#L4 #glial #microglia/opc
+75894524674	#L4 #glial #microglia/opc
+75953541703	#L4 #glial #microglia/opc
+76171505318	#L4 #glial #microglia/opc
+76332218214	#L4 #glial #microglia/opc
+76419225687	#L4 #glial #microglia/opc
+76506363980	#L4 #glial #microglia/opc
+76580391177	#L4 #glial #microglia/opc
+76666858161	#L4 #glial #microglia/opc
+76915280555	#L4 #glial #microglia/opc
+77016159135	#L4 #glial #microglia/opc
+77264244064	#L4 #glial #microglia/opc
+77264930727	#L4 #glial #microglia/opc
+77351630758	#L4 #glial #microglia/opc
+77526886728	#L4 #glial #microglia/opc
+78080687791	#L4 #glial #microglia/opc
+78138784626	#L4 #glial #microglia/opc
+78255417735	#L4 #glial #microglia/opc
+78268938380	#L4 #glial #microglia/opc
+78284079728	#L4 #glial #microglia/opc
+78342469168	#L4 #glial #microglia/opc
+82210727966	#L4 #glial #microglia/opc
+82239389271	#L4 #glial #microglia/opc
+82340180242	#L4 #glial #microglia/opc
+82354079980	#L4 #glial #microglia/opc
+82385266829	#L4 #glial #microglia/opc
+82458170790	#L4 #glial #microglia/opc
+82544316378	#L4 #glial #microglia/opc
+82559749689	#L4 #glial #microglia/opc
+82604326149	#L4 #glial #microglia/opc
+82689246321	#L4 #glial #microglia/opc
+82703948017	#L4 #glial #microglia/opc
+82746657749	#L4 #glial #microglia/opc
+82748146561	#L4 #glial #microglia/opc
+82834000715	#L4 #glial #microglia/opc
+83112514438	#L4 #glial #microglia/opc
+83375978325	#L4 #glial #microglia/opc
+83419909776	#L4 #glial #microglia/opc
+83420318519	#L4 #glial #microglia/opc
+83449388533	#L4 #glial #microglia/opc
+83681763392	#L4 #glial #microglia/opc
+83885622528	#L4 #glial #microglia/opc
+84526621004	#L4 #glial #microglia/opc
+84585769789	#L4 #glial #microglia/opc
+84861509324	#L4 #glial #microglia/opc
+84861625849	#L4 #glial #microglia/opc
+85182644030	#L4 #glial #microglia/opc
+85517954981	#L4 #glial #microglia/opc
+85518393995	#L4 #glial #microglia/opc
+85736226587	#L4 #glial #microglia/opc
+85779458998	#L4 #glial #microglia/opc
+85809098792	#L4 #glial #microglia/opc
+85998854733	#L4 #glial #microglia/opc
+86611059922	#L4 #glial #microglia/opc
+86843740790	#L4 #glial #microglia/opc
+87033043253	#L4 #glial #microglia/opc
+90988367361	#L4 #glial #microglia/opc
+91161460985	#L4 #glial #microglia/opc
+91455044386	#L4 #glial #microglia/opc
+91483545226	#L4 #glial #microglia/opc
+91557090510	#L4 #glial #microglia/opc
+91657078239	#L4 #glial #microglia/opc
+91804066495	#L4 #glial #microglia/opc
+91920597345	#L4 #glial #microglia/opc
+92139217457	#L4 #glial #microglia/opc
+92562383401	#L4 #glial #microglia/opc
+92882233475	#L4 #glial #microglia/opc
+92955501455	#L4 #glial #microglia/opc
+92970349685	#L4 #glial #microglia/opc
+93377864030	#L4 #glial #microglia/opc
+94135232394	#L4 #glial #microglia/opc
+94979871118	#L4 #glial #microglia/opc
+95330630816	#L4 #glial #microglia/opc
+95432078232	#L4 #glial #microglia/opc
+95577476248	#L4 #glial #microglia/opc
+95578278893	#L4 #glial #microglia/opc
+2727846766	#L4 #glial #microglia/opc #c-shaped
+2830083717	#L4 #glial #microglia/opc #c-shaped
+3107254837	#L4 #glial #microglia/opc #c-shaped
+3134529295	#L4 #glial #microglia/opc #c-shaped
+3441310157	#L4 #glial #microglia/opc #c-shaped
+3790756694	#L4 #glial #microglia/opc #c-shaped
+3907609158	#L4 #glial #microglia/opc #c-shaped
+3922224227	#L4 #glial #microglia/opc #c-shaped
+4228392353	#L4 #glial #microglia/opc #c-shaped
+4242934704	#L4 #glial #microglia/opc #c-shaped
+4812738540	#L4 #glial #microglia/opc #c-shaped
+5380089329	#L4 #glial #microglia/opc #c-shaped
+5438683157	#L4 #glial #microglia/opc #c-shaped
+21609568450	#L4 #glial #microglia/opc #c-shaped
+29484283428	#L4 #glial #microglia/opc #c-shaped
+29775616038	#L4 #glial #microglia/opc #c-shaped
+29790640665	#L4 #glial #microglia/opc #c-shaped
+37854452166	#L4 #glial #microglia/opc #c-shaped
+37854466335	#L4 #glial #microglia/opc #c-shaped
+38305724497	#L4 #glial #microglia/opc #c-shaped
+38392659276	#L4 #glial #microglia/opc #c-shaped
+38467474614	#L4 #glial #microglia/opc #c-shaped
+38509935088	#L4 #glial #microglia/opc #c-shaped
+38538845404	#L4 #glial #microglia/opc #c-shaped
+38625953888	#L4 #glial #microglia/opc #c-shaped
+38654645626	#L4 #glial #microglia/opc #c-shaped
+38670151149	#L4 #glial #microglia/opc #c-shaped
+38713808277	#L4 #glial #microglia/opc #c-shaped
+38816745610	#L4 #glial #microglia/opc #c-shaped
+38931991391	#L4 #glial #microglia/opc #c-shaped
+39705989889	#L4 #glial #microglia/opc #c-shaped
+41277773098	#L4 #glial #microglia/opc #c-shaped
+41293528261	#L4 #glial #microglia/opc #c-shaped
+41700252632	#L4 #glial #microglia/opc #c-shaped
+47434343038	#L4 #glial #microglia/opc #c-shaped
+47898668875	#L4 #glial #microglia/opc #c-shaped
+48017565307	#L4 #glial #microglia/opc #c-shaped
+48657629333	#L4 #glial #microglia/opc #c-shaped
+56341960301	#L4 #glial #microglia/opc #c-shaped
+57580680017	#L4 #glial #microglia/opc #c-shaped
+65003725995	#L4 #glial #microglia/opc #c-shaped
+65323590435	#L4 #glial #microglia/opc #c-shaped
+83025549699	#L4 #glial #microglia/opc #c-shaped
+83259181778	#L4 #glial #microglia/opc #c-shaped
+91876225272	#L4 #glial #microglia/opc #c-shaped
+2873097919	#L4 #blood-vessel-cell
+5408751336	#L4 #blood-vessel-cell
+5744194328	#L4 #blood-vessel-cell
+13968135225	#L4 #blood-vessel-cell
+32631424667	#L4 #blood-vessel-cell
+33491277428	#L4 #blood-vessel-cell
+38042804708	#L4 #blood-vessel-cell
+38946431860	#L4 #blood-vessel-cell
+39588963508	#L4 #blood-vessel-cell
+42152488765	#L4 #blood-vessel-cell
+64332911418	#L4 #blood-vessel-cell
+65369072585	#L4 #blood-vessel-cell
+73706578776	#L4 #blood-vessel-cell
+74190835688	#L4 #blood-vessel-cell
+74218913405	#L4 #blood-vessel-cell
+77598927705	#L4 #blood-vessel-cell
+78372006559	#L4 #blood-vessel-cell
+82514560455	#L4 #blood-vessel-cell
+83143557729	#L4 #blood-vessel-cell
+84439117179	#L4 #blood-vessel-cell
+94397729905	#L4 #blood-vessel-cell
+3512899829	#L5 #unknown-type
+3585510736	#L5 #unknown-type
+3630670158	#L5 #unknown-type
+3759743303	#L5 #unknown-type
+3819418478	#L5 #unknown-type
+3964565779	#L5 #unknown-type
+4024561942	#L5 #unknown-type
+4166907370	#L5 #unknown-type
+4168907659	#L5 #unknown-type
+4299031037	#L5 #unknown-type
+4314144304	#L5 #unknown-type
+4458927240	#L5 #unknown-type
+4502510996	#L5 #unknown-type
+4546883598	#L5 #unknown-type
+4577400281	#L5 #unknown-type
+4808461247	#L5 #unknown-type
+4852861519	#L5 #unknown-type
+4897190036	#L5 #unknown-type
+5101371276	#L5 #unknown-type
+5175470732	#L5 #unknown-type
+5495613195	#L5 #unknown-type
+5510184821	#L5 #unknown-type
+5553811637	#L5 #unknown-type
+5566106164	#L5 #unknown-type
+5598008907	#L5 #unknown-type
+5670518716	#L5 #unknown-type
+5726937200	#L5 #unknown-type
+6761153835	#L5 #unknown-type
+12726743592	#L5 #unknown-type
+12800419754	#L5 #unknown-type
+13573718309	#L5 #unknown-type
+21635528575	#L5 #unknown-type
+21722901607	#L5 #unknown-type
+22611620829	#L5 #unknown-type
+29832488154	#L5 #unknown-type
+30036186993	#L5 #unknown-type
+30545294247	#L5 #unknown-type
+30603624043	#L5 #unknown-type
+30706970613	#L5 #unknown-type
+30734362821	#L5 #unknown-type
+30807761392	#L5 #unknown-type
+31899842681	#L5 #unknown-type
+32673404285	#L5 #unknown-type
+33314271514	#L5 #unknown-type
+38958798773	#L5 #unknown-type
+39264308471	#L5 #unknown-type
+39295729913	#L5 #unknown-type
+39308667615	#L5 #unknown-type
+39528630702	#L5 #unknown-type
+39761489146	#L5 #unknown-type
+39833574002	#L5 #unknown-type
+39980401167	#L5 #unknown-type
+40212469763	#L5 #unknown-type
+40723986583	#L5 #unknown-type
+40796817007	#L5 #unknown-type
+40998339814	#L5 #unknown-type
+41480508074	#L5 #unknown-type
+41552520004	#L5 #unknown-type
+41655807749	#L5 #unknown-type
+41698092333	#L5 #unknown-type
+41916289369	#L5 #unknown-type
+47839316451	#L5 #unknown-type
+48085882885	#L5 #unknown-type
+48945502514	#L5 #unknown-type
+49312396163	#L5 #unknown-type
+50272835562	#L5 #unknown-type
+65657865894	#L5 #unknown-type
+66632614535	#L5 #unknown-type
+74026092086	#L5 #unknown-type
+74305089030	#L5 #unknown-type
+74331296456	#L5 #unknown-type
+74332231031	#L5 #unknown-type
+74407076764	#L5 #unknown-type
+74638255222	#L5 #unknown-type
+74799697851	#L5 #unknown-type
+75352373892	#L5 #unknown-type
+76694498593	#L5 #unknown-type
+83053934655	#L5 #unknown-type
+83971914487	#L5 #unknown-type
+84015002006	#L5 #unknown-type
+84043357134	#L5 #unknown-type
+92283330029	#L5 #unknown-type
+92792261902	#L5 #unknown-type
+3483565199	#L5 #unknown-type #dark
+3948388325	#L5 #unknown-type #dark
+4648536115	#L5 #unknown-type #dark
+4750129687	#L5 #unknown-type #dark
+4796019953	#L5 #unknown-type #dark
+4910681336	#L5 #unknown-type #dark
+6324905937	#L5 #unknown-type #dark
+6513433395	#L5 #unknown-type #dark
+12755727374	#L5 #unknown-type #dark
+13192530453	#L5 #unknown-type #dark
+29947980318	#L5 #unknown-type #dark
+30225838962	#L5 #unknown-type #dark
+30385193745	#L5 #unknown-type #dark
+30471720000	#L5 #unknown-type #dark
+30545747159	#L5 #unknown-type #dark
+30923328023	#L5 #unknown-type #dark
+31753890181	#L5 #unknown-type #dark
+32891236328	#L5 #unknown-type #dark
+39001738756	#L5 #unknown-type #dark
+39336366155	#L5 #unknown-type #dark
+39410437017	#L5 #unknown-type #dark
+39745909181	#L5 #unknown-type #dark
+40869660688	#L5 #unknown-type #dark
+40881443277	#L5 #unknown-type #dark
+41917735127	#L5 #unknown-type #dark
+42355312815	#L5 #unknown-type #dark
+42469958883	#L5 #unknown-type #dark
+48844638984	#L5 #unknown-type #dark
+49106683408	#L5 #unknown-type #dark
+49703309316	#L5 #unknown-type #dark
+50332057325	#L5 #unknown-type #dark
+56543950944	#L5 #unknown-type #dark
+57271460220	#L5 #unknown-type #dark
+57536540926	#L5 #unknown-type #dark
+58832627756	#L5 #unknown-type #dark
+65074438955	#L5 #unknown-type #dark
+65890415261	#L5 #unknown-type #dark
+66080185343	#L5 #unknown-type #dark
+66123782609	#L5 #unknown-type #dark
+66486604817	#L5 #unknown-type #dark
+66501219308	#L5 #unknown-type #dark
+68381681874	#L5 #unknown-type #dark
+74215656927	#L5 #unknown-type #dark
+75936648498	#L5 #unknown-type #dark
+83024411923	#L5 #unknown-type #dark
+83546997006	#L5 #unknown-type #dark
+84904247650	#L5 #unknown-type #dark
+86127168081	#L5 #unknown-type #dark
+92120616284	#L5 #unknown-type #dark
+92587351531	#L5 #unknown-type #dark
+93841957559	#L5 #unknown-type #dark
+93959056676	#L5 #unknown-type #dark
+4473250557	#L5 #unknown-type #grey
+5683236502	#L5 #unknown-type #grey
+24798996438	#L5 #unknown-type #grey
+30137795200	#L5 #unknown-type #grey
+30282914484	#L5 #unknown-type #grey
+32003495596	#L5 #unknown-type #grey
+39176821352	#L5 #unknown-type #grey
+39701989926	#L5 #unknown-type #grey
+39819104449	#L5 #unknown-type #grey
+39979086021	#L5 #unknown-type #grey
+42283154114	#L5 #unknown-type #grey
+48698585488	#L5 #unknown-type #grey
+51161072975	#L5 #unknown-type #grey
+58730406537	#L5 #unknown-type #grey
+67290242215	#L5 #unknown-type #grey
+73983018798	#L5 #unknown-type #grey
+82179977962	#L5 #unknown-type #grey
+91888241157	#L5 #unknown-type #grey
+2103144214	#L5 #pyramidal #neuron
+2494640672	#L5 #pyramidal #neuron
+2584392112	#L5 #pyramidal #neuron
+2640488670	#L5 #pyramidal #neuron
+2771884890	#L5 #pyramidal #neuron
+2872995228	#L5 #pyramidal #neuron
+2903920410	#L5 #pyramidal #neuron
+2989729986	#L5 #pyramidal #neuron
+3018362874	#L5 #pyramidal #neuron
+3020071226	#L5 #pyramidal #neuron
+3091704283	#L5 #pyramidal #neuron
+3121476224	#L5 #pyramidal #neuron
+3179134962	#L5 #pyramidal #neuron
+3222323948	#L5 #pyramidal #neuron
+3222499167	#L5 #pyramidal #neuron
+3265995691	#L5 #pyramidal #neuron
+3268682905	#L5 #pyramidal #neuron
+3279808989	#L5 #pyramidal #neuron
+3295621595	#L5 #pyramidal #neuron
+3295694240	#L5 #pyramidal #neuron
+3353076133	#L5 #pyramidal #neuron
+3382336760	#L5 #pyramidal #neuron
+3397493615	#L5 #pyramidal #neuron
+3399040143	#L5 #pyramidal #neuron
+3399331857	#L5 #pyramidal #neuron
+3443968258	#L5 #pyramidal #neuron
+3454481160	#L5 #pyramidal #neuron
+3469723286	#L5 #pyramidal #neuron
+3485434276	#L5 #pyramidal #neuron
+3502576426	#L5 #pyramidal #neuron
+3541925551	#L5 #pyramidal #neuron
+3543911915	#L5 #pyramidal #neuron
+3556644378	#L5 #pyramidal #neuron
+3585772008	#L5 #pyramidal #neuron
+3588664163	#L5 #pyramidal #neuron
+3643505997	#L5 #pyramidal #neuron
+3644964664	#L5 #pyramidal #neuron
+3645549792	#L5 #pyramidal #neuron
+3657813334	#L5 #pyramidal #neuron
+3660194441	#L5 #pyramidal #neuron
+3687613997	#L5 #pyramidal #neuron
+3688373256	#L5 #pyramidal #neuron
+3688388143	#L5 #pyramidal #neuron
+3730906189	#L5 #pyramidal #neuron
+3761467265	#L5 #pyramidal #neuron
+3775409797	#L5 #pyramidal #neuron
+3818382021	#L5 #pyramidal #neuron
+3833187160	#L5 #pyramidal #neuron
+3877003626	#L5 #pyramidal #neuron
+3891590153	#L5 #pyramidal #neuron
+3892014018	#L5 #pyramidal #neuron
+3892992905	#L5 #pyramidal #neuron
+3908191917	#L5 #pyramidal #neuron
+3921536632	#L5 #pyramidal #neuron
+3921624193	#L5 #pyramidal #neuron
+3952448110	#L5 #pyramidal #neuron
+3963793487	#L5 #pyramidal #neuron
+3993184140	#L5 #pyramidal #neuron
+4009508126	#L5 #pyramidal #neuron
+4038943832	#L5 #pyramidal #neuron
+4039250563	#L5 #pyramidal #neuron
+4054187808	#L5 #pyramidal #neuron
+4066933831	#L5 #pyramidal #neuron
+4067444936	#L5 #pyramidal #neuron
+4068101930	#L5 #pyramidal #neuron
+4097785735	#L5 #pyramidal #neuron
+4108444287	#L5 #pyramidal #neuron
+4124067361	#L5 #pyramidal #neuron
+4124125476	#L5 #pyramidal #neuron
+4124256877	#L5 #pyramidal #neuron
+4126111391	#L5 #pyramidal #neuron
+4127879232	#L5 #pyramidal #neuron
+4139587946	#L5 #pyramidal #neuron
+4140976330	#L5 #pyramidal #neuron
+4141107961	#L5 #pyramidal #neuron
+4152745097	#L5 #pyramidal #neuron
+4169432754	#L5 #pyramidal #neuron
+4183975298	#L5 #pyramidal #neuron
+4184267343	#L5 #pyramidal #neuron
+4228624972	#L5 #pyramidal #neuron
+4242190396	#L5 #pyramidal #neuron
+4242364929	#L5 #pyramidal #neuron
+4242525626	#L5 #pyramidal #neuron
+4256221909	#L5 #pyramidal #neuron
+4271742015	#L5 #pyramidal #neuron
+4271975410	#L5 #pyramidal #neuron
+4299426708	#L5 #pyramidal #neuron
+4329708733	#L5 #pyramidal #neuron
+4330073983	#L5 #pyramidal #neuron
+4330366114	#L5 #pyramidal #neuron
+4344761442	#L5 #pyramidal #neuron
+4358807549	#L5 #pyramidal #neuron
+4358851147	#L5 #pyramidal #neuron
+4361071433	#L5 #pyramidal #neuron
+4373160413	#L5 #pyramidal #neuron
+4385673251	#L5 #pyramidal #neuron
+4386813257	#L5 #pyramidal #neuron
+4388038560	#L5 #pyramidal #neuron
+4388330901	#L5 #pyramidal #neuron
+4414394779	#L5 #pyramidal #neuron
+4418540025	#L5 #pyramidal #neuron
+4428980913	#L5 #pyramidal #neuron
+4430076067	#L5 #pyramidal #neuron
+4431141101	#L5 #pyramidal #neuron
+4431199135	#L5 #pyramidal #neuron
+4443609959	#L5 #pyramidal #neuron
+4445844341	#L5 #pyramidal #neuron
+4446194392	#L5 #pyramidal #neuron
+4462649903	#L5 #pyramidal #neuron
+4472637539	#L5 #pyramidal #neuron
+4474812411	#L5 #pyramidal #neuron
+4475878153	#L5 #pyramidal #neuron
+4489064511	#L5 #pyramidal #neuron
+4489121710	#L5 #pyramidal #neuron
+4489515811	#L5 #pyramidal #neuron
+4490129250	#L5 #pyramidal #neuron
+4502948431	#L5 #pyramidal #neuron
+4503795514	#L5 #pyramidal #neuron
+4504189510	#L5 #pyramidal #neuron
+4507051661	#L5 #pyramidal #neuron
+4518776239	#L5 #pyramidal #neuron
+4519330988	#L5 #pyramidal #neuron
+4533085069	#L5 #pyramidal #neuron
+4534224460	#L5 #pyramidal #neuron
+4535261682	#L5 #pyramidal #neuron
+4562521381	#L5 #pyramidal #neuron
+4576801371	#L5 #pyramidal #neuron
+4577633944	#L5 #pyramidal #neuron
+4591824952	#L5 #pyramidal #neuron
+4592350377	#L5 #pyramidal #neuron
+4606732344	#L5 #pyramidal #neuron
+4606922484	#L5 #pyramidal #neuron
+4634679023	#L5 #pyramidal #neuron
+4649776176	#L5 #pyramidal #neuron
+4664115273	#L5 #pyramidal #neuron
+4667779127	#L5 #pyramidal #neuron
+4678321036	#L5 #pyramidal #neuron
+4678963542	#L5 #pyramidal #neuron
+4679270230	#L5 #pyramidal #neuron
+4679270244	#L5 #pyramidal #neuron
+4692630578	#L5 #pyramidal #neuron
+4693477092	#L5 #pyramidal #neuron
+4694309311	#L5 #pyramidal #neuron
+4708822688	#L5 #pyramidal #neuron
+4709888554	#L5 #pyramidal #neuron
+4722475643	#L5 #pyramidal #neuron
+4722533363	#L5 #pyramidal #neuron
+4722635073	#L5 #pyramidal #neuron
+4722942136	#L5 #pyramidal #neuron
+4723058510	#L5 #pyramidal #neuron
+4737834871	#L5 #pyramidal #neuron
+4738375682	#L5 #pyramidal #neuron
+4738857025	#L5 #pyramidal #neuron
+4750668977	#L5 #pyramidal #neuron
+4766613338	#L5 #pyramidal #neuron
+4766774105	#L5 #pyramidal #neuron
+4768380042	#L5 #pyramidal #neuron
+4782879767	#L5 #pyramidal #neuron
+4794940607	#L5 #pyramidal #neuron
+4809627844	#L5 #pyramidal #neuron
+4812840871	#L5 #pyramidal #neuron
+4824798917	#L5 #pyramidal #neuron
+4825396967	#L5 #pyramidal #neuron
+4826112585	#L5 #pyramidal #neuron
+4840114973	#L5 #pyramidal #neuron
+4852204352	#L5 #pyramidal #neuron
+4852321993	#L5 #pyramidal #neuron
+4853154345	#L5 #pyramidal #neuron
+4853649886	#L5 #pyramidal #neuron
+4854496842	#L5 #pyramidal #neuron
+4868836122	#L5 #pyramidal #neuron
+4882793425	#L5 #pyramidal #neuron
+4884151599	#L5 #pyramidal #neuron
+4912229103	#L5 #pyramidal #neuron
+4913485826	#L5 #pyramidal #neuron
+4924683839	#L5 #pyramidal #neuron
+4931109286	#L5 #pyramidal #neuron
+4939724073	#L5 #pyramidal #neuron
+4942205159	#L5 #pyramidal #neuron
+4942497874	#L5 #pyramidal #neuron
+4942702467	#L5 #pyramidal #neuron
+4954047144	#L5 #pyramidal #neuron
+4985965746	#L5 #pyramidal #neuron
+4989309345	#L5 #pyramidal #neuron
+5014494468	#L5 #pyramidal #neuron
+5028264562	#L5 #pyramidal #neuron
+5030936462	#L5 #pyramidal #neuron
+5041784066	#L5 #pyramidal #neuron
+5042486347	#L5 #pyramidal #neuron
+5044004371	#L5 #pyramidal #neuron
+5044514519	#L5 #pyramidal #neuron
+5045244161	#L5 #pyramidal #neuron
+5058107655	#L5 #pyramidal #neuron
+5071978641	#L5 #pyramidal #neuron
+5072898935	#L5 #pyramidal #neuron
+5073439349	#L5 #pyramidal #neuron
+5075702217	#L5 #pyramidal #neuron
+5076871228	#L5 #pyramidal #neuron
+5086550398	#L5 #pyramidal #neuron
+5100057607	#L5 #pyramidal #neuron
+5114204678	#L5 #pyramidal #neuron
+5116146849	#L5 #pyramidal #neuron
+5116191738	#L5 #pyramidal #neuron
+5130266467	#L5 #pyramidal #neuron
+5130894339	#L5 #pyramidal #neuron
+5131011976	#L5 #pyramidal #neuron
+5133347133	#L5 #pyramidal #neuron
+5144707392	#L5 #pyramidal #neuron
+5144969574	#L5 #pyramidal #neuron
+5147203553	#L5 #pyramidal #neuron
+5160796796	#L5 #pyramidal #neuron
+5174346190	#L5 #pyramidal #neuron
+5174419209	#L5 #pyramidal #neuron
+5175090962	#L5 #pyramidal #neuron
+5175280772	#L5 #pyramidal #neuron
+5175353953	#L5 #pyramidal #neuron
+5187371550	#L5 #pyramidal #neuron
+5189677248	#L5 #pyramidal #neuron
+5190319976	#L5 #pyramidal #neuron
+5202424337	#L5 #pyramidal #neuron
+5204278244	#L5 #pyramidal #neuron
+5217171026	#L5 #pyramidal #neuron
+5219887113	#L5 #pyramidal #neuron
+5233700297	#L5 #pyramidal #neuron
+5234649530	#L5 #pyramidal #neuron
+5247526396	#L5 #pyramidal #neuron
+5259864251	#L5 #pyramidal #neuron
+5261835396	#L5 #pyramidal #neuron
+5262435039	#L5 #pyramidal #neuron
+5275999426	#L5 #pyramidal #neuron
+5276963335	#L5 #pyramidal #neuron
+5289372887	#L5 #pyramidal #neuron
+5290102993	#L5 #pyramidal #neuron
+5291168786	#L5 #pyramidal #neuron
+5305128124	#L5 #pyramidal #neuron
+5305258792	#L5 #pyramidal #neuron
+5305770066	#L5 #pyramidal #neuron
+5306062471	#L5 #pyramidal #neuron
+5306719641	#L5 #pyramidal #neuron
+5318852286	#L5 #pyramidal #neuron
+5322167695	#L5 #pyramidal #neuron
+5335001245	#L5 #pyramidal #neuron
+5335191586	#L5 #pyramidal #neuron
+5335847960	#L5 #pyramidal #neuron
+5349734483	#L5 #pyramidal #neuron
+5352771787	#L5 #pyramidal #neuron
+5366962594	#L5 #pyramidal #neuron
+5390718419	#L5 #pyramidal #neuron
+5391988722	#L5 #pyramidal #neuron
+5393799869	#L5 #pyramidal #neuron
+5435851206	#L5 #pyramidal #neuron
+5436419769	#L5 #pyramidal #neuron
+5437121085	#L5 #pyramidal #neuron
+5449224616	#L5 #pyramidal #neuron
+5451122797	#L5 #pyramidal #neuron
+5452043610	#L5 #pyramidal #neuron
+5478134645	#L5 #pyramidal #neuron
+5480136235	#L5 #pyramidal #neuron
+5481420974	#L5 #pyramidal #neuron
+5509088748	#L5 #pyramidal #neuron
+5509455013	#L5 #pyramidal #neuron
+5511717264	#L5 #pyramidal #neuron
+5523530399	#L5 #pyramidal #neuron
+5524551172	#L5 #pyramidal #neuron
+5553081571	#L5 #pyramidal #neuron
+5553578082	#L5 #pyramidal #neuron
+5567463512	#L5 #pyramidal #neuron
+5582006156	#L5 #pyramidal #neuron
+5582035326	#L5 #pyramidal #neuron
+5597015953	#L5 #pyramidal #neuron
+5598914100	#L5 #pyramidal #neuron
+5610974886	#L5 #pyramidal #neuron
+5611691879	#L5 #pyramidal #neuron
+5628189095	#L5 #pyramidal #neuron
+5638002068	#L5 #pyramidal #neuron
+5640659446	#L5 #pyramidal #neuron
+5654675887	#L5 #pyramidal #neuron
+5655289104	#L5 #pyramidal #neuron
+5655917761	#L5 #pyramidal #neuron
+5669189357	#L5 #pyramidal #neuron
+5672738006	#L5 #pyramidal #neuron
+5684316830	#L5 #pyramidal #neuron
+5686418450	#L5 #pyramidal #neuron
+5699471417	#L5 #pyramidal #neuron
+5712933306	#L5 #pyramidal #neuron
+5727681025	#L5 #pyramidal #neuron
+5786741352	#L5 #pyramidal #neuron
+5786771041	#L5 #pyramidal #neuron
+5799532727	#L5 #pyramidal #neuron
+5800568720	#L5 #pyramidal #neuron
+5801387147	#L5 #pyramidal #neuron
+5814309652	#L5 #pyramidal #neuron
+5816001802	#L5 #pyramidal #neuron
+5816105117	#L5 #pyramidal #neuron
+5829377683	#L5 #pyramidal #neuron
+5833041353	#L5 #pyramidal #neuron
+5845013923	#L5 #pyramidal #neuron
+5845248438	#L5 #pyramidal #neuron
+5873719655	#L5 #pyramidal #neuron
+5874128318	#L5 #pyramidal #neuron
+5887035628	#L5 #pyramidal #neuron
+5888075165	#L5 #pyramidal #neuron
+5888393520	#L5 #pyramidal #neuron
+5889270340	#L5 #pyramidal #neuron
+5901900994	#L5 #pyramidal #neuron
+5903477336	#L5 #pyramidal #neuron
+5903695368	#L5 #pyramidal #neuron
+5917113823	#L5 #pyramidal #neuron
+5917218606	#L5 #pyramidal #neuron
+5917523743	#L5 #pyramidal #neuron
+5918005808	#L5 #pyramidal #neuron
+5919070602	#L5 #pyramidal #neuron
+5932999559	#L5 #pyramidal #neuron
+5945366592	#L5 #pyramidal #neuron
+5960640328	#L5 #pyramidal #neuron
+5961633758	#L5 #pyramidal #neuron
+5976029237	#L5 #pyramidal #neuron
+5990485098	#L5 #pyramidal #neuron
+5990673589	#L5 #pyramidal #neuron
+6005303967	#L5 #pyramidal #neuron
+6019014110	#L5 #pyramidal #neuron
+6033921689	#L5 #pyramidal #neuron
+6034360287	#L5 #pyramidal #neuron
+6034769897	#L5 #pyramidal #neuron
+6063022286	#L5 #pyramidal #neuron
+6063736924	#L5 #pyramidal #neuron
+6076965938	#L5 #pyramidal #neuron
+6076980010	#L5 #pyramidal #neuron
+6077169826	#L5 #pyramidal #neuron
+6092472099	#L5 #pyramidal #neuron
+6106913595	#L5 #pyramidal #neuron
+6107161560	#L5 #pyramidal #neuron
+6107235000	#L5 #pyramidal #neuron
+6107979399	#L5 #pyramidal #neuron
+6120199282	#L5 #pyramidal #neuron
+6120695418	#L5 #pyramidal #neuron
+6121571458	#L5 #pyramidal #neuron
+6121659065	#L5 #pyramidal #neuron
+6137690975	#L5 #pyramidal #neuron
+6150204315	#L5 #pyramidal #neuron
+6150686670	#L5 #pyramidal #neuron
+6150977912	#L5 #pyramidal #neuron
+6164834261	#L5 #pyramidal #neuron
+6194138967	#L5 #pyramidal #neuron
+6195264771	#L5 #pyramidal #neuron
+6237371994	#L5 #pyramidal #neuron
+6251507499	#L5 #pyramidal #neuron
+6251857174	#L5 #pyramidal #neuron
+6266282995	#L5 #pyramidal #neuron
+6266559769	#L5 #pyramidal #neuron
+6267246296	#L5 #pyramidal #neuron
+6281935370	#L5 #pyramidal #neuron
+6282109481	#L5 #pyramidal #neuron
+6296098040	#L5 #pyramidal #neuron
+6310260226	#L5 #pyramidal #neuron
+6311150881	#L5 #pyramidal #neuron
+6311487766	#L5 #pyramidal #neuron
+6311779664	#L5 #pyramidal #neuron
+6324978005	#L5 #pyramidal #neuron
+6325328435	#L5 #pyramidal #neuron
+6338368128	#L5 #pyramidal #neuron
+6340310553	#L5 #pyramidal #neuron
+6340367532	#L5 #pyramidal #neuron
+6340572172	#L5 #pyramidal #neuron
+6341536738	#L5 #pyramidal #neuron
+6342207267	#L5 #pyramidal #neuron
+6353931778	#L5 #pyramidal #neuron
+6354734850	#L5 #pyramidal #neuron
+6355280212	#L5 #pyramidal #neuron
+6370914280	#L5 #pyramidal #neuron
+6383980634	#L5 #pyramidal #neuron
+6385484579	#L5 #pyramidal #neuron
+6397282166	#L5 #pyramidal #neuron
+6398801021	#L5 #pyramidal #neuron
+6399048883	#L5 #pyramidal #neuron
+6412745740	#L5 #pyramidal #neuron
+6413168368	#L5 #pyramidal #neuron
+6426441171	#L5 #pyramidal #neuron
+6440984272	#L5 #pyramidal #neuron
+6441334087	#L5 #pyramidal #neuron
+6441917524	#L5 #pyramidal #neuron
+6442881546	#L5 #pyramidal #neuron
+6456138776	#L5 #pyramidal #neuron
+6457687846	#L5 #pyramidal #neuron
+6485559790	#L5 #pyramidal #neuron
+6485910366	#L5 #pyramidal #neuron
+6486056270	#L5 #pyramidal #neuron
+6500029782	#L5 #pyramidal #neuron
+6500248438	#L5 #pyramidal #neuron
+6513769803	#L5 #pyramidal #neuron
+6516017526	#L5 #pyramidal #neuron
+6527305613	#L5 #pyramidal #neuron
+6528939370	#L5 #pyramidal #neuron
+6556886870	#L5 #pyramidal #neuron
+6559645974	#L5 #pyramidal #neuron
+6572539662	#L5 #pyramidal #neuron
+6572903455	#L5 #pyramidal #neuron
+6573356092	#L5 #pyramidal #neuron
+6587708397	#L5 #pyramidal #neuron
+6587913697	#L5 #pyramidal #neuron
+6601551237	#L5 #pyramidal #neuron
+6601652355	#L5 #pyramidal #neuron
+6617260816	#L5 #pyramidal #neuron
+6645368362	#L5 #pyramidal #neuron
+6645791849	#L5 #pyramidal #neuron
+6645864650	#L5 #pyramidal #neuron
+6646682873	#L5 #pyramidal #neuron
+6660174348	#L5 #pyramidal #neuron
+6662379268	#L5 #pyramidal #neuron
+6675826193	#L5 #pyramidal #neuron
+6688500343	#L5 #pyramidal #neuron
+6703845964	#L5 #pyramidal #neuron
+6704954428	#L5 #pyramidal #neuron
+6705553738	#L5 #pyramidal #neuron
+6717613499	#L5 #pyramidal #neuron
+6731922534	#L5 #pyramidal #neuron
+6733354560	#L5 #pyramidal #neuron
+6776440940	#L5 #pyramidal #neuron
+6805730524	#L5 #pyramidal #neuron
+6806154524	#L5 #pyramidal #neuron
+6821105415	#L5 #pyramidal #neuron
+6835211431	#L5 #pyramidal #neuron
+6850073901	#L5 #pyramidal #neuron
+6862294937	#L5 #pyramidal #neuron
+6863317022	#L5 #pyramidal #neuron
+6879057672	#L5 #pyramidal #neuron
+6907778456	#L5 #pyramidal #neuron
+6907997141	#L5 #pyramidal #neuron
+6922452087	#L5 #pyramidal #neuron
+6922466861	#L5 #pyramidal #neuron
+6936161283	#L5 #pyramidal #neuron
+6936862394	#L5 #pyramidal #neuron
+6936951061	#L5 #pyramidal #neuron
+6950909665	#L5 #pyramidal #neuron
+6951405656	#L5 #pyramidal #neuron
+6965743223	#L5 #pyramidal #neuron
+6980184043	#L5 #pyramidal #neuron
+6980679707	#L5 #pyramidal #neuron
+6996304244	#L5 #pyramidal #neuron
+7037887026	#L5 #pyramidal #neuron
+7038061694	#L5 #pyramidal #neuron
+7054372268	#L5 #pyramidal #neuron
+7112877386	#L5 #pyramidal #neuron
+7126061907	#L5 #pyramidal #neuron
+7329994059	#L5 #pyramidal #neuron
+7404123327	#L5 #pyramidal #neuron
+7418052974	#L5 #pyramidal #neuron
+7505191895	#L5 #pyramidal #neuron
+12828425737	#L5 #pyramidal #neuron
+14665552179	#L5 #pyramidal #neuron
+14768255169	#L5 #pyramidal #neuron
+15234976274	#L5 #pyramidal #neuron
+15583706758	#L5 #pyramidal #neuron
+15832551590	#L5 #pyramidal #neuron
+15949242439	#L5 #pyramidal #neuron
+15963814278	#L5 #pyramidal #neuron
+16007034059	#L5 #pyramidal #neuron
+20951880684	#L5 #pyramidal #neuron
+21097468074	#L5 #pyramidal #neuron
+21664321533	#L5 #pyramidal #neuron
+22132824367	#L5 #pyramidal #neuron
+24697621878	#L5 #pyramidal #neuron
+24829059421	#L5 #pyramidal #neuron
+24900970084	#L5 #pyramidal #neuron
+25032043206	#L5 #pyramidal #neuron
+25075056945	#L5 #pyramidal #neuron
+25089147416	#L5 #pyramidal #neuron
+25119342259	#L5 #pyramidal #neuron
+25119356560	#L5 #pyramidal #neuron
+25177000755	#L5 #pyramidal #neuron
+29426054403	#L5 #pyramidal #neuron
+29512667703	#L5 #pyramidal #neuron
+29614787865	#L5 #pyramidal #neuron
+29730865050	#L5 #pyramidal #neuron
+29731039345	#L5 #pyramidal #neuron
+29788699925	#L5 #pyramidal #neuron
+29817067706	#L5 #pyramidal #neuron
+29817843015	#L5 #pyramidal #neuron
+29818091654	#L5 #pyramidal #neuron
+29861441981	#L5 #pyramidal #neuron
+29862376384	#L5 #pyramidal #neuron
+29904718728	#L5 #pyramidal #neuron
+29935016274	#L5 #pyramidal #neuron
+29948171660	#L5 #pyramidal #neuron
+29963692697	#L5 #pyramidal #neuron
+29977695430	#L5 #pyramidal #neuron
+29977928563	#L5 #pyramidal #neuron
+29993026400	#L5 #pyramidal #neuron
+30005901931	#L5 #pyramidal #neuron
+30007247315	#L5 #pyramidal #neuron
+30007480548	#L5 #pyramidal #neuron
+30021118298	#L5 #pyramidal #neuron
+30036070162	#L5 #pyramidal #neuron
+30036113523	#L5 #pyramidal #neuron
+30065665594	#L5 #pyramidal #neuron
+30109381519	#L5 #pyramidal #neuron
+30123500761	#L5 #pyramidal #neuron
+30123632042	#L5 #pyramidal #neuron
+30152016860	#L5 #pyramidal #neuron
+30167230705	#L5 #pyramidal #neuron
+30167785469	#L5 #pyramidal #neuron
+30195527574	#L5 #pyramidal #neuron
+30195980250	#L5 #pyramidal #neuron
+30211865032	#L5 #pyramidal #neuron
