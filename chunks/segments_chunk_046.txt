@@ -1,0 +1,1000 @@
+41357946869	#WM #blood-vessel-cell
+41372067182	#WM #blood-vessel-cell
+41373059644	#WM #blood-vessel-cell
+41562536954	#WM #blood-vessel-cell
+41854673777	#WM #blood-vessel-cell
+42027868850	#WM #blood-vessel-cell
+42390952973	#WM #blood-vessel-cell
+42420244978	#WM #blood-vessel-cell
+42434758125	#WM #blood-vessel-cell
+42435543712	#WM #blood-vessel-cell
+42449488974	#WM #blood-vessel-cell
+42464571597	#WM #blood-vessel-cell
+42464687194	#WM #blood-vessel-cell
+42478531392	#WM #blood-vessel-cell
+42508404455	#WM #blood-vessel-cell
+42522261067	#WM #blood-vessel-cell
+42536614988	#WM #blood-vessel-cell
+42565846405	#WM #blood-vessel-cell
+42566720619	#WM #blood-vessel-cell
+42668007148	#WM #blood-vessel-cell
+42668620564	#WM #blood-vessel-cell
+42683163552	#WM #blood-vessel-cell
+42697706054	#WM #blood-vessel-cell
+42726894558	#WM #blood-vessel-cell
+42741566917	#WM #blood-vessel-cell
+42755773639	#WM #blood-vessel-cell
+42755804187	#WM #blood-vessel-cell
+42770462143	#WM #blood-vessel-cell
+42770755093	#WM #blood-vessel-cell
+42784377952	#WM #blood-vessel-cell
+42785033896	#WM #blood-vessel-cell
+42814746998	#WM #blood-vessel-cell
+42858448449	#WM #blood-vessel-cell
+42887330243	#WM #blood-vessel-cell
+42887751563	#WM #blood-vessel-cell
+42888394783	#WM #blood-vessel-cell
+42960875532	#WM #blood-vessel-cell
+42990675283	#WM #blood-vessel-cell
+43150847649	#WM #blood-vessel-cell
+43165346486	#WM #blood-vessel-cell
+43179917268	#WM #blood-vessel-cell
+43296449452	#WM #blood-vessel-cell
+43426587480	#WM #blood-vessel-cell
+43455350226	#WM #blood-vessel-cell
+49976145270	#WM #blood-vessel-cell
+50150334743	#WM #blood-vessel-cell
+51372996395	#WM #blood-vessel-cell
+51431133274	#WM #blood-vessel-cell
+51474925005	#WM #blood-vessel-cell
+51694331920	#WM #blood-vessel-cell
+51694695000	#WM #blood-vessel-cell
+51709179820	#WM #blood-vessel-cell
+51767907699	#WM #blood-vessel-cell
+51869820608	#WM #blood-vessel-cell
+51916265293	#WM #blood-vessel-cell
+51972454459	#WM #blood-vessel-cell
+59834038473	#WM #blood-vessel-cell
+60179893053	#WM #blood-vessel-cell
+60267365835	#WM #blood-vessel-cell
+60281981827	#WM #blood-vessel-cell
+60326431022	#WM #blood-vessel-cell
+60413656132	#WM #blood-vessel-cell
+60457587107	#WM #blood-vessel-cell
+60677040646	#WM #blood-vessel-cell
+67197616064	#WM #blood-vessel-cell
+68972557380	#WM #blood-vessel-cell
+69118608996	#WM #blood-vessel-cell
+69177219411	#WM #blood-vessel-cell
+69191585525	#WM #blood-vessel-cell
+69337321792	#WM #blood-vessel-cell
+69965701947	#WM #blood-vessel-cell
+75960597950	#WM #blood-vessel-cell
+76484013307	#WM #blood-vessel-cell
+77168378958	#WM #blood-vessel-cell
+77679426410	#WM #blood-vessel-cell
+78013216804	#WM #blood-vessel-cell
+78013309131	#WM #blood-vessel-cell
+78042522751	#WM #blood-vessel-cell
+78086164327	#WM #blood-vessel-cell
+78115267690	#WM #blood-vessel-cell
+86805898467	#WM #blood-vessel-cell
+86834954200	#WM #blood-vessel-cell
+86835026909	#WM #blood-vessel-cell
+86835040115	#WM #blood-vessel-cell
+86864196983	#WM #blood-vessel-cell
+86878739839	#WM #blood-vessel-cell
+86951612879	#WM #blood-vessel-cell
+86980670361	#WM #blood-vessel-cell
+87009799461	#WM #blood-vessel-cell
+87009799531	#WM #blood-vessel-cell
+93050495880	#WM #blood-vessel-cell
+95685757364	#WM #blood-vessel-cell
+95714872302	#WM #blood-vessel-cell
+95758529390	#WM #blood-vessel-cell
+95787816636	#WM #blood-vessel-cell
+95802333055	#WM #blood-vessel-cell
+96199187417	#WM #blood-vessel-cell
+42712234234	#layer-unclassified #unknown-type
+72020074968	#layer-unclassified #unknown-type
+72063775770	#layer-unclassified #unknown-type
+100217469742	#layer-unclassified #unknown-type
+100638723273	#layer-unclassified #unknown-type
+102780412329	#layer-unclassified #unknown-type
+102828142432	#layer-unclassified #unknown-type
+102880735411	#layer-unclassified #unknown-type
+72368951407	#layer-unclassified #unknown-type #thin-apical-dendrite #dark
+72703503969	#layer-unclassified #unknown-type #thin-apical-dendrite #dark
+4721395613	#layer-unclassified #unknown-type #dark
+13744916861	#layer-unclassified #unknown-type #dark
+19512850443	#layer-unclassified #unknown-type #dark
+37954788726	#layer-unclassified #unknown-type #dark
+71744058388	#layer-unclassified #unknown-type #dark
+73008724053	#layer-unclassified #unknown-type #dark
+73023061463	#layer-unclassified #unknown-type #dark
+73226687003	#layer-unclassified #unknown-type #dark
+73241128294	#layer-unclassified #unknown-type #dark
+79078038583	#layer-unclassified #unknown-type #dark
+82632930341	#layer-unclassified #unknown-type #dark
+89809468155	#layer-unclassified #unknown-type #dark
+91030038526	#layer-unclassified #unknown-type #dark
+99487695735	#layer-unclassified #unknown-type #dark
+100506991226	#layer-unclassified #unknown-type #dark
+101246955101	#layer-unclassified #unknown-type #dark
+101604914428	#layer-unclassified #unknown-type #dark
+102463233807	#layer-unclassified #unknown-type #dark
+2538794345	#layer-unclassified #unknown-type #grey
+20632060544	#layer-unclassified #unknown-type #grey
+30181304965	#layer-unclassified #unknown-type #grey
+44814690230	#layer-unclassified #unknown-type #grey
+80245374695	#layer-unclassified #unknown-type #grey
+444629711	#layer-unclassified #pyramidal #neuron
+502712570	#layer-unclassified #pyramidal #neuron
+604627510	#layer-unclassified #pyramidal #neuron
+691824830	#layer-unclassified #pyramidal #neuron
+1216687103	#layer-unclassified #pyramidal #neuron
+1971851039	#layer-unclassified #pyramidal #neuron
+2877930520	#layer-unclassified #pyramidal #neuron
+3197940892	#layer-unclassified #pyramidal #neuron
+3445777620	#layer-unclassified #pyramidal #neuron
+4620355076	#layer-unclassified #pyramidal #neuron
+4682965320	#layer-unclassified #pyramidal #neuron
+4712473471	#layer-unclassified #pyramidal #neuron
+4915879289	#layer-unclassified #pyramidal #neuron
+6124040361	#layer-unclassified #pyramidal #neuron
+6984155369	#layer-unclassified #pyramidal #neuron
+8040318755	#layer-unclassified #pyramidal #neuron
+18160899013	#layer-unclassified #pyramidal #neuron
+18204424594	#layer-unclassified #pyramidal #neuron
+18422506016	#layer-unclassified #pyramidal #neuron
+24308051434	#layer-unclassified #pyramidal #neuron
+26895071220	#layer-unclassified #pyramidal #neuron
+26909906638	#layer-unclassified #pyramidal #neuron
+27098609390	#layer-unclassified #pyramidal #neuron
+27200232787	#layer-unclassified #pyramidal #neuron
+27200436997	#layer-unclassified #pyramidal #neuron
+27258534349	#layer-unclassified #pyramidal #neuron
+27520052421	#layer-unclassified #pyramidal #neuron
+27651668251	#layer-unclassified #pyramidal #neuron
+27652018127	#layer-unclassified #pyramidal #neuron
+27694520166	#layer-unclassified #pyramidal #neuron
+27739359964	#layer-unclassified #pyramidal #neuron
+27782989228	#layer-unclassified #pyramidal #neuron
+27839799716	#layer-unclassified #pyramidal #neuron
+27869967800	#layer-unclassified #pyramidal #neuron
+27884656406	#layer-unclassified #pyramidal #neuron
+27971795059	#layer-unclassified #pyramidal #neuron
+28204432845	#layer-unclassified #pyramidal #neuron
+28438326074	#layer-unclassified #pyramidal #neuron
+28727747289	#layer-unclassified #pyramidal #neuron
+29076959362	#layer-unclassified #pyramidal #neuron
+29672884493	#layer-unclassified #pyramidal #neuron
+33580227403	#layer-unclassified #pyramidal #neuron
+34390567945	#layer-unclassified #pyramidal #neuron
+35774816022	#layer-unclassified #pyramidal #neuron
+35774904486	#layer-unclassified #pyramidal #neuron
+35788992949	#layer-unclassified #pyramidal #neuron
+35803301938	#layer-unclassified #pyramidal #neuron
+35803872567	#layer-unclassified #pyramidal #neuron
+35847544045	#layer-unclassified #pyramidal #neuron
+35847675512	#layer-unclassified #pyramidal #neuron
+35861969650	#layer-unclassified #pyramidal #neuron
+35862028142	#layer-unclassified #pyramidal #neuron
+35891376266	#layer-unclassified #pyramidal #neuron
+35920490780	#layer-unclassified #pyramidal #neuron
+35920637148	#layer-unclassified #pyramidal #neuron
+35978456779	#layer-unclassified #pyramidal #neuron
+35978690831	#layer-unclassified #pyramidal #neuron
+35992940805	#layer-unclassified #pyramidal #neuron
+36007614869	#layer-unclassified #pyramidal #neuron
+36022244976	#layer-unclassified #pyramidal #neuron
+36036685655	#layer-unclassified #pyramidal #neuron
+36051300898	#layer-unclassified #pyramidal #neuron
+36051637813	#layer-unclassified #pyramidal #neuron
+36095149039	#layer-unclassified #pyramidal #neuron
+36109325196	#layer-unclassified #pyramidal #neuron
+36109412985	#layer-unclassified #pyramidal #neuron
+36123838786	#layer-unclassified #pyramidal #neuron
+36167379005	#layer-unclassified #pyramidal #neuron
+36181891746	#layer-unclassified #pyramidal #neuron
+36239872733	#layer-unclassified #pyramidal #neuron
+36254912222	#layer-unclassified #pyramidal #neuron
+36327332679	#layer-unclassified #pyramidal #neuron
+36327435459	#layer-unclassified #pyramidal #neuron
+36371326551	#layer-unclassified #pyramidal #neuron
+36385722478	#layer-unclassified #pyramidal #neuron
+36429306252	#layer-unclassified #pyramidal #neuron
+36473270776	#layer-unclassified #pyramidal #neuron
+36487535394	#layer-unclassified #pyramidal #neuron
+36559795259	#layer-unclassified #pyramidal #neuron
+36719998439	#layer-unclassified #pyramidal #neuron
+36766356243	#layer-unclassified #pyramidal #neuron
+36821225608	#layer-unclassified #pyramidal #neuron
+36821767061	#layer-unclassified #pyramidal #neuron
+36822176128	#layer-unclassified #pyramidal #neuron
+36838425373	#layer-unclassified #pyramidal #neuron
+36865088070	#layer-unclassified #pyramidal #neuron
+36894290061	#layer-unclassified #pyramidal #neuron
+36967325104	#layer-unclassified #pyramidal #neuron
+37024734550	#layer-unclassified #pyramidal #neuron
+37215395669	#layer-unclassified #pyramidal #neuron
+37272953041	#layer-unclassified #pyramidal #neuron
+37287145175	#layer-unclassified #pyramidal #neuron
+37433199058	#layer-unclassified #pyramidal #neuron
+37506291999	#layer-unclassified #pyramidal #neuron
+37606935776	#layer-unclassified #pyramidal #neuron
+37738914853	#layer-unclassified #pyramidal #neuron
+37926418775	#layer-unclassified #pyramidal #neuron
+37954963963	#layer-unclassified #pyramidal #neuron
+40742135737	#layer-unclassified #pyramidal #neuron
+41425913780	#layer-unclassified #pyramidal #neuron
+42963413549	#layer-unclassified #pyramidal #neuron
+43631029764	#layer-unclassified #pyramidal #neuron
+44844037807	#layer-unclassified #pyramidal #neuron
+44873167078	#layer-unclassified #pyramidal #neuron
+45032259131	#layer-unclassified #pyramidal #neuron
+45133910362	#layer-unclassified #pyramidal #neuron
+45439496461	#layer-unclassified #pyramidal #neuron
+45599157745	#layer-unclassified #pyramidal #neuron
+45673141382	#layer-unclassified #pyramidal #neuron
+45731384588	#layer-unclassified #pyramidal #neuron
+45760631126	#layer-unclassified #pyramidal #neuron
+45788256064	#layer-unclassified #pyramidal #neuron
+46618045375	#layer-unclassified #pyramidal #neuron
+46836446896	#layer-unclassified #pyramidal #neuron
+47461077999	#layer-unclassified #pyramidal #neuron
+51918572205	#layer-unclassified #pyramidal #neuron
+53897680316	#layer-unclassified #pyramidal #neuron
+54407299244	#layer-unclassified #pyramidal #neuron
+55221757603	#layer-unclassified #pyramidal #neuron
+55658035226	#layer-unclassified #pyramidal #neuron
+61029539159	#layer-unclassified #pyramidal #neuron
+62312089065	#layer-unclassified #pyramidal #neuron
+62457427460	#layer-unclassified #pyramidal #neuron
+62850106802	#layer-unclassified #pyramidal #neuron
+63082583914	#layer-unclassified #pyramidal #neuron
+63607928826	#layer-unclassified #pyramidal #neuron
+63985598859	#layer-unclassified #pyramidal #neuron
+64201925725	#layer-unclassified #pyramidal #neuron
+68880861305	#layer-unclassified #pyramidal #neuron
+71176925655	#layer-unclassified #pyramidal #neuron
+71177028492	#layer-unclassified #pyramidal #neuron
+71177057903	#layer-unclassified #pyramidal #neuron
+71191278405	#layer-unclassified #pyramidal #neuron
+71337172346	#layer-unclassified #pyramidal #neuron
+71365848337	#layer-unclassified #pyramidal #neuron
+71366169328	#layer-unclassified #pyramidal #neuron
+71438750784	#layer-unclassified #pyramidal #neuron
+71526181910	#layer-unclassified #pyramidal #neuron
+71642025897	#layer-unclassified #pyramidal #neuron
+71743795787	#layer-unclassified #pyramidal #neuron
+71772851862	#layer-unclassified #pyramidal #neuron
+71802067448	#layer-unclassified #pyramidal #neuron
+71932776158	#layer-unclassified #pyramidal #neuron
+72063936745	#layer-unclassified #pyramidal #neuron
+72165224750	#layer-unclassified #pyramidal #neuron
+72165457279	#layer-unclassified #pyramidal #neuron
+72194396298	#layer-unclassified #pyramidal #neuron
+72223627501	#layer-unclassified #pyramidal #neuron
+72281521532	#layer-unclassified #pyramidal #neuron
+72281637872	#layer-unclassified #pyramidal #neuron
+72295975459	#layer-unclassified #pyramidal #neuron
+72368922728	#layer-unclassified #pyramidal #neuron
+72572182823	#layer-unclassified #pyramidal #neuron
+72572328884	#layer-unclassified #pyramidal #neuron
+72732254379	#layer-unclassified #pyramidal #neuron
+72819800954	#layer-unclassified #pyramidal #neuron
+72834081521	#layer-unclassified #pyramidal #neuron
+72848623858	#layer-unclassified #pyramidal #neuron
+72863253543	#layer-unclassified #pyramidal #neuron
+72877942526	#layer-unclassified #pyramidal #neuron
+73124815848	#layer-unclassified #pyramidal #neuron
+73139343898	#layer-unclassified #pyramidal #neuron
+73168575010	#layer-unclassified #pyramidal #neuron
+73226775407	#layer-unclassified #pyramidal #neuron
+73342706815	#layer-unclassified #pyramidal #neuron
+73343013183	#layer-unclassified #pyramidal #neuron
+73473633712	#layer-unclassified #pyramidal #neuron
+73517261499	#layer-unclassified #pyramidal #neuron
+73575256716	#layer-unclassified #pyramidal #neuron
+73808099727	#layer-unclassified #pyramidal #neuron
+73822568412	#layer-unclassified #pyramidal #neuron
+78414655959	#layer-unclassified #pyramidal #neuron
+80041865253	#layer-unclassified #pyramidal #neuron
+80174063776	#layer-unclassified #pyramidal #neuron
+80826726506	#layer-unclassified #pyramidal #neuron
+81088376846	#layer-unclassified #pyramidal #neuron
+81800862692	#layer-unclassified #pyramidal #neuron
+81815214364	#layer-unclassified #pyramidal #neuron
+81975051660	#layer-unclassified #pyramidal #neuron
+82818186164	#layer-unclassified #pyramidal #neuron
+82934600071	#layer-unclassified #pyramidal #neuron
+83428990986	#layer-unclassified #pyramidal #neuron
+89097333515	#layer-unclassified #pyramidal #neuron
+89328773135	#layer-unclassified #pyramidal #neuron
+89823645730	#layer-unclassified #pyramidal #neuron
+90230121859	#layer-unclassified #pyramidal #neuron
+90433601581	#layer-unclassified #pyramidal #neuron
+90709823403	#layer-unclassified #pyramidal #neuron
+91945330229	#layer-unclassified #pyramidal #neuron
+96232286676	#layer-unclassified #pyramidal #neuron
+96348992218	#layer-unclassified #pyramidal #neuron
+99226220565	#layer-unclassified #pyramidal #neuron
+99284171845	#layer-unclassified #pyramidal #neuron
+99415158555	#layer-unclassified #pyramidal #neuron
+99595583561	#layer-unclassified #pyramidal #neuron
+100142111980	#layer-unclassified #pyramidal #neuron
+100295335167	#layer-unclassified #pyramidal #neuron
+100490725495	#layer-unclassified #pyramidal #neuron
+100688642830	#layer-unclassified #pyramidal #neuron
+100776015665	#layer-unclassified #pyramidal #neuron
+101261658407	#layer-unclassified #pyramidal #neuron
+101271018063	#layer-unclassified #pyramidal #neuron
+101576718896	#layer-unclassified #pyramidal #neuron
+101707485575	#layer-unclassified #pyramidal #neuron
+101940619638	#layer-unclassified #pyramidal #neuron
+102042549467	#layer-unclassified #pyramidal #neuron
+102290008027	#layer-unclassified #pyramidal #neuron
+102421008241	#layer-unclassified #pyramidal #neuron
+103090390686	#layer-unclassified #pyramidal #neuron
+103148706365	#layer-unclassified #pyramidal #neuron
+103163468028	#layer-unclassified #pyramidal #neuron
+103876538067	#layer-unclassified #pyramidal #neuron
+104180414653	#layer-unclassified #pyramidal #neuron
+105024745976	#layer-unclassified #pyramidal #neuron
+105572531279	#layer-unclassified #pyramidal #neuron
+32203501227	#layer-unclassified #pyramidal #neuron #bipolar
+38014318705	#layer-unclassified #pyramidal #neuron #bipolar
+56703496131	#layer-unclassified #pyramidal #neuron #bipolar
+78398493700	#layer-unclassified #pyramidal #neuron #bipolar
+101028978632	#layer-unclassified #pyramidal #neuron #bipolar
+50886515152	#layer-unclassified #pyramidal #neuron #sparsely-spiny
+72281564806	#layer-unclassified #pyramidal #neuron #sparsely-spiny
+72514289608	#layer-unclassified #pyramidal #neuron #sparsely-spiny
+72630557397	#layer-unclassified #pyramidal #neuron #sparsely-spiny #possible-interneuron
+72645275760	#layer-unclassified #pyramidal #neuron #sparsely-spiny #possible-interneuron
+72921351188	#layer-unclassified #pyramidal #neuron #sparsely-spiny #possible-interneuron
+28364270045	#layer-unclassified #pyramidal #neuron #lot-of-axon
+35876761337	#layer-unclassified #pyramidal #neuron #lot-of-axon
+36094797447	#layer-unclassified #pyramidal #neuron #lot-of-axon
+37535025343	#layer-unclassified #pyramidal #neuron #dark
+71685726936	#layer-unclassified #pyramidal #neuron #dark
+72034865787	#layer-unclassified #pyramidal #neuron #dark
+72412360781	#layer-unclassified #pyramidal #neuron #dark
+89590320813	#layer-unclassified #pyramidal #neuron #dark
+98688291155	#layer-unclassified #pyramidal #neuron #dark
+590187536	#layer-unclassified #neuron #interneuron
+1375838707	#layer-unclassified #neuron #interneuron
+3896307333	#layer-unclassified #neuron #interneuron
+6428981990	#layer-unclassified #neuron #interneuron
+6679594063	#layer-unclassified #neuron #interneuron
+25350927891	#layer-unclassified #neuron #interneuron
+27069626569	#layer-unclassified #neuron #interneuron
+27127709486	#layer-unclassified #neuron #interneuron
+28597885803	#layer-unclassified #neuron #interneuron
+28934846527	#layer-unclassified #neuron #interneuron
+32082823540	#layer-unclassified #neuron #interneuron
+33070669643	#layer-unclassified #neuron #interneuron
+33421367871	#layer-unclassified #neuron #interneuron
+35963782530	#layer-unclassified #neuron #interneuron
+35992911168	#layer-unclassified #neuron #interneuron
+36007366339	#layer-unclassified #neuron #interneuron
+36022756956	#layer-unclassified #neuron #interneuron
+36037065890	#layer-unclassified #neuron #interneuron
+36037095493	#layer-unclassified #neuron #interneuron
+36109164629	#layer-unclassified #neuron #interneuron
+36123882659	#layer-unclassified #neuron #interneuron
+36181950773	#layer-unclassified #neuron #interneuron
+36226104038	#layer-unclassified #neuron #interneuron
+36341890126	#layer-unclassified #neuron #interneuron
+36400250658	#layer-unclassified #neuron #interneuron
+36477140390	#layer-unclassified #neuron #interneuron
+36516137462	#layer-unclassified #neuron #interneuron
+36691205169	#layer-unclassified #neuron #interneuron
+37727467427	#layer-unclassified #neuron #interneuron
+44625783246	#layer-unclassified #neuron #interneuron
+44815157513	#layer-unclassified #neuron #interneuron
+45235840906	#layer-unclassified #neuron #interneuron
+45265875427	#layer-unclassified #neuron #interneuron
+45279775506	#layer-unclassified #neuron #interneuron
+45308758600	#layer-unclassified #neuron #interneuron
+45381501108	#layer-unclassified #neuron #interneuron
+45483079665	#layer-unclassified #neuron #interneuron
+48953124670	#layer-unclassified #neuron #interneuron
+53679599772	#layer-unclassified #neuron #interneuron
+55308633284	#layer-unclassified #neuron #interneuron
+58401402332	#layer-unclassified #neuron #interneuron
+62400207628	#layer-unclassified #neuron #interneuron
+62574441203	#layer-unclassified #neuron #interneuron
+62588428796	#layer-unclassified #neuron #interneuron
+62632626095	#layer-unclassified #neuron #interneuron
+62704695844	#layer-unclassified #neuron #interneuron
+62822380437	#layer-unclassified #neuron #interneuron
+63853810127	#layer-unclassified #neuron #interneuron
+64003805859	#layer-unclassified #neuron #interneuron
+71162660626	#layer-unclassified #neuron #interneuron
+71162806958	#layer-unclassified #neuron #interneuron
+71176998682	#layer-unclassified #neuron #interneuron
+71177291351	#layer-unclassified #neuron #interneuron
+71191249196	#layer-unclassified #neuron #interneuron
+71220642252	#layer-unclassified #neuron #interneuron
+71235096573	#layer-unclassified #neuron #interneuron
+71278534067	#layer-unclassified #neuron #interneuron
+71351714738	#layer-unclassified #neuron #interneuron
+71366710565	#layer-unclassified #neuron #interneuron
+71380507437	#layer-unclassified #neuron #interneuron
+71439042754	#layer-unclassified #neuron #interneuron
+71453001376	#layer-unclassified #neuron #interneuron
+71628301701	#layer-unclassified #neuron #interneuron
+71860427652	#layer-unclassified #neuron #interneuron
+71861392670	#layer-unclassified #neuron #interneuron
+71947537217	#layer-unclassified #neuron #interneuron
+71991106831	#layer-unclassified #neuron #interneuron
+72470764063	#layer-unclassified #neuron #interneuron
+72500068257	#layer-unclassified #neuron #interneuron
+72936287816	#layer-unclassified #neuron #interneuron
+72993815650	#layer-unclassified #neuron #interneuron
+73052103713	#layer-unclassified #neuron #interneuron
+73110098415	#layer-unclassified #neuron #interneuron
+73124699755	#layer-unclassified #neuron #interneuron
+73197631008	#layer-unclassified #neuron #interneuron
+80042479397	#layer-unclassified #neuron #interneuron
+80115659538	#layer-unclassified #neuron #interneuron
+80188240741	#layer-unclassified #neuron #interneuron
+80768497944	#layer-unclassified #neuron #interneuron
+81002012589	#layer-unclassified #neuron #interneuron
+81292135211	#layer-unclassified #neuron #interneuron
+81380280424	#layer-unclassified #neuron #interneuron
+81525590108	#layer-unclassified #neuron #interneuron
+81713650207	#layer-unclassified #neuron #interneuron
+81743073709	#layer-unclassified #neuron #interneuron
+89576159408	#layer-unclassified #neuron #interneuron
+90129492167	#layer-unclassified #neuron #interneuron
+90244636449	#layer-unclassified #neuron #interneuron
+91204170059	#layer-unclassified #neuron #interneuron
+97831827236	#layer-unclassified #neuron #interneuron
+98078773795	#layer-unclassified #neuron #interneuron
+98252276329	#layer-unclassified #neuron #interneuron
+98384124154	#layer-unclassified #neuron #interneuron
+98819130033	#layer-unclassified #neuron #interneuron
+99037708740	#layer-unclassified #neuron #interneuron
+100133264644	#layer-unclassified #neuron #interneuron
+100178790829	#layer-unclassified #neuron #interneuron
+100193771014	#layer-unclassified #neuron #interneuron
+100251999523	#layer-unclassified #neuron #interneuron
+100252013949	#layer-unclassified #neuron #interneuron
+100436526923	#layer-unclassified #neuron #interneuron
+100455173282	#layer-unclassified #neuron #interneuron
+100674114237	#layer-unclassified #neuron #interneuron
+100731949884	#layer-unclassified #neuron #interneuron
+101125256034	#layer-unclassified #neuron #interneuron
+101183558264	#layer-unclassified #neuron #interneuron
+101474805055	#layer-unclassified #neuron #interneuron
+101966872869	#layer-unclassified #neuron #interneuron
+102275246093	#layer-unclassified #neuron #interneuron
+102275405869	#layer-unclassified #neuron #interneuron
+102740886700	#layer-unclassified #neuron #interneuron
+102957185248	#layer-unclassified #neuron #interneuron
+103046587530	#layer-unclassified #neuron #interneuron
+103949352665	#layer-unclassified #neuron #interneuron
+104342178100	#layer-unclassified #neuron #interneuron
+100892442903	#layer-unclassified #neuron #interneuron #bipolar
+36022099181	#layer-unclassified #neuron #interneuron #sparsely-spiny
+54028928316	#layer-unclassified #neuron #interneuron #web-like-interneuron
+72776012952	#layer-unclassified #neuron #interneuron #web-like-interneuron
+44989696599	#layer-unclassified #neuron #interneuron #lot-of-axon
+81874161124	#layer-unclassified #neuron #interneuron #grey
+560882845	#layer-unclassified #neuron #unclassified-neuron
+619053219	#layer-unclassified #neuron #unclassified-neuron
+648211429	#layer-unclassified #neuron #unclassified-neuron
+735423271	#layer-unclassified #neuron #unclassified-neuron
+1855013837	#layer-unclassified #neuron #unclassified-neuron
+7287681306	#layer-unclassified #neuron #unclassified-neuron
+18030074053	#layer-unclassified #neuron #unclassified-neuron
+18131813847	#layer-unclassified #neuron #unclassified-neuron
+18364349387	#layer-unclassified #neuron #unclassified-neuron
+19047573940	#layer-unclassified #neuron #unclassified-neuron
+19213280735	#layer-unclassified #neuron #unclassified-neuron
+20210441483	#layer-unclassified #neuron #unclassified-neuron
+27345848282	#layer-unclassified #neuron #unclassified-neuron
+27403711651	#layer-unclassified #neuron #unclassified-neuron
+27418196023	#layer-unclassified #neuron #unclassified-neuron
+27607235287	#layer-unclassified #neuron #unclassified-neuron
+33348684557	#layer-unclassified #neuron #unclassified-neuron
+33811245418	#layer-unclassified #neuron #unclassified-neuron
+35774829969	#layer-unclassified #neuron #unclassified-neuron
+41267728894	#layer-unclassified #neuron #unclassified-neuron
+44755993547	#layer-unclassified #neuron #unclassified-neuron
+62951744670	#layer-unclassified #neuron #unclassified-neuron
+71307780266	#layer-unclassified #neuron #unclassified-neuron
+71554814124	#layer-unclassified #neuron #unclassified-neuron
+73052000920	#layer-unclassified #neuron #unclassified-neuron
+73095643686	#layer-unclassified #neuron #unclassified-neuron
+73284799928	#layer-unclassified #neuron #unclassified-neuron
+73779277054	#layer-unclassified #neuron #unclassified-neuron
+74055031146	#layer-unclassified #neuron #unclassified-neuron
+80013673474	#layer-unclassified #neuron #unclassified-neuron
+80259696827	#layer-unclassified #neuron #unclassified-neuron
+80623320554	#layer-unclassified #neuron #unclassified-neuron
+80740508915	#layer-unclassified #neuron #unclassified-neuron
+81684345443	#layer-unclassified #neuron #unclassified-neuron
+81946199881	#layer-unclassified #neuron #unclassified-neuron
+82149738432	#layer-unclassified #neuron #unclassified-neuron
+82847344606	#layer-unclassified #neuron #unclassified-neuron
+90535414702	#layer-unclassified #neuron #unclassified-neuron
+90884378815	#layer-unclassified #neuron #unclassified-neuron
+97729823694	#layer-unclassified #neuron #unclassified-neuron
+98106733164	#layer-unclassified #neuron #unclassified-neuron
+98368719291	#layer-unclassified #neuron #unclassified-neuron
+98644516718	#layer-unclassified #neuron #unclassified-neuron
+99182637703	#layer-unclassified #neuron #unclassified-neuron
+99298670688	#layer-unclassified #neuron #unclassified-neuron
+99458536963	#layer-unclassified #neuron #unclassified-neuron
+100164204701	#layer-unclassified #neuron #unclassified-neuron
+100383014121	#layer-unclassified #neuron #unclassified-neuron
+100626444367	#layer-unclassified #neuron #unclassified-neuron
+100688351099	#layer-unclassified #neuron #unclassified-neuron
+100703143339	#layer-unclassified #neuron #unclassified-neuron
+100790281105	#layer-unclassified #neuron #unclassified-neuron
+100804940710	#layer-unclassified #neuron #unclassified-neuron
+100863344525	#layer-unclassified #neuron #unclassified-neuron
+100886764893	#layer-unclassified #neuron #unclassified-neuron
+100950482412	#layer-unclassified #neuron #unclassified-neuron
+101008960375	#layer-unclassified #neuron #unclassified-neuron
+101033767408	#layer-unclassified #neuron #unclassified-neuron
+101037883457	#layer-unclassified #neuron #unclassified-neuron
+101328941976	#layer-unclassified #neuron #unclassified-neuron
+101338446609	#layer-unclassified #neuron #unclassified-neuron
+101401931277	#layer-unclassified #neuron #unclassified-neuron
+102056873858	#layer-unclassified #neuron #unclassified-neuron
+102086061287	#layer-unclassified #neuron #unclassified-neuron
+102200007236	#layer-unclassified #neuron #unclassified-neuron
+102260601272	#layer-unclassified #neuron #unclassified-neuron
+102784981608	#layer-unclassified #neuron #unclassified-neuron
+103920063640	#layer-unclassified #neuron #unclassified-neuron
+104095071458	#layer-unclassified #neuron #unclassified-neuron
+104298141834	#layer-unclassified #neuron #unclassified-neuron
+105010290289	#layer-unclassified #neuron #unclassified-neuron
+105024922427	#layer-unclassified #neuron #unclassified-neuron
+105039521672	#layer-unclassified #neuron #unclassified-neuron
+105068475750	#layer-unclassified #neuron #unclassified-neuron
+105268101673	#layer-unclassified #neuron #unclassified-neuron
+72703197384	#layer-unclassified #neuron #unclassified-neuron #thin-apical-dendrite
+73124772714	#layer-unclassified #neuron #unclassified-neuron #thin-apical-dendrite
+73139431439	#layer-unclassified #neuron #unclassified-neuron #thin-apical-dendrite
+73182958203	#layer-unclassified #neuron #unclassified-neuron #thin-apical-dendrite
+73328660464	#layer-unclassified #neuron #unclassified-neuron #thin-apical-dendrite
+81626336004	#layer-unclassified #neuron #unclassified-neuron #thin-apical-dendrite
+82411343835	#layer-unclassified #neuron #unclassified-neuron #thin-apical-dendrite
+102228727723	#layer-unclassified #neuron #unclassified-neuron #thin-apical-dendrite
+73037793891	#layer-unclassified #neuron #unclassified-neuron #thin-apical-dendrite #sparsely-spiny #possible-interneuron
+72427005801	#layer-unclassified #neuron #unclassified-neuron #thin-apical-dendrite #possible-interneuron
+72950713960	#layer-unclassified #neuron #unclassified-neuron #thin-apical-dendrite #possible-interneuron
+73197601800	#layer-unclassified #neuron #unclassified-neuron #thin-apical-dendrite #possible-interneuron
+72877635499	#layer-unclassified #neuron #unclassified-neuron #sparsely-spiny
+72892309500	#layer-unclassified #neuron #unclassified-neuron #sparsely-spiny
+73212421850	#layer-unclassified #neuron #unclassified-neuron #sparsely-spiny
+82934687806	#layer-unclassified #neuron #unclassified-neuron #sparsely-spiny
+73052190491	#layer-unclassified #neuron #unclassified-neuron #sparsely-spiny #possible-interneuron
+103714029214	#layer-unclassified #neuron #unclassified-neuron #possible-interneuron
+29919408414	#layer-unclassified #neuron #spiny-stellate
+444849698	#layer-unclassified #neuron #excitatory/spiny-with-atypical-tree
+27768388911	#layer-unclassified #neuron #excitatory/spiny-with-atypical-tree
+30638390044	#layer-unclassified #neuron #excitatory/spiny-with-atypical-tree
+35746109797	#layer-unclassified #neuron #excitatory/spiny-with-atypical-tree
+35993072236	#layer-unclassified #neuron #excitatory/spiny-with-atypical-tree
+36036817098	#layer-unclassified #neuron #excitatory/spiny-with-atypical-tree
+36065668162	#layer-unclassified #neuron #excitatory/spiny-with-atypical-tree
+36138191357	#layer-unclassified #neuron #excitatory/spiny-with-atypical-tree
+36356417959	#layer-unclassified #neuron #excitatory/spiny-with-atypical-tree
+36414076705	#layer-unclassified #neuron #excitatory/spiny-with-atypical-tree
+36719588284	#layer-unclassified #neuron #excitatory/spiny-with-atypical-tree
+37738739493	#layer-unclassified #neuron #excitatory/spiny-with-atypical-tree
+37839836328	#layer-unclassified #neuron #excitatory/spiny-with-atypical-tree
+42865295504	#layer-unclassified #neuron #excitatory/spiny-with-atypical-tree
+44742269068	#layer-unclassified #neuron #excitatory/spiny-with-atypical-tree
+71308188613	#layer-unclassified #neuron #excitatory/spiny-with-atypical-tree
+71365774952	#layer-unclassified #neuron #excitatory/spiny-with-atypical-tree
+100062522779	#layer-unclassified #neuron #excitatory/spiny-with-atypical-tree
+100164467589	#layer-unclassified #neuron #excitatory/spiny-with-atypical-tree
+100193698697	#layer-unclassified #neuron #excitatory/spiny-with-atypical-tree
+100499078889	#layer-unclassified #neuron #excitatory/spiny-with-atypical-tree
+101561913505	#layer-unclassified #neuron #excitatory/spiny-with-atypical-tree
+101998790690	#layer-unclassified #neuron #excitatory/spiny-with-atypical-tree
+102173287083	#layer-unclassified #neuron #excitatory/spiny-with-atypical-tree
+103526886623	#layer-unclassified #neuron #excitatory/spiny-with-atypical-tree
+104386025683	#layer-unclassified #neuron #excitatory/spiny-with-atypical-tree
+444805639	#layer-unclassified #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+46050927569	#layer-unclassified #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+72034808350	#layer-unclassified #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+72296194614	#layer-unclassified #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+77848838157	#layer-unclassified #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+103890920352	#layer-unclassified #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+72935878874	#layer-unclassified #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+4559469707	#layer-unclassified #neuron #excitatory/spiny-with-atypical-tree #bipolar
+7081966846	#layer-unclassified #neuron #excitatory/spiny-with-atypical-tree #inverted-apical-dendrite
+73197864630	#layer-unclassified #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+72180350618	#layer-unclassified #neuron #excitatory/spiny-with-atypical-tree #grey
+782058771	#layer-unclassified #astrocyte #glial
+913205129	#layer-unclassified #astrocyte #glial
+2895145385	#layer-unclassified #astrocyte #glial
+3536362765	#layer-unclassified #astrocyte #glial
+4117978615	#layer-unclassified #astrocyte #glial
+4744609593	#layer-unclassified #astrocyte #glial
+4890415470	#layer-unclassified #astrocyte #glial
+6242861980	#layer-unclassified #astrocyte #glial
+7294893225	#layer-unclassified #astrocyte #glial
+7468806552	#layer-unclassified #astrocyte #glial
+7776959884	#layer-unclassified #astrocyte #glial
+14396724884	#layer-unclassified #astrocyte #glial
+27568907499	#layer-unclassified #astrocyte #glial
+28268383714	#layer-unclassified #astrocyte #glial
+29067308204	#layer-unclassified #astrocyte #glial
+31413425013	#layer-unclassified #astrocyte #glial
+33199842972	#layer-unclassified #astrocyte #glial
+33840752439	#layer-unclassified #astrocyte #glial
+35689487132	#layer-unclassified #astrocyte #glial
+35760639609	#layer-unclassified #astrocyte #glial
+35788905329	#layer-unclassified #astrocyte #glial
+36283661818	#layer-unclassified #astrocyte #glial
+36458362229	#layer-unclassified #astrocyte #glial
+36545252573	#layer-unclassified #astrocyte #glial
+36704665768	#layer-unclassified #astrocyte #glial
+37301511923	#layer-unclassified #astrocyte #glial
+42029156283	#layer-unclassified #astrocyte #glial
+43557675101	#layer-unclassified #astrocyte #glial
+43645529224	#layer-unclassified #astrocyte #glial
+44916444503	#layer-unclassified #astrocyte #glial
+44974658690	#layer-unclassified #astrocyte #glial
+45119602034	#layer-unclassified #astrocyte #glial
+45648348951	#layer-unclassified #astrocyte #glial
+49010973530	#layer-unclassified #astrocyte #glial
+53433031207	#layer-unclassified #astrocyte #glial
+54193613165	#layer-unclassified #astrocyte #glial
+54252278892	#layer-unclassified #astrocyte #glial
+54319151846	#layer-unclassified #astrocyte #glial
+54455687328	#layer-unclassified #astrocyte #glial
+54537261681	#layer-unclassified #astrocyte #glial
+55315043427	#layer-unclassified #astrocyte #glial
+62442987127	#layer-unclassified #astrocyte #glial
+62457881905	#layer-unclassified #astrocyte #glial
+62791848749	#layer-unclassified #astrocyte #glial
+63649614191	#layer-unclassified #astrocyte #glial
+64209591835	#layer-unclassified #astrocyte #glial
+71177642042	#layer-unclassified #astrocyte #glial
+71264852921	#layer-unclassified #astrocyte #glial
+71279499039	#layer-unclassified #astrocyte #glial
+71293544681	#layer-unclassified #astrocyte #glial
+71322293162	#layer-unclassified #astrocyte #glial
+71336558339	#layer-unclassified #astrocyte #glial
+71380770685	#layer-unclassified #astrocyte #glial
+71453308730	#layer-unclassified #astrocyte #glial
+71525904137	#layer-unclassified #astrocyte #glial
+71685901874	#layer-unclassified #astrocyte #glial
+71772807223	#layer-unclassified #astrocyte #glial
+71787409019	#layer-unclassified #astrocyte #glial
+71933330790	#layer-unclassified #astrocyte #glial
+71947625318	#layer-unclassified #astrocyte #glial
+71947683800	#layer-unclassified #astrocyte #glial
+71976988143	#layer-unclassified #astrocyte #glial
+71991180537	#layer-unclassified #astrocyte #glial
+72063484475	#layer-unclassified #astrocyte #glial
+72063674237	#layer-unclassified #astrocyte #glial
+72150900608	#layer-unclassified #astrocyte #glial
+72151075298	#layer-unclassified #astrocyte #glial
+72208881727	#layer-unclassified #astrocyte #glial
+72238097719	#layer-unclassified #astrocyte #glial
+72296559700	#layer-unclassified #astrocyte #glial
+72325046188	#layer-unclassified #astrocyte #glial
+72398314199	#layer-unclassified #astrocyte #glial
+72499922363	#layer-unclassified #astrocyte #glial
+72775954248	#layer-unclassified #astrocyte #glial
+72834037565	#layer-unclassified #astrocyte #glial
+72863414777	#layer-unclassified #astrocyte #glial
+72906925686	#layer-unclassified #astrocyte #glial
+72907086420	#layer-unclassified #astrocyte #glial
+72921350954	#layer-unclassified #astrocyte #glial
+79077325153	#layer-unclassified #astrocyte #glial
+79091910789	#layer-unclassified #astrocyte #glial
+80464228756	#layer-unclassified #astrocyte #glial
+80551601443	#layer-unclassified #astrocyte #glial
+81553755134	#layer-unclassified #astrocyte #glial
+81626204427	#layer-unclassified #astrocyte #glial
+81699546360	#layer-unclassified #astrocyte #glial
+82295530813	#layer-unclassified #astrocyte #glial
+87410522779	#layer-unclassified #astrocyte #glial
+88892788689	#layer-unclassified #astrocyte #glial
+89010018197	#layer-unclassified #astrocyte #glial
+89401340109	#layer-unclassified #astrocyte #glial
+91945462679	#layer-unclassified #astrocyte #glial
+98746270992	#layer-unclassified #astrocyte #glial
+100330917637	#layer-unclassified #astrocyte #glial
+100397206580	#layer-unclassified #astrocyte #glial
+100839689635	#layer-unclassified #astrocyte #glial
+100848815352	#layer-unclassified #astrocyte #glial
+100965272870	#layer-unclassified #astrocyte #glial
+101416255077	#layer-unclassified #astrocyte #glial
+101838631695	#layer-unclassified #astrocyte #glial
+102755778846	#layer-unclassified #astrocyte #glial
+104036826837	#layer-unclassified #astrocyte #glial
+105010379395	#layer-unclassified #astrocyte #glial
+3397463577	#layer-unclassified #glial #oligodendrocyte
+5823565081	#layer-unclassified #glial #oligodendrocyte
+6539993518	#layer-unclassified #glial #oligodendrocyte
+8459806789	#layer-unclassified #glial #oligodendrocyte
+13112195573	#layer-unclassified #glial #oligodendrocyte
+13758787031	#layer-unclassified #glial #oligodendrocyte
+13817439450	#layer-unclassified #glial #oligodendrocyte
+14147552500	#layer-unclassified #glial #oligodendrocyte
+14450697362	#layer-unclassified #glial #oligodendrocyte
+14646557108	#layer-unclassified #glial #oligodendrocyte
+14790829133	#layer-unclassified #glial #oligodendrocyte
+14868199003	#layer-unclassified #glial #oligodendrocyte
+16268362356	#layer-unclassified #glial #oligodendrocyte
+16379635884	#layer-unclassified #glial #oligodendrocyte
+16483010616	#layer-unclassified #glial #oligodendrocyte
+17120113698	#layer-unclassified #glial #oligodendrocyte
+17178137871	#layer-unclassified #glial #oligodendrocyte
+17195044434	#layer-unclassified #glial #oligodendrocyte
+17326554153	#layer-unclassified #glial #oligodendrocyte
+17528982467	#layer-unclassified #glial #oligodendrocyte
+20370352301	#layer-unclassified #glial #oligodendrocyte
+23627411904	#layer-unclassified #glial #oligodendrocyte
+24588903710	#layer-unclassified #glial #oligodendrocyte
+24909818807	#layer-unclassified #glial #oligodendrocyte
+24954394236	#layer-unclassified #glial #oligodendrocyte
+25316937449	#layer-unclassified #glial #oligodendrocyte
+25476263797	#layer-unclassified #glial #oligodendrocyte
+25795984008	#layer-unclassified #glial #oligodendrocyte
+25885033410	#layer-unclassified #glial #oligodendrocyte
+25900962395	#layer-unclassified #glial #oligodendrocyte
+26306884808	#layer-unclassified #glial #oligodendrocyte
+26350425846	#layer-unclassified #glial #oligodendrocyte
+26350499843	#layer-unclassified #glial #oligodendrocyte
+28831063807	#layer-unclassified #glial #oligodendrocyte
+29061554294	#layer-unclassified #glial #oligodendrocyte
+31460351896	#layer-unclassified #glial #oligodendrocyte
+31635346166	#layer-unclassified #glial #oligodendrocyte
+32391035285	#layer-unclassified #glial #oligodendrocyte
+32435976400	#layer-unclassified #glial #oligodendrocyte
+32713410941	#layer-unclassified #glial #oligodendrocyte
+32756307699	#layer-unclassified #glial #oligodendrocyte
+32849243046	#layer-unclassified #glial #oligodendrocyte
+33176641566	#layer-unclassified #glial #oligodendrocyte
+33323178082	#layer-unclassified #glial #oligodendrocyte
+33527123597	#layer-unclassified #glial #oligodendrocyte
+33776538504	#layer-unclassified #glial #oligodendrocyte
+33876321561	#layer-unclassified #glial #oligodendrocyte
+34093715832	#layer-unclassified #glial #oligodendrocyte
+34401533868	#layer-unclassified #glial #oligodendrocyte
+35186614671	#layer-unclassified #glial #oligodendrocyte
+35186746373	#layer-unclassified #glial #oligodendrocyte
+35949635202	#layer-unclassified #glial #oligodendrocyte
+36051184219	#layer-unclassified #glial #oligodendrocyte
+36370814630	#layer-unclassified #glial #oligodendrocyte
+38131623603	#layer-unclassified #glial #oligodendrocyte
+38668092781	#layer-unclassified #glial #oligodendrocyte
+39529989123	#layer-unclassified #glial #oligodendrocyte
+41265376330	#layer-unclassified #glial #oligodendrocyte
+41474770721	#layer-unclassified #glial #oligodendrocyte
+42770709407	#layer-unclassified #glial #oligodendrocyte
+42827700054	#layer-unclassified #glial #oligodendrocyte
+42987858983	#layer-unclassified #glial #oligodendrocyte
+43572070607	#layer-unclassified #glial #oligodendrocyte
+44931060218	#layer-unclassified #glial #oligodendrocyte
+45555923689	#layer-unclassified #glial #oligodendrocyte
+49218642534	#layer-unclassified #glial #oligodendrocyte
+50776294319	#layer-unclassified #glial #oligodendrocyte
+54028636461	#layer-unclassified #glial #oligodendrocyte
+55343893716	#layer-unclassified #glial #oligodendrocyte
+61115918812	#layer-unclassified #glial #oligodendrocyte
+63198968857	#layer-unclassified #glial #oligodendrocyte
+64216468485	#layer-unclassified #glial #oligodendrocyte
+66704144471	#layer-unclassified #glial #oligodendrocyte
+71337011204	#layer-unclassified #glial #oligodendrocyte
+71394918925	#layer-unclassified #glial #oligodendrocyte
+71409680399	#layer-unclassified #glial #oligodendrocyte
+71555457195	#layer-unclassified #glial #oligodendrocyte
+71628345847	#layer-unclassified #glial #oligodendrocyte
+71656715356	#layer-unclassified #glial #oligodendrocyte
+71730173205	#layer-unclassified #glial #oligodendrocyte
+71816945864	#layer-unclassified #glial #oligodendrocyte
+71860501487	#layer-unclassified #glial #oligodendrocyte
+72121844380	#layer-unclassified #glial #oligodendrocyte
+72122180550	#layer-unclassified #glial #oligodendrocyte
+72122224115	#layer-unclassified #glial #oligodendrocyte
+72238637851	#layer-unclassified #glial #oligodendrocyte
+72282236450	#layer-unclassified #glial #oligodendrocyte
+72339881032	#layer-unclassified #glial #oligodendrocyte
+72383756697	#layer-unclassified #glial #oligodendrocyte
+72426918047	#layer-unclassified #glial #oligodendrocyte
+72427370485	#layer-unclassified #glial #oligodendrocyte
+72485627852	#layer-unclassified #glial #oligodendrocyte
+72529124896	#layer-unclassified #glial #oligodendrocyte
+72543477029	#layer-unclassified #glial #oligodendrocyte
+72558297021	#layer-unclassified #glial #oligodendrocyte
+72761485534	#layer-unclassified #glial #oligodendrocyte
+72790336123	#layer-unclassified #glial #oligodendrocyte
+72834285366	#layer-unclassified #glial #oligodendrocyte
+72907144796	#layer-unclassified #glial #oligodendrocyte
+73168386434	#layer-unclassified #glial #oligodendrocyte
+73226891423	#layer-unclassified #glial #oligodendrocyte
+73270592630	#layer-unclassified #glial #oligodendrocyte
+73560977012	#layer-unclassified #glial #oligodendrocyte
+73851683432	#layer-unclassified #glial #oligodendrocyte
+73924059946	#layer-unclassified #glial #oligodendrocyte
+73996787669	#layer-unclassified #glial #oligodendrocyte
+74025945852	#layer-unclassified #glial #oligodendrocyte
+79163877702	#layer-unclassified #glial #oligodendrocyte
+80260107679	#layer-unclassified #glial #oligodendrocyte
+80318379574	#layer-unclassified #glial #oligodendrocyte
+80333068725	#layer-unclassified #glial #oligodendrocyte
+80377323271	#layer-unclassified #glial #oligodendrocyte
+80754511392	#layer-unclassified #glial #oligodendrocyte
+80783304640	#layer-unclassified #glial #oligodendrocyte
+80944237210	#layer-unclassified #glial #oligodendrocyte
+81161893719	#layer-unclassified #glial #oligodendrocyte
+81321219862	#layer-unclassified #glial #oligodendrocyte
+81409059909	#layer-unclassified #glial #oligodendrocyte
+81452293676	#layer-unclassified #glial #oligodendrocyte
+81568415884	#layer-unclassified #glial #oligodendrocyte
+81612100272	#layer-unclassified #glial #oligodendrocyte
+81670316713	#layer-unclassified #glial #oligodendrocyte
+81699546359	#layer-unclassified #glial #oligodendrocyte
+81728341061	#layer-unclassified #glial #oligodendrocyte
+81903098560	#layer-unclassified #glial #oligodendrocyte
+81960948793	#layer-unclassified #glial #oligodendrocyte
+82208437587	#layer-unclassified #glial #oligodendrocyte
+82208464890	#layer-unclassified #glial #oligodendrocyte
+82600457531	#layer-unclassified #glial #oligodendrocyte
+82629542314	#layer-unclassified #glial #oligodendrocyte
+82716813390	#layer-unclassified #glial #oligodendrocyte
+82716871580	#layer-unclassified #glial #oligodendrocyte
+85838024511	#layer-unclassified #glial #oligodendrocyte
+87943970834	#layer-unclassified #glial #oligodendrocyte
+89024809495	#layer-unclassified #glial #oligodendrocyte
+89242348750	#layer-unclassified #glial #oligodendrocyte
+89459757590	#layer-unclassified #glial #oligodendrocyte
+89489179112	#layer-unclassified #glial #oligodendrocyte
+89489794027	#layer-unclassified #glial #oligodendrocyte
+89518483377	#layer-unclassified #glial #oligodendrocyte
+89620486099	#layer-unclassified #glial #oligodendrocyte
+89693039512	#layer-unclassified #glial #oligodendrocyte
+89794165784	#layer-unclassified #glial #oligodendrocyte
+89925545901	#layer-unclassified #glial #oligodendrocyte
+89998008898	#layer-unclassified #glial #oligodendrocyte
+90099692202	#layer-unclassified #glial #oligodendrocyte
+90434040394	#layer-unclassified #glial #oligodendrocyte
+90521075883	#layer-unclassified #glial #oligodendrocyte
+90579129915	#layer-unclassified #glial #oligodendrocyte
+90607981071	#layer-unclassified #glial #oligodendrocyte
+90782857798	#layer-unclassified #glial #oligodendrocyte
+91015933988	#layer-unclassified #glial #oligodendrocyte
+91059239881	#layer-unclassified #glial #oligodendrocyte
+91596497707	#layer-unclassified #glial #oligodendrocyte
+91770995339	#layer-unclassified #glial #oligodendrocyte
+91785552517	#layer-unclassified #glial #oligodendrocyte
+92192495882	#layer-unclassified #glial #oligodendrocyte
+92279722428	#layer-unclassified #glial #oligodendrocyte
+93232787613	#layer-unclassified #glial #oligodendrocyte
+94979826865	#layer-unclassified #glial #oligodendrocyte
+96736926220	#layer-unclassified #glial #oligodendrocyte
+97904451730	#layer-unclassified #glial #oligodendrocyte
+98096148448	#layer-unclassified #glial #oligodendrocyte
+98354161914	#layer-unclassified #glial #oligodendrocyte
+98964702736	#layer-unclassified #glial #oligodendrocyte
+99037299444	#layer-unclassified #glial #oligodendrocyte
+99095395549	#layer-unclassified #glial #oligodendrocyte
+99560744142	#layer-unclassified #glial #oligodendrocyte
+99735022735	#layer-unclassified #glial #oligodendrocyte
+99735065665	#layer-unclassified #glial #oligodendrocyte
+99778941868	#layer-unclassified #glial #oligodendrocyte
+100088016894	#layer-unclassified #glial #oligodendrocyte
+100133805492	#layer-unclassified #glial #oligodendrocyte
+100176878371	#layer-unclassified #glial #oligodendrocyte
+100187390719	#layer-unclassified #glial #oligodendrocyte
+100187814954	#layer-unclassified #glial #oligodendrocyte
+100214898864	#layer-unclassified #glial #oligodendrocyte
+100219308953	#layer-unclassified #glial #oligodendrocyte
+100220213117	#layer-unclassified #glial #oligodendrocyte
+100258233769	#layer-unclassified #glial #oligodendrocyte
+100275872779	#layer-unclassified #glial #oligodendrocyte
+100290401029	#layer-unclassified #glial #oligodendrocyte
+100293378588	#layer-unclassified #glial #oligodendrocyte
+100304636704	#layer-unclassified #glial #oligodendrocyte
+100304972485	#layer-unclassified #glial #oligodendrocyte
+100309426052	#layer-unclassified #glial #oligodendrocyte
+100319180764	#layer-unclassified #glial #oligodendrocyte
+100331065249	#layer-unclassified #glial #oligodendrocyte
+100411675910	#layer-unclassified #glial #oligodendrocyte
+100422176153	#layer-unclassified #glial #oligodendrocyte
+100432716380	#layer-unclassified #glial #oligodendrocyte
+100451946474	#layer-unclassified #glial #oligodendrocyte
+100454238813	#layer-unclassified #glial #oligodendrocyte
+100464562001	#layer-unclassified #glial #oligodendrocyte
+100465218699	#layer-unclassified #glial #oligodendrocyte
+100479323267	#layer-unclassified #glial #oligodendrocyte
+100492098850	#layer-unclassified #glial #oligodendrocyte
+100496275549	#layer-unclassified #glial #oligodendrocyte
+100508890562	#layer-unclassified #glial #oligodendrocyte
+100510554242	#layer-unclassified #glial #oligodendrocyte
+100510788867	#layer-unclassified #glial #oligodendrocyte
+100522395935	#layer-unclassified #glial #oligodendrocyte
+100525389481	#layer-unclassified #glial #oligodendrocyte
+100577951879	#layer-unclassified #glial #oligodendrocyte
+100585632483	#layer-unclassified #glial #oligodendrocyte
+100655090078	#layer-unclassified #glial #oligodendrocyte
+100670873952	#layer-unclassified #glial #oligodendrocyte
+100695739923	#layer-unclassified #glial #oligodendrocyte
+100714078983	#layer-unclassified #glial #oligodendrocyte
+100724809886	#layer-unclassified #glial #oligodendrocyte
+100755209818	#layer-unclassified #glial #oligodendrocyte
+100771810453	#layer-unclassified #glial #oligodendrocyte
+100773402078	#layer-unclassified #glial #oligodendrocyte
+100775211525	#layer-unclassified #glial #oligodendrocyte
+100783186106	#layer-unclassified #glial #oligodendrocyte
+100812664579	#layer-unclassified #glial #oligodendrocyte
+100813351327	#layer-unclassified #glial #oligodendrocyte
+100826344494	#layer-unclassified #glial #oligodendrocyte
+100826886352	#layer-unclassified #glial #oligodendrocyte
+100830010796	#layer-unclassified #glial #oligodendrocyte
+100845325777	#layer-unclassified #glial #oligodendrocyte
+100885098963	#layer-unclassified #glial #oligodendrocyte
+100903758916	#layer-unclassified #glial #oligodendrocyte
+100929003850	#layer-unclassified #glial #oligodendrocyte
+100975538426	#layer-unclassified #glial #oligodendrocyte
+100987598107	#layer-unclassified #glial #oligodendrocyte
+101000506218	#layer-unclassified #glial #oligodendrocyte
+101019136464	#layer-unclassified #glial #oligodendrocyte
+101029400810	#layer-unclassified #glial #oligodendrocyte
+101030394464	#layer-unclassified #glial #oligodendrocyte
+101051273480	#layer-unclassified #glial #oligodendrocyte
+101074882957	#layer-unclassified #glial #oligodendrocyte
+101102173253	#layer-unclassified #glial #oligodendrocyte
+101119446202	#layer-unclassified #glial #oligodendrocyte
+101120833281	#layer-unclassified #glial #oligodendrocyte
+101131841582	#layer-unclassified #glial #oligodendrocyte
+101165862166	#layer-unclassified #glial #oligodendrocyte
+101208672377	#layer-unclassified #glial #oligodendrocyte
+101222469922	#layer-unclassified #glial #oligodendrocyte
+101224076742	#layer-unclassified #glial #oligodendrocyte
+101249671319	#layer-unclassified #glial #oligodendrocyte
+101251950497	#layer-unclassified #glial #oligodendrocyte
+101281313359	#layer-unclassified #glial #oligodendrocyte
+101324750450	#layer-unclassified #glial #oligodendrocyte
+101335554865	#layer-unclassified #glial #oligodendrocyte
+101369005587	#layer-unclassified #glial #oligodendrocyte
+101369152264	#layer-unclassified #glial #oligodendrocyte
+101392892480	#layer-unclassified #glial #oligodendrocyte
+101392965895	#layer-unclassified #glial #oligodendrocyte
+101429540894	#layer-unclassified #glial #oligodendrocyte
+101466439490	#layer-unclassified #glial #oligodendrocyte
+101481770891	#layer-unclassified #glial #oligodendrocyte
+101483141696	#layer-unclassified #glial #oligodendrocyte
+101483639177	#layer-unclassified #glial #oligodendrocyte
+101516695412	#layer-unclassified #glial #oligodendrocyte
+101517951342	#layer-unclassified #glial #oligodendrocyte
+101575333032	#layer-unclassified #glial #oligodendrocyte
+101656586594	#layer-unclassified #glial #oligodendrocyte
+101714992169	#layer-unclassified #glial #oligodendrocyte
+101717239865	#layer-unclassified #glial #oligodendrocyte
+101733169372	#layer-unclassified #glial #oligodendrocyte
+101734410905	#layer-unclassified #glial #oligodendrocyte
+101734586143	#layer-unclassified #glial #oligodendrocyte
+101758048955	#layer-unclassified #glial #oligodendrocyte
+101785718992	#layer-unclassified #glial #oligodendrocyte
+101789573012	#layer-unclassified #glial #oligodendrocyte
+101806407836	#layer-unclassified #glial #oligodendrocyte
+101820980362	#layer-unclassified #glial #oligodendrocyte
+101836938841	#layer-unclassified #glial #oligodendrocyte
+101860577259	#layer-unclassified #glial #oligodendrocyte
+101903169019	#layer-unclassified #glial #oligodendrocyte
+101917040261	#layer-unclassified #glial #oligodendrocyte
+101931831017	#layer-unclassified #glial #oligodendrocyte
+101964230449	#layer-unclassified #glial #oligodendrocyte
+101966858464	#layer-unclassified #glial #oligodendrocyte
+101968566674	#layer-unclassified #glial #oligodendrocyte
+101974451765	#layer-unclassified #glial #oligodendrocyte
+101978071839	#layer-unclassified #glial #oligodendrocyte
+101979764773	#layer-unclassified #glial #oligodendrocyte
+101981021468	#layer-unclassified #glial #oligodendrocyte

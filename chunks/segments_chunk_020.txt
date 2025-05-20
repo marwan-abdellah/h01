@@ -1,0 +1,1000 @@
+29716775468	#L4 #neuron #excitatory/spiny-with-atypical-tree
+29774230350	#L4 #neuron #excitatory/spiny-with-atypical-tree
+29774507680	#L4 #neuron #excitatory/spiny-with-atypical-tree
+29920824142	#L4 #neuron #excitatory/spiny-with-atypical-tree
+29978147464	#L4 #neuron #excitatory/spiny-with-atypical-tree
+30081682986	#L4 #neuron #excitatory/spiny-with-atypical-tree
+30138423086	#L4 #neuron #excitatory/spiny-with-atypical-tree
+30183160057	#L4 #neuron #excitatory/spiny-with-atypical-tree
+30286199479	#L4 #neuron #excitatory/spiny-with-atypical-tree
+30358036369	#L4 #neuron #excitatory/spiny-with-atypical-tree
+30358153581	#L4 #neuron #excitatory/spiny-with-atypical-tree
+30532897819	#L4 #neuron #excitatory/spiny-with-atypical-tree
+30547454237	#L4 #neuron #excitatory/spiny-with-atypical-tree
+30621247530	#L4 #neuron #excitatory/spiny-with-atypical-tree
+30810068715	#L4 #neuron #excitatory/spiny-with-atypical-tree
+30912786611	#L4 #neuron #excitatory/spiny-with-atypical-tree
+30984375683	#L4 #neuron #excitatory/spiny-with-atypical-tree
+31320621553	#L4 #neuron #excitatory/spiny-with-atypical-tree
+31436917974	#L4 #neuron #excitatory/spiny-with-atypical-tree
+31552951017	#L4 #neuron #excitatory/spiny-with-atypical-tree
+31684521820	#L4 #neuron #excitatory/spiny-with-atypical-tree
+31699954996	#L4 #neuron #excitatory/spiny-with-atypical-tree
+31714205840	#L4 #neuron #excitatory/spiny-with-atypical-tree
+31800965559	#L4 #neuron #excitatory/spiny-with-atypical-tree
+31888411203	#L4 #neuron #excitatory/spiny-with-atypical-tree
+31946945424	#L4 #neuron #excitatory/spiny-with-atypical-tree
+32048495417	#L4 #neuron #excitatory/spiny-with-atypical-tree
+32151476799	#L4 #neuron #excitatory/spiny-with-atypical-tree
+32238863660	#L4 #neuron #excitatory/spiny-with-atypical-tree
+32281775445	#L4 #neuron #excitatory/spiny-with-atypical-tree
+32282519983	#L4 #neuron #excitatory/spiny-with-atypical-tree
+32368754431	#L4 #neuron #excitatory/spiny-with-atypical-tree
+32384055580	#L4 #neuron #excitatory/spiny-with-atypical-tree
+32427858285	#L4 #neuron #excitatory/spiny-with-atypical-tree
+32427946408	#L4 #neuron #excitatory/spiny-with-atypical-tree
+32441977652	#L4 #neuron #excitatory/spiny-with-atypical-tree
+32455615938	#L4 #neuron #excitatory/spiny-with-atypical-tree
+32587811533	#L4 #neuron #excitatory/spiny-with-atypical-tree
+32602647821	#L4 #neuron #excitatory/spiny-with-atypical-tree
+32616956081	#L4 #neuron #excitatory/spiny-with-atypical-tree
+32617058829	#L4 #neuron #excitatory/spiny-with-atypical-tree
+32632535648	#L4 #neuron #excitatory/spiny-with-atypical-tree
+32777873751	#L4 #neuron #excitatory/spiny-with-atypical-tree
+32849784306	#L4 #neuron #excitatory/spiny-with-atypical-tree
+33068711566	#L4 #neuron #excitatory/spiny-with-atypical-tree
+33082947618	#L4 #neuron #excitatory/spiny-with-atypical-tree
+33096818574	#L4 #neuron #excitatory/spiny-with-atypical-tree
+33097197904	#L4 #neuron #excitatory/spiny-with-atypical-tree
+33315483099	#L4 #neuron #excitatory/spiny-with-atypical-tree
+33548310408	#L4 #neuron #excitatory/spiny-with-atypical-tree
+33694758985	#L4 #neuron #excitatory/spiny-with-atypical-tree
+33709243748	#L4 #neuron #excitatory/spiny-with-atypical-tree
+33854682964	#L4 #neuron #excitatory/spiny-with-atypical-tree
+37708558989	#L4 #neuron #excitatory/spiny-with-atypical-tree
+37955841812	#L4 #neuron #excitatory/spiny-with-atypical-tree
+37985014373	#L4 #neuron #excitatory/spiny-with-atypical-tree
+37999557244	#L4 #neuron #excitatory/spiny-with-atypical-tree
+38056996397	#L4 #neuron #excitatory/spiny-with-atypical-tree
+38086549972	#L4 #neuron #excitatory/spiny-with-atypical-tree
+38130877791	#L4 #neuron #excitatory/spiny-with-atypical-tree
+38144661966	#L4 #neuron #excitatory/spiny-with-atypical-tree
+38231844494	#L4 #neuron #excitatory/spiny-with-atypical-tree
+38420619770	#L4 #neuron #excitatory/spiny-with-atypical-tree
+38510095518	#L4 #neuron #excitatory/spiny-with-atypical-tree
+38582954053	#L4 #neuron #excitatory/spiny-with-atypical-tree
+38728160942	#L4 #neuron #excitatory/spiny-with-atypical-tree
+38844574567	#L4 #neuron #excitatory/spiny-with-atypical-tree
+38947015685	#L4 #neuron #excitatory/spiny-with-atypical-tree
+39151312662	#L4 #neuron #excitatory/spiny-with-atypical-tree
+40418810743	#L4 #neuron #excitatory/spiny-with-atypical-tree
+40477257819	#L4 #neuron #excitatory/spiny-with-atypical-tree
+40492487634	#L4 #neuron #excitatory/spiny-with-atypical-tree
+40506197752	#L4 #neuron #excitatory/spiny-with-atypical-tree
+41088412261	#L4 #neuron #excitatory/spiny-with-atypical-tree
+41132026996	#L4 #neuron #excitatory/spiny-with-atypical-tree
+41408905129	#L4 #neuron #excitatory/spiny-with-atypical-tree
+41409722990	#L4 #neuron #excitatory/spiny-with-atypical-tree
+41817484120	#L4 #neuron #excitatory/spiny-with-atypical-tree
+41963216650	#L4 #neuron #excitatory/spiny-with-atypical-tree
+41976722616	#L4 #neuron #excitatory/spiny-with-atypical-tree
+42123551299	#L4 #neuron #excitatory/spiny-with-atypical-tree
+42297521559	#L4 #neuron #excitatory/spiny-with-atypical-tree
+42502256723	#L4 #neuron #excitatory/spiny-with-atypical-tree
+46922534121	#L4 #neuron #excitatory/spiny-with-atypical-tree
+51542013340	#L4 #neuron #excitatory/spiny-with-atypical-tree
+59170509976	#L4 #neuron #excitatory/spiny-with-atypical-tree
+69069286715	#L4 #neuron #excitatory/spiny-with-atypical-tree
+77614258645	#L4 #neuron #excitatory/spiny-with-atypical-tree
+78080702336	#L4 #neuron #excitatory/spiny-with-atypical-tree
+78153312615	#L4 #neuron #excitatory/spiny-with-atypical-tree
+78181654549	#L4 #neuron #excitatory/spiny-with-atypical-tree
+93072557291	#L4 #neuron #excitatory/spiny-with-atypical-tree
+2626033904	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+2641073035	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+2756960839	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+2785842811	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+2846231358	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+3064867282	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+3223798621	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+3297417998	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+3354273161	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+3806145513	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+3994775522	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+4026504179	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+4040200115	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+4054157516	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+4081477416	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+4097450642	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+4228814924	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+4360195050	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+4388695609	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+4447493950	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+4651076376	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+4681693850	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+4753341279	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+4783696749	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+4812387820	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+4813979630	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+4988432101	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+5074082715	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+5088346668	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+5102816051	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+5147248581	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+5205344129	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+5220470827	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+5336285896	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+5612742384	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+5743347252	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+5760855066	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+6051517005	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+6108576710	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+12934647655	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+29193256115	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+29367241933	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+29455753195	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+29570852670	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+29615357035	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+29658590681	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+29701415126	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+29745743756	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+29877298634	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+30022096841	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+30239812095	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+30358225757	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+30475179608	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+30547425090	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+30576190003	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+30824640384	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+31043610670	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+31189796131	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+31348858897	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+31815361170	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+31859311009	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+31859471617	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+31976089622	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+37810284423	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+37883449219	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+38028627294	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+38159642879	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+38290248123	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+38624727850	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+40549898290	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+41541672030	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+42240139561	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+4214681004	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #bipolar
+56049502603	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #bipolar
+56997530540	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #bipolar #sparsely-spiny
+38522696243	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #unusually-thin-dendrites #sparsely-spiny
+2640548359	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+2671063546	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+2728679427	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+2890079485	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+3192961291	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+3341045744	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+3442857593	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+3572325387	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+3631255890	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+3747127652	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+3762707857	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+3778505461	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+4083797822	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+4490479341	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+4534968408	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+4621115652	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+4855081769	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+5161687139	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+29702247459	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+29717476066	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+29833304891	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+29878291849	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+30984316968	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+31437166262	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+31742006036	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+37621637652	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+37868044523	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+37868205683	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+38013573669	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+38159671587	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+38188288499	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+38377343264	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+38406472011	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+39092704937	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+38567681081	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny #lot-of-axon
+4723234964	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #lot-of-axon
+29775413068	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #lot-of-axon
+31043406757	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #lot-of-axon
+38772897549	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #lot-of-axon
+2552926828	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #grey
+3236736435	#L4 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #grey
+3454714070	#L4 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+3850386573	#L4 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+5073381104	#L4 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+5541328846	#L4 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+29819084477	#L4 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+30211019506	#L4 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+32630943701	#L4 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+3164474933	#L4 #neuron #excitatory/spiny-with-atypical-tree #inverted-apical-dendrite
+3178273555	#L4 #neuron #excitatory/spiny-with-atypical-tree #inverted-apical-dendrite
+4504949777	#L4 #neuron #excitatory/spiny-with-atypical-tree #inverted-apical-dendrite
+5393887098	#L4 #neuron #excitatory/spiny-with-atypical-tree #inverted-apical-dendrite
+32193585975	#L4 #neuron #excitatory/spiny-with-atypical-tree #inverted-apical-dendrite
+40535311982	#L4 #neuron #excitatory/spiny-with-atypical-tree #inverted-apical-dendrite
+2917002434	#L4 #neuron #excitatory/spiny-with-atypical-tree #unusually-thin-dendrites
+3412604830	#L4 #neuron #excitatory/spiny-with-atypical-tree #unusually-thin-dendrites #sparsely-spiny
+3543999741	#L4 #neuron #excitatory/spiny-with-atypical-tree #unusually-thin-dendrites #sparsely-spiny
+29759790213	#L4 #neuron #excitatory/spiny-with-atypical-tree #unusually-thin-dendrites #sparsely-spiny
+30839240958	#L4 #neuron #excitatory/spiny-with-atypical-tree #unusually-thin-dendrites #sparsely-spiny
+39923588561	#L4 #neuron #excitatory/spiny-with-atypical-tree #unusually-thin-dendrites #sparsely-spiny
+2772468250	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+2830214431	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+2990388665	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+3033167963	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+3061465041	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+3091237029	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+3250679424	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+3280977320	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+3324882581	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+3383650454	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+3471067066	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+3618026379	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+3791485646	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+3981460490	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+4039951236	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+4067795964	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+4140770831	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+4242875478	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+4258600777	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+4315924195	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+4519448051	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+4679956476	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+4695595597	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+4884181899	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+5204906123	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+13384431268	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+29497847256	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+29600069532	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+29701415123	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+29774347489	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+30825149922	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+32893602212	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+33709214115	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+33825525969	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+37781243320	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+38100594421	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+38348359066	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+38581303769	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+38741039523	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+38800465148	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+38829696561	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+39355084243	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+40303011271	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+40855103005	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+40884437225	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+41598703543	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+41890168682	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+68937834352	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+3791238349	#L4 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny #lot-of-axon
+29572181326	#L4 #neuron #excitatory/spiny-with-atypical-tree #grey
+37650418065	#L4 #neuron #excitatory/spiny-with-atypical-tree #grey
+2364297809	#L4 #astrocyte #glial
+2509387134	#L4 #astrocyte #glial
+2538648015	#L4 #astrocyte #glial
+2538793406	#L4 #astrocyte #glial
+2567615656	#L4 #astrocyte #glial
+2567747879	#L4 #astrocyte #glial
+2597007574	#L4 #astrocyte #glial
+2640518701	#L4 #astrocyte #glial
+2654550265	#L4 #astrocyte #glial
+2728329585	#L4 #astrocyte #glial
+2742200567	#L4 #astrocyte #glial
+2815336444	#L4 #astrocyte #glial
+2829192346	#L4 #astrocyte #glial
+2859373392	#L4 #astrocyte #glial
+2859563105	#L4 #astrocyte #glial
+2872996421	#L4 #astrocyte #glial
+2873770008	#L4 #astrocyte #glial
+2874105747	#L4 #astrocyte #glial
+2888019874	#L4 #astrocyte #glial
+2888955005	#L4 #astrocyte #glial
+2945357704	#L4 #astrocyte #glial
+2946308014	#L4 #astrocyte #glial
+2960791986	#L4 #astrocyte #glial
+2961098511	#L4 #astrocyte #glial
+2961711853	#L4 #astrocyte #glial
+2962048234	#L4 #astrocyte #glial
+2990943466	#L4 #astrocyte #glial
+3003411345	#L4 #astrocyte #glial
+3004317738	#L4 #astrocyte #glial
+3120366290	#L4 #astrocyte #glial
+3121723765	#L4 #astrocyte #glial
+3122191398	#L4 #astrocyte #glial
+3149246756	#L4 #astrocyte #glial
+3149509218	#L4 #astrocyte #glial
+3150648729	#L4 #astrocyte #glial
+3151816305	#L4 #astrocyte #glial
+3165074985	#L4 #astrocyte #glial
+3179266102	#L4 #astrocyte #glial
+3180201417	#L4 #astrocyte #glial
+3193371202	#L4 #astrocyte #glial
+3195050214	#L4 #astrocyte #glial
+3208643246	#L4 #astrocyte #glial
+3209038462	#L4 #astrocyte #glial
+3224602596	#L4 #astrocyte #glial
+3237028177	#L4 #astrocyte #glial
+3237729184	#L4 #astrocyte #glial
+3267076234	#L4 #astrocyte #glial
+3267544453	#L4 #astrocyte #glial
+3267572714	#L4 #astrocyte #glial
+3267617601	#L4 #astrocyte #glial
+3296147158	#L4 #astrocyte #glial
+3297008867	#L4 #astrocyte #glial
+3311098565	#L4 #astrocyte #glial
+3397215050	#L4 #astrocyte #glial
+3398588453	#L4 #astrocyte #glial
+3455779919	#L4 #astrocyte #glial
+3456087749	#L4 #astrocyte #glial
+3501101412	#L4 #astrocyte #glial
+3528508550	#L4 #astrocyte #glial
+3530391435	#L4 #astrocyte #glial
+3543634969	#L4 #astrocyte #glial
+3558177619	#L4 #astrocyte #glial
+3558629215	#L4 #astrocyte #glial
+3616960606	#L4 #astrocyte #glial
+3645812733	#L4 #astrocyte #glial
+3646892853	#L4 #astrocyte #glial
+3661610910	#L4 #astrocyte #glial
+3690549729	#L4 #astrocyte #glial
+3690607956	#L4 #astrocyte #glial
+3704085235	#L4 #astrocyte #glial
+3718569203	#L4 #astrocyte #glial
+3719109485	#L4 #astrocyte #glial
+3733052496	#L4 #astrocyte #glial
+3761919896	#L4 #astrocyte #glial
+3792829740	#L4 #astrocyte #glial
+3822016235	#L4 #astrocyte #glial
+3879472186	#L4 #astrocyte #glial
+3879486941	#L4 #astrocyte #glial
+3923041545	#L4 #astrocyte #glial
+3980788440	#L4 #astrocyte #glial
+3980891023	#L4 #astrocyte #glial
+3996250695	#L4 #astrocyte #glial
+4011465324	#L4 #astrocyte #glial
+4024985805	#L4 #astrocyte #glial
+4068058833	#L4 #astrocyte #glial
+4069459463	#L4 #astrocyte #glial
+4098107322	#L4 #astrocyte #glial
+4185056577	#L4 #astrocyte #glial
+4215396446	#L4 #astrocyte #glial
+4228829951	#L4 #astrocyte #glial
+4229340756	#L4 #astrocyte #glial
+4243474386	#L4 #astrocyte #glial
+4243503754	#L4 #astrocyte #glial
+4272063613	#L4 #astrocyte #glial
+4273202679	#L4 #astrocyte #glial
+4287803235	#L4 #astrocyte #glial
+4374183171	#L4 #astrocyte #glial
+4388754681	#L4 #astrocyte #glial
+4390069135	#L4 #astrocyte #glial
+4403135994	#L4 #astrocyte #glial
+4403486925	#L4 #astrocyte #glial
+4419446563	#L4 #astrocyte #glial
+4433054390	#L4 #astrocyte #glial
+4462972303	#L4 #astrocyte #glial
+4475951710	#L4 #astrocyte #glial
+4491429443	#L4 #astrocyte #glial
+4520222869	#L4 #astrocyte #glial
+4549760565	#L4 #astrocyte #glial
+4563937606	#L4 #astrocyte #glial
+4578714610	#L4 #astrocyte #glial
+4579137576	#L4 #astrocyte #glial
+4608587830	#L4 #astrocyte #glial
+4636300786	#L4 #astrocyte #glial
+4637146980	#L4 #astrocyte #glial
+4638037888	#L4 #astrocyte #glial
+4652536923	#L4 #astrocyte #glial
+4667181695	#L4 #astrocyte #glial
+4709597686	#L4 #astrocyte #glial
+4709772353	#L4 #astrocyte #glial
+4754509549	#L4 #astrocyte #glial
+4783376337	#L4 #astrocyte #glial
+4812009240	#L4 #astrocyte #glial
+4826916432	#L4 #astrocyte #glial
+4841065077	#L4 #astrocyte #glial
+4841078774	#L4 #astrocyte #glial
+4870398540	#L4 #astrocyte #glial
+4913076987	#L4 #astrocyte #glial
+4913603090	#L4 #astrocyte #glial
+4913880034	#L4 #astrocyte #glial
+4942410571	#L4 #astrocyte #glial
+4943519681	#L4 #astrocyte #glial
+4972108701	#L4 #astrocyte #glial
+4986504853	#L4 #astrocyte #glial
+5001340253	#L4 #astrocyte #glial
+5030746918	#L4 #astrocyte #glial
+5074957532	#L4 #astrocyte #glial
+5089282144	#L4 #astrocyte #glial
+5117140551	#L4 #astrocyte #glial
+5131843105	#L4 #astrocyte #glial
+5234386830	#L4 #astrocyte #glial
+5263602951	#L4 #astrocyte #glial
+5321408954	#L4 #astrocyte #glial
+5322036680	#L4 #astrocyte #glial
+5365459254	#L4 #astrocyte #glial
+5409044053	#L4 #astrocyte #glial
+5409803148	#L4 #astrocyte #glial
+5409889592	#L4 #astrocyte #glial
+5453372197	#L4 #astrocyte #glial
+5466892751	#L4 #astrocyte #glial
+5511513702	#L4 #astrocyte #glial
+5598112108	#L4 #astrocyte #glial
+5599469452	#L4 #astrocyte #glial
+5627781098	#L4 #astrocyte #glial
+5628481627	#L4 #astrocyte #glial
+5656706369	#L4 #astrocyte #glial
+5656880596	#L4 #astrocyte #glial
+5700289808	#L4 #astrocyte #glial
+5744253007	#L4 #astrocyte #glial
+5801736936	#L4 #astrocyte #glial
+5802380426	#L4 #astrocyte #glial
+5816469756	#L4 #astrocyte #glial
+5816528343	#L4 #astrocyte #glial
+5817287874	#L4 #astrocyte #glial
+5830940247	#L4 #astrocyte #glial
+5831932666	#L4 #astrocyte #glial
+5904776895	#L4 #astrocyte #glial
+5934387454	#L4 #astrocyte #glial
+5934475627	#L4 #astrocyte #glial
+5962289791	#L4 #astrocyte #glial
+5963677582	#L4 #astrocyte #glial
+6020723809	#L4 #astrocyte #glial
+6021351153	#L4 #astrocyte #glial
+6021613157	#L4 #astrocyte #glial
+6065227552	#L4 #astrocyte #glial
+6123499974	#L4 #astrocyte #glial
+6137428374	#L4 #astrocyte #glial
+6166966494	#L4 #astrocyte #glial
+6210244765	#L4 #astrocyte #glial
+6225736597	#L4 #astrocyte #glial
+6253404902	#L4 #astrocyte #glial
+6400655252	#L4 #astrocyte #glial
+6414819284	#L4 #astrocyte #glial
+6457890920	#L4 #astrocyte #glial
+6502176977	#L4 #astrocyte #glial
+6502279546	#L4 #astrocyte #glial
+6545293434	#L4 #astrocyte #glial
+6545629316	#L4 #astrocyte #glial
+6559632089	#L4 #astrocyte #glial
+6560668519	#L4 #astrocyte #glial
+6589374447	#L4 #astrocyte #glial
+6604281343	#L4 #astrocyte #glial
+6618808924	#L4 #astrocyte #glial
+6632651644	#L4 #astrocyte #glial
+6690325443	#L4 #astrocyte #glial
+6690748453	#L4 #astrocyte #glial
+6705612570	#L4 #astrocyte #glial
+6735179783	#L4 #astrocyte #glial
+6735588249	#L4 #astrocyte #glial
+6778194139	#L4 #astrocyte #glial
+6779259664	#L4 #astrocyte #glial
+6806987517	#L4 #astrocyte #glial
+6821734477	#L4 #astrocyte #glial
+6880897227	#L4 #astrocyte #glial
+6894724909	#L4 #astrocyte #glial
+11316491451	#L4 #astrocyte #glial
+11432920744	#L4 #astrocyte #glial
+11709010686	#L4 #astrocyte #glial
+11768202327	#L4 #astrocyte #glial
+12072574715	#L4 #astrocyte #glial
+12217870263	#L4 #astrocyte #glial
+12307797281	#L4 #astrocyte #glial
+12395344605	#L4 #astrocyte #glial
+12468466272	#L4 #astrocyte #glial
+12511028451	#L4 #astrocyte #glial
+12801646888	#L4 #astrocyte #glial
+13006761238	#L4 #astrocyte #glial
+13108326569	#L4 #astrocyte #glial
+13720793840	#L4 #astrocyte #glial
+13735716340	#L4 #astrocyte #glial
+13939984244	#L4 #astrocyte #glial
+14362770689	#L4 #astrocyte #glial
+14405171963	#L4 #astrocyte #glial
+14682708232	#L4 #astrocyte #glial
+15424876886	#L4 #astrocyte #glial
+15644490135	#L4 #astrocyte #glial
+15745850841	#L4 #astrocyte #glial
+20503148746	#L4 #astrocyte #glial
+20619328936	#L4 #astrocyte #glial
+20908310809	#L4 #astrocyte #glial
+20939747916	#L4 #astrocyte #glial
+21042567391	#L4 #astrocyte #glial
+21114959826	#L4 #astrocyte #glial
+21389823581	#L4 #astrocyte #glial
+21392349419	#L4 #astrocyte #glial
+21638930997	#L4 #astrocyte #glial
+21682047867	#L4 #astrocyte #glial
+21727471036	#L4 #astrocyte #glial
+21857755989	#L4 #astrocyte #glial
+21944179395	#L4 #astrocyte #glial
+22031829332	#L4 #astrocyte #glial
+22075471965	#L4 #astrocyte #glial
+22557450765	#L4 #astrocyte #glial
+22717711230	#L4 #astrocyte #glial
+22790584506	#L4 #astrocyte #glial
+23037692387	#L4 #astrocyte #glial
+23212933438	#L4 #astrocyte #glial
+23213196168	#L4 #astrocyte #glial
+23285675955	#L4 #astrocyte #glial
+23634829242	#L4 #astrocyte #glial
+23941435569	#L4 #astrocyte #glial
+24334042699	#L4 #astrocyte #glial
+29061188052	#L4 #astrocyte #glial
+29177310112	#L4 #astrocyte #glial
+29222530925	#L4 #astrocyte #glial
+29251383120	#L4 #astrocyte #glial
+29322940606	#L4 #astrocyte #glial
+29338142178	#L4 #astrocyte #glial
+29352918184	#L4 #astrocyte #glial
+29366979107	#L4 #astrocyte #glial
+29381609195	#L4 #astrocyte #glial
+29396735817	#L4 #astrocyte #glial
+29511702005	#L4 #astrocyte #glial
+29542030393	#L4 #astrocyte #glial
+29543125440	#L4 #astrocyte #glial
+29599835052	#L4 #astrocyte #glial
+29657684937	#L4 #astrocyte #glial
+29658415674	#L4 #astrocyte #glial
+29672344419	#L4 #astrocyte #glial
+29689207855	#L4 #astrocyte #glial
+29703181801	#L4 #astrocyte #glial
+29730193056	#L4 #astrocyte #glial
+29745218241	#L4 #astrocyte #glial
+29790218583	#L4 #astrocyte #glial
+29791429408	#L4 #astrocyte #glial
+29818763670	#L4 #astrocyte #glial
+29862974659	#L4 #astrocyte #glial
+29993785279	#L4 #astrocyte #glial
+30007642144	#L4 #astrocyte #glial
+30082252395	#L4 #astrocyte #glial
+30109585014	#L4 #astrocyte #glial
+30169960800	#L4 #astrocyte #glial
+30184795468	#L4 #astrocyte #glial
+30197863485	#L4 #astrocyte #glial
+30213793509	#L4 #astrocyte #glial
+30227007343	#L4 #astrocyte #glial
+30256836712	#L4 #astrocyte #glial
+30359058592	#L4 #astrocyte #glial
+30503827477	#L4 #astrocyte #glial
+30505534759	#L4 #astrocyte #glial
+30518777863	#L4 #astrocyte #glial
+30533189757	#L4 #astrocyte #glial
+30636739650	#L4 #astrocyte #glial
+30649165948	#L4 #astrocyte #glial
+30738173486	#L4 #astrocyte #glial
+30868618188	#L4 #astrocyte #glial
+30882721268	#L4 #astrocyte #glial
+31044020109	#L4 #astrocyte #glial
+31101678784	#L4 #astrocyte #glial
+31102059013	#L4 #astrocyte #glial
+31217888941	#L4 #astrocyte #glial
+31320402670	#L4 #astrocyte #glial
+31320562469	#L4 #astrocyte #glial
+31378981355	#L4 #astrocyte #glial
+31510901211	#L4 #astrocyte #glial
+31568867509	#L4 #astrocyte #glial
+31698553421	#L4 #astrocyte #glial
+31815245195	#L4 #astrocyte #glial
+31831071567	#L4 #astrocyte #glial
+31859805915	#L4 #astrocyte #glial
+32019512992	#L4 #astrocyte #glial
+32150979760	#L4 #astrocyte #glial
+32166209231	#L4 #astrocyte #glial
+32268226177	#L4 #astrocyte #glial
+32397810555	#L4 #astrocyte #glial
+32412542305	#L4 #astrocyte #glial
+32529613054	#L4 #astrocyte #glial
+32559457106	#L4 #astrocyte #glial
+32631148291	#L4 #astrocyte #glial
+32631412112	#L4 #astrocyte #glial
+32661314536	#L4 #astrocyte #glial
+32689844546	#L4 #astrocyte #glial
+32704065225	#L4 #astrocyte #glial
+32747372611	#L4 #astrocyte #glial
+32748161095	#L4 #astrocyte #glial
+32850119311	#L4 #astrocyte #glial
+32936660552	#L4 #astrocyte #glial
+33025477823	#L4 #astrocyte #glial
+33025740932	#L4 #astrocyte #glial
+33156346693	#L4 #astrocyte #glial
+33214999290	#L4 #astrocyte #glial
+33242769872	#L4 #astrocyte #glial
+33360600353	#L4 #astrocyte #glial
+33417835454	#L4 #astrocyte #glial
+33462267751	#L4 #astrocyte #glial
+33549625842	#L4 #astrocyte #glial
+33564576322	#L4 #astrocyte #glial
+33622441364	#L4 #astrocyte #glial
+33650927040	#L4 #astrocyte #glial
+33709915249	#L4 #astrocyte #glial
+37577850792	#L4 #astrocyte #glial
+37621024523	#L4 #astrocyte #glial
+37635377167	#L4 #astrocyte #glial
+37679429096	#L4 #astrocyte #glial
+37708310342	#L4 #astrocyte #glial
+37708719791	#L4 #astrocyte #glial
+37737453451	#L4 #astrocyte #glial
+37767372381	#L4 #astrocyte #glial
+37868337848	#L4 #astrocyte #glial
+38013836937	#L4 #astrocyte #glial
+38028627448	#L4 #astrocyte #glial
+38042965926	#L4 #astrocyte #glial
+38043842093	#L4 #astrocyte #glial
+38057843725	#L4 #astrocyte #glial
+38058676697	#L4 #astrocyte #glial
+38129694562	#L4 #astrocyte #glial
+38144441044	#L4 #astrocyte #glial
+38146370656	#L4 #astrocyte #glial
+38173308030	#L4 #astrocyte #glial
+38189487195	#L4 #astrocyte #glial
+38233611181	#L4 #astrocyte #glial
+38318602491	#L4 #astrocyte #glial
+38391402823	#L4 #astrocyte #glial
+38405887210	#L4 #astrocyte #glial
+38436389513	#L4 #astrocyte #glial
+38436828029	#L4 #astrocyte #glial
+38465241518	#L4 #astrocyte #glial
+38494456828	#L4 #astrocyte #glial
+38508548544	#L4 #astrocyte #glial
+38582851926	#L4 #astrocyte #glial
+38627487168	#L4 #astrocyte #glial
+38713384506	#L4 #astrocyte #glial
+38743127337	#L4 #astrocyte #glial
+38830398253	#L4 #astrocyte #glial
+38845392233	#L4 #astrocyte #glial
+38873367988	#L4 #astrocyte #glial
+38931626567	#L4 #astrocyte #glial
+39004470929	#L4 #astrocyte #glial
+39004923668	#L4 #astrocyte #glial
+39079037964	#L4 #astrocyte #glial
+39136915860	#L4 #astrocyte #glial
+39150393419	#L4 #astrocyte #glial
+39223689912	#L4 #astrocyte #glial
+39384622455	#L4 #astrocyte #glial
+39515476854	#L4 #astrocyte #glial
+39515885127	#L4 #astrocyte #glial
+39617712663	#L4 #astrocyte #glial
+39690863215	#L4 #astrocyte #glial
+39720022099	#L4 #astrocyte #glial
+39749136122	#L4 #astrocyte #glial
+39806824446	#L4 #astrocyte #glial
+39807422357	#L4 #astrocyte #glial
+39835442375	#L4 #astrocyte #glial
+39879756637	#L4 #astrocyte #glial
+39968063410	#L4 #astrocyte #glial
+39997498835	#L4 #astrocyte #glial
+40026657574	#L4 #astrocyte #glial
+40127331493	#L4 #astrocyte #glial
+40214908098	#L4 #astrocyte #glial
+40228735056	#L4 #astrocyte #glial
+40229465885	#L4 #astrocyte #glial
+40507103470	#L4 #astrocyte #glial
+40564076714	#L4 #astrocyte #glial
+40753890150	#L4 #astrocyte #glial
+40797794783	#L4 #astrocyte #glial
+40812103644	#L4 #astrocyte #glial
+40886145646	#L4 #astrocyte #glial
+40913668531	#L4 #astrocyte #glial
+40987520232	#L4 #astrocyte #glial
+41045632584	#L4 #astrocyte #glial
+41075142061	#L4 #astrocyte #glial
+41191291004	#L4 #astrocyte #glial
+41394669193	#L4 #astrocyte #glial
+41438691126	#L4 #astrocyte #glial
+41453845735	#L4 #astrocyte #glial
+41454196690	#L4 #astrocyte #glial
+41511213570	#L4 #astrocyte #glial
+41584963843	#L4 #astrocyte #glial
+41612720128	#L4 #astrocyte #glial
+41774601494	#L4 #astrocyte #glial
+41905528173	#L4 #astrocyte #glial
+41933912593	#L4 #astrocyte #glial
+42064928087	#L4 #astrocyte #glial
+42108365840	#L4 #astrocyte #glial
+42153336905	#L4 #astrocyte #glial
+42269079326	#L4 #astrocyte #glial
+42298032768	#L4 #astrocyte #glial
+42414286048	#L4 #astrocyte #glial
+42414810625	#L4 #astrocyte #glial
+42429047417	#L4 #astrocyte #glial
+42429134583	#L4 #astrocyte #glial
+42429164590	#L4 #astrocyte #glial
+42531677279	#L4 #astrocyte #glial
+42545504645	#L4 #astrocyte #glial
+42574429918	#L4 #astrocyte #glial
+42662619544	#L4 #astrocyte #glial
+42677453650	#L4 #astrocyte #glial
+42706319432	#L4 #astrocyte #glial
+46602436814	#L4 #astrocyte #glial
+46603181536	#L4 #astrocyte #glial
+46850317432	#L4 #astrocyte #glial
+47026070154	#L4 #astrocyte #glial
+47055636905	#L4 #astrocyte #glial
+47084138445	#L4 #astrocyte #glial
+47097892803	#L4 #astrocyte #glial
+47198814036	#L4 #astrocyte #glial
+47274024134	#L4 #astrocyte #glial
+47300919622	#L4 #astrocyte #glial
+47376157875	#L4 #astrocyte #glial
+47462859064	#L4 #astrocyte #glial
+47636012084	#L4 #astrocyte #glial
+47637647710	#L4 #astrocyte #glial
+47650861288	#L4 #astrocyte #glial
+47651883670	#L4 #astrocyte #glial
+47738861229	#L4 #astrocyte #glial
+47899034802	#L4 #astrocyte #glial
+48060973957	#L4 #astrocyte #glial
+48308665489	#L4 #astrocyte #glial
+48453653227	#L4 #astrocyte #glial
+48527096955	#L4 #astrocyte #glial
+48555786895	#L4 #astrocyte #glial
+48556443925	#L4 #astrocyte #glial
+48585238080	#L4 #astrocyte #glial
+48745862523	#L4 #astrocyte #glial
+48818897454	#L4 #astrocyte #glial
+48847690128	#L4 #astrocyte #glial
+48905042386	#L4 #astrocyte #glial
+48963126182	#L4 #astrocyte #glial
+49051476233	#L4 #astrocyte #glial
+49051710450	#L4 #astrocyte #glial
+49109122394	#L4 #astrocyte #glial
+49211153431	#L4 #astrocyte #glial
+49314178106	#L4 #astrocyte #glial
+49473313879	#L4 #astrocyte #glial
+49691482806	#L4 #astrocyte #glial
+49808669372	#L4 #astrocyte #glial
+49896684562	#L4 #astrocyte #glial
+49955308155	#L4 #astrocyte #glial
+50319384855	#L4 #astrocyte #glial
+50376181529	#L4 #astrocyte #glial
+50580771153	#L4 #astrocyte #glial
+50740491204	#L4 #astrocyte #glial
+50843165379	#L4 #astrocyte #glial
+50930318793	#L4 #astrocyte #glial
+51033256248	#L4 #astrocyte #glial
+51309346397	#L4 #astrocyte #glial
+51367268269	#L4 #astrocyte #glial
+55351954638	#L4 #astrocyte #glial
+55628658231	#L4 #astrocyte #glial
+55788625288	#L4 #astrocyte #glial
+55891505025	#L4 #astrocyte #glial
+55978089259	#L4 #astrocyte #glial
+56022402934	#L4 #astrocyte #glial
+56078500606	#L4 #astrocyte #glial
+56080106499	#L4 #astrocyte #glial
+56124419880	#L4 #astrocyte #glial
+56459746600	#L4 #astrocyte #glial
+56473515357	#L4 #astrocyte #glial
+56794897972	#L4 #astrocyte #glial
+57143540830	#L4 #astrocyte #glial
+57144839755	#L4 #astrocyte #glial
+57260289917	#L4 #astrocyte #glial
+57392794277	#L4 #astrocyte #glial
+57464441414	#L4 #astrocyte #glial
+57740925866	#L4 #astrocyte #glial
+57814806797	#L4 #astrocyte #glial
+57873240426	#L4 #astrocyte #glial
+57975052371	#L4 #astrocyte #glial
+58150249985	#L4 #astrocyte #glial
+58266722585	#L4 #astrocyte #glial
+58411038970	#L4 #astrocyte #glial
+58601961463	#L4 #astrocyte #glial
+58616329234	#L4 #astrocyte #glial
+58629951490	#L4 #astrocyte #glial
+58674645073	#L4 #astrocyte #glial
+58776005375	#L4 #astrocyte #glial
+58776282828	#L4 #astrocyte #glial
+58907691975	#L4 #astrocyte #glial
+59242419889	#L4 #astrocyte #glial
+59431809429	#L4 #astrocyte #glial
+59446454220	#L4 #astrocyte #glial
+59693634470	#L4 #astrocyte #glial
+59738269908	#L4 #astrocyte #glial
+59796060354	#L4 #astrocyte #glial
+59810778167	#L4 #astrocyte #glial
+60072223966	#L4 #astrocyte #glial
+60247507847	#L4 #astrocyte #glial
+64479345346	#L4 #astrocyte #glial
+64725825830	#L4 #astrocyte #glial
+64813767083	#L4 #astrocyte #glial
+64842750745	#L4 #astrocyte #glial
+64946548337	#L4 #astrocyte #glial
+64960463512	#L4 #astrocyte #glial
+64988044467	#L4 #astrocyte #glial
+65033278058	#L4 #astrocyte #glial
+65061633096	#L4 #astrocyte #glial
+65062685164	#L4 #astrocyte #glial
+65337913928	#L4 #astrocyte #glial
+65354310784	#L4 #astrocyte #glial
+65513841278	#L4 #astrocyte #glial
+65543131020	#L4 #astrocyte #glial
+65629744082	#L4 #astrocyte #glial
+65747720364	#L4 #astrocyte #glial
+65864104780	#L4 #astrocyte #glial
+65908229394	#L4 #astrocyte #glial
+66256973735	#L4 #astrocyte #glial
+66387681974	#L4 #astrocyte #glial
+66447575017	#L4 #astrocyte #glial
+66956639310	#L4 #astrocyte #glial
+67058349741	#L4 #astrocyte #glial
+67131997072	#L4 #astrocyte #glial
+67247943784	#L4 #astrocyte #glial
+67335535002	#L4 #astrocyte #glial
+67407473415	#L4 #astrocyte #glial
+67407970664	#L4 #astrocyte #glial
+67539525661	#L4 #astrocyte #glial
+67757693801	#L4 #astrocyte #glial
+68034338603	#L4 #astrocyte #glial
+68209375262	#L4 #astrocyte #glial
+68282993860	#L4 #astrocyte #glial
+68763541883	#L4 #astrocyte #glial
+68807024372	#L4 #astrocyte #glial
+68908121228	#L4 #astrocyte #glial
+68967809904	#L4 #astrocyte #glial
+68981812481	#L4 #astrocyte #glial
+69040333346	#L4 #astrocyte #glial
+69055094691	#L4 #astrocyte #glial
+69126582081	#L4 #astrocyte #glial
+69155944265	#L4 #astrocyte #glial
+69170734992	#L4 #astrocyte #glial
+69185058488	#L4 #astrocyte #glial
+69185818553	#L4 #astrocyte #glial
+73141272627	#L4 #astrocyte #glial
+73270709664	#L4 #astrocyte #glial
+73272184983	#L4 #astrocyte #glial
+73329099830	#L4 #astrocyte #glial
+73329931994	#L4 #astrocyte #glial
+73357731434	#L4 #astrocyte #glial
+73416749640	#L4 #astrocyte #glial
+73604473725	#L4 #astrocyte #glial
+73692444394	#L4 #astrocyte #glial
+73706680566	#L4 #astrocyte #glial
+73707455442	#L4 #astrocyte #glial
+73895180097	#L4 #astrocyte #glial
+74072538614	#L4 #astrocyte #glial
+74569600937	#L4 #astrocyte #glial
+74582945217	#L4 #astrocyte #glial
+74641889828	#L4 #astrocyte #glial
+75516592380	#L4 #astrocyte #glial
+76157751359	#L4 #astrocyte #glial
+76594321027	#L4 #astrocyte #glial
+76667705084	#L4 #astrocyte #glial
+76711012341	#L4 #astrocyte #glial
+76958105084	#L4 #astrocyte #glial
+77264536108	#L4 #astrocyte #glial
+77570032877	#L4 #astrocyte #glial
+77701850842	#L4 #astrocyte #glial
+77934954727	#L4 #astrocyte #glial
+78080075074	#L4 #astrocyte #glial
+78080191992	#L4 #astrocyte #glial
+78167374719	#L4 #astrocyte #glial
+78197276650	#L4 #astrocyte #glial
+78327619936	#L4 #astrocyte #glial
+78342527109	#L4 #astrocyte #glial
+81846475892	#L4 #astrocyte #glial
+82254297511	#L4 #astrocyte #glial
+82574146827	#L4 #astrocyte #glial
+84542521550	#L4 #astrocyte #glial
+85080071512	#L4 #astrocyte #glial
+87105814136	#L4 #astrocyte #glial
+87178382084	#L4 #astrocyte #glial
+87323560258	#L4 #astrocyte #glial
+91659429091	#L4 #astrocyte #glial
+93771974625	#L4 #astrocyte #glial
+95825459412	#L4 #astrocyte #glial
+96203697521	#L4 #astrocyte #glial
+2378430332	#L4 #glial #oligodendrocyte
+2392593006	#L4 #glial #oligodendrocyte
+2422219431	#L4 #glial #oligodendrocyte
+2451172781	#L4 #glial #oligodendrocyte
+2480463227	#L4 #glial #oligodendrocyte
+2494916840	#L4 #glial #oligodendrocyte
+2495019703	#L4 #glial #oligodendrocyte
+2538808820	#L4 #glial #oligodendrocyte
+2553277679	#L4 #glial #oligodendrocyte
+2553320970	#L4 #glial #oligodendrocyte
+2596890667	#L4 #glial #oligodendrocyte
+2713670393	#L4 #glial #oligodendrocyte
+2727730239	#L4 #glial #oligodendrocyte
+2727744889	#L4 #glial #oligodendrocyte
+2742068521	#L4 #glial #oligodendrocyte
+2742944464	#L4 #glial #oligodendrocyte
+2756962009	#L4 #glial #oligodendrocyte
+2757501108	#L4 #glial #oligodendrocyte
+2785856775	#L4 #glial #oligodendrocyte
+2786631207	#L4 #glial #oligodendrocyte
+2801450605	#L4 #glial #oligodendrocyte
+2814942882	#L4 #glial #oligodendrocyte
+2816169008	#L4 #glial #oligodendrocyte
+2830009798	#L4 #glial #oligodendrocyte
+2830112410	#L4 #glial #oligodendrocyte
+2844567297	#L4 #glial #oligodendrocyte
+2844787212	#L4 #glial #oligodendrocyte
+2857985541	#L4 #glial #oligodendrocyte
+2887815968	#L4 #glial #oligodendrocyte
+2902081766	#L4 #glial #oligodendrocyte
+2903366176	#L4 #glial #oligodendrocyte
+2931633072	#L4 #glial #oligodendrocyte
+2932129592	#L4 #glial #oligodendrocyte
+2932305535	#L4 #glial #oligodendrocyte
+2945197403	#L4 #glial #oligodendrocyte
+2946994046	#L4 #glial #oligodendrocyte
+2960062540	#L4 #glial #oligodendrocyte
+2962106109	#L4 #glial #oligodendrocyte
+2974472362	#L4 #glial #oligodendrocyte
+2976122475	#L4 #glial #oligodendrocyte
+2976517308	#L4 #glial #oligodendrocyte
+3004535789	#L4 #glial #oligodendrocyte
+3018742559	#L4 #glial #oligodendrocyte
+3019166077	#L4 #glial #oligodendrocyte
+3032527039	#L4 #glial #oligodendrocyte
+3033096355	#L4 #glial #oligodendrocyte
+3033958152	#L4 #glial #oligodendrocyte
+3047901590	#L4 #glial #oligodendrocyte
+3048806518	#L4 #glial #oligodendrocyte
+3048849442	#L4 #glial #oligodendrocyte
+3061714397	#L4 #glial #oligodendrocyte
+3077395148	#L4 #glial #oligodendrocyte
+3078241245	#L4 #glial #oligodendrocyte
+3092229710	#L4 #glial #oligodendrocyte
+3120949155	#L4 #glial #oligodendrocyte
+3121476188	#L4 #glial #oligodendrocyte
+3121826821	#L4 #glial #oligodendrocyte
+3122118665	#L4 #glial #oligodendrocyte
+3136587986	#L4 #glial #oligodendrocyte
+3136763478	#L4 #glial #oligodendrocyte
+3149334748	#L4 #glial #oligodendrocyte
+3149437188	#L4 #glial #oligodendrocyte
+3150444613	#L4 #glial #oligodendrocyte
+3164972570	#L4 #glial #oligodendrocyte
+3165088249	#L4 #glial #oligodendrocyte
+3165469158	#L4 #glial #oligodendrocyte
+3165498256	#L4 #glial #oligodendrocyte
+3178053996	#L4 #glial #oligodendrocyte
+3179266990	#L4 #glial #oligodendrocyte
+3180142341	#L4 #glial #oligodendrocyte
+3192567539	#L4 #glial #oligodendrocyte
+3194860395	#L4 #glial #oligodendrocyte
+3223069314	#L4 #glial #oligodendrocyte
+3224354791	#L4 #glial #oligodendrocyte
+3236137020	#L4 #glial #oligodendrocyte
+3238517814	#L4 #glial #oligodendrocyte
+3250753058	#L4 #glial #oligodendrocyte
+3252812161	#L4 #glial #oligodendrocyte
+3265837811	#L4 #glial #oligodendrocyte
+3267471266	#L4 #glial #oligodendrocyte
+3283123811	#L4 #glial #oligodendrocyte
+3294731272	#L4 #glial #oligodendrocyte
+3294745144	#L4 #glial #oligodendrocyte
+3294745419	#L4 #glial #oligodendrocyte
+3295855772	#L4 #glial #oligodendrocyte
+3309930846	#L4 #glial #oligodendrocyte
+3310251487	#L4 #glial #oligodendrocyte
+3354959411	#L4 #glial #oligodendrocyte
+3355310107	#L4 #glial #oligodendrocyte
+3368626252	#L4 #glial #oligodendrocyte
+3369123395	#L4 #glial #oligodendrocyte
+3383783313	#L4 #glial #oligodendrocyte
+3396878915	#L4 #glial #oligodendrocyte
+3397624833	#L4 #glial #oligodendrocyte
+3398500020	#L4 #glial #oligodendrocyte
+3411377658	#L4 #glial #oligodendrocyte
+3426855800	#L4 #glial #oligodendrocyte
+3427644608	#L4 #glial #oligodendrocyte
+3428096837	#L4 #glial #oligodendrocyte
+3440989348	#L4 #glial #oligodendrocyte
+3456189140	#L4 #glial #oligodendrocyte
+3470921562	#L4 #glial #oligodendrocyte
+3471855582	#L4 #glial #oligodendrocyte
+3484894954	#L4 #glial #oligodendrocyte
+3485172055	#L4 #glial #oligodendrocyte
+3499261997	#L4 #glial #oligodendrocyte

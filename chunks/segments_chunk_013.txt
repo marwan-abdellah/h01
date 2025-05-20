@@ -1,0 +1,1000 @@
+42256829280	#L3 #neuron #interneuron
+42256916348	#L3 #neuron #interneuron
+42402355619	#L3 #neuron #interneuron
+42402780001	#L3 #neuron #interneuron
+42532626766	#L3 #neuron #interneuron
+42605513923	#L3 #neuron #interneuron
+42649244050	#L3 #neuron #interneuron
+46212370640	#L3 #neuron #interneuron
+46326667024	#L3 #neuron #interneuron
+46385406971	#L3 #neuron #interneuron
+46387991169	#L3 #neuron #interneuron
+46461128176	#L3 #neuron #interneuron
+46854186954	#L3 #neuron #interneuron
+46866890137	#L3 #neuron #interneuron
+46969492820	#L3 #neuron #interneuron
+46970279369	#L3 #neuron #interneuron
+46981858088	#L3 #neuron #interneuron
+47024624888	#L3 #neuron #interneuron
+47144147297	#L3 #neuron #interneuron
+47173729341	#L3 #neuron #interneuron
+47217430022	#L3 #neuron #interneuron
+47407447880	#L3 #neuron #interneuron
+47581214561	#L3 #neuron #interneuron
+49126890309	#L3 #neuron #interneuron
+49300482338	#L3 #neuron #interneuron
+49519219789	#L3 #neuron #interneuron
+49897736041	#L3 #neuron #interneuron
+49970945304	#L3 #neuron #interneuron
+50000030587	#L3 #neuron #interneuron
+50670946759	#L3 #neuron #interneuron
+50684379578	#L3 #neuron #interneuron
+50772321712	#L3 #neuron #interneuron
+50845166467	#L3 #neuron #interneuron
+51077204908	#L3 #neuron #interneuron
+51078548190	#L3 #neuron #interneuron
+51282595940	#L3 #neuron #interneuron
+51354156456	#L3 #neuron #interneuron
+54698894684	#L3 #neuron #interneuron
+54726607159	#L3 #neuron #interneuron
+54857754331	#L3 #neuron #interneuron
+55049567101	#L3 #neuron #interneuron
+55092333748	#L3 #neuron #interneuron
+55206178630	#L3 #neuron #interneuron
+55235394698	#L3 #neuron #interneuron
+55265385121	#L3 #neuron #interneuron
+55265618839	#L3 #neuron #interneuron
+55339674820	#L3 #neuron #interneuron
+55355122544	#L3 #neuron #interneuron
+55398487762	#L3 #neuron #interneuron
+55411088195	#L3 #neuron #interneuron
+56623116404	#L3 #neuron #interneuron
+57001647955	#L3 #neuron #interneuron
+58893251019	#L3 #neuron #interneuron
+58893893759	#L3 #neuron #interneuron
+59184964942	#L3 #neuron #interneuron
+59302619924	#L3 #neuron #interneuron
+59390707532	#L3 #neuron #interneuron
+59580053565	#L3 #neuron #interneuron
+59609533118	#L3 #neuron #interneuron
+59842170815	#L3 #neuron #interneuron
+59885243362	#L3 #neuron #interneuron
+59929221936	#L3 #neuron #interneuron
+59972950774	#L3 #neuron #interneuron
+64159058740	#L3 #neuron #interneuron
+64451253629	#L3 #neuron #interneuron
+64655988891	#L3 #neuron #interneuron
+64963763185	#L3 #neuron #interneuron
+65019948281	#L3 #neuron #interneuron
+65151823173	#L3 #neuron #interneuron
+65458721745	#L3 #neuron #interneuron
+65515783077	#L3 #neuron #interneuron
+66099297515	#L3 #neuron #interneuron
+66258360593	#L3 #neuron #interneuron
+66316195377	#L3 #neuron #interneuron
+68197008348	#L3 #neuron #interneuron
+68415133207	#L3 #neuron #interneuron
+68678286836	#L3 #neuron #interneuron
+68678709362	#L3 #neuron #interneuron
+68794817813	#L3 #neuron #interneuron
+68867560740	#L3 #neuron #interneuron
+68924445191	#L3 #neuron #interneuron
+68968569945	#L3 #neuron #interneuron
+69041501837	#L3 #neuron #interneuron
+71962927444	#L3 #neuron #interneuron
+72849192764	#L3 #neuron #interneuron
+73028172943	#L3 #neuron #interneuron
+73172838713	#L3 #neuron #interneuron
+73520489786	#L3 #neuron #interneuron
+74673165076	#L3 #neuron #interneuron
+75618945136	#L3 #neuron #interneuron
+75839215928	#L3 #neuron #interneuron
+76086468619	#L3 #neuron #interneuron
+77529222559	#L3 #neuron #interneuron
+77689307856	#L3 #neuron #interneuron
+77964668759	#L3 #neuron #interneuron
+77980363771	#L3 #neuron #interneuron
+78009755603	#L3 #neuron #interneuron
+78023860342	#L3 #neuron #interneuron
+78109976851	#L3 #neuron #interneuron
+78110999101	#L3 #neuron #interneuron
+78140946063	#L3 #neuron #interneuron
+78153663057	#L3 #neuron #interneuron
+78154715326	#L3 #neuron #interneuron
+78154846011	#L3 #neuron #interneuron
+78212359414	#L3 #neuron #interneuron
+81846679697	#L3 #neuron #interneuron
+82241300928	#L3 #neuron #interneuron
+82429830310	#L3 #neuron #interneuron
+83203361970	#L3 #neuron #interneuron
+83510552053	#L3 #neuron #interneuron
+85650299801	#L3 #neuron #interneuron
+86189485392	#L3 #neuron #interneuron
+86961192500	#L3 #neuron #interneuron
+91222990541	#L3 #neuron #interneuron
+91280927217	#L3 #neuron #interneuron
+91733615762	#L3 #neuron #interneuron
+92286307998	#L3 #neuron #interneuron
+92636703008	#L3 #neuron #interneuron
+92987287470	#L3 #neuron #interneuron
+93612210713	#L3 #neuron #interneuron
+4363538648	#L3 #neuron #interneuron #thin-apical-dendrite
+39737672865	#L3 #neuron #interneuron #thin-apical-dendrite
+41352223142	#L3 #neuron #interneuron #thin-apical-dendrite
+3911682387	#L3 #neuron #interneuron #thin-apical-dendrite #sparsely-spiny
+32677332710	#L3 #neuron #interneuron #thin-apical-dendrite #sparsely-spiny
+3532289958	#L3 #neuron #interneuron #thin-apical-dendrite #lot-of-axon
+46781166937	#L3 #neuron #interneuron #bipolar
+2177053835	#L3 #neuron #interneuron #sparsely-spiny
+2323281931	#L3 #neuron #interneuron #sparsely-spiny
+2510935233	#L3 #neuron #interneuron #sparsely-spiny
+2875697634	#L3 #neuron #interneuron #sparsely-spiny
+3430914298	#L3 #neuron #interneuron #sparsely-spiny
+4536648141	#L3 #neuron #interneuron #sparsely-spiny
+4697653006	#L3 #neuron #interneuron #sparsely-spiny
+4799101909	#L3 #neuron #interneuron #sparsely-spiny
+5163731998	#L3 #neuron #interneuron #sparsely-spiny
+5469125788	#L3 #neuron #interneuron #sparsely-spiny
+6153271560	#L3 #neuron #interneuron #sparsely-spiny
+24292837375	#L3 #neuron #interneuron #sparsely-spiny
+28698997646	#L3 #neuron #interneuron #sparsely-spiny
+30551280681	#L3 #neuron #interneuron #sparsely-spiny
+32371528772	#L3 #neuron #interneuron #sparsely-spiny
+32472012332	#L3 #neuron #interneuron #sparsely-spiny
+32764500391	#L3 #neuron #interneuron #sparsely-spiny
+32807821099	#L3 #neuron #interneuron #sparsely-spiny
+32880023017	#L3 #neuron #interneuron #sparsely-spiny
+37332889316	#L3 #neuron #interneuron #sparsely-spiny
+37871666280	#L3 #neuron #interneuron #sparsely-spiny
+38250197173	#L3 #neuron #interneuron #sparsely-spiny
+38541954242	#L3 #neuron #interneuron #sparsely-spiny
+38585202945	#L3 #neuron #interneuron #sparsely-spiny
+39416130946	#L3 #neuron #interneuron #sparsely-spiny
+39547803419	#L3 #neuron #interneuron #sparsely-spiny
+40800671243	#L3 #neuron #interneuron #sparsely-spiny
+41032827363	#L3 #neuron #interneuron #sparsely-spiny
+41484713479	#L3 #neuron #interneuron #sparsely-spiny
+42139566537	#L3 #neuron #interneuron #sparsely-spiny
+48426933888	#L3 #neuron #interneuron #sparsely-spiny
+50743820958	#L3 #neuron #interneuron #sparsely-spiny
+55470674228	#L3 #neuron #interneuron #sparsely-spiny
+59914357693	#L3 #neuron #interneuron #sparsely-spiny
+5193153005	#L3 #neuron #interneuron #sparsely-spiny #lot-of-axon
+37230829263	#L3 #neuron #interneuron #sparsely-spiny #lot-of-axon
+2089331373	#L3 #neuron #interneuron #web-like-interneuron
+3094083604	#L3 #neuron #interneuron #web-like-interneuron
+3342899266	#L3 #neuron #interneuron #web-like-interneuron
+4057019730	#L3 #neuron #interneuron #web-like-interneuron
+4363436095	#L3 #neuron #interneuron #web-like-interneuron
+6619451263	#L3 #neuron #interneuron #web-like-interneuron
+29821741545	#L3 #neuron #interneuron #web-like-interneuron
+32443905986	#L3 #neuron #interneuron #web-like-interneuron
+37026034562	#L3 #neuron #interneuron #web-like-interneuron
+37301934979	#L3 #neuron #interneuron #web-like-interneuron
+37650549056	#L3 #neuron #interneuron #web-like-interneuron
+38002257628	#L3 #neuron #interneuron #web-like-interneuron
+38017194751	#L3 #neuron #interneuron #web-like-interneuron
+38031109502	#L3 #neuron #interneuron #web-like-interneuron
+38322428970	#L3 #neuron #interneuron #web-like-interneuron
+38527617086	#L3 #neuron #interneuron #web-like-interneuron
+38759027551	#L3 #neuron #interneuron #web-like-interneuron
+39300066834	#L3 #neuron #interneuron #web-like-interneuron
+39632927158	#L3 #neuron #interneuron #web-like-interneuron
+39721657427	#L3 #neuron #interneuron #web-like-interneuron
+39837675924	#L3 #neuron #interneuron #web-like-interneuron
+40115430181	#L3 #neuron #interneuron #web-like-interneuron
+40145028457	#L3 #neuron #interneuron #web-like-interneuron
+40552745857	#L3 #neuron #interneuron #web-like-interneuron
+41076366419	#L3 #neuron #interneuron #web-like-interneuron
+41178674854	#L3 #neuron #interneuron #web-like-interneuron
+41411036225	#L3 #neuron #interneuron #web-like-interneuron
+41615026140	#L3 #neuron #interneuron #web-like-interneuron
+41730695552	#L3 #neuron #interneuron #web-like-interneuron
+42008056729	#L3 #neuron #interneuron #web-like-interneuron
+42154066293	#L3 #neuron #interneuron #web-like-interneuron
+46401044849	#L3 #neuron #interneuron #web-like-interneuron
+47305518106	#L3 #neuron #interneuron #web-like-interneuron
+51048762537	#L3 #neuron #interneuron #web-like-interneuron
+3822645346	#L3 #neuron #interneuron #web-like-interneuron #lot-of-axon
+37622192815	#L3 #neuron #interneuron #web-like-interneuron #lot-of-axon
+38044849182	#L3 #neuron #interneuron #web-like-interneuron #lot-of-axon
+38891006158	#L3 #neuron #interneuron #web-like-interneuron #lot-of-axon
+39110429740	#L3 #neuron #interneuron #web-like-interneuron #lot-of-axon
+39154670818	#L3 #neuron #interneuron #web-like-interneuron #lot-of-axon
+39211657563	#L3 #neuron #interneuron #web-like-interneuron #lot-of-axon
+40391711479	#L3 #neuron #interneuron #web-like-interneuron #lot-of-axon
+2221031389	#L3 #neuron #interneuron #lot-of-axon
+2366705935	#L3 #neuron #interneuron #lot-of-axon
+2715756817	#L3 #neuron #interneuron #lot-of-axon
+2847444326	#L3 #neuron #interneuron #lot-of-axon
+3343498390	#L3 #neuron #interneuron #lot-of-axon
+3867863780	#L3 #neuron #interneuron #lot-of-axon
+4056318880	#L3 #neuron #interneuron #lot-of-axon
+4478843153	#L3 #neuron #interneuron #lot-of-axon
+4550957160	#L3 #neuron #interneuron #lot-of-axon
+4741705337	#L3 #neuron #interneuron #lot-of-axon
+5469419033	#L3 #neuron #interneuron #lot-of-axon
+5497204358	#L3 #neuron #interneuron #lot-of-axon
+5803342892	#L3 #neuron #interneuron #lot-of-axon
+21247886827	#L3 #neuron #interneuron #lot-of-axon
+22964993750	#L3 #neuron #interneuron #lot-of-axon
+28858455711	#L3 #neuron #interneuron #lot-of-axon
+29005283343	#L3 #neuron #interneuron #lot-of-axon
+29035171098	#L3 #neuron #interneuron #lot-of-axon
+29341134725	#L3 #neuron #interneuron #lot-of-axon
+29385844028	#L3 #neuron #interneuron #lot-of-axon
+29440845373	#L3 #neuron #interneuron #lot-of-axon
+29717358891	#L3 #neuron #interneuron #lot-of-axon
+29835729637	#L3 #neuron #interneuron #lot-of-axon
+29924283155	#L3 #neuron #interneuron #lot-of-axon
+31044911156	#L3 #neuron #interneuron #lot-of-axon
+31307174281	#L3 #neuron #interneuron #lot-of-axon
+32137312910	#L3 #neuron #interneuron #lot-of-axon
+32588893331	#L3 #neuron #interneuron #lot-of-axon
+33462557888	#L3 #neuron #interneuron #lot-of-axon
+37272747447	#L3 #neuron #interneuron #lot-of-axon
+37390447215	#L3 #neuron #interneuron #lot-of-axon
+37405544663	#L3 #neuron #interneuron #lot-of-axon
+37477556144	#L3 #neuron #interneuron #lot-of-axon
+37610133253	#L3 #neuron #interneuron #lot-of-axon
+37958469088	#L3 #neuron #interneuron #lot-of-axon
+38351382073	#L3 #neuron #interneuron #lot-of-axon
+38702215844	#L3 #neuron #interneuron #lot-of-axon
+39052464884	#L3 #neuron #interneuron #lot-of-axon
+39183069283	#L3 #neuron #interneuron #lot-of-axon
+39344002595	#L3 #neuron #interneuron #lot-of-axon
+39428921609	#L3 #neuron #interneuron #lot-of-axon
+39430775601	#L3 #neuron #interneuron #lot-of-axon
+40508532675	#L3 #neuron #interneuron #lot-of-axon
+40594476088	#L3 #neuron #interneuron #lot-of-axon
+40624976657	#L3 #neuron #interneuron #lot-of-axon
+40654880332	#L3 #neuron #interneuron #lot-of-axon
+41745516524	#L3 #neuron #interneuron #lot-of-axon
+41891044579	#L3 #neuron #interneuron #lot-of-axon
+50059208622	#L3 #neuron #interneuron #lot-of-axon
+50277873388	#L3 #neuron #interneuron #lot-of-axon
+38526346416	#L3 #neuron #interneuron #dark
+3662632172	#L3 #neuron #interneuron #grey
+1811181990	#L3 #neuron #unclassified-neuron
+1826015896	#L3 #neuron #unclassified-neuron
+1912950617	#L3 #neuron #unclassified-neuron
+2203845748	#L3 #neuron #unclassified-neuron
+2263242616	#L3 #neuron #unclassified-neuron
+2408640311	#L3 #neuron #unclassified-neuron
+2437945110	#L3 #neuron #unclassified-neuron
+3269149335	#L3 #neuron #unclassified-neuron
+3328005977	#L3 #neuron #unclassified-neuron
+3517556149	#L3 #neuron #unclassified-neuron
+4873185995	#L3 #neuron #unclassified-neuron
+5003675148	#L3 #neuron #unclassified-neuron
+6474828218	#L3 #neuron #unclassified-neuron
+6766411111	#L3 #neuron #unclassified-neuron
+24424378760	#L3 #neuron #unclassified-neuron
+29908894519	#L3 #neuron #unclassified-neuron
+40377124801	#L3 #neuron #unclassified-neuron
+42736806329	#L3 #neuron #unclassified-neuron
+78197349253	#L3 #neuron #unclassified-neuron
+78314011869	#L3 #neuron #unclassified-neuron
+93511345650	#L3 #neuron #unclassified-neuron
+98719407019	#L3 #neuron #unclassified-neuron
+98923031143	#L3 #neuron #unclassified-neuron
+4683475838	#L3 #neuron #unclassified-neuron #thin-apical-dendrite #sparsely-spiny
+37026546471	#L3 #neuron #unclassified-neuron #thin-apical-dendrite #sparsely-spiny
+37054376168	#L3 #neuron #unclassified-neuron #thin-apical-dendrite #sparsely-spiny
+38556861927	#L3 #neuron #unclassified-neuron #thin-apical-dendrite #sparsely-spiny
+40974407794	#L3 #neuron #unclassified-neuron #thin-apical-dendrite #sparsely-spiny
+41032286305	#L3 #neuron #unclassified-neuron #thin-apical-dendrite #sparsely-spiny
+47670046189	#L3 #neuron #unclassified-neuron #thin-apical-dendrite #sparsely-spiny
+84340415067	#L3 #neuron #unclassified-neuron #thin-apical-dendrite #sparsely-spiny
+2366749859	#L3 #neuron #unclassified-neuron #thin-apical-dendrite #sparsely-spiny #lot-of-axon
+39373569399	#L3 #neuron #unclassified-neuron #thin-apical-dendrite #sparsely-spiny #lot-of-axon
+41805556174	#L3 #neuron #unclassified-neuron #sparsely-spiny
+77921566320	#L3 #neuron #unclassified-neuron #sparsely-spiny
+2659135206	#L3 #neuron #unclassified-neuron #sparsely-spiny #possible-interneuron
+4653821100	#L3 #neuron #unclassified-neuron #sparsely-spiny #possible-interneuron
+39955682491	#L3 #neuron #unclassified-neuron #sparsely-spiny #possible-interneuron
+41848511198	#L3 #neuron #unclassified-neuron #sparsely-spiny #possible-interneuron
+59667469834	#L3 #neuron #unclassified-neuron #sparsely-spiny #possible-interneuron
+6691872305	#L3 #neuron #unclassified-neuron #possible-interneuron
+23359557013	#L3 #neuron #unclassified-neuron #possible-interneuron
+29515718954	#L3 #neuron #unclassified-neuron #possible-interneuron
+37141177238	#L3 #neuron #unclassified-neuron #possible-interneuron
+38015602699	#L3 #neuron #unclassified-neuron #possible-interneuron
+2043981159	#L3 #neuron #unclassified-neuron #grey
+28625100313	#L3 #neuron #unclassified-neuron #grey
+29210178754	#L3 #neuron #spiny-stellate
+32385180272	#L3 #neuron #spiny-stellate
+1840660700	#L3 #neuron #excitatory/spiny-with-atypical-tree
+1942182206	#L3 #neuron #excitatory/spiny-with-atypical-tree
+1973925065	#L3 #neuron #excitatory/spiny-with-atypical-tree
+2044476393	#L3 #neuron #excitatory/spiny-with-atypical-tree
+2482870863	#L3 #neuron #excitatory/spiny-with-atypical-tree
+2657981439	#L3 #neuron #excitatory/spiny-with-atypical-tree
+2789755020	#L3 #neuron #excitatory/spiny-with-atypical-tree
+2962733912	#L3 #neuron #excitatory/spiny-with-atypical-tree
+3137070064	#L3 #neuron #excitatory/spiny-with-atypical-tree
+3137084591	#L3 #neuron #excitatory/spiny-with-atypical-tree
+3181398660	#L3 #neuron #excitatory/spiny-with-atypical-tree
+3312529251	#L3 #neuron #excitatory/spiny-with-atypical-tree
+3356084909	#L3 #neuron #excitatory/spiny-with-atypical-tree
+3531662040	#L3 #neuron #excitatory/spiny-with-atypical-tree
+3560132649	#L3 #neuron #excitatory/spiny-with-atypical-tree
+3561505756	#L3 #neuron #excitatory/spiny-with-atypical-tree
+3574996463	#L3 #neuron #excitatory/spiny-with-atypical-tree
+3648951090	#L3 #neuron #excitatory/spiny-with-atypical-tree
+3691674312	#L3 #neuron #excitatory/spiny-with-atypical-tree
+3719153276	#L3 #neuron #excitatory/spiny-with-atypical-tree
+3750968098	#L3 #neuron #excitatory/spiny-with-atypical-tree
+3896758995	#L3 #neuron #excitatory/spiny-with-atypical-tree
+3925829408	#L3 #neuron #excitatory/spiny-with-atypical-tree
+4013407272	#L3 #neuron #excitatory/spiny-with-atypical-tree
+4057093296	#L3 #neuron #excitatory/spiny-with-atypical-tree
+4069839342	#L3 #neuron #excitatory/spiny-with-atypical-tree
+4114781857	#L3 #neuron #excitatory/spiny-with-atypical-tree
+4200898785	#L3 #neuron #excitatory/spiny-with-atypical-tree
+4217411589	#L3 #neuron #excitatory/spiny-with-atypical-tree
+4260660564	#L3 #neuron #excitatory/spiny-with-atypical-tree
+4346718121	#L3 #neuron #excitatory/spiny-with-atypical-tree
+4391090629	#L3 #neuron #excitatory/spiny-with-atypical-tree
+4405910217	#L3 #neuron #excitatory/spiny-with-atypical-tree
+4448413768	#L3 #neuron #excitatory/spiny-with-atypical-tree
+4507036711	#L3 #neuron #excitatory/spiny-with-atypical-tree
+4842057459	#L3 #neuron #excitatory/spiny-with-atypical-tree
+4842452210	#L3 #neuron #excitatory/spiny-with-atypical-tree
+4988169402	#L3 #neuron #excitatory/spiny-with-atypical-tree
+5018232404	#L3 #neuron #excitatory/spiny-with-atypical-tree
+5032527732	#L3 #neuron #excitatory/spiny-with-atypical-tree
+5251586809	#L3 #neuron #excitatory/spiny-with-atypical-tree
+5426608249	#L3 #neuron #excitatory/spiny-with-atypical-tree
+5528553091	#L3 #neuron #excitatory/spiny-with-atypical-tree
+5716993478	#L3 #neuron #excitatory/spiny-with-atypical-tree
+6168280110	#L3 #neuron #excitatory/spiny-with-atypical-tree
+6341916483	#L3 #neuron #excitatory/spiny-with-atypical-tree
+6373264017	#L3 #neuron #excitatory/spiny-with-atypical-tree
+6634738266	#L3 #neuron #excitatory/spiny-with-atypical-tree
+13417180990	#L3 #neuron #excitatory/spiny-with-atypical-tree
+15296037449	#L3 #neuron #excitatory/spiny-with-atypical-tree
+28408495574	#L3 #neuron #excitatory/spiny-with-atypical-tree
+28409153313	#L3 #neuron #excitatory/spiny-with-atypical-tree
+28539686291	#L3 #neuron #excitatory/spiny-with-atypical-tree
+28553163055	#L3 #neuron #excitatory/spiny-with-atypical-tree
+28612209427	#L3 #neuron #excitatory/spiny-with-atypical-tree
+28627043440	#L3 #neuron #excitatory/spiny-with-atypical-tree
+28656245327	#L3 #neuron #excitatory/spiny-with-atypical-tree
+28684747462	#L3 #neuron #excitatory/spiny-with-atypical-tree
+28903177062	#L3 #neuron #excitatory/spiny-with-atypical-tree
+28919589274	#L3 #neuron #excitatory/spiny-with-atypical-tree
+28975949198	#L3 #neuron #excitatory/spiny-with-atypical-tree
+29050063987	#L3 #neuron #excitatory/spiny-with-atypical-tree
+29252784657	#L3 #neuron #excitatory/spiny-with-atypical-tree
+29588519418	#L3 #neuron #excitatory/spiny-with-atypical-tree
+29630994552	#L3 #neuron #excitatory/spiny-with-atypical-tree
+29865193079	#L3 #neuron #excitatory/spiny-with-atypical-tree
+30623584204	#L3 #neuron #excitatory/spiny-with-atypical-tree
+32313693731	#L3 #neuron #excitatory/spiny-with-atypical-tree
+32516310991	#L3 #neuron #excitatory/spiny-with-atypical-tree
+32690852634	#L3 #neuron #excitatory/spiny-with-atypical-tree
+33304094082	#L3 #neuron #excitatory/spiny-with-atypical-tree
+37257679146	#L3 #neuron #excitatory/spiny-with-atypical-tree
+37272338893	#L3 #neuron #excitatory/spiny-with-atypical-tree
+37784717280	#L3 #neuron #excitatory/spiny-with-atypical-tree
+37927690796	#L3 #neuron #excitatory/spiny-with-atypical-tree
+38497874348	#L3 #neuron #excitatory/spiny-with-atypical-tree
+39533055480	#L3 #neuron #excitatory/spiny-with-atypical-tree
+40246607566	#L3 #neuron #excitatory/spiny-with-atypical-tree
+40785077791	#L3 #neuron #excitatory/spiny-with-atypical-tree
+40945878237	#L3 #neuron #excitatory/spiny-with-atypical-tree
+41688337480	#L3 #neuron #excitatory/spiny-with-atypical-tree
+42153496909	#L3 #neuron #excitatory/spiny-with-atypical-tree
+42168535150	#L3 #neuron #excitatory/spiny-with-atypical-tree
+68444801482	#L3 #neuron #excitatory/spiny-with-atypical-tree
+77922004049	#L3 #neuron #excitatory/spiny-with-atypical-tree
+84631792243	#L3 #neuron #excitatory/spiny-with-atypical-tree
+84879294021	#L3 #neuron #excitatory/spiny-with-atypical-tree
+85083021700	#L3 #neuron #excitatory/spiny-with-atypical-tree
+87004440319	#L3 #neuron #excitatory/spiny-with-atypical-tree
+99419844747	#L3 #neuron #excitatory/spiny-with-atypical-tree
+1477285569	#L3 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+4624239982	#L3 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+5367561232	#L3 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+33186396351	#L3 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+41629933924	#L3 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+4856570561	#L3 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #grey
+3647329835	#L3 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+38600663908	#L3 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+29122032384	#L3 #neuron #excitatory/spiny-with-atypical-tree #grey
+1229653282	#L3 #astrocyte #glial
+1360887386	#L3 #astrocyte #glial
+1404821963	#L3 #astrocyte #glial
+1521687785	#L3 #astrocyte #glial
+1565141154	#L3 #astrocyte #glial
+1622186098	#L3 #astrocyte #glial
+1666413398	#L3 #astrocyte #glial
+1695205565	#L3 #astrocyte #glial
+1695600805	#L3 #astrocyte #glial
+1695893012	#L3 #astrocyte #glial
+1739403999	#L3 #astrocyte #glial
+1783162477	#L3 #astrocyte #glial
+1783717075	#L3 #astrocyte #glial
+1783717850	#L3 #astrocyte #glial
+1796785387	#L3 #astrocyte #glial
+1797237970	#L3 #astrocyte #glial
+1811474736	#L3 #astrocyte #glial
+1826966184	#L3 #astrocyte #glial
+1855380087	#L3 #astrocyte #glial
+1856357476	#L3 #astrocyte #glial
+1871353230	#L3 #astrocyte #glial
+1871805769	#L3 #astrocyte #glial
+1900803342	#L3 #astrocyte #glial
+1928121965	#L3 #astrocyte #glial
+1943232777	#L3 #astrocyte #glial
+1943715656	#L3 #astrocyte #glial
+1957206767	#L3 #astrocyte #glial
+1972376147	#L3 #astrocyte #glial
+2002280401	#L3 #astrocyte #glial
+2002455269	#L3 #astrocyte #glial
+2002528267	#L3 #astrocyte #glial
+2015582087	#L3 #astrocyte #glial
+2044315826	#L3 #astrocyte #glial
+2087271467	#L3 #astrocyte #glial
+2087579404	#L3 #astrocyte #glial
+2088381369	#L3 #astrocyte #glial
+2146304357	#L3 #astrocyte #glial
+2175564807	#L3 #astrocyte #glial
+2189260273	#L3 #astrocyte #glial
+2192122623	#L3 #astrocyte #glial
+2205205336	#L3 #astrocyte #glial
+2207132262	#L3 #astrocyte #glial
+2221704011	#L3 #astrocyte #glial
+2235807957	#L3 #astrocyte #glial
+2248657220	#L3 #astrocyte #glial
+2249036347	#L3 #astrocyte #glial
+2250949504	#L3 #astrocyte #glial
+2264835601	#L3 #astrocyte #glial
+2279202778	#L3 #astrocyte #glial
+2293964161	#L3 #astrocyte #glial
+2322070669	#L3 #astrocyte #glial
+2337285621	#L3 #astrocyte #glial
+2381979315	#L3 #astrocyte #glial
+2393455600	#L3 #astrocyte #glial
+2395412213	#L3 #astrocyte #glial
+2395572619	#L3 #astrocyte #glial
+2408625137	#L3 #astrocyte #glial
+2409619024	#L3 #astrocyte #glial
+2423226578	#L3 #astrocyte #glial
+2437711569	#L3 #astrocyte #glial
+2438762232	#L3 #astrocyte #glial
+2452969442	#L3 #astrocyte #glial
+2454210541	#L3 #astrocyte #glial
+2466532898	#L3 #astrocyte #glial
+2466781033	#L3 #astrocyte #glial
+2467496829	#L3 #astrocyte #glial
+2495064027	#L3 #astrocyte #glial
+2498056315	#L3 #astrocyte #glial
+2510146939	#L3 #astrocyte #glial
+2513198595	#L3 #astrocyte #glial
+2524747513	#L3 #astrocyte #glial
+2570448859	#L3 #astrocyte #glial
+2598030379	#L3 #astrocyte #glial
+2600103624	#L3 #astrocyte #glial
+2614996088	#L3 #astrocyte #glial
+2642037124	#L3 #astrocyte #glial
+2642884622	#L3 #astrocyte #glial
+2671224886	#L3 #astrocyte #glial
+2685475670	#L3 #astrocyte #glial
+2686453762	#L3 #astrocyte #glial
+2700149400	#L3 #astrocyte #glial
+2700265862	#L3 #astrocyte #glial
+2714457446	#L3 #astrocyte #glial
+2715319597	#L3 #astrocyte #glial
+2715596662	#L3 #astrocyte #glial
+2729322274	#L3 #astrocyte #glial
+2729818492	#L3 #astrocyte #glial
+2743996089	#L3 #astrocyte #glial
+2744317607	#L3 #astrocyte #glial
+2745033206	#L3 #astrocyte #glial
+2759662861	#L3 #astrocyte #glial
+2759896925	#L3 #astrocyte #glial
+2760962801	#L3 #astrocyte #glial
+2773475923	#L3 #astrocyte #glial
+2773651379	#L3 #astrocyte #glial
+2775358798	#L3 #astrocyte #glial
+2788923441	#L3 #astrocyte #glial
+2817001007	#L3 #astrocyte #glial
+2818110315	#L3 #astrocyte #glial
+2847385660	#L3 #astrocyte #glial
+2860424724	#L3 #astrocyte #glial
+2875828542	#L3 #astrocyte #glial
+2876223102	#L3 #astrocyte #glial
+2892123401	#L3 #astrocyte #glial
+2904840290	#L3 #astrocyte #glial
+2920420348	#L3 #astrocyte #glial
+2921339818	#L3 #astrocyte #glial
+2935648229	#L3 #astrocyte #glial
+2949636852	#L3 #astrocyte #glial
+2991526932	#L3 #astrocyte #glial
+3006945696	#L3 #astrocyte #glial
+3007135588	#L3 #astrocyte #glial
+3008522918	#L3 #astrocyte #glial
+3022422564	#L3 #astrocyte #glial
+3037286232	#L3 #astrocyte #glial
+3066255215	#L3 #astrocyte #glial
+3066488397	#L3 #astrocyte #glial
+3080783124	#L3 #astrocyte #glial
+3109196386	#L3 #astrocyte #glial
+3123694688	#L3 #astrocyte #glial
+3137624913	#L3 #astrocyte #glial
+3154356848	#L3 #astrocyte #glial
+3166592720	#L3 #astrocyte #glial
+3183500748	#L3 #astrocyte #glial
+3224748606	#L3 #astrocyte #glial
+3239817081	#L3 #astrocyte #glial
+3270654096	#L3 #astrocyte #glial
+3298629294	#L3 #astrocyte #glial
+3298672555	#L3 #astrocyte #glial
+3298906574	#L3 #astrocyte #glial
+3328751317	#L3 #astrocyte #glial
+3342447471	#L3 #astrocyte #glial
+3356522283	#L3 #astrocyte #glial
+3358289614	#L3 #astrocyte #glial
+3414824062	#L3 #astrocyte #glial
+3430958853	#L3 #astrocyte #glial
+3459226113	#L3 #astrocyte #glial
+3501656534	#L3 #astrocyte #glial
+3532247149	#L3 #astrocyte #glial
+3547810809	#L3 #astrocyte #glial
+3562177615	#L3 #astrocyte #glial
+3575552140	#L3 #astrocyte #glial
+3589277341	#L3 #astrocyte #glial
+3589642490	#L3 #astrocyte #glial
+3603162823	#L3 #astrocyte #glial
+3618567130	#L3 #astrocyte #glial
+3619106453	#L3 #astrocyte #glial
+3633547087	#L3 #astrocyte #glial
+3648396949	#L3 #astrocyte #glial
+3649681619	#L3 #astrocyte #glial
+3692725295	#L3 #astrocyte #glial
+3734703248	#L3 #astrocyte #glial
+3751071069	#L3 #astrocyte #glial
+3793574697	#L3 #astrocyte #glial
+3809212152	#L3 #astrocyte #glial
+3837494386	#L3 #astrocyte #glial
+3837538076	#L3 #astrocyte #glial
+3838369747	#L3 #astrocyte #glial
+3839158544	#L3 #astrocyte #glial
+3851291343	#L3 #astrocyte #glial
+3851700761	#L3 #astrocyte #glial
+3867820625	#L3 #astrocyte #glial
+3881778665	#L3 #astrocyte #glial
+3895562075	#L3 #astrocyte #glial
+3968377805	#L3 #astrocyte #glial
+3984248966	#L3 #astrocyte #glial
+3984731138	#L3 #astrocyte #glial
+4041016834	#L3 #astrocyte #glial
+4041207195	#L3 #astrocyte #glial
+4070482444	#L3 #astrocyte #glial
+4085507290	#L3 #astrocyte #glial
+4115512103	#L3 #astrocyte #glial
+4144260934	#L3 #astrocyte #glial
+4157182970	#L3 #astrocyte #glial
+4157270945	#L3 #astrocyte #glial
+4173054157	#L3 #astrocyte #glial
+4173433665	#L3 #astrocyte #glial
+4187159247	#L3 #astrocyte #glial
+4230363731	#L3 #astrocyte #glial
+4245344142	#L3 #astrocyte #glial
+4245446478	#L3 #astrocyte #glial
+4261083377	#L3 #astrocyte #glial
+4333023028	#L3 #astrocyte #glial
+4362997944	#L3 #astrocyte #glial
+4377351157	#L3 #astrocyte #glial
+4405006282	#L3 #astrocyte #glial
+4435522222	#L3 #astrocyte #glial
+4449874975	#L3 #astrocyte #glial
+4463555452	#L3 #astrocyte #glial
+4478405076	#L3 #astrocyte #glial
+4479105938	#L3 #astrocyte #glial
+4493678020	#L3 #astrocyte #glial
+4507242040	#L3 #astrocyte #glial
+4522967369	#L3 #astrocyte #glial
+4596045637	#L3 #astrocyte #glial
+4610660898	#L3 #astrocyte #glial
+4625408365	#L3 #astrocyte #glial
+4638227423	#L3 #astrocyte #glial
+4639089024	#L3 #astrocyte #glial
+4639789880	#L3 #astrocyte #glial
+4653427387	#L3 #astrocyte #glial
+4711027856	#L3 #astrocyte #glial
+4741062963	#L3 #astrocyte #glial
+4769198763	#L3 #astrocyte #glial
+4769607504	#L3 #astrocyte #glial
+4769782815	#L3 #astrocyte #glial
+4799130991	#L3 #astrocyte #glial
+4814199269	#L3 #astrocyte #glial
+4814300163	#L3 #astrocyte #glial
+4828522632	#L3 #astrocyte #glial
+4828580125	#L3 #astrocyte #glial
+4843824256	#L3 #astrocyte #glial
+4886955738	#L3 #astrocyte #glial
+4901790133	#L3 #astrocyte #glial
+4945957490	#L3 #astrocyte #glial
+4987921866	#L3 #astrocyte #glial
+5031374267	#L3 #astrocyte #glial
+5033082217	#L3 #astrocyte #glial
+5046749459	#L3 #astrocyte #glial
+5090391471	#L3 #astrocyte #glial
+5090844159	#L3 #astrocyte #glial
+5106013751	#L3 #astrocyte #glial
+5192335947	#L3 #astrocyte #glial
+5221901971	#L3 #astrocyte #glial
+5250418297	#L3 #astrocyte #glial
+5280350531	#L3 #astrocyte #glial
+5309771153	#L3 #astrocyte #glial
+5337148437	#L3 #astrocyte #glial
+5337425858	#L3 #astrocyte #glial
+5338930111	#L3 #astrocyte #glial
+5366642877	#L3 #astrocyte #glial
+5367387207	#L3 #astrocyte #glial
+5382367566	#L3 #astrocyte #glial
+5410839174	#L3 #astrocyte #glial
+5425499423	#L3 #astrocyte #glial
+5455474548	#L3 #astrocyte #glial
+5456029971	#L3 #astrocyte #glial
+5484574753	#L3 #astrocyte #glial
+5499102347	#L3 #astrocyte #glial
+5499525270	#L3 #astrocyte #glial
+5499715708	#L3 #astrocyte #glial
+5514258268	#L3 #astrocyte #glial
+5614304893	#L3 #astrocyte #glial
+5614465260	#L3 #astrocyte #glial
+5628934879	#L3 #astrocyte #glial
+5629415935	#L3 #astrocyte #glial
+5643535452	#L3 #astrocyte #glial
+5643680967	#L3 #astrocyte #glial
+5658530809	#L3 #astrocyte #glial
+5659056249	#L3 #astrocyte #glial
+5673876176	#L3 #astrocyte #glial
+5732777150	#L3 #astrocyte #glial
+5775236858	#L3 #astrocyte #glial
+5776054407	#L3 #astrocyte #glial
+5804861832	#L3 #astrocyte #glial
+5819112306	#L3 #astrocyte #glial
+5848620521	#L3 #astrocyte #glial
+5877049778	#L3 #astrocyte #glial
+5877764715	#L3 #astrocyte #glial
+5905813583	#L3 #astrocyte #glial
+5920283145	#L3 #astrocyte #glial
+5935044521	#L3 #astrocyte #glial
+5965400350	#L3 #astrocyte #glial
+5978993032	#L3 #astrocyte #glial
+6008999135	#L3 #astrocyte #glial
+6009276467	#L3 #astrocyte #glial
+6037338330	#L3 #astrocyte #glial
+6037571914	#L3 #astrocyte #glial
+6052348977	#L3 #astrocyte #glial
+6125090967	#L3 #astrocyte #glial
+6154833247	#L3 #astrocyte #glial
+6168134962	#L3 #astrocyte #glial
+6183583110	#L3 #astrocyte #glial
+6197876929	#L3 #astrocyte #glial
+6212974903	#L3 #astrocyte #glial
+6213106224	#L3 #astrocyte #glial
+6226115549	#L3 #astrocyte #glial
+6241271484	#L3 #astrocyte #glial
+6284300943	#L3 #astrocyte #glial
+6285336892	#L3 #astrocyte #glial
+6343740324	#L3 #astrocyte #glial
+6474375910	#L3 #astrocyte #glial
+6519084804	#L3 #astrocyte #glial
+6532371745	#L3 #astrocyte #glial
+6576349108	#L3 #astrocyte #glial
+6619393890	#L3 #astrocyte #glial
+6619423072	#L3 #astrocyte #glial
+6940629458	#L3 #astrocyte #glial
+10663228141	#L3 #astrocyte #glial
+10954780576	#L3 #astrocyte #glial
+11317294441	#L3 #astrocyte #glial
+11464764436	#L3 #astrocyte #glial
+11624120149	#L3 #astrocyte #glial
+11727538752	#L3 #astrocyte #glial
+11858042402	#L3 #astrocyte #glial
+12279646326	#L3 #astrocyte #glial
+12381795140	#L3 #astrocyte #glial
+12396016229	#L3 #astrocyte #glial
+12396965228	#L3 #astrocyte #glial
+12469751110	#L3 #astrocyte #glial
+12483301108	#L3 #astrocyte #glial
+12673157891	#L3 #astrocyte #glial
+12789746729	#L3 #astrocyte #glial
+12790447824	#L3 #astrocyte #glial
+13009243680	#L3 #astrocyte #glial
+13125949224	#L3 #astrocyte #glial
+13271098094	#L3 #astrocyte #glial
+14056938349	#L3 #astrocyte #glial
+14233055756	#L3 #astrocyte #glial
+15456035217	#L3 #astrocyte #glial
+15703012249	#L3 #astrocyte #glial
+19309414507	#L3 #astrocyte #glial
+19454796151	#L3 #astrocyte #glial
+19876093133	#L3 #astrocyte #glial
+19907164951	#L3 #astrocyte #glial
+20024541594	#L3 #astrocyte #glial
+20505046650	#L3 #astrocyte #glial
+20607764774	#L3 #astrocyte #glial
+20884541084	#L3 #astrocyte #glial
+20911625528	#L3 #astrocyte #glial
+21116492663	#L3 #astrocyte #glial
+21174429245	#L3 #astrocyte #glial
+21306553724	#L3 #astrocyte #glial
+21393736108	#L3 #astrocyte #glial
+21508982099	#L3 #astrocyte #glial
+21525729771	#L3 #astrocyte #glial
+21554814834	#L3 #astrocyte #glial
+21786036279	#L3 #astrocyte #glial
+22005971090	#L3 #astrocyte #glial
+22063834909	#L3 #astrocyte #glial
+22093518788	#L3 #astrocyte #glial
+22150331176	#L3 #astrocyte #glial
+22194659671	#L3 #astrocyte #glial
+22544514380	#L3 #astrocyte #glial
+22558851997	#L3 #astrocyte #glial
+22631288025	#L3 #astrocyte #glial
+22704103168	#L3 #astrocyte #glial
+22719244216	#L3 #astrocyte #glial
+22733422327	#L3 #astrocyte #glial
+22894105615	#L3 #astrocyte #glial
+23068310685	#L3 #astrocyte #glial
+23490878182	#L3 #astrocyte #glial
+23650715102	#L3 #astrocyte #glial
+24307701638	#L3 #astrocyte #glial
+24438907063	#L3 #astrocyte #glial
+24451959856	#L3 #astrocyte #glial
+24452718899	#L3 #astrocyte #glial
+24511706970	#L3 #astrocyte #glial
+24627667948	#L3 #astrocyte #glial
+27986016205	#L3 #astrocyte #glial
+28130754101	#L3 #astrocyte #glial
+28306304071	#L3 #astrocyte #glial
+28320671438	#L3 #astrocyte #glial
+28322131369	#L3 #astrocyte #glial
+28365832086	#L3 #astrocyte #glial
+28394990037	#L3 #astrocyte #glial
+28437463501	#L3 #astrocyte #glial
+28438238485	#L3 #astrocyte #glial
+28451232337	#L3 #astrocyte #glial
+28510892876	#L3 #astrocyte #glial
+28524559444	#L3 #astrocyte #glial
+28582642453	#L3 #astrocyte #glial
+28612662272	#L3 #astrocyte #glial
+28640433123	#L3 #astrocyte #glial
+28654713204	#L3 #astrocyte #glial
+28668406481	#L3 #astrocyte #glial
+28669868788	#L3 #astrocyte #glial
+28714999410	#L3 #astrocyte #glial
+28727643016	#L3 #astrocyte #glial
+28743370142	#L3 #astrocyte #glial
+28771214202	#L3 #astrocyte #glial
+28829209694	#L3 #astrocyte #glial
+28843810928	#L3 #astrocyte #glial
+28844686392	#L3 #astrocyte #glial
+28858645058	#L3 #astrocyte #glial
+28873537947	#L3 #astrocyte #glial
+28889847478	#L3 #astrocyte #glial
+28903835406	#L3 #astrocyte #glial
+28904813179	#L3 #astrocyte #glial
+28916436064	#L3 #astrocyte #glial
+28947959411	#L3 #astrocyte #glial
+28990302582	#L3 #astrocyte #glial
+29004742777	#L3 #astrocyte #glial
+29079499713	#L3 #astrocyte #glial
+29108059346	#L3 #astrocyte #glial
+29167542454	#L3 #astrocyte #glial
+29210382070	#L3 #astrocyte #glial
+29223918220	#L3 #astrocyte #glial
+29237672738	#L3 #astrocyte #glial
+29252929976	#L3 #astrocyte #glial
+29428040256	#L3 #astrocyte #glial
+29572867862	#L3 #astrocyte #glial
+29574998874	#L3 #astrocyte #glial
+29587367060	#L3 #astrocyte #glial
+29603631056	#L3 #astrocyte #glial
+29618174073	#L3 #astrocyte #glial
+29646106018	#L3 #astrocyte #glial
+29646484742	#L3 #astrocyte #glial
+29704670644	#L3 #astrocyte #glial
+29720892666	#L3 #astrocyte #glial
+29749130183	#L3 #astrocyte #glial
+29777996651	#L3 #astrocyte #glial
+30158018386	#L3 #astrocyte #glial
+30158075155	#L3 #astrocyte #glial
+30375644610	#L3 #astrocyte #glial
+30375878192	#L3 #astrocyte #glial
+30403504389	#L3 #astrocyte #glial
+30418250319	#L3 #astrocyte #glial
+30433070928	#L3 #astrocyte #glial
+30550389222	#L3 #astrocyte #glial
+30564391506	#L3 #astrocyte #glial
+30565530922	#L3 #astrocyte #glial
+30636972339	#L3 #astrocyte #glial
+30666759235	#L3 #astrocyte #glial
+30667810682	#L3 #astrocyte #glial
+30769638544	#L3 #astrocyte #glial
+30797029638	#L3 #astrocyte #glial
+30857434159	#L3 #astrocyte #glial
+30885555681	#L3 #astrocyte #glial
+31118937837	#L3 #astrocyte #glial
+31192542064	#L3 #astrocyte #glial
+31309028024	#L3 #astrocyte #glial
+31425004514	#L3 #astrocyte #glial
+31496739148	#L3 #astrocyte #glial
+31497425550	#L3 #astrocyte #glial
+31570575978	#L3 #astrocyte #glial
+31570839391	#L3 #astrocyte #glial
+31643143277	#L3 #astrocyte #glial
+31702218748	#L3 #astrocyte #glial
+31744634450	#L3 #astrocyte #glial
+31876802629	#L3 #astrocyte #glial
+31920518432	#L3 #astrocyte #glial
+31935163871	#L3 #astrocyte #glial
+32021528187	#L3 #astrocyte #glial
+32166851759	#L3 #astrocyte #glial
+32196944478	#L3 #astrocyte #glial
+32268809676	#L3 #astrocyte #glial
+32270067171	#L3 #astrocyte #glial
+32386772872	#L3 #astrocyte #glial
+32458842919	#L3 #astrocyte #glial
+32473181403	#L3 #astrocyte #glial
+32516428855	#L3 #astrocyte #glial
+32516852617	#L3 #astrocyte #glial
+32545980921	#L3 #astrocyte #glial
+32647662569	#L3 #astrocyte #glial
+32691729164	#L3 #astrocyte #glial
+32691903931	#L3 #astrocyte #glial
+32778632995	#L3 #astrocyte #glial
+32792738092	#L3 #astrocyte #glial
+32808186385	#L3 #astrocyte #glial
+32852806146	#L3 #astrocyte #glial
+32938981123	#L3 #astrocyte #glial
+32953335233	#L3 #astrocyte #glial
+32953597972	#L3 #astrocyte #glial
+32983004322	#L3 #astrocyte #glial
+33011636642	#L3 #astrocyte #glial
+33025755581	#L3 #astrocyte #glial
+33069806946	#L3 #astrocyte #glial
+33070713575	#L3 #astrocyte #glial
+33085065051	#L3 #astrocyte #glial
+33099374453	#L3 #astrocyte #glial
+33129671868	#L3 #astrocyte #glial
+33186366965	#L3 #astrocyte #glial
+33231003599	#L3 #astrocyte #glial
+33346671464	#L3 #astrocyte #glial
+33360878570	#L3 #astrocyte #glial
+33419587619	#L3 #astrocyte #glial
+33448717933	#L3 #astrocyte #glial
+36735125312	#L3 #astrocyte #glial
+36923507714	#L3 #astrocyte #glial
+36937990849	#L3 #astrocyte #glial
+37068186764	#L3 #astrocyte #glial
+37069502166	#L3 #astrocyte #glial
+37112048539	#L3 #astrocyte #glial
+37113773088	#L3 #astrocyte #glial
+37126971277	#L3 #astrocyte #glial
+37155661816	#L3 #astrocyte #glial
+37214329382	#L3 #astrocyte #glial
+37273697281	#L3 #astrocyte #glial
+37274690210	#L3 #astrocyte #glial
+37302709221	#L3 #astrocyte #glial
+37359726411	#L3 #astrocyte #glial
+37460982725	#L3 #astrocyte #glial
+37476914111	#L3 #astrocyte #glial
+37578054693	#L3 #astrocyte #glial
+37593181582	#L3 #astrocyte #glial
+37595110480	#L3 #astrocyte #glial
+37606716336	#L3 #astrocyte #glial
+37622982356	#L3 #astrocyte #glial
+37623538043	#L3 #astrocyte #glial
+37724531647	#L3 #astrocyte #glial
+37725758580	#L3 #astrocyte #glial
+37737789400	#L3 #astrocyte #glial
+37886983154	#L3 #astrocyte #glial
+37971275118	#L3 #astrocyte #glial
+37974428030	#L3 #astrocyte #glial
+37988970524	#L3 #astrocyte #glial
+38118949491	#L3 #astrocyte #glial
+38119533382	#L3 #astrocyte #glial
+38193005204	#L3 #astrocyte #glial
+38206438848	#L3 #astrocyte #glial
+38207504079	#L3 #astrocyte #glial
+38219535611	#L3 #astrocyte #glial
+38293007660	#L3 #astrocyte #glial
+38350725196	#L3 #astrocyte #glial
+38454480340	#L3 #astrocyte #glial
+38469271636	#L3 #astrocyte #glial
+38484120196	#L3 #astrocyte #glial
+38497917233	#L3 #astrocyte #glial
+38629954550	#L3 #astrocyte #glial
+38672882280	#L3 #astrocyte #glial
+38673377891	#L3 #astrocyte #glial
+38687818995	#L3 #astrocyte #glial
+38702814062	#L3 #astrocyte #glial
+38759290802	#L3 #astrocyte #glial
+38877850898	#L3 #astrocyte #glial
+38890801898	#L3 #astrocyte #glial
+38905300323	#L3 #astrocyte #glial
+38921449310	#L3 #astrocyte #glial
+38948431578	#L3 #astrocyte #glial
+38963222213	#L3 #astrocyte #glial
+38964843574	#L3 #astrocyte #glial
+39051486320	#L3 #astrocyte #glial
+39140069614	#L3 #astrocyte #glial
+39154670871	#L3 #astrocyte #glial
+39182004350	#L3 #astrocyte #glial
+39211994685	#L3 #astrocyte #glial
+39285335902	#L3 #astrocyte #glial
+39327123851	#L3 #astrocyte #glial
+39357800353	#L3 #astrocyte #glial
+39429680827	#L3 #astrocyte #glial
+39445713037	#L3 #astrocyte #glial
+39458912382	#L3 #astrocyte #glial
+39489705490	#L3 #astrocyte #glial
+39562155471	#L3 #astrocyte #glial
+39575282311	#L3 #astrocyte #glial
+39576041050	#L3 #astrocyte #glial
+39590306898	#L3 #astrocyte #glial
+39590481649	#L3 #astrocyte #glial
+39590831545	#L3 #astrocyte #glial
+39794677113	#L3 #astrocyte #glial
+39822900594	#L3 #astrocyte #glial
+39895964186	#L3 #astrocyte #glial
+39941066576	#L3 #astrocyte #glial
+39968151438	#L3 #astrocyte #glial
+39969363113	#L3 #astrocyte #glial
+40042017699	#L3 #astrocyte #glial
+40056604238	#L3 #astrocyte #glial
+40085236730	#L3 #astrocyte #glial
+40114672150	#L3 #astrocyte #glial
+40143232216	#L3 #astrocyte #glial
+40172302403	#L3 #astrocyte #glial
+40188275741	#L3 #astrocyte #glial
+40319291010	#L3 #astrocyte #glial
+40376278774	#L3 #astrocyte #glial
+40392047901	#L3 #astrocyte #glial
+40392573008	#L3 #astrocyte #glial
+40392675056	#L3 #astrocyte #glial
+40420402929	#L3 #astrocyte #glial
+40421381174	#L3 #astrocyte #glial
+40492809380	#L3 #astrocyte #glial
+40507322674	#L3 #astrocyte #glial
+40566777872	#L3 #astrocyte #glial
+40581247467	#L3 #astrocyte #glial
+40668926142	#L3 #astrocyte #glial
+40755524594	#L3 #astrocyte #glial
+40815125699	#L3 #astrocyte #glial
+40873573715	#L3 #astrocyte #glial
+40902250744	#L3 #astrocyte #glial
+40946111225	#L3 #astrocyte #glial
+40990017620	#L3 #astrocyte #glial
+41090895257	#L3 #astrocyte #glial
+41106736667	#L3 #astrocyte #glial
+41265770187	#L3 #astrocyte #glial
+41309850140	#L3 #astrocyte #glial
+41310406869	#L3 #astrocyte #glial
+41323883704	#L3 #astrocyte #glial
+41339127259	#L3 #astrocyte #glial
+41455715199	#L3 #astrocyte #glial
+41470594483	#L3 #astrocyte #glial
+41542547808	#L3 #astrocyte #glial
+41587037585	#L3 #astrocyte #glial
+41659326970	#L3 #astrocyte #glial
+41674175684	#L3 #astrocyte #glial
+41688952768	#L3 #astrocyte #glial
+41746845288	#L3 #astrocyte #glial
+41848263909	#L3 #astrocyte #glial
+41862295181	#L3 #astrocyte #glial
+41877626185	#L3 #astrocyte #glial
+41906390358	#L3 #astrocyte #glial
+41906828399	#L3 #astrocyte #glial
+41950426781	#L3 #astrocyte #glial
+41993573047	#L3 #astrocyte #glial
+42022424287	#L3 #astrocyte #glial
+42037171220	#L3 #astrocyte #glial

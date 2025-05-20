@@ -1,0 +1,1000 @@
+29416344363	#L2 #pyramidal #neuron
+29430127169	#L2 #pyramidal #neuron
+29431092449	#L2 #pyramidal #neuron
+29460148199	#L2 #pyramidal #neuron
+29460396958	#L2 #pyramidal #neuron
+29474033017	#L2 #pyramidal #neuron
+29488926317	#L2 #pyramidal #neuron
+29502768422	#L2 #pyramidal #neuron
+29518128421	#L2 #pyramidal #neuron
+29518376449	#L2 #pyramidal #neuron
+29532976612	#L2 #pyramidal #neuron
+29533006395	#L2 #pyramidal #neuron
+29533649871	#L2 #pyramidal #neuron
+29547037687	#L2 #pyramidal #neuron
+29547623483	#L2 #pyramidal #neuron
+29561858288	#L2 #pyramidal #neuron
+29576138285	#L2 #pyramidal #neuron
+29590929026	#L2 #pyramidal #neuron
+29591147415	#L2 #pyramidal #neuron
+29605544162	#L2 #pyramidal #neuron
+29605574379	#L2 #pyramidal #neuron
+29663656798	#L2 #pyramidal #neuron
+29664109175	#L2 #pyramidal #neuron
+29664328684	#L2 #pyramidal #neuron
+29677819987	#L2 #pyramidal #neuron
+29692989917	#L2 #pyramidal #neuron
+29693647945	#L2 #pyramidal #neuron
+29706786384	#L2 #pyramidal #neuron
+29722031646	#L2 #pyramidal #neuron
+29722732207	#L2 #pyramidal #neuron
+29736486913	#L2 #pyramidal #neuron
+29736529613	#L2 #pyramidal #neuron
+29736864868	#L2 #pyramidal #neuron
+29750940884	#L2 #pyramidal #neuron
+29794539579	#L2 #pyramidal #neuron
+29795094810	#L2 #pyramidal #neuron
+29823392100	#L2 #pyramidal #neuron
+29824062527	#L2 #pyramidal #neuron
+29824135516	#L2 #pyramidal #neuron
+29824750479	#L2 #pyramidal #neuron
+29838431028	#L2 #pyramidal #neuron
+29852389227	#L2 #pyramidal #neuron
+29853176940	#L2 #pyramidal #neuron
+29853309269	#L2 #pyramidal #neuron
+29882963336	#L2 #pyramidal #neuron
+29912136721	#L2 #pyramidal #neuron
+29925408228	#L2 #pyramidal #neuron
+29940461621	#L2 #pyramidal #neuron
+29954609809	#L2 #pyramidal #neuron
+29956247280	#L2 #pyramidal #neuron
+29983886190	#L2 #pyramidal #neuron
+29984821101	#L2 #pyramidal #neuron
+30028053069	#L2 #pyramidal #neuron
+30028082773	#L2 #pyramidal #neuron
+30028346691	#L2 #pyramidal #neuron
+30071944120	#L2 #pyramidal #neuron
+30072060807	#L2 #pyramidal #neuron
+30086866777	#L2 #pyramidal #neuron
+30100168221	#L2 #pyramidal #neuron
+30114885257	#L2 #pyramidal #neuron
+30144321749	#L2 #pyramidal #neuron
+30159010492	#L2 #pyramidal #neuron
+30159242275	#L2 #pyramidal #neuron
+30187073170	#L2 #pyramidal #neuron
+30202374918	#L2 #pyramidal #neuron
+30216801331	#L2 #pyramidal #neuron
+30231474338	#L2 #pyramidal #neuron
+30232058166	#L2 #pyramidal #neuron
+30261260420	#L2 #pyramidal #neuron
+30348487646	#L2 #pyramidal #neuron
+30392422129	#L2 #pyramidal #neuron
+30435479537	#L2 #pyramidal #neuron
+30494292181	#L2 #pyramidal #neuron
+30522180468	#L2 #pyramidal #neuron
+30522589039	#L2 #pyramidal #neuron
+30523392286	#L2 #pyramidal #neuron
+30537321564	#L2 #pyramidal #neuron
+30537994174	#L2 #pyramidal #neuron
+30552112939	#L2 #pyramidal #neuron
+30624519184	#L2 #pyramidal #neuron
+30624577361	#L2 #pyramidal #neuron
+30639016767	#L2 #pyramidal #neuron
+30697232346	#L2 #pyramidal #neuron
+30697435778	#L2 #pyramidal #neuron
+30711438279	#L2 #pyramidal #neuron
+30740772105	#L2 #pyramidal #neuron
+30740918079	#L2 #pyramidal #neuron
+30741750964	#L2 #pyramidal #neuron
+30742013887	#L2 #pyramidal #neuron
+30799467565	#L2 #pyramidal #neuron
+30800023543	#L2 #pyramidal #neuron
+30813996296	#L2 #pyramidal #neuron
+30814755814	#L2 #pyramidal #neuron
+30827940138	#L2 #pyramidal #neuron
+30842701549	#L2 #pyramidal #neuron
+30857623822	#L2 #pyramidal #neuron
+30901368474	#L2 #pyramidal #neuron
+30902216115	#L2 #pyramidal #neuron
+30930993679	#L2 #pyramidal #neuron
+30931023986	#L2 #pyramidal #neuron
+30931213215	#L2 #pyramidal #neuron
+30945376646	#L2 #pyramidal #neuron
+30960122942	#L2 #pyramidal #neuron
+30974709901	#L2 #pyramidal #neuron
+31003356363	#L2 #pyramidal #neuron
+31032965594	#L2 #pyramidal #neuron
+31046546001	#L2 #pyramidal #neuron
+31047159257	#L2 #pyramidal #neuron
+31048094809	#L2 #pyramidal #neuron
+31061892625	#L2 #pyramidal #neuron
+31076362091	#L2 #pyramidal #neuron
+31076492437	#L2 #pyramidal #neuron
+31076638263	#L2 #pyramidal #neuron
+31091050560	#L2 #pyramidal #neuron
+31105037132	#L2 #pyramidal #neuron
+31119798967	#L2 #pyramidal #neuron
+31148519781	#L2 #pyramidal #neuron
+31149336925	#L2 #pyramidal #neuron
+31163397443	#L2 #pyramidal #neuron
+31163938241	#L2 #pyramidal #neuron
+31178832257	#L2 #pyramidal #neuron
+31193476589	#L2 #pyramidal #neuron
+31194177383	#L2 #pyramidal #neuron
+31207800424	#L2 #pyramidal #neuron
+31208078455	#L2 #pyramidal #neuron
+31221845582	#L2 #pyramidal #neuron
+31221905161	#L2 #pyramidal #neuron
+31222474320	#L2 #pyramidal #neuron
+31265707976	#L2 #pyramidal #neuron
+31265985615	#L2 #pyramidal #neuron
+31280075122	#L2 #pyramidal #neuron
+31280177557	#L2 #pyramidal #neuron
+31323907146	#L2 #pyramidal #neuron
+31353591502	#L2 #pyramidal #neuron
+31367593179	#L2 #pyramidal #neuron
+31381858501	#L2 #pyramidal #neuron
+31411966103	#L2 #pyramidal #neuron
+31454862705	#L2 #pyramidal #neuron
+31484225514	#L2 #pyramidal #neuron
+31484825061	#L2 #pyramidal #neuron
+31498914796	#L2 #pyramidal #neuron
+31542615480	#L2 #pyramidal #neuron
+31556719386	#L2 #pyramidal #neuron
+31557202337	#L2 #pyramidal #neuron
+31557610480	#L2 #pyramidal #neuron
+31586711120	#L2 #pyramidal #neuron
+31599515703	#L2 #pyramidal #neuron
+31629535416	#L2 #pyramidal #neuron
+31673981181	#L2 #pyramidal #neuron
+31702627129	#L2 #pyramidal #neuron
+31746475332	#L2 #pyramidal #neuron
+31746709268	#L2 #pyramidal #neuron
+31775851446	#L2 #pyramidal #neuron
+31818705811	#L2 #pyramidal #neuron
+31819333117	#L2 #pyramidal #neuron
+31833452314	#L2 #pyramidal #neuron
+31834182997	#L2 #pyramidal #neuron
+31847703249	#L2 #pyramidal #neuron
+31848463113	#L2 #pyramidal #neuron
+31862567681	#L2 #pyramidal #neuron
+31877373153	#L2 #pyramidal #neuron
+31877766937	#L2 #pyramidal #neuron
+31877913765	#L2 #pyramidal #neuron
+31892485844	#L2 #pyramidal #neuron
+31936142560	#L2 #pyramidal #neuron
+31965826324	#L2 #pyramidal #neuron
+32037239241	#L2 #pyramidal #neuron
+32052746339	#L2 #pyramidal #neuron
+32053082283	#L2 #pyramidal #neuron
+32168560628	#L2 #pyramidal #neuron
+32197527988	#L2 #pyramidal #neuron
+32197587647	#L2 #pyramidal #neuron
+32213225794	#L2 #pyramidal #neuron
+32284931606	#L2 #pyramidal #neuron
+32285470246	#L2 #pyramidal #neuron
+32285718672	#L2 #pyramidal #neuron
+32416017649	#L2 #pyramidal #neuron
+32431247437	#L2 #pyramidal #neuron
+32445716709	#L2 #pyramidal #neuron
+32460507449	#L2 #pyramidal #neuron
+32503640250	#L2 #pyramidal #neuron
+32518327197	#L2 #pyramidal #neuron
+32532372922	#L2 #pyramidal #neuron
+32561940996	#L2 #pyramidal #neuron
+32576233830	#L2 #pyramidal #neuron
+32590528334	#L2 #pyramidal #neuron
+32591522249	#L2 #pyramidal #neuron
+32605539298	#L2 #pyramidal #neuron
+32722040217	#L2 #pyramidal #neuron
+32736203913	#L2 #pyramidal #neuron
+32736743209	#L2 #pyramidal #neuron
+32984260934	#L2 #pyramidal #neuron
+33041949403	#L2 #pyramidal #neuron
+33071720245	#L2 #pyramidal #neuron
+33202910134	#L2 #pyramidal #neuron
+33217276768	#L2 #pyramidal #neuron
+33231776587	#L2 #pyramidal #neuron
+33275883847	#L2 #pyramidal #neuron
+33319061260	#L2 #pyramidal #neuron
+33334024609	#L2 #pyramidal #neuron
+35703783848	#L2 #pyramidal #neuron
+35718195768	#L2 #pyramidal #neuron
+35732781149	#L2 #pyramidal #neuron
+35746301399	#L2 #pyramidal #neuron
+35746388231	#L2 #pyramidal #neuron
+35746606454	#L2 #pyramidal #neuron
+35747250723	#L2 #pyramidal #neuron
+35747586848	#L2 #pyramidal #neuron
+35760742053	#L2 #pyramidal #neuron
+35761633582	#L2 #pyramidal #neuron
+35775255471	#L2 #pyramidal #neuron
+35775328266	#L2 #pyramidal #neuron
+35776407403	#L2 #pyramidal #neuron
+35790104510	#L2 #pyramidal #neuron
+35804369271	#L2 #pyramidal #neuron
+35805332868	#L2 #pyramidal #neuron
+35818911934	#L2 #pyramidal #neuron
+35820035754	#L2 #pyramidal #neuron
+35820226888	#L2 #pyramidal #neuron
+35833030418	#L2 #pyramidal #neuron
+35833527568	#L2 #pyramidal #neuron
+35833658077	#L2 #pyramidal #neuron
+35833687678	#L2 #pyramidal #neuron
+35848099258	#L2 #pyramidal #neuron
+35862482039	#L2 #pyramidal #neuron
+35862569112	#L2 #pyramidal #neuron
+35862656920	#L2 #pyramidal #neuron
+35863752155	#L2 #pyramidal #neuron
+35876643720	#L2 #pyramidal #neuron
+35877111879	#L2 #pyramidal #neuron
+35878090094	#L2 #pyramidal #neuron
+35878177988	#L2 #pyramidal #neuron
+35891259326	#L2 #pyramidal #neuron
+35892018820	#L2 #pyramidal #neuron
+35892033361	#L2 #pyramidal #neuron
+35892865993	#L2 #pyramidal #neuron
+35906079869	#L2 #pyramidal #neuron
+35906708609	#L2 #pyramidal #neuron
+35920578867	#L2 #pyramidal #neuron
+35921484624	#L2 #pyramidal #neuron
+35922054242	#L2 #pyramidal #neuron
+35922068138	#L2 #pyramidal #neuron
+35936347766	#L2 #pyramidal #neuron
+35949664249	#L2 #pyramidal #neuron
+35949897877	#L2 #pyramidal #neuron
+35950116409	#L2 #pyramidal #neuron
+35950613512	#L2 #pyramidal #neuron
+35951270603	#L2 #pyramidal #neuron
+35964995425	#L2 #pyramidal #neuron
+35978865722	#L2 #pyramidal #neuron
+35978953987	#L2 #pyramidal #neuron
+35979332818	#L2 #pyramidal #neuron
+35979332964	#L2 #pyramidal #neuron
+35993394276	#L2 #pyramidal #neuron
+35994167495	#L2 #pyramidal #neuron
+36007834520	#L2 #pyramidal #neuron
+36008053364	#L2 #pyramidal #neuron
+36008125347	#L2 #pyramidal #neuron
+36008155371	#L2 #pyramidal #neuron
+36008695469	#L2 #pyramidal #neuron
+36009338885	#L2 #pyramidal #neuron
+36022040377	#L2 #pyramidal #neuron
+36022318401	#L2 #pyramidal #neuron
+36022508993	#L2 #pyramidal #neuron
+36022537318	#L2 #pyramidal #neuron
+36022887535	#L2 #pyramidal #neuron
+36023282114	#L2 #pyramidal #neuron
+36023691445	#L2 #pyramidal #neuron
+36037109946	#L2 #pyramidal #neuron
+36037387291	#L2 #pyramidal #neuron
+36051344582	#L2 #pyramidal #neuron
+36051883991	#L2 #pyramidal #neuron
+36052250628	#L2 #pyramidal #neuron
+36052805842	#L2 #pyramidal #neuron
+36052835482	#L2 #pyramidal #neuron
+36066426627	#L2 #pyramidal #neuron
+36066938526	#L2 #pyramidal #neuron
+36081292586	#L2 #pyramidal #neuron
+36081963401	#L2 #pyramidal #neuron
+36095453561	#L2 #pyramidal #neuron
+36096142042	#L2 #pyramidal #neuron
+36096301844	#L2 #pyramidal #neuron
+36097484253	#L2 #pyramidal #neuron
+36109866568	#L2 #pyramidal #neuron
+36123853314	#L2 #pyramidal #neuron
+36125459488	#L2 #pyramidal #neuron
+36138191343	#L2 #pyramidal #neuron
+36139813632	#L2 #pyramidal #neuron
+36140118961	#L2 #pyramidal #neuron
+36153216351	#L2 #pyramidal #neuron
+36155523225	#L2 #pyramidal #neuron
+36168109040	#L2 #pyramidal #neuron
+36183265088	#L2 #pyramidal #neuron
+36183308990	#L2 #pyramidal #neuron
+36197324681	#L2 #pyramidal #neuron
+36197952414	#L2 #pyramidal #neuron
+36198421031	#L2 #pyramidal #neuron
+36212845567	#L2 #pyramidal #neuron
+36226089808	#L2 #pyramidal #neuron
+36226833622	#L2 #pyramidal #neuron
+36240310753	#L2 #pyramidal #neuron
+36240983124	#L2 #pyramidal #neuron
+36241273749	#L2 #pyramidal #neuron
+36241582340	#L2 #pyramidal #neuron
+36242340885	#L2 #pyramidal #neuron
+36254547223	#L2 #pyramidal #neuron
+36270462340	#L2 #pyramidal #neuron
+36271703379	#L2 #pyramidal #neuron
+36284274858	#L2 #pyramidal #neuron
+36285165971	#L2 #pyramidal #neuron
+36286100131	#L2 #pyramidal #neuron
+36298948727	#L2 #pyramidal #neuron
+36299633879	#L2 #pyramidal #neuron
+36299838789	#L2 #pyramidal #neuron
+36300657375	#L2 #pyramidal #neuron
+36313068049	#L2 #pyramidal #neuron
+36315112679	#L2 #pyramidal #neuron
+36327801020	#L2 #pyramidal #neuron
+36328457935	#L2 #pyramidal #neuron
+36329712895	#L2 #pyramidal #neuron
+36343452997	#L2 #pyramidal #neuron
+36343744816	#L2 #pyramidal #neuron
+36343788865	#L2 #pyramidal #neuron
+36357162888	#L2 #pyramidal #neuron
+36358506660	#L2 #pyramidal #neuron
+36358725358	#L2 #pyramidal #neuron
+36358828606	#L2 #pyramidal #neuron
+36371018623	#L2 #pyramidal #neuron
+36371194850	#L2 #pyramidal #neuron
+36371953831	#L2 #pyramidal #neuron
+36372551929	#L2 #pyramidal #neuron
+36401535834	#L2 #pyramidal #neuron
+36402251276	#L2 #pyramidal #neuron
+36402558422	#L2 #pyramidal #neuron
+36415917488	#L2 #pyramidal #neuron
+36416807910	#L2 #pyramidal #neuron
+36430211826	#L2 #pyramidal #neuron
+36431438149	#L2 #pyramidal #neuron
+36444608921	#L2 #pyramidal #neuron
+36444667529	#L2 #pyramidal #neuron
+36445908189	#L2 #pyramidal #neuron
+36459500327	#L2 #pyramidal #neuron
+36460450442	#L2 #pyramidal #neuron
+36474365174	#L2 #pyramidal #neuron
+36475211021	#L2 #pyramidal #neuron
+36475518767	#L2 #pyramidal #neuron
+36476044809	#L2 #pyramidal #neuron
+36490017865	#L2 #pyramidal #neuron
+36502998228	#L2 #pyramidal #neuron
+36516313475	#L2 #pyramidal #neuron
+36518066120	#L2 #pyramidal #neuron
+36531017418	#L2 #pyramidal #neuron
+36545428027	#L2 #pyramidal #neuron
+36562205120	#L2 #pyramidal #neuron
+36574513220	#L2 #pyramidal #neuron
+36576382441	#L2 #pyramidal #neuron
+36605510971	#L2 #pyramidal #neuron
+36605701344	#L2 #pyramidal #neuron
+36619003365	#L2 #pyramidal #neuron
+36620682139	#L2 #pyramidal #neuron
+36620871781	#L2 #pyramidal #neuron
+36621426484	#L2 #pyramidal #neuron
+36632771364	#L2 #pyramidal #neuron
+36634785934	#L2 #pyramidal #neuron
+36647343692	#L2 #pyramidal #neuron
+36649183207	#L2 #pyramidal #neuron
+36649547280	#L2 #pyramidal #neuron
+36650000660	#L2 #pyramidal #neuron
+36677480223	#L2 #pyramidal #neuron
+36678530997	#L2 #pyramidal #neuron
+36679714507	#L2 #pyramidal #neuron
+36692344214	#L2 #pyramidal #neuron
+36694446009	#L2 #pyramidal #neuron
+36722188540	#L2 #pyramidal #neuron
+36722553345	#L2 #pyramidal #neuron
+36734570010	#L2 #pyramidal #neuron
+36736877499	#L2 #pyramidal #neuron
+36737913817	#L2 #pyramidal #neuron
+36750966800	#L2 #pyramidal #neuron
+36751316847	#L2 #pyramidal #neuron
+36751740303	#L2 #pyramidal #neuron
+36764998073	#L2 #pyramidal #neuron
+36765640413	#L2 #pyramidal #neuron
+36767043307	#L2 #pyramidal #neuron
+36779935593	#L2 #pyramidal #neuron
+36781103626	#L2 #pyramidal #neuron
+36793105733	#L2 #pyramidal #neuron
+36795471205	#L2 #pyramidal #neuron
+36809882048	#L2 #pyramidal #neuron
+36824088324	#L2 #pyramidal #neuron
+36824147140	#L2 #pyramidal #neuron
+36838047271	#L2 #pyramidal #neuron
+36838442217	#L2 #pyramidal #neuron
+36839960874	#L2 #pyramidal #neuron
+36853479619	#L2 #pyramidal #neuron
+36866052254	#L2 #pyramidal #neuron
+36867686623	#L2 #pyramidal #neuron
+36868008238	#L2 #pyramidal #neuron
+36868169079	#L2 #pyramidal #neuron
+36868840666	#L2 #pyramidal #neuron
+36868870834	#L2 #pyramidal #neuron
+36879528134	#L2 #pyramidal #neuron
+36883163659	#L2 #pyramidal #neuron
+36883339429	#L2 #pyramidal #neuron
+36897487434	#L2 #pyramidal #neuron
+36912381349	#L2 #pyramidal #neuron
+36913067348	#L2 #pyramidal #neuron
+36926441779	#L2 #pyramidal #neuron
+36940663302	#L2 #pyramidal #neuron
+36942077996	#L2 #pyramidal #neuron
+36957424229	#L2 #pyramidal #neuron
+37013974520	#L2 #pyramidal #neuron
+37028268839	#L2 #pyramidal #neuron
+37042679966	#L2 #pyramidal #neuron
+37056857533	#L2 #pyramidal #neuron
+37085708898	#L2 #pyramidal #neuron
+37087563659	#L2 #pyramidal #neuron
+37101492779	#L2 #pyramidal #neuron
+37101960740	#L2 #pyramidal #neuron
+37102033930	#L2 #pyramidal #neuron
+37130796942	#L2 #pyramidal #neuron
+37188748038	#L2 #pyramidal #neuron
+37189156964	#L2 #pyramidal #neuron
+37217381460	#L2 #pyramidal #neuron
+37217599718	#L2 #pyramidal #neuron
+37217760488	#L2 #pyramidal #neuron
+37231004571	#L2 #pyramidal #neuron
+37232113042	#L2 #pyramidal #neuron
+37232989718	#L2 #pyramidal #neuron
+37246992099	#L2 #pyramidal #neuron
+37247679325	#L2 #pyramidal #neuron
+37277231620	#L2 #pyramidal #neuron
+37291379252	#L2 #pyramidal #neuron
+37319178776	#L2 #pyramidal #neuron
+37320113375	#L2 #pyramidal #neuron
+37320478905	#L2 #pyramidal #neuron
+37334656550	#L2 #pyramidal #neuron
+37377598124	#L2 #pyramidal #neuron
+37407705346	#L2 #pyramidal #neuron
+37408010634	#L2 #pyramidal #neuron
+37436628335	#L2 #pyramidal #neuron
+37450967676	#L2 #pyramidal #neuron
+37451259651	#L2 #pyramidal #neuron
+37465582961	#L2 #pyramidal #neuron
+37466357457	#L2 #pyramidal #neuron
+37553598612	#L2 #pyramidal #neuron
+37583049452	#L2 #pyramidal #neuron
+37607125563	#L2 #pyramidal #neuron
+37625727286	#L2 #pyramidal #neuron
+37655030080	#L2 #pyramidal #neuron
+37714181143	#L2 #pyramidal #neuron
+37714194872	#L2 #pyramidal #neuron
+37757692179	#L2 #pyramidal #neuron
+37771342666	#L2 #pyramidal #neuron
+37787447098	#L2 #pyramidal #neuron
+37815759678	#L2 #pyramidal #neuron
+37816285892	#L2 #pyramidal #neuron
+37830317512	#L2 #pyramidal #neuron
+37831120730	#L2 #pyramidal #neuron
+37831222440	#L2 #pyramidal #neuron
+37845137045	#L2 #pyramidal #neuron
+37874953088	#L2 #pyramidal #neuron
+37888122533	#L2 #pyramidal #neuron
+37903555146	#L2 #pyramidal #neuron
+37917001684	#L2 #pyramidal #neuron
+37918096803	#L2 #pyramidal #neuron
+37932202307	#L2 #pyramidal #neuron
+37961184817	#L2 #pyramidal #neuron
+37961958742	#L2 #pyramidal #neuron
+37973348339	#L2 #pyramidal #neuron
+38002506524	#L2 #pyramidal #neuron
+38003966075	#L2 #pyramidal #neuron
+38033430812	#L2 #pyramidal #neuron
+38034424382	#L2 #pyramidal #neuron
+38062749496	#L2 #pyramidal #neuron
+38063625659	#L2 #pyramidal #neuron
+38077890775	#L2 #pyramidal #neuron
+38209095765	#L2 #pyramidal #neuron
+38223711818	#L2 #pyramidal #neuron
+38267441706	#L2 #pyramidal #neuron
+38281837803	#L2 #pyramidal #neuron
+38325216028	#L2 #pyramidal #neuron
+38325933832	#L2 #pyramidal #neuron
+38340811338	#L2 #pyramidal #neuron
+38354522217	#L2 #pyramidal #neuron
+38354959421	#L2 #pyramidal #neuron
+38383811673	#L2 #pyramidal #neuron
+38398485052	#L2 #pyramidal #neuron
+38398850747	#L2 #pyramidal #neuron
+38426825408	#L2 #pyramidal #neuron
+38442435144	#L2 #pyramidal #neuron
+38456435973	#L2 #pyramidal #neuron
+38499129270	#L2 #pyramidal #neuron
+38499874583	#L2 #pyramidal #neuron
+38500210351	#L2 #pyramidal #neuron
+38515308830	#L2 #pyramidal #neuron
+38543881698	#L2 #pyramidal #neuron
+38557957454	#L2 #pyramidal #neuron
+38572791564	#L2 #pyramidal #neuron
+38573448878	#L2 #pyramidal #neuron
+38587465923	#L2 #pyramidal #neuron
+38601380742	#L2 #pyramidal #neuron
+38602724235	#L2 #pyramidal #neuron
+38631488735	#L2 #pyramidal #neuron
+38631810607	#L2 #pyramidal #neuron
+38660280819	#L2 #pyramidal #neuron
+38660573357	#L2 #pyramidal #neuron
+38676168418	#L2 #pyramidal #neuron
+38748310352	#L2 #pyramidal #neuron
+38748560063	#L2 #pyramidal #neuron
+38763013822	#L2 #pyramidal #neuron
+38790901710	#L2 #pyramidal #neuron
+38791543832	#L2 #pyramidal #neuron
+38835886773	#L2 #pyramidal #neuron
+38864694986	#L2 #pyramidal #neuron
+38878638640	#L2 #pyramidal #neuron
+38907957616	#L2 #pyramidal #neuron
+38952039229	#L2 #pyramidal #neuron
+38980875370	#L2 #pyramidal #neuron
+39009974501	#L2 #pyramidal #neuron
+39010251701	#L2 #pyramidal #neuron
+39010354800	#L2 #pyramidal #neuron
+39038446671	#L2 #pyramidal #neuron
+39038972454	#L2 #pyramidal #neuron
+39039366694	#L2 #pyramidal #neuron
+39040156871	#L2 #pyramidal #neuron
+39068262137	#L2 #pyramidal #neuron
+39111991805	#L2 #pyramidal #neuron
+39112269310	#L2 #pyramidal #neuron
+39126476601	#L2 #pyramidal #neuron
+39184792410	#L2 #pyramidal #neuron
+39199219168	#L2 #pyramidal #neuron
+39242729425	#L2 #pyramidal #neuron
+39286765946	#L2 #pyramidal #neuron
+39286956469	#L2 #pyramidal #neuron
+39301279468	#L2 #pyramidal #neuron
+39330583837	#L2 #pyramidal #neuron
+39330598104	#L2 #pyramidal #neuron
+39359012494	#L2 #pyramidal #neuron
+39359405991	#L2 #pyramidal #neuron
+39374211489	#L2 #pyramidal #neuron
+39403063876	#L2 #pyramidal #neuron
+39403165699	#L2 #pyramidal #neuron
+39432511938	#L2 #pyramidal #neuron
+39446851724	#L2 #pyramidal #neuron
+39476229005	#L2 #pyramidal #neuron
+39490508916	#L2 #pyramidal #neuron
+39490552702	#L2 #pyramidal #neuron
+39503898955	#L2 #pyramidal #neuron
+39505590017	#L2 #pyramidal #neuron
+39533697988	#L2 #pyramidal #neuron
+39563221212	#L2 #pyramidal #neuron
+39592569288	#L2 #pyramidal #neuron
+39636239897	#L2 #pyramidal #neuron
+39650725059	#L2 #pyramidal #neuron
+39665019553	#L2 #pyramidal #neuron
+39665384528	#L2 #pyramidal #neuron
+39680190608	#L2 #pyramidal #neuron
+39709056207	#L2 #pyramidal #neuron
+39723861522	#L2 #pyramidal #neuron
+39737704022	#L2 #pyramidal #neuron
+39752493395	#L2 #pyramidal #neuron
+39781579347	#L2 #pyramidal #neuron
+39781915837	#L2 #pyramidal #neuron
+39781928523	#L2 #pyramidal #neuron
+39811057679	#L2 #pyramidal #neuron
+39811058313	#L2 #pyramidal #neuron
+39839896853	#L2 #pyramidal #neuron
+39840099748	#L2 #pyramidal #neuron
+39868967070	#L2 #pyramidal #neuron
+39869010061	#L2 #pyramidal #neuron
+39897715408	#L2 #pyramidal #neuron
+39898461462	#L2 #pyramidal #neuron
+39912886581	#L2 #pyramidal #neuron
+39927399749	#L2 #pyramidal #neuron
+39927748931	#L2 #pyramidal #neuron
+39927794113	#L2 #pyramidal #neuron
+39928187768	#L2 #pyramidal #neuron
+39942001435	#L2 #pyramidal #neuron
+39956748130	#L2 #pyramidal #neuron
+39970896471	#L2 #pyramidal #neuron
+39985628171	#L2 #pyramidal #neuron
+40043448515	#L2 #pyramidal #neuron
+40043492476	#L2 #pyramidal #neuron
+40043827958	#L2 #pyramidal #neuron
+40058882532	#L2 #pyramidal #neuron
+40088068684	#L2 #pyramidal #neuron
+40116614287	#L2 #pyramidal #neuron
+40131215438	#L2 #pyramidal #neuron
+40131536367	#L2 #pyramidal #neuron
+40131622645	#L2 #pyramidal #neuron
+40131623689	#L2 #pyramidal #neuron
+40146209249	#L2 #pyramidal #neuron
+40160123752	#L2 #pyramidal #neuron
+40160315610	#L2 #pyramidal #neuron
+40248009034	#L2 #pyramidal #neuron
+40261952994	#L2 #pyramidal #neuron
+40262566703	#L2 #pyramidal #neuron
+40291300200	#L2 #pyramidal #neuron
+40393725234	#L2 #pyramidal #neuron
+40408079374	#L2 #pyramidal #neuron
+40451269189	#L2 #pyramidal #neuron
+40466162602	#L2 #pyramidal #neuron
+40466176781	#L2 #pyramidal #neuron
+40481157339	#L2 #pyramidal #neuron
+40539196850	#L2 #pyramidal #neuron
+40539253853	#L2 #pyramidal #neuron
+40553299780	#L2 #pyramidal #neuron
+40553403540	#L2 #pyramidal #neuron
+40582414127	#L2 #pyramidal #neuron
+40597264211	#L2 #pyramidal #neuron
+40611924160	#L2 #pyramidal #neuron
+40641301419	#L2 #pyramidal #neuron
+40670299611	#L2 #pyramidal #neuron
+40670503756	#L2 #pyramidal #neuron
+40757846880	#L2 #pyramidal #neuron
+40786711346	#L2 #pyramidal #neuron
+40800759500	#L2 #pyramidal #neuron
+40800831312	#L2 #pyramidal #neuron
+40859512875	#L2 #pyramidal #neuron
+40917392126	#L2 #pyramidal #neuron
+40961967725	#L2 #pyramidal #neuron
+40975722463	#L2 #pyramidal #neuron
+40976203755	#L2 #pyramidal #neuron
+40990002466	#L2 #pyramidal #neuron
+40990746575	#L2 #pyramidal #neuron
+41033805120	#L2 #pyramidal #neuron
+41034461880	#L2 #pyramidal #neuron
+41048479755	#L2 #pyramidal #neuron
+41223603411	#L2 #pyramidal #neuron
+41266647714	#L2 #pyramidal #neuron
+41339929563	#L2 #pyramidal #neuron
+41354837835	#L2 #pyramidal #neuron
+41441872572	#L2 #pyramidal #neuron
+41457205831	#L2 #pyramidal #neuron
+41499767161	#L2 #pyramidal #neuron
+41559063114	#L2 #pyramidal #neuron
+41659166021	#L2 #pyramidal #neuron
+41660903406	#L2 #pyramidal #neuron
+41688894303	#L2 #pyramidal #neuron
+41690062991	#L2 #pyramidal #neuron
+41747780228	#L2 #pyramidal #neuron
+41747984627	#L2 #pyramidal #neuron
+41748289996	#L2 #pyramidal #neuron
+41762936888	#L2 #pyramidal #neuron
+41777391292	#L2 #pyramidal #neuron
+41805117534	#L2 #pyramidal #neuron
+41806023663	#L2 #pyramidal #neuron
+41819264662	#L2 #pyramidal #neuron
+41819966684	#L2 #pyramidal #neuron
+41835210876	#L2 #pyramidal #neuron
+41848087871	#L2 #pyramidal #neuron
+41849811875	#L2 #pyramidal #neuron
+41864441467	#L2 #pyramidal #neuron
+41893395308	#L2 #pyramidal #neuron
+41908683403	#L2 #pyramidal #neuron
+41922319900	#L2 #pyramidal #neuron
+41936950847	#L2 #pyramidal #neuron
+41951419890	#L2 #pyramidal #neuron
+41979949913	#L2 #pyramidal #neuron
+41980271594	#L2 #pyramidal #neuron
+41980592049	#L2 #pyramidal #neuron
+41980767191	#L2 #pyramidal #neuron
+41981045835	#L2 #pyramidal #neuron
+42039259945	#L2 #pyramidal #neuron
+42068445081	#L2 #pyramidal #neuron
+42154592462	#L2 #pyramidal #neuron
+42170317795	#L2 #pyramidal #neuron
+42243175343	#L2 #pyramidal #neuron
+42315596546	#L2 #pyramidal #neuron
+42316136694	#L2 #pyramidal #neuron
+42417526103	#L2 #pyramidal #neuron
+42446567757	#L2 #pyramidal #neuron
+42447064261	#L2 #pyramidal #neuron
+42461402125	#L2 #pyramidal #neuron
+42461518925	#L2 #pyramidal #neuron
+42534509734	#L2 #pyramidal #neuron
+42796261997	#L2 #pyramidal #neuron
+44698947712	#L2 #pyramidal #neuron
+44728310257	#L2 #pyramidal #neuron
+44743392615	#L2 #pyramidal #neuron
+44917466163	#L2 #pyramidal #neuron
+44975987558	#L2 #pyramidal #neuron
+45004881807	#L2 #pyramidal #neuron
+45020871021	#L2 #pyramidal #neuron
+45194184431	#L2 #pyramidal #neuron
+45208945929	#L2 #pyramidal #neuron
+45266459599	#L2 #pyramidal #neuron
+45354182234	#L2 #pyramidal #neuron
+45369118895	#L2 #pyramidal #neuron
+45486189712	#L2 #pyramidal #neuron
+45733443136	#L2 #pyramidal #neuron
+45835752407	#L2 #pyramidal #neuron
+47584251780	#L2 #pyramidal #neuron
+48152580975	#L2 #pyramidal #neuron
+48370587424	#L2 #pyramidal #neuron
+48371084867	#L2 #pyramidal #neuron
+48617505776	#L2 #pyramidal #neuron
+48778715488	#L2 #pyramidal #neuron
+48851413790	#L2 #pyramidal #neuron
+48938625604	#L2 #pyramidal #neuron
+48952876373	#L2 #pyramidal #neuron
+49011251065	#L2 #pyramidal #neuron
+49011368142	#L2 #pyramidal #neuron
+49156706266	#L2 #pyramidal #neuron
+49302848000	#L2 #pyramidal #neuron
+49317082911	#L2 #pyramidal #neuron
+49332078648	#L2 #pyramidal #neuron
+49360668047	#L2 #pyramidal #neuron
+49360828575	#L2 #pyramidal #neuron
+49375487680	#L2 #pyramidal #neuron
+49389986333	#L2 #pyramidal #neuron
+49448025194	#L2 #pyramidal #neuron
+49550072457	#L2 #pyramidal #neuron
+49550290706	#L2 #pyramidal #neuron
+49550845112	#L2 #pyramidal #neuron
+49564088648	#L2 #pyramidal #neuron
+49608271350	#L2 #pyramidal #neuron
+49651913575	#L2 #pyramidal #neuron
+49695629317	#L2 #pyramidal #neuron
+49710536676	#L2 #pyramidal #neuron
+49724582918	#L2 #pyramidal #neuron
+49768225054	#L2 #pyramidal #neuron
+49768414926	#L2 #pyramidal #neuron
+49782607396	#L2 #pyramidal #neuron
+49797149875	#L2 #pyramidal #neuron
+49811648596	#L2 #pyramidal #neuron
+49811998859	#L2 #pyramidal #neuron
+49812291509	#L2 #pyramidal #neuron
+49812612246	#L2 #pyramidal #neuron
+49826863296	#L2 #pyramidal #neuron
+49869994233	#L2 #pyramidal #neuron
+49942561104	#L2 #pyramidal #neuron
+50030459770	#L2 #pyramidal #neuron
+50074641812	#L2 #pyramidal #neuron
+50190924275	#L2 #pyramidal #neuron
+50205058328	#L2 #pyramidal #neuron
+50234158167	#L2 #pyramidal #neuron
+50321252685	#L2 #pyramidal #neuron
+50336526376	#L2 #pyramidal #neuron
+50350425704	#L2 #pyramidal #neuron
+50452589081	#L2 #pyramidal #neuron
+50466956302	#L2 #pyramidal #neuron
+50496655032	#L2 #pyramidal #neuron
+50525637988	#L2 #pyramidal #neuron
+50715085503	#L2 #pyramidal #neuron
+50889903035	#L2 #pyramidal #neuron
+51005645549	#L2 #pyramidal #neuron
+51006156644	#L2 #pyramidal #neuron
+51006259215	#L2 #pyramidal #neuron
+55269049779	#L2 #pyramidal #neuron
+57221392433	#L2 #pyramidal #neuron
+57280367834	#L2 #pyramidal #neuron
+57454600029	#L2 #pyramidal #neuron
+57469698614	#L2 #pyramidal #neuron
+57483934429	#L2 #pyramidal #neuron
+57673031743	#L2 #pyramidal #neuron
+57702101863	#L2 #pyramidal #neuron
+57833423648	#L2 #pyramidal #neuron
+57833643007	#L2 #pyramidal #neuron
+57906428908	#L2 #pyramidal #neuron
+57964350725	#L2 #pyramidal #neuron
+58080764348	#L2 #pyramidal #neuron
+58081085797	#L2 #pyramidal #neuron
+58240966512	#L2 #pyramidal #neuron
+58241024811	#L2 #pyramidal #neuron
+58328674683	#L2 #pyramidal #neuron
+58444708043	#L2 #pyramidal #neuron
+58459382948	#L2 #pyramidal #neuron
+58532066495	#L2 #pyramidal #neuron
+58590266001	#L2 #pyramidal #neuron
+58605159520	#L2 #pyramidal #neuron
+58837665552	#L2 #pyramidal #neuron
+58881835746	#L2 #pyramidal #neuron
+58896201019	#L2 #pyramidal #neuron
+58910655737	#L2 #pyramidal #neuron
+58968635929	#L2 #pyramidal #neuron
+59027391046	#L2 #pyramidal #neuron
+59070799719	#L2 #pyramidal #neuron
+59114573475	#L2 #pyramidal #neuron
+59143556542	#L2 #pyramidal #neuron
+59187476477	#L2 #pyramidal #neuron
+59202062652	#L2 #pyramidal #neuron
+59202077786	#L2 #pyramidal #neuron
+59230841378	#L2 #pyramidal #neuron
+59245719785	#L2 #pyramidal #neuron
+59332916950	#L2 #pyramidal #neuron
+59362119002	#L2 #pyramidal #neuron
+59375814208	#L2 #pyramidal #neuron
+59376515470	#L2 #pyramidal #neuron
+59376675896	#L2 #pyramidal #neuron
+59405673575	#L2 #pyramidal #neuron
+59405878335	#L2 #pyramidal #neuron
+59478561725	#L2 #pyramidal #neuron
+59551201794	#L2 #pyramidal #neuron
+59565846471	#L2 #pyramidal #neuron
+59565963320	#L2 #pyramidal #neuron
+59711462442	#L2 #pyramidal #neuron
+59784175502	#L2 #pyramidal #neuron
+59784350519	#L2 #pyramidal #neuron
+59886089785	#L2 #pyramidal #neuron
+59958948851	#L2 #pyramidal #neuron
+64134631163	#L2 #pyramidal #neuron
+65080819543	#L2 #pyramidal #neuron
+65358062779	#L2 #pyramidal #neuron
+68591469677	#L2 #pyramidal #neuron
+68649744477	#L2 #pyramidal #neuron
+68751599160	#L2 #pyramidal #neuron
+68780698992	#L2 #pyramidal #neuron
+82477458655	#L2 #pyramidal #neuron
+82885088901	#L2 #pyramidal #neuron
+83176159981	#L2 #pyramidal #neuron
+83249194303	#L2 #pyramidal #neuron
+83525781173	#L2 #pyramidal #neuron
+83714718059	#L2 #pyramidal #neuron
+89040331063	#L2 #pyramidal #neuron
+98212096292	#L2 #pyramidal #neuron
+99931522625	#L2 #pyramidal #neuron
+99989386444	#L2 #pyramidal #neuron
+1946459333	#L2 #pyramidal #neuron #bipolar
+2587810028	#L2 #pyramidal #neuron #bipolar
+4001141262	#L2 #pyramidal #neuron #bipolar
+4233006294	#L2 #pyramidal #neuron #bipolar
+28892036786	#L2 #pyramidal #neuron #bipolar
+29343267425	#L2 #pyramidal #neuron #bipolar
+30902302795	#L2 #pyramidal #neuron #bipolar
+30931184003	#L2 #pyramidal #neuron #bipolar
+36242208593	#L2 #pyramidal #neuron #bipolar
+36329508730	#L2 #pyramidal #neuron #bipolar
+57017811660	#L2 #pyramidal #neuron #bipolar
+1975633226	#L2 #pyramidal #neuron #bipolar #lot-of-axon
+1931553044	#L2 #pyramidal #neuron #sparsely-spiny
+5150664666	#L2 #pyramidal #neuron #sparsely-spiny
+40175090483	#L2 #pyramidal #neuron #sparsely-spiny
+45398510789	#L2 #pyramidal #neuron #sparsely-spiny
+939837644	#L2 #pyramidal #neuron #lot-of-axon
+1491990044	#L2 #pyramidal #neuron #lot-of-axon
+2062261179	#L2 #pyramidal #neuron #lot-of-axon
+2062407077	#L2 #pyramidal #neuron #lot-of-axon
+2456488265	#L2 #pyramidal #neuron #lot-of-axon
+2571514217	#L2 #pyramidal #neuron #lot-of-axon
+2644081619	#L2 #pyramidal #neuron #lot-of-axon
+2704033285	#L2 #pyramidal #neuron #lot-of-axon
+2731657369	#L2 #pyramidal #neuron #lot-of-axon
+2832405255	#L2 #pyramidal #neuron #lot-of-axon
+2864249525	#L2 #pyramidal #neuron #lot-of-axon
+3824820293	#L2 #pyramidal #neuron #lot-of-axon
+4130842009	#L2 #pyramidal #neuron #lot-of-axon
+4290212698	#L2 #pyramidal #neuron #lot-of-axon
+27375898647	#L2 #pyramidal #neuron #lot-of-axon
+27434273578	#L2 #pyramidal #neuron #lot-of-axon
+27579772675	#L2 #pyramidal #neuron #lot-of-axon
+27608171462	#L2 #pyramidal #neuron #lot-of-axon
+27870566294	#L2 #pyramidal #neuron #lot-of-axon
+27915434680	#L2 #pyramidal #neuron #lot-of-axon
+27957981460	#L2 #pyramidal #neuron #lot-of-axon
+27958259839	#L2 #pyramidal #neuron #lot-of-axon
+28058962746	#L2 #pyramidal #neuron #lot-of-axon
+28060189045	#L2 #pyramidal #neuron #lot-of-axon
+28104912701	#L2 #pyramidal #neuron #lot-of-axon
+28119147972	#L2 #pyramidal #neuron #lot-of-axon
+28219851372	#L2 #pyramidal #neuron #lot-of-axon
+28306858863	#L2 #pyramidal #neuron #lot-of-axon
+28570405598	#L2 #pyramidal #neuron #lot-of-axon
+28614122339	#L2 #pyramidal #neuron #lot-of-axon
+28658013145	#L2 #pyramidal #neuron #lot-of-axon
+28804314547	#L2 #pyramidal #neuron #lot-of-axon
+28891146730	#L2 #pyramidal #neuron #lot-of-axon
+28892914134	#L2 #pyramidal #neuron #lot-of-axon
+28933183247	#L2 #pyramidal #neuron #lot-of-axon
+28935943814	#L2 #pyramidal #neuron #lot-of-axon
+29110569948	#L2 #pyramidal #neuron #lot-of-axon
+29153819490	#L2 #pyramidal #neuron #lot-of-axon
+29182933416	#L2 #pyramidal #neuron #lot-of-axon
+29182976015	#L2 #pyramidal #neuron #lot-of-axon
+29212295499	#L2 #pyramidal #neuron #lot-of-axon
+29240694848	#L2 #pyramidal #neuron #lot-of-axon
+29285212791	#L2 #pyramidal #neuron #lot-of-axon
+29314182070	#L2 #pyramidal #neuron #lot-of-axon
+29634498976	#L2 #pyramidal #neuron #lot-of-axon
+30056758414	#L2 #pyramidal #neuron #lot-of-axon
+30056933638	#L2 #pyramidal #neuron #lot-of-axon
+30071665178	#L2 #pyramidal #neuron #lot-of-axon
+30129939079	#L2 #pyramidal #neuron #lot-of-axon
+30217253713	#L2 #pyramidal #neuron #lot-of-axon
+30260881515	#L2 #pyramidal #neuron #lot-of-axon
+31556588341	#L2 #pyramidal #neuron #lot-of-axon
+31557144036	#L2 #pyramidal #neuron #lot-of-axon
+31935353820	#L2 #pyramidal #neuron #lot-of-axon
+32008328659	#L2 #pyramidal #neuron #lot-of-axon
+35818926519	#L2 #pyramidal #neuron #lot-of-axon
+35979156378	#L2 #pyramidal #neuron #lot-of-axon
+35994153046	#L2 #pyramidal #neuron #lot-of-axon
+36008958415	#L2 #pyramidal #neuron #lot-of-axon
+36138717898	#L2 #pyramidal #neuron #lot-of-axon
+36140236066	#L2 #pyramidal #neuron #lot-of-axon
+36197457668	#L2 #pyramidal #neuron #lot-of-axon
+36417071005	#L2 #pyramidal #neuron #lot-of-axon
+36504721029	#L2 #pyramidal #neuron #lot-of-axon
+36518489356	#L2 #pyramidal #neuron #lot-of-axon
+36533601596	#L2 #pyramidal #neuron #lot-of-axon
+36562686645	#L2 #pyramidal #neuron #lot-of-axon
+36618973435	#L2 #pyramidal #neuron #lot-of-axon
+36796244314	#L2 #pyramidal #neuron #lot-of-axon
+36822614113	#L2 #pyramidal #neuron #lot-of-axon
+36999328507	#L2 #pyramidal #neuron #lot-of-axon
+37026764858	#L2 #pyramidal #neuron #lot-of-axon
+37029684909	#L2 #pyramidal #neuron #lot-of-axon
+37043833397	#L2 #pyramidal #neuron #lot-of-axon
+37117174706	#L2 #pyramidal #neuron #lot-of-axon
+37189142355	#L2 #pyramidal #neuron #lot-of-axon
+37203948152	#L2 #pyramidal #neuron #lot-of-axon
+37261533521	#L2 #pyramidal #neuron #lot-of-axon
+37262089896	#L2 #pyramidal #neuron #lot-of-axon
+37363653401	#L2 #pyramidal #neuron #lot-of-axon
+37858436866	#L2 #pyramidal #neuron #lot-of-axon
+37903014740	#L2 #pyramidal #neuron #lot-of-axon
+37945926887	#L2 #pyramidal #neuron #lot-of-axon
+38048879245	#L2 #pyramidal #neuron #lot-of-axon
+39082921670	#L2 #pyramidal #neuron #lot-of-axon
+39112226336	#L2 #pyramidal #neuron #lot-of-axon
+39141018363	#L2 #pyramidal #neuron #lot-of-axon
+39170513221	#L2 #pyramidal #neuron #lot-of-axon
+39330642456	#L2 #pyramidal #neuron #lot-of-axon
+39852993945	#L2 #pyramidal #neuron #lot-of-axon
+40029213156	#L2 #pyramidal #neuron #lot-of-axon
+44845352462	#L2 #pyramidal #neuron #lot-of-axon
+50146857588	#L2 #pyramidal #neuron #lot-of-axon
+50234419999	#L2 #pyramidal #neuron #lot-of-axon
+59274600612	#L2 #pyramidal #neuron #lot-of-axon
+59609270105	#L2 #pyramidal #neuron #lot-of-axon
+54945228134	#L2 #pyramidal #neuron #dark
+357842575	#L2 #neuron #interneuron
+358033349	#L2 #neuron #interneuron
+401514872	#L2 #neuron #interneuron
+489469961	#L2 #neuron #interneuron
+505326916	#L2 #neuron #interneuron
+561599357	#L2 #neuron #interneuron
+576492944	#L2 #neuron #interneuron
+634034153	#L2 #neuron #interneuron
+634137588	#L2 #neuron #interneuron
+634735199	#L2 #neuron #interneuron
+634867837	#L2 #neuron #interneuron
+648927402	#L2 #neuron #interneuron
+649702323	#L2 #neuron #interneuron
+664433854	#L2 #neuron #interneuron
+677953807	#L2 #neuron #interneuron
+707068981	#L2 #neuron #interneuron
+721991889	#L2 #neuron #interneuron
+722678274	#L2 #neuron #interneuron
+766335391	#L2 #neuron #interneuron
+779943347	#L2 #neuron #interneuron
+794630620	#L2 #neuron #interneuron
+808735213	#L2 #neuron #interneuron
+823395680	#L2 #neuron #interneuron
+824314608	#L2 #neuron #interneuron
+824534813	#L2 #neuron #interneuron
+838580223	#L2 #neuron #interneuron
+852626175	#L2 #neuron #interneuron
+853035674	#L2 #neuron #interneuron
+853064731	#L2 #neuron #interneuron
+881579707	#L2 #neuron #interneuron
+896926289	#L2 #neuron #interneuron
+910562342	#L2 #neuron #interneuron
+911599461	#L2 #neuron #interneuron
+925441648	#L2 #neuron #interneuron
+925485691	#L2 #neuron #interneuron
+925778090	#L2 #neuron #interneuron
+926186532	#L2 #neuron #interneuron
+939166284	#L2 #neuron #interneuron
+940992114	#L2 #neuron #interneuron
+954424880	#L2 #neuron #interneuron
+968046567	#L2 #neuron #interneuron
+984663724	#L2 #neuron #interneuron
+1012770614	#L2 #neuron #interneuron
+1027794717	#L2 #neuron #interneuron
+1069962332	#L2 #neuron #interneuron
+1072181549	#L2 #neuron #interneuron
+1072196732	#L2 #neuron #interneuron
+1086257448	#L2 #neuron #interneuron
+1100054524	#L2 #neuron #interneuron
+1101427972	#L2 #neuron #interneuron
+1115430292	#L2 #neuron #interneuron
+1127957016	#L2 #neuron #interneuron
+1129125951	#L2 #neuron #interneuron
+1130278365	#L2 #neuron #interneuron
+1173703366	#L2 #neuron #interneuron
+1187734446	#L2 #neuron #interneuron
+1204043735	#L2 #neuron #interneuron
+1217140685	#L2 #neuron #interneuron
+1218382133	#L2 #neuron #interneuron
+1231142609	#L2 #neuron #interneuron
+1232019191	#L2 #neuron #interneuron
+1247175275	#L2 #neuron #interneuron
+1261586055	#L2 #neuron #interneuron
+1261834081	#L2 #neuron #interneuron
+1274143080	#L2 #neuron #interneuron
+1274201517	#L2 #neuron #interneuron
+1275953447	#L2 #neuron #interneuron
+1304367361	#L2 #neuron #interneuron

@@ -1,0 +1,1000 @@
+30125544494	#L4 #pyramidal #neuron #lot-of-axon
+30197367225	#L4 #pyramidal #neuron #lot-of-axon
+30329913540	#L4 #pyramidal #neuron #lot-of-axon
+30780982844	#L4 #pyramidal #neuron #lot-of-axon
+30838847418	#L4 #pyramidal #neuron #lot-of-axon
+31232942478	#L4 #pyramidal #neuron #lot-of-axon
+31348917689	#L4 #pyramidal #neuron #lot-of-axon
+32035792916	#L4 #pyramidal #neuron #lot-of-axon
+32296026428	#L4 #pyramidal #neuron #lot-of-axon
+32296230548	#L4 #pyramidal #neuron #lot-of-axon
+32355072501	#L4 #pyramidal #neuron #lot-of-axon
+32398204086	#L4 #pyramidal #neuron #lot-of-axon
+32500469663	#L4 #pyramidal #neuron #lot-of-axon
+32587549631	#L4 #pyramidal #neuron #lot-of-axon
+33039042298	#L4 #pyramidal #neuron #lot-of-axon
+33111244340	#L4 #pyramidal #neuron #lot-of-axon
+38086899346	#L4 #pyramidal #neuron #lot-of-axon
+38975297562	#L4 #pyramidal #neuron #lot-of-axon
+39442836198	#L4 #pyramidal #neuron #lot-of-axon
+40463386818	#L4 #pyramidal #neuron #lot-of-axon
+20138123870	#L4 #pyramidal #neuron #dark
+29308867583	#L4 #pyramidal #neuron #dark
+29470587607	#L4 #pyramidal #neuron #dark
+37476695321	#L4 #pyramidal #neuron #dark
+37681531750	#L4 #pyramidal #neuron #dark
+37752114321	#L4 #pyramidal #neuron #dark
+38218995290	#L4 #pyramidal #neuron #dark
+38479009703	#L4 #pyramidal #neuron #dark
+38640977695	#L4 #pyramidal #neuron #dark
+46442672587	#L4 #pyramidal #neuron #dark
+46749015215	#L4 #pyramidal #neuron #dark
+55861251800	#L4 #pyramidal #neuron #dark
+76622764032	#L4 #pyramidal #neuron #dark
+82558158327	#L4 #pyramidal #neuron #dark
+3064152198	#L4 #pyramidal #neuron #dark #grey
+1812744584	#L4 #pyramidal #neuron #grey
+2278048919	#L4 #pyramidal #neuron #grey
+2437930602	#L4 #pyramidal #neuron #grey
+2480491365	#L4 #pyramidal #neuron #grey
+2553773729	#L4 #pyramidal #neuron #grey
+2801772642	#L4 #pyramidal #neuron #grey
+2831222083	#L4 #pyramidal #neuron #grey
+2903613795	#L4 #pyramidal #neuron #grey
+3136762252	#L4 #pyramidal #neuron #grey
+3165571405	#L4 #pyramidal #neuron #grey
+3425979752	#L4 #pyramidal #neuron #grey
+3442245205	#L4 #pyramidal #neuron #grey
+4200138429	#L4 #pyramidal #neuron #grey
+29309319912	#L4 #pyramidal #neuron #grey
+29368366155	#L4 #pyramidal #neuron #grey
+29628906297	#L4 #pyramidal #neuron #grey
+29820660609	#L4 #pyramidal #neuron #grey
+32384479041	#L4 #pyramidal #neuron #grey
+38508999957	#L4 #pyramidal #neuron #grey
+41496554507	#L4 #pyramidal #neuron #grey
+1942912164	#L4 #neuron #interneuron
+2363947099	#L4 #neuron #interneuron
+2364093141	#L4 #neuron #interneuron
+2365275814	#L4 #neuron #interneuron
+2378970653	#L4 #neuron #interneuron
+2451406889	#L4 #neuron #interneuron
+2524733508	#L4 #neuron #interneuron
+2538544799	#L4 #neuron #interneuron
+2539114994	#L4 #neuron #interneuron
+2567484516	#L4 #neuron #interneuron
+2596233555	#L4 #neuron #interneuron
+2596773802	#L4 #neuron #interneuron
+2626428583	#L4 #neuron #interneuron
+2642519846	#L4 #neuron #interneuron
+2684628337	#L4 #neuron #interneuron
+2698425799	#L4 #neuron #interneuron
+2728386693	#L4 #neuron #interneuron
+2742433932	#L4 #neuron #interneuron
+2772088792	#L4 #neuron #interneuron
+2785477516	#L4 #neuron #interneuron
+2814928259	#L4 #neuron #interneuron
+2829893077	#L4 #neuron #interneuron
+2832172103	#L4 #neuron #interneuron
+2844816353	#L4 #neuron #interneuron
+2845150926	#L4 #neuron #interneuron
+2889815798	#L4 #neuron #interneuron
+2931824122	#L4 #neuron #interneuron
+2946701372	#L4 #neuron #interneuron
+2960164090	#L4 #neuron #interneuron
+3005265547	#L4 #neuron #interneuron
+3034657939	#L4 #neuron #interneuron
+3035417803	#L4 #neuron #interneuron
+3047622968	#L4 #neuron #interneuron
+3076184046	#L4 #neuron #interneuron
+3077979892	#L4 #neuron #interneuron
+3092857158	#L4 #neuron #interneuron
+3104931853	#L4 #neuron #interneuron
+3107400840	#L4 #neuron #interneuron
+3119825097	#L4 #neuron #interneuron
+3135331454	#L4 #neuron #interneuron
+3137186830	#L4 #neuron #interneuron
+3210702706	#L4 #neuron #interneuron
+3237333753	#L4 #neuron #interneuron
+3265265817	#L4 #neuron #interneuron
+3282641263	#L4 #neuron #interneuron
+3283268629	#L4 #neuron #interneuron
+3297578604	#L4 #neuron #interneuron
+3310368167	#L4 #neuron #interneuron
+3311726536	#L4 #neuron #interneuron
+3339351871	#L4 #neuron #interneuron
+3340111446	#L4 #neuron #interneuron
+3340126346	#L4 #neuron #interneuron
+3367692590	#L4 #neuron #interneuron
+3371182357	#L4 #neuron #interneuron
+3384409625	#L4 #neuron #interneuron
+3401231145	#L4 #neuron #interneuron
+3413714353	#L4 #neuron #interneuron
+3413874845	#L4 #neuron #interneuron
+3428140572	#L4 #neuron #interneuron
+3441120266	#L4 #neuron #interneuron
+3441163849	#L4 #neuron #interneuron
+3456436786	#L4 #neuron #interneuron
+3456758527	#L4 #neuron #interneuron
+3458174974	#L4 #neuron #interneuron
+3500137617	#L4 #neuron #interneuron
+3530406006	#L4 #neuron #interneuron
+3531238060	#L4 #neuron #interneuron
+3572281191	#L4 #neuron #interneuron
+3615661353	#L4 #neuron #interneuron
+3618026269	#L4 #neuron #interneuron
+3618362079	#L4 #neuron #interneuron
+3631561541	#L4 #neuron #interneuron
+3688812361	#L4 #neuron #interneuron
+3689703460	#L4 #neuron #interneuron
+3719152259	#L4 #neuron #interneuron
+3747289082	#L4 #neuron #interneuron
+3747917106	#L4 #neuron #interneuron
+3778535716	#L4 #neuron #interneuron
+3805153314	#L4 #neuron #interneuron
+3806481724	#L4 #neuron #interneuron
+3820147352	#L4 #neuron #interneuron
+3849393098	#L4 #neuron #interneuron
+3849407842	#L4 #neuron #interneuron
+3849743710	#L4 #neuron #interneuron
+3908950544	#L4 #neuron #interneuron
+3909009436	#L4 #neuron #interneuron
+3909826632	#L4 #neuron #interneuron
+3923143521	#L4 #neuron #interneuron
+3937554028	#L4 #neuron #interneuron
+3967047941	#L4 #neuron #interneuron
+3968173214	#L4 #neuron #interneuron
+4009654893	#L4 #neuron #interneuron
+4025846738	#L4 #neuron #interneuron
+4039367300	#L4 #neuron #interneuron
+4040038556	#L4 #neuron #interneuron
+4054464091	#L4 #neuron #interneuron
+4055311024	#L4 #neuron #interneuron
+4069883283	#L4 #neuron #interneuron
+4084046397	#L4 #neuron #interneuron
+4126740229	#L4 #neuron #interneuron
+4156233180	#L4 #neuron #interneuron
+4156555531	#L4 #neuron #interneuron
+4157110007	#L4 #neuron #interneuron
+4200664550	#L4 #neuron #interneuron
+4215878516	#L4 #neuron #interneuron
+4259551076	#L4 #neuron #interneuron
+4272486557	#L4 #neuron #interneuron
+4272574016	#L4 #neuron #interneuron
+4288343991	#L4 #neuron #interneuron
+4302229447	#L4 #neuron #interneuron
+4302346100	#L4 #neuron #interneuron
+4302419097	#L4 #neuron #interneuron
+4331036958	#L4 #neuron #interneuron
+4361070627	#L4 #neuron #interneuron
+4390185403	#L4 #neuron #interneuron
+4390243309	#L4 #neuron #interneuron
+4461189725	#L4 #neuron #interneuron
+4462139689	#L4 #neuron #interneuron
+4476593602	#L4 #neuron #interneuron
+4491632837	#L4 #neuron #interneuron
+4536092934	#L4 #neuron #interneuron
+4549102339	#L4 #neuron #interneuron
+4577633882	#L4 #neuron #interneuron
+4579327129	#L4 #neuron #interneuron
+4593533358	#L4 #neuron #interneuron
+4606747668	#L4 #neuron #interneuron
+4606938007	#L4 #neuron #interneuron
+4666669851	#L4 #neuron #interneuron
+4679722918	#L4 #neuron #interneuron
+4680759390	#L4 #neuron #interneuron
+4697040646	#L4 #neuron #interneuron
+4710473618	#L4 #neuron #interneuron
+4724636756	#L4 #neuron #interneuron
+4724884080	#L4 #neuron #interneuron
+4738667114	#L4 #neuron #interneuron
+4739149833	#L4 #neuron #interneuron
+4739718712	#L4 #neuron #interneuron
+4754042804	#L4 #neuron #interneuron
+4756145379	#L4 #neuron #interneuron
+4767709627	#L4 #neuron #interneuron
+4784397767	#L4 #neuron #interneuron
+4797027763	#L4 #neuron #interneuron
+4812213571	#L4 #neuron #interneuron
+4842539836	#L4 #neuron #interneuron
+4856147748	#L4 #neuron #interneuron
+4856468338	#L4 #neuron #interneuron
+4870807059	#L4 #neuron #interneuron
+4885042202	#L4 #neuron #interneuron
+4914420636	#L4 #neuron #interneuron
+4957594843	#L4 #neuron #interneuron
+4958032901	#L4 #neuron #interneuron
+4972589606	#L4 #neuron #interneuron
+4972941132	#L4 #neuron #interneuron
+5044587580	#L4 #neuron #interneuron
+5059509351	#L4 #neuron #interneuron
+5059583604	#L4 #neuron #interneuron
+5089544872	#L4 #neuron #interneuron
+5103693305	#L4 #neuron #interneuron
+5131493529	#L4 #neuron #interneuron
+5177267753	#L4 #neuron #interneuron
+5190802710	#L4 #neuron #interneuron
+5233904289	#L4 #neuron #interneuron
+5248344086	#L4 #neuron #interneuron
+5263136250	#L4 #neuron #interneuron
+5278730139	#L4 #neuron #interneuron
+5278992601	#L4 #neuron #interneuron
+5294236166	#L4 #neuron #interneuron
+5307025687	#L4 #neuron #interneuron
+5335862922	#L4 #neuron #interneuron
+5350609543	#L4 #neuron #interneuron
+5351879773	#L4 #neuron #interneuron
+5365195932	#L4 #neuron #interneuron
+5365590525	#L4 #neuron #interneuron
+5365634336	#L4 #neuron #interneuron
+5366130401	#L4 #neuron #interneuron
+5378381801	#L4 #neuron #interneuron
+5379183781	#L4 #neuron #interneuron
+5423323852	#L4 #neuron #interneuron
+5424156027	#L4 #neuron #interneuron
+5424374853	#L4 #neuron #interneuron
+5467359689	#L4 #neuron #interneuron
+5496971274	#L4 #neuron #interneuron
+5510490804	#L4 #neuron #interneuron
+5524974760	#L4 #neuron #interneuron
+5526201238	#L4 #neuron #interneuron
+5555608806	#L4 #neuron #interneuron
+5583802079	#L4 #neuron #interneuron
+5629314180	#L4 #neuron #interneuron
+5657917981	#L4 #neuron #interneuron
+5701093228	#L4 #neuron #interneuron
+5714117783	#L4 #neuron #interneuron
+5715853501	#L4 #neuron #interneuron
+5760811276	#L4 #neuron #interneuron
+5787618328	#L4 #neuron #interneuron
+5802715539	#L4 #neuron #interneuron
+5847145782	#L4 #neuron #interneuron
+5861951770	#L4 #neuron #interneuron
+5875077481	#L4 #neuron #interneuron
+5904908399	#L4 #neuron #interneuron
+5932898853	#L4 #neuron #interneuron
+5961748945	#L4 #neuron #interneuron
+5962173958	#L4 #neuron #interneuron
+5976452832	#L4 #neuron #interneuron
+6022620956	#L4 #neuron #interneuron
+6064058625	#L4 #neuron #interneuron
+6183276199	#L4 #neuron #interneuron
+6195526927	#L4 #neuron #interneuron
+6209878331	#L4 #neuron #interneuron
+6226013466	#L4 #neuron #interneuron
+6239782716	#L4 #neuron #interneuron
+6240570427	#L4 #neuron #interneuron
+6283555759	#L4 #neuron #interneuron
+6414906635	#L4 #neuron #interneuron
+6442926087	#L4 #neuron #interneuron
+6458374310	#L4 #neuron #interneuron
+6487940463	#L4 #neuron #interneuron
+6545410305	#L4 #neuron #interneuron
+6588847373	#L4 #neuron #interneuron
+6618444171	#L4 #neuron #interneuron
+6719936595	#L4 #neuron #interneuron
+6720330082	#L4 #neuron #interneuron
+6763840740	#L4 #neuron #interneuron
+6779098861	#L4 #neuron #interneuron
+6821339176	#L4 #neuron #interneuron
+6938848705	#L4 #neuron #interneuron
+7097605787	#L4 #neuron #interneuron
+12380028244	#L4 #neuron #interneuron
+13341153227	#L4 #neuron #interneuron
+13371728171	#L4 #neuron #interneuron
+15294548437	#L4 #neuron #interneuron
+15383716977	#L4 #neuron #interneuron
+15804050382	#L4 #neuron #interneuron
+20166975598	#L4 #neuron #interneuron
+20181633724	#L4 #neuron #interneuron
+20864712753	#L4 #neuron #interneuron
+22702453372	#L4 #neuron #interneuron
+24741994318	#L4 #neuron #interneuron
+24757281608	#L4 #neuron #interneuron
+24770991879	#L4 #neuron #interneuron
+24801040378	#L4 #neuron #interneuron
+28872735088	#L4 #neuron #interneuron
+29090845072	#L4 #neuron #interneuron
+29106117297	#L4 #neuron #interneuron
+29149438798	#L4 #neuron #interneuron
+29265881760	#L4 #neuron #interneuron
+29352699705	#L4 #neuron #interneuron
+29381930787	#L4 #neuron #interneuron
+29382324884	#L4 #neuron #interneuron
+29397334271	#L4 #neuron #interneuron
+29483991673	#L4 #neuron #interneuron
+29485071587	#L4 #neuron #interneuron
+29585541327	#L4 #neuron #interneuron
+29598855858	#L4 #neuron #interneuron
+29688391299	#L4 #neuron #interneuron
+29715987140	#L4 #neuron #interneuron
+29717403042	#L4 #neuron #interneuron
+29731960138	#L4 #neuron #interneuron
+29745144262	#L4 #neuron #interneuron
+29777265958	#L4 #neuron #interneuron
+29788392697	#L4 #neuron #interneuron
+29788597889	#L4 #neuron #interneuron
+29788860403	#L4 #neuron #interneuron
+29905756020	#L4 #neuron #interneuron
+29950829210	#L4 #neuron #interneuron
+29963371304	#L4 #neuron #interneuron
+29964611173	#L4 #neuron #interneuron
+30007495275	#L4 #neuron #interneuron
+30038070366	#L4 #neuron #interneuron
+30082208643	#L4 #neuron #interneuron
+30125208810	#L4 #neuron #interneuron
+30154761030	#L4 #neuron #interneuron
+30197688175	#L4 #neuron #interneuron
+30226437859	#L4 #neuron #interneuron
+30242556763	#L4 #neuron #interneuron
+30271335278	#L4 #neuron #interneuron
+30271729578	#L4 #neuron #interneuron
+30431857785	#L4 #neuron #interneuron
+30562478166	#L4 #neuron #interneuron
+30592557047	#L4 #neuron #interneuron
+30650508671	#L4 #neuron #interneuron
+30679637536	#L4 #neuron #interneuron
+30693173072	#L4 #neuron #interneuron
+30722695523	#L4 #neuron #interneuron
+30825473068	#L4 #neuron #interneuron
+30913165739	#L4 #neuron #interneuron
+30913355610	#L4 #neuron #interneuron
+30970182148	#L4 #neuron #interneuron
+31013737710	#L4 #neuron #interneuron
+31072243496	#L4 #neuron #interneuron
+31379200705	#L4 #neuron #interneuron
+31393626802	#L4 #neuron #interneuron
+31436918260	#L4 #neuron #interneuron
+31465579618	#L4 #neuron #interneuron
+31509178110	#L4 #neuron #interneuron
+31538687128	#L4 #neuron #interneuron
+31612173455	#L4 #neuron #interneuron
+31684988475	#L4 #neuron #interneuron
+31771821600	#L4 #neuron #interneuron
+31801081245	#L4 #neuron #interneuron
+31830225234	#L4 #neuron #interneuron
+31830502643	#L4 #neuron #interneuron
+31860288747	#L4 #neuron #interneuron
+31888775384	#L4 #neuron #interneuron
+31975636350	#L4 #neuron #interneuron
+32048423166	#L4 #neuron #interneuron
+32180430283	#L4 #neuron #interneuron
+32222554780	#L4 #neuron #interneuron
+32252208868	#L4 #neuron #interneuron
+32355145462	#L4 #neuron #interneuron
+32413185358	#L4 #neuron #interneuron
+32428077980	#L4 #neuron #interneuron
+32515011671	#L4 #neuron #interneuron
+32544272939	#L4 #neuron #interneuron
+32544301701	#L4 #neuron #interneuron
+32544651831	#L4 #neuron #interneuron
+32587812269	#L4 #neuron #interneuron
+32632447560	#L4 #neuron #interneuron
+32748424027	#L4 #neuron #interneuron
+32791599199	#L4 #neuron #interneuron
+32792972069	#L4 #neuron #interneuron
+32836028865	#L4 #neuron #interneuron
+32850835453	#L4 #neuron #interneuron
+32922889906	#L4 #neuron #interneuron
+33009153960	#L4 #neuron #interneuron
+33068916365	#L4 #neuron #interneuron
+33082713780	#L4 #neuron #interneuron
+33112017537	#L4 #neuron #interneuron
+33113011075	#L4 #neuron #interneuron
+33199696751	#L4 #neuron #interneuron
+33214181314	#L4 #neuron #interneuron
+33300998143	#L4 #neuron #interneuron
+33402592211	#L4 #neuron #interneuron
+33476371406	#L4 #neuron #interneuron
+33491937294	#L4 #neuron #interneuron
+33520481870	#L4 #neuron #interneuron
+33550047909	#L4 #neuron #interneuron
+33724063165	#L4 #neuron #interneuron
+37679326943	#L4 #neuron #interneuron
+37737395107	#L4 #neuron #interneuron
+37738008459	#L4 #neuron #interneuron
+37796062783	#L4 #neuron #interneuron
+37809932357	#L4 #neuron #interneuron
+37825103831	#L4 #neuron #interneuron
+37853868523	#L4 #neuron #interneuron
+37854028495	#L4 #neuron #interneuron
+37882747944	#L4 #neuron #interneuron
+37970340183	#L4 #neuron #interneuron
+37970455579	#L4 #neuron #interneuron
+37972486059	#L4 #neuron #interneuron
+37985028964	#L4 #neuron #interneuron
+37999483924	#L4 #neuron #interneuron
+38043024041	#L4 #neuron #interneuron
+38057259915	#L4 #neuron #interneuron
+38057361894	#L4 #neuron #interneuron
+38115897621	#L4 #neuron #interneuron
+38116553968	#L4 #neuron #interneuron
+38131446897	#L4 #neuron #interneuron
+38218410795	#L4 #neuron #interneuron
+38275778319	#L4 #neuron #interneuron
+38277822252	#L4 #neuron #interneuron
+38292145736	#L4 #neuron #interneuron
+38304484468	#L4 #neuron #interneuron
+38321172761	#L4 #neuron #interneuron
+38334590728	#L4 #neuron #interneuron
+38335146220	#L4 #neuron #interneuron
+38350287348	#L4 #neuron #interneuron
+38378160387	#L4 #neuron #interneuron
+38391739827	#L4 #neuron #interneuron
+38406354967	#L4 #neuron #interneuron
+38537340723	#L4 #neuron #interneuron
+38597875989	#L4 #neuron #interneuron
+38626304227	#L4 #neuron #interneuron
+38639738160	#L4 #neuron #interneuron
+38655623545	#L4 #neuron #interneuron
+38656324624	#L4 #neuron #interneuron
+38697762536	#L4 #neuron #interneuron
+38729197703	#L4 #neuron #interneuron
+38729271178	#L4 #neuron #interneuron
+38799326608	#L4 #neuron #interneuron
+38888596922	#L4 #neuron #interneuron
+38889911336	#L4 #neuron #interneuron
+38901942588	#L4 #neuron #interneuron
+38918762655	#L4 #neuron #interneuron
+38975283188	#L4 #neuron #interneuron
+39034723859	#L4 #neuron #interneuron
+39078409985	#L4 #neuron #interneuron
+39079884930	#L4 #neuron #interneuron
+39166481918	#L4 #neuron #interneuron
+39180280733	#L4 #neuron #interneuron
+39195363701	#L4 #neuron #interneuron
+39266967421	#L4 #neuron #interneuron
+39413487840	#L4 #neuron #interneuron
+39441406495	#L4 #neuron #interneuron
+39514279412	#L4 #neuron #interneuron
+39530223626	#L4 #neuron #interneuron
+39560375010	#L4 #neuron #interneuron
+39601519749	#L4 #neuron #interneuron
+39632401641	#L4 #neuron #interneuron
+39705814947	#L4 #neuron #interneuron
+39719890447	#L4 #neuron #interneuron
+39793187660	#L4 #neuron #interneuron
+39793479771	#L4 #neuron #interneuron
+39851415800	#L4 #neuron #interneuron
+39864893674	#L4 #neuron #interneuron
+39879625402	#L4 #neuron #interneuron
+39939007824	#L4 #neuron #interneuron
+40025810252	#L4 #neuron #interneuron
+40244592286	#L4 #neuron #interneuron
+40257688544	#L4 #neuron #interneuron
+40258098001	#L4 #neuron #interneuron
+40301974098	#L4 #neuron #interneuron
+40317873715	#L4 #neuron #interneuron
+40347499280	#L4 #neuron #interneuron
+40360187433	#L4 #neuron #interneuron
+40374775430	#L4 #neuron #interneuron
+40375897744	#L4 #neuron #interneuron
+40389068436	#L4 #neuron #interneuron
+40420797460	#L4 #neuron #interneuron
+40476878807	#L4 #neuron #interneuron
+40492122654	#L4 #neuron #interneuron
+40506548931	#L4 #neuron #interneuron
+40579742429	#L4 #neuron #interneuron
+40695033295	#L4 #neuron #interneuron
+40710846331	#L4 #neuron #interneuron
+40754328355	#L4 #neuron #interneuron
+40783237234	#L4 #neuron #interneuron
+40856052192	#L4 #neuron #interneuron
+40899579128	#L4 #neuron #interneuron
+40913697214	#L4 #neuron #interneuron
+40915157116	#L4 #neuron #interneuron
+40928370492	#L4 #neuron #interneuron
+40929963334	#L4 #neuron #interneuron
+40958245296	#L4 #neuron #interneuron
+40987389061	#L4 #neuron #interneuron
+41001580897	#L4 #neuron #interneuron
+41075241403	#L4 #neuron #interneuron
+41089128341	#L4 #neuron #interneuron
+41161855647	#L4 #neuron #interneuron
+41176222792	#L4 #neuron #interneuron
+41176704701	#L4 #neuron #interneuron
+41220172138	#L4 #neuron #interneuron
+41234145236	#L4 #neuron #interneuron
+41235546648	#L4 #neuron #interneuron
+41264528830	#L4 #neuron #interneuron
+41336586144	#L4 #neuron #interneuron
+41438150312	#L4 #neuron #interneuron
+41512308651	#L4 #neuron #interneuron
+41540781176	#L4 #neuron #interneuron
+41585795502	#L4 #neuron #interneuron
+41656318024	#L4 #neuron #interneuron
+41730286931	#L4 #neuron #interneuron
+41847036408	#L4 #neuron #interneuron
+41933124370	#L4 #neuron #interneuron
+41949901436	#L4 #neuron #interneuron
+41962574298	#L4 #neuron #interneuron
+41963172794	#L4 #neuron #interneuron
+41992243362	#L4 #neuron #interneuron
+42007443118	#L4 #neuron #interneuron
+42022117968	#L4 #neuron #interneuron
+42022219787	#L4 #neuron #interneuron
+42064884142	#L4 #neuron #interneuron
+42065336038	#L4 #neuron #interneuron
+42080170991	#L4 #neuron #interneuron
+42124879907	#L4 #neuron #interneuron
+42138312710	#L4 #neuron #interneuron
+42152563163	#L4 #neuron #interneuron
+42181779300	#L4 #neuron #interneuron
+42254755160	#L4 #neuron #interneuron
+42283826150	#L4 #neuron #interneuron
+42327044553	#L4 #neuron #interneuron
+42356159479	#L4 #neuron #interneuron
+42385434388	#L4 #neuron #interneuron
+42414869472	#L4 #neuron #interneuron
+42444041174	#L4 #neuron #interneuron
+42459111161	#L4 #neuron #interneuron
+42516505981	#L4 #neuron #interneuron
+42560323885	#L4 #neuron #interneuron
+42734820828	#L4 #neuron #interneuron
+46545185905	#L4 #neuron #interneuron
+46836433519	#L4 #neuron #interneuron
+46966702254	#L4 #neuron #interneuron
+47040115351	#L4 #neuron #interneuron
+47067623689	#L4 #neuron #interneuron
+47069536808	#L4 #neuron #interneuron
+47171392510	#L4 #neuron #interneuron
+47563736680	#L4 #neuron #interneuron
+47637837663	#L4 #neuron #interneuron
+47913781368	#L4 #neuron #interneuron
+47986962060	#L4 #neuron #interneuron
+47987852473	#L4 #neuron #interneuron
+48016177701	#L4 #neuron #interneuron
+48162698860	#L4 #neuron #interneuron
+48424101237	#L4 #neuron #interneuron
+48527110298	#L4 #neuron #interneuron
+48541434731	#L4 #neuron #interneuron
+49343365080	#L4 #neuron #interneuron
+49503844945	#L4 #neuron #interneuron
+50071210467	#L4 #neuron #interneuron
+50129906576	#L4 #neuron #interneuron
+50434599958	#L4 #neuron #interneuron
+50712048142	#L4 #neuron #interneuron
+50799931696	#L4 #neuron #interneuron
+50901583502	#L4 #neuron #interneuron
+51353192907	#L4 #neuron #interneuron
+51454684170	#L4 #neuron #interneuron
+51527075939	#L4 #neuron #interneuron
+51585436557	#L4 #neuron #interneuron
+55351954634	#L4 #neuron #interneuron
+55366058730	#L4 #neuron #interneuron
+55438960871	#L4 #neuron #interneuron
+55540614801	#L4 #neuron #interneuron
+55803095996	#L4 #neuron #interneuron
+55920327455	#L4 #neuron #interneuron
+55933657601	#L4 #neuron #interneuron
+56371541918	#L4 #neuron #interneuron
+56708226431	#L4 #neuron #interneuron
+57566399243	#L4 #neuron #interneuron
+57783706888	#L4 #neuron #interneuron
+58251231259	#L4 #neuron #interneuron
+58702431296	#L4 #neuron #interneuron
+60203428557	#L4 #neuron #interneuron
+60450973583	#L4 #neuron #interneuron
+64129885266	#L4 #neuron #interneuron
+64231683909	#L4 #neuron #interneuron
+64377357540	#L4 #neuron #interneuron
+64435309901	#L4 #neuron #interneuron
+64478586301	#L4 #neuron #interneuron
+64552132193	#L4 #neuron #interneuron
+64681787585	#L4 #neuron #interneuron
+64712203870	#L4 #neuron #interneuron
+64725839158	#L4 #neuron #interneuron
+64754867129	#L4 #neuron #interneuron
+64756881546	#L4 #neuron #interneuron
+65354339868	#L4 #neuron #interneuron
+65600133534	#L4 #neuron #interneuron
+66183911210	#L4 #neuron #interneuron
+66329190701	#L4 #neuron #interneuron
+66723942507	#L4 #neuron #interneuron
+67015889514	#L4 #neuron #interneuron
+67452211543	#L4 #neuron #interneuron
+68545592647	#L4 #neuron #interneuron
+68588242394	#L4 #neuron #interneuron
+68923802745	#L4 #neuron #interneuron
+69009729553	#L4 #neuron #interneuron
+69011715189	#L4 #neuron #interneuron
+69126742542	#L4 #neuron #interneuron
+69127369324	#L4 #neuron #interneuron
+69200272903	#L4 #neuron #interneuron
+69243140765	#L4 #neuron #interneuron
+69272459655	#L4 #neuron #interneuron
+73154572654	#L4 #neuron #interneuron
+73198083661	#L4 #neuron #interneuron
+73329143334	#L4 #neuron #interneuron
+73357337242	#L4 #neuron #interneuron
+73357964582	#L4 #neuron #interneuron
+73388307859	#L4 #neuron #interneuron
+73520094201	#L4 #neuron #interneuron
+73576264934	#L4 #neuron #interneuron
+73604853776	#L4 #neuron #interneuron
+73735693592	#L4 #neuron #interneuron
+73837710727	#L4 #neuron #interneuron
+73854224394	#L4 #neuron #interneuron
+75049637658	#L4 #neuron #interneuron
+77717678436	#L4 #neuron #interneuron
+78226113494	#L4 #neuron #interneuron
+78342644035	#L4 #neuron #interneuron
+78371028162	#L4 #neuron #interneuron
+78487340411	#L4 #neuron #interneuron
+82078500574	#L4 #neuron #interneuron
+82268663069	#L4 #neuron #interneuron
+82443672119	#L4 #neuron #interneuron
+82691728916	#L4 #neuron #interneuron
+82821369997	#L4 #neuron #interneuron
+83521706509	#L4 #neuron #interneuron
+83784627594	#L4 #neuron #interneuron
+84308088366	#L4 #neuron #interneuron
+85036823015	#L4 #neuron #interneuron
+87323531112	#L4 #neuron #interneuron
+87323896448	#L4 #neuron #interneuron
+91731368233	#L4 #neuron #interneuron
+92022890980	#L4 #neuron #interneuron
+92037668053	#L4 #neuron #interneuron
+94324725171	#L4 #neuron #interneuron
+94878599188	#L4 #neuron #interneuron
+96203698952	#L4 #neuron #interneuron
+29950799572	#L4 #neuron #interneuron #thin-apical-dendrite
+40097749911	#L4 #neuron #interneuron #bipolar
+2960120020	#L4 #neuron #interneuron #sparsely-spiny
+3368524004	#L4 #neuron #interneuron #sparsely-spiny
+3530288843	#L4 #neuron #interneuron #sparsely-spiny
+4054493296	#L4 #neuron #interneuron #sparsely-spiny
+4259156651	#L4 #neuron #interneuron #sparsely-spiny
+5409146023	#L4 #neuron #interneuron #sparsely-spiny
+5482150066	#L4 #neuron #interneuron #sparsely-spiny
+5730805815	#L4 #neuron #interneuron #sparsely-spiny
+5949192875	#L4 #neuron #interneuron #sparsely-spiny
+6020198033	#L4 #neuron #interneuron #sparsely-spiny
+6124098167	#L4 #neuron #interneuron #sparsely-spiny
+29308998642	#L4 #neuron #interneuron #sparsely-spiny
+29759673107	#L4 #neuron #interneuron #sparsely-spiny
+30372826969	#L4 #neuron #interneuron #sparsely-spiny
+30561150032	#L4 #neuron #interneuron #sparsely-spiny
+30752131707	#L4 #neuron #interneuron #sparsely-spiny
+31655553150	#L4 #neuron #interneuron #sparsely-spiny
+32020271757	#L4 #neuron #interneuron #sparsely-spiny
+32908435775	#L4 #neuron #interneuron #sparsely-spiny
+33418434625	#L4 #neuron #interneuron #sparsely-spiny
+39004427076	#L4 #neuron #interneuron #sparsely-spiny
+40944243140	#L4 #neuron #interneuron #sparsely-spiny
+51222484938	#L4 #neuron #interneuron #sparsely-spiny
+69054525113	#L4 #neuron #interneuron #sparsely-spiny
+30795175676	#L4 #neuron #interneuron #sparsely-spiny #lot-of-axon
+2320800330	#L4 #neuron #interneuron #web-like-interneuron
+2509504130	#L4 #neuron #interneuron #web-like-interneuron
+2844875054	#L4 #neuron #interneuron #web-like-interneuron
+3646878425	#L4 #neuron #interneuron #web-like-interneuron
+4229267475	#L4 #neuron #interneuron #web-like-interneuron
+5423234957	#L4 #neuron #interneuron #web-like-interneuron
+5817068077	#L4 #neuron #interneuron #web-like-interneuron
+30533116499	#L4 #neuron #interneuron #web-like-interneuron
+31568196104	#L4 #neuron #interneuron #web-like-interneuron
+33141600007	#L4 #neuron #interneuron #web-like-interneuron
+38363865749	#L4 #neuron #interneuron #web-like-interneuron
+38582866391	#L4 #neuron #interneuron #web-like-interneuron
+39763269453	#L4 #neuron #interneuron #web-like-interneuron
+41992725343	#L4 #neuron #interneuron #web-like-interneuron
+42269618731	#L4 #neuron #interneuron #web-like-interneuron
+42385784745	#L4 #neuron #interneuron #web-like-interneuron
+49270111115	#L4 #neuron #interneuron #web-like-interneuron
+60028814582	#L4 #neuron #interneuron #web-like-interneuron
+60029603535	#L4 #neuron #interneuron #web-like-interneuron
+73183818896	#L4 #neuron #interneuron #web-like-interneuron
+83464529923	#L4 #neuron #interneuron #web-like-interneuron
+5060473867	#L4 #neuron #interneuron #web-like-interneuron #lot-of-axon
+38509102582	#L4 #neuron #interneuron #web-like-interneuron #lot-of-axon
+38831141834	#L4 #neuron #interneuron #web-like-interneuron #lot-of-axon
+38889779157	#L4 #neuron #interneuron #web-like-interneuron #lot-of-axon
+39049938455	#L4 #neuron #interneuron #web-like-interneuron #lot-of-axon
+39296914352	#L4 #neuron #interneuron #web-like-interneuron #lot-of-axon
+39458021843	#L4 #neuron #interneuron #web-like-interneuron #lot-of-axon
+39835734164	#L4 #neuron #interneuron #web-like-interneuron #lot-of-axon
+40535618527	#L4 #neuron #interneuron #web-like-interneuron #lot-of-axon
+40579888670	#L4 #neuron #interneuron #web-like-interneuron #lot-of-axon
+40738776739	#L4 #neuron #interneuron #web-like-interneuron #lot-of-axon
+41089376146	#L4 #neuron #interneuron #web-like-interneuron #lot-of-axon
+47419858875	#L4 #neuron #interneuron #web-like-interneuron #lot-of-axon
+3690068113	#L4 #neuron #interneuron #lot-of-axon
+4519507631	#L4 #neuron #interneuron #lot-of-axon
+12336721766	#L4 #neuron #interneuron #lot-of-axon
+29309538825	#L4 #neuron #interneuron #lot-of-axon
+29440524730	#L4 #neuron #interneuron #lot-of-axon
+29513194024	#L4 #neuron #interneuron #lot-of-axon
+29788889666	#L4 #neuron #interneuron #lot-of-axon
+29950026249	#L4 #neuron #interneuron #lot-of-axon
+31174509598	#L4 #neuron #interneuron #lot-of-axon
+31393305220	#L4 #neuron #interneuron #lot-of-axon
+31598039736	#L4 #neuron #interneuron #lot-of-axon
+33388166254	#L4 #neuron #interneuron #lot-of-axon
+38262403487	#L4 #neuron #interneuron #lot-of-axon
+38625281646	#L4 #neuron #interneuron #lot-of-axon
+38699747664	#L4 #neuron #interneuron #lot-of-axon
+38845758034	#L4 #neuron #interneuron #lot-of-axon
+38887910782	#L4 #neuron #interneuron #lot-of-axon
+39136361547	#L4 #neuron #interneuron #lot-of-axon
+39137588288	#L4 #neuron #interneuron #lot-of-axon
+39370401008	#L4 #neuron #interneuron #lot-of-axon
+40301462279	#L4 #neuron #interneuron #lot-of-axon
+40404502148	#L4 #neuron #interneuron #lot-of-axon
+40550058475	#L4 #neuron #interneuron #lot-of-axon
+40652631508	#L4 #neuron #interneuron #lot-of-axon
+40797312602	#L4 #neuron #interneuron #lot-of-axon
+40813710029	#L4 #neuron #interneuron #lot-of-axon
+40957748562	#L4 #neuron #interneuron #lot-of-axon
+40986672885	#L4 #neuron #interneuron #lot-of-axon
+41337155638	#L4 #neuron #interneuron #lot-of-axon
+42559959115	#L4 #neuron #interneuron #lot-of-axon
+47113428300	#L4 #neuron #interneuron #lot-of-axon
+64566484558	#L4 #neuron #interneuron #lot-of-axon
+38624392284	#L4 #neuron #interneuron #grey
+2465598603	#L4 #neuron #unclassified-neuron
+2538356185	#L4 #neuron #unclassified-neuron
+2626443949	#L4 #neuron #unclassified-neuron
+2683460137	#L4 #neuron #unclassified-neuron
+2886924347	#L4 #neuron #unclassified-neuron
+2916126338	#L4 #neuron #unclassified-neuron
+2989029280	#L4 #neuron #unclassified-neuron
+2989249436	#L4 #neuron #unclassified-neuron
+3003644776	#L4 #neuron #unclassified-neuron
+3047447727	#L4 #neuron #unclassified-neuron
+3178288509	#L4 #neuron #unclassified-neuron
+3747639071	#L4 #neuron #unclassified-neuron
+3864316616	#L4 #neuron #unclassified-neuron
+4272296433	#L4 #neuron #unclassified-neuron
+4403866197	#L4 #neuron #unclassified-neuron
+4563719386	#L4 #neuron #unclassified-neuron
+4768337414	#L4 #neuron #unclassified-neuron
+4768482224	#L4 #neuron #unclassified-neuron
+5190248217	#L4 #neuron #unclassified-neuron
+5423497711	#L4 #neuron #unclassified-neuron
+5626904184	#L4 #neuron #unclassified-neuron
+5626977209	#L4 #neuron #unclassified-neuron
+6341128082	#L4 #neuron #unclassified-neuron
+6369935435	#L4 #neuron #unclassified-neuron
+6836816794	#L4 #neuron #unclassified-neuron
+7055072595	#L4 #neuron #unclassified-neuron
+7098671959	#L4 #neuron #unclassified-neuron
+11723347355	#L4 #neuron #unclassified-neuron
+11738036996	#L4 #neuron #unclassified-neuron
+11927046235	#L4 #neuron #unclassified-neuron
+20239482818	#L4 #neuron #unclassified-neuron
+29104509129	#L4 #neuron #unclassified-neuron
+29191896161	#L4 #neuron #unclassified-neuron
+29308499959	#L4 #neuron #unclassified-neuron
+29366261317	#L4 #neuron #unclassified-neuron
+29424724956	#L4 #neuron #unclassified-neuron
+33839980445	#L4 #neuron #unclassified-neuron
+37853691177	#L4 #neuron #unclassified-neuron
+37955430935	#L4 #neuron #unclassified-neuron
+38028260751	#L4 #neuron #unclassified-neuron
+38129475053	#L4 #neuron #unclassified-neuron
+38158662527	#L4 #neuron #unclassified-neuron
+38376552955	#L4 #neuron #unclassified-neuron
+38449632036	#L4 #neuron #unclassified-neuron
+38507348970	#L4 #neuron #unclassified-neuron
+38536828448	#L4 #neuron #unclassified-neuron
+38537719562	#L4 #neuron #unclassified-neuron
+38843042539	#L4 #neuron #unclassified-neuron
+42618378157	#L4 #neuron #unclassified-neuron
+42938869224	#L4 #neuron #unclassified-neuron
+42953046750	#L4 #neuron #unclassified-neuron
+42982205081	#L4 #neuron #unclassified-neuron
+43026007984	#L4 #neuron #unclassified-neuron
+46980806878	#L4 #neuron #unclassified-neuron
+55961953674	#L4 #neuron #unclassified-neuron
+58104622533	#L4 #neuron #unclassified-neuron
+64667259606	#L4 #neuron #unclassified-neuron
+73706928513	#L4 #neuron #unclassified-neuron
+78197232907	#L4 #neuron #unclassified-neuron
+78225048194	#L4 #neuron #unclassified-neuron
+78385234888	#L4 #neuron #unclassified-neuron
+78487471295	#L4 #neuron #unclassified-neuron
+78531084291	#L4 #neuron #unclassified-neuron
+85576097275	#L4 #neuron #unclassified-neuron
+3120527218	#L4 #neuron #unclassified-neuron #thin-apical-dendrite
+38129986226	#L4 #neuron #unclassified-neuron #thin-apical-dendrite
+47373004805	#L4 #neuron #unclassified-neuron #thin-apical-dendrite
+72819727923	#L4 #neuron #unclassified-neuron #thin-apical-dendrite
+73779685516	#L4 #neuron #unclassified-neuron #thin-apical-dendrite
+87178892490	#L4 #neuron #unclassified-neuron #thin-apical-dendrite
+6763461305	#L4 #neuron #unclassified-neuron #thin-apical-dendrite #sparsely-spiny
+31028455457	#L4 #neuron #unclassified-neuron #thin-apical-dendrite #sparsely-spiny
+37955534508	#L4 #neuron #unclassified-neuron #thin-apical-dendrite #sparsely-spiny
+38057377051	#L4 #neuron #unclassified-neuron #thin-apical-dendrite #sparsely-spiny
+40084141505	#L4 #neuron #unclassified-neuron #thin-apical-dendrite #sparsely-spiny
+42167733395	#L4 #neuron #unclassified-neuron #thin-apical-dendrite #sparsely-spiny
+5160228523	#L4 #neuron #unclassified-neuron #thin-apical-dendrite #sparsely-spiny #possible-interneuron
+39820782242	#L4 #neuron #unclassified-neuron #thin-apical-dendrite #sparsely-spiny #possible-interneuron
+4593065842	#L4 #neuron #unclassified-neuron #thin-apical-dendrite #sparsely-spiny #lot-of-axon
+3414050810	#L4 #neuron #unclassified-neuron #thin-apical-dendrite #possible-interneuron
+29266407371	#L4 #neuron #unclassified-neuron #thin-apical-dendrite #dark
+56064848408	#L4 #neuron #unclassified-neuron #thin-apical-dendrite #dark
+64479389976	#L4 #neuron #unclassified-neuron #thin-apical-dendrite #dark
+82968606783	#L4 #neuron #unclassified-neuron #thin-apical-dendrite #dark
+2815131253	#L4 #neuron #unclassified-neuron #sparsely-spiny
+3338739020	#L4 #neuron #unclassified-neuron #sparsely-spiny
+4141544622	#L4 #neuron #unclassified-neuron #sparsely-spiny
+4170308672	#L4 #neuron #unclassified-neuron #sparsely-spiny
+4214710391	#L4 #neuron #unclassified-neuron #sparsely-spiny
+4418832081	#L4 #neuron #unclassified-neuron #sparsely-spiny
+4578683804	#L4 #neuron #unclassified-neuron #sparsely-spiny
+4957318425	#L4 #neuron #unclassified-neuron #sparsely-spiny
+29426346917	#L4 #neuron #unclassified-neuron #sparsely-spiny
+31071892412	#L4 #neuron #unclassified-neuron #sparsely-spiny
+31960889175	#L4 #neuron #unclassified-neuron #sparsely-spiny
+37722969068	#L4 #neuron #unclassified-neuron #sparsely-spiny
+37984941011	#L4 #neuron #unclassified-neuron #sparsely-spiny
+41118782646	#L4 #neuron #unclassified-neuron #sparsely-spiny
+41408699992	#L4 #neuron #unclassified-neuron #sparsely-spiny
+41701625210	#L4 #neuron #unclassified-neuron #sparsely-spiny
+42458073635	#L4 #neuron #unclassified-neuron #sparsely-spiny
+73329054819	#L4 #neuron #unclassified-neuron #sparsely-spiny
+78399661146	#L4 #neuron #unclassified-neuron #sparsely-spiny
+3441558432	#L4 #neuron #unclassified-neuron #sparsely-spiny #possible-interneuron
+5409408564	#L4 #neuron #unclassified-neuron #sparsely-spiny #possible-interneuron
+31802716514	#L4 #neuron #unclassified-neuron #sparsely-spiny #possible-interneuron
+32645282197	#L4 #neuron #unclassified-neuron #sparsely-spiny #possible-interneuron
+40461547302	#L4 #neuron #unclassified-neuron #sparsely-spiny #possible-interneuron
+91177377235	#L4 #neuron #unclassified-neuron #sparsely-spiny #possible-interneuron
+2538428051	#L4 #neuron #unclassified-neuron #possible-interneuron
+2930728746	#L4 #neuron #unclassified-neuron #possible-interneuron
+6049954950	#L4 #neuron #unclassified-neuron #possible-interneuron
+68923568794	#L4 #neuron #unclassified-neuron #possible-interneuron
+69069418508	#L4 #neuron #unclassified-neuron #possible-interneuron
+73648700529	#L4 #neuron #unclassified-neuron #possible-interneuron
+29644383559	#L4 #neuron #unclassified-neuron #possible-interneuron #grey
+64217054722	#L4 #neuron #unclassified-neuron #dark
+91292548737	#L4 #neuron #unclassified-neuron #dark
+38639181498	#L4 #neuron #unclassified-neuron #grey
+92009020628	#L4 #neuron #unclassified-neuron #grey
+3296832824	#L4 #neuron #spiny-stellate
+3513951463	#L4 #neuron #spiny-stellate
+3588284587	#L4 #neuron #spiny-stellate
+3631312996	#L4 #neuron #spiny-stellate
+3790844645	#L4 #neuron #spiny-stellate
+3937466277	#L4 #neuron #spiny-stellate
+4127236696	#L4 #neuron #spiny-stellate
+4140858954	#L4 #neuron #spiny-stellate
+4185377684	#L4 #neuron #spiny-stellate
+4519243274	#L4 #neuron #spiny-stellate
+5103080167	#L4 #neuron #spiny-stellate
+5291856456	#L4 #neuron #spiny-stellate
+21348269172	#L4 #neuron #spiny-stellate
+29672577804	#L4 #neuron #spiny-stellate
+29730222317	#L4 #neuron #spiny-stellate
+42108919642	#L4 #neuron #spiny-stellate
+3106947392	#L4 #neuron #spiny-stellate #thin-apical-dendrite
+31349195650	#L4 #neuron #spiny-stellate #thin-apical-dendrite
+5364977088	#L4 #neuron #spiny-stellate #thin-apical-dendrite #sparsely-spiny
+38611762212	#L4 #neuron #spiny-stellate #sparsely-spiny
+4068088366	#L4 #neuron #spiny-stellate #lot-of-axon
+30941549387	#L4 #neuron #spiny-stellate #lot-of-axon
+2174848747	#L4 #neuron #excitatory/spiny-with-atypical-tree
+2538544672	#L4 #neuron #excitatory/spiny-with-atypical-tree
+2684408474	#L4 #neuron #excitatory/spiny-with-atypical-tree
+2727744751	#L4 #neuron #excitatory/spiny-with-atypical-tree
+2772043698	#L4 #neuron #excitatory/spiny-with-atypical-tree
+2786527903	#L4 #neuron #excitatory/spiny-with-atypical-tree
+2815862747	#L4 #neuron #excitatory/spiny-with-atypical-tree
+2816504707	#L4 #neuron #excitatory/spiny-with-atypical-tree
+2832317969	#L4 #neuron #excitatory/spiny-with-atypical-tree
+2931735203	#L4 #neuron #excitatory/spiny-with-atypical-tree
+3003995150	#L4 #neuron #excitatory/spiny-with-atypical-tree
+3047084449	#L4 #neuron #excitatory/spiny-with-atypical-tree
+3061685156	#L4 #neuron #excitatory/spiny-with-atypical-tree
+3106656265	#L4 #neuron #excitatory/spiny-with-atypical-tree
+3120876190	#L4 #neuron #excitatory/spiny-with-atypical-tree
+3121431033	#L4 #neuron #excitatory/spiny-with-atypical-tree
+3150677011	#L4 #neuron #excitatory/spiny-with-atypical-tree
+3178697015	#L4 #neuron #excitatory/spiny-with-atypical-tree
+3194027196	#L4 #neuron #excitatory/spiny-with-atypical-tree
+3207898889	#L4 #neuron #excitatory/spiny-with-atypical-tree
+3208146344	#L4 #neuron #excitatory/spiny-with-atypical-tree
+3221637903	#L4 #neuron #excitatory/spiny-with-atypical-tree
+3251920568	#L4 #neuron #excitatory/spiny-with-atypical-tree
+3252272033	#L4 #neuron #excitatory/spiny-with-atypical-tree
+3252723193	#L4 #neuron #excitatory/spiny-with-atypical-tree
+3266769763	#L4 #neuron #excitatory/spiny-with-atypical-tree
+3295825644	#L4 #neuron #excitatory/spiny-with-atypical-tree
+3324925449	#L4 #neuron #excitatory/spiny-with-atypical-tree
+3340111484	#L4 #neuron #excitatory/spiny-with-atypical-tree
+3426754058	#L4 #neuron #excitatory/spiny-with-atypical-tree
+3484996936	#L4 #neuron #excitatory/spiny-with-atypical-tree
+3501101667	#L4 #neuron #excitatory/spiny-with-atypical-tree
+3528798978	#L4 #neuron #excitatory/spiny-with-atypical-tree
+3586634654	#L4 #neuron #excitatory/spiny-with-atypical-tree
+3601805128	#L4 #neuron #excitatory/spiny-with-atypical-tree
+3603556906	#L4 #neuron #excitatory/spiny-with-atypical-tree
+3632058263	#L4 #neuron #excitatory/spiny-with-atypical-tree
+3645899024	#L4 #neuron #excitatory/spiny-with-atypical-tree
+3674400162	#L4 #neuron #excitatory/spiny-with-atypical-tree
+3690709666	#L4 #neuron #excitatory/spiny-with-atypical-tree
+3718173944	#L4 #neuron #excitatory/spiny-with-atypical-tree
+3732585646	#L4 #neuron #excitatory/spiny-with-atypical-tree
+3850269341	#L4 #neuron #excitatory/spiny-with-atypical-tree
+3864183990	#L4 #neuron #excitatory/spiny-with-atypical-tree
+3908790047	#L4 #neuron #excitatory/spiny-with-atypical-tree
+3923187968	#L4 #neuron #excitatory/spiny-with-atypical-tree
+3952579782	#L4 #neuron #excitatory/spiny-with-atypical-tree
+3953601461	#L4 #neuron #excitatory/spiny-with-atypical-tree
+4083257525	#L4 #neuron #excitatory/spiny-with-atypical-tree
+4083900716	#L4 #neuron #excitatory/spiny-with-atypical-tree
+4126521012	#L4 #neuron #excitatory/spiny-with-atypical-tree
+4126812042	#L4 #neuron #excitatory/spiny-with-atypical-tree
+4142334212	#L4 #neuron #excitatory/spiny-with-atypical-tree
+4228916845	#L4 #neuron #excitatory/spiny-with-atypical-tree
+4257753999	#L4 #neuron #excitatory/spiny-with-atypical-tree
+4301631223	#L4 #neuron #excitatory/spiny-with-atypical-tree
+4360224648	#L4 #neuron #excitatory/spiny-with-atypical-tree
+4360939116	#L4 #neuron #excitatory/spiny-with-atypical-tree
+4375176623	#L4 #neuron #excitatory/spiny-with-atypical-tree
+4418438664	#L4 #neuron #excitatory/spiny-with-atypical-tree
+4418658077	#L4 #neuron #excitatory/spiny-with-atypical-tree
+4447436204	#L4 #neuron #excitatory/spiny-with-atypical-tree
+4448487082	#L4 #neuron #excitatory/spiny-with-atypical-tree
+4475382404	#L4 #neuron #excitatory/spiny-with-atypical-tree
+4490611994	#L4 #neuron #excitatory/spiny-with-atypical-tree
+4506512327	#L4 #neuron #excitatory/spiny-with-atypical-tree
+4519025199	#L4 #neuron #excitatory/spiny-with-atypical-tree
+4534210509	#L4 #neuron #excitatory/spiny-with-atypical-tree
+4549366607	#L4 #neuron #excitatory/spiny-with-atypical-tree
+4738681733	#L4 #neuron #excitatory/spiny-with-atypical-tree
+4767971310	#L4 #neuron #excitatory/spiny-with-atypical-tree
+4797071446	#L4 #neuron #excitatory/spiny-with-atypical-tree
+4942628588	#L4 #neuron #excitatory/spiny-with-atypical-tree
+4986898646	#L4 #neuron #excitatory/spiny-with-atypical-tree
+5029724676	#L4 #neuron #excitatory/spiny-with-atypical-tree
+5030088328	#L4 #neuron #excitatory/spiny-with-atypical-tree
+5032046272	#L4 #neuron #excitatory/spiny-with-atypical-tree
+5059670131	#L4 #neuron #excitatory/spiny-with-atypical-tree
+5131463788	#L4 #neuron #excitatory/spiny-with-atypical-tree
+5132426903	#L4 #neuron #excitatory/spiny-with-atypical-tree
+5146268696	#L4 #neuron #excitatory/spiny-with-atypical-tree
+5175660463	#L4 #neuron #excitatory/spiny-with-atypical-tree
+5190348902	#L4 #neuron #excitatory/spiny-with-atypical-tree
+5204906332	#L4 #neuron #excitatory/spiny-with-atypical-tree
+5352421181	#L4 #neuron #excitatory/spiny-with-atypical-tree
+5395099163	#L4 #neuron #excitatory/spiny-with-atypical-tree
+5408459776	#L4 #neuron #excitatory/spiny-with-atypical-tree
+5437193537	#L4 #neuron #excitatory/spiny-with-atypical-tree
+5437632138	#L4 #neuron #excitatory/spiny-with-atypical-tree
+5482034319	#L4 #neuron #excitatory/spiny-with-atypical-tree
+5568967435	#L4 #neuron #excitatory/spiny-with-atypical-tree
+5757628294	#L4 #neuron #excitatory/spiny-with-atypical-tree
+6268457985	#L4 #neuron #excitatory/spiny-with-atypical-tree
+6269859220	#L4 #neuron #excitatory/spiny-with-atypical-tree
+6312187937	#L4 #neuron #excitatory/spiny-with-atypical-tree
+6414117119	#L4 #neuron #excitatory/spiny-with-atypical-tree
+6443114704	#L4 #neuron #excitatory/spiny-with-atypical-tree
+6457453875	#L4 #neuron #excitatory/spiny-with-atypical-tree
+6501052221	#L4 #neuron #excitatory/spiny-with-atypical-tree
+6501825767	#L4 #neuron #excitatory/spiny-with-atypical-tree
+6706167617	#L4 #neuron #excitatory/spiny-with-atypical-tree
+6719687060	#L4 #neuron #excitatory/spiny-with-atypical-tree
+6851373777	#L4 #neuron #excitatory/spiny-with-atypical-tree
+6908931346	#L4 #neuron #excitatory/spiny-with-atypical-tree
+7069440678	#L4 #neuron #excitatory/spiny-with-atypical-tree
+13325705887	#L4 #neuron #excitatory/spiny-with-atypical-tree
+29266465723	#L4 #neuron #excitatory/spiny-with-atypical-tree
+29294543266	#L4 #neuron #excitatory/spiny-with-atypical-tree
+29295301634	#L4 #neuron #excitatory/spiny-with-atypical-tree
+29324168928	#L4 #neuron #excitatory/spiny-with-atypical-tree
+29338331875	#L4 #neuron #excitatory/spiny-with-atypical-tree
+29410606668	#L4 #neuron #excitatory/spiny-with-atypical-tree
+29440334499	#L4 #neuron #excitatory/spiny-with-atypical-tree
+29469638782	#L4 #neuron #excitatory/spiny-with-atypical-tree
+29541913193	#L4 #neuron #excitatory/spiny-with-atypical-tree
+29571173895	#L4 #neuron #excitatory/spiny-with-atypical-tree
+29571627060	#L4 #neuron #excitatory/spiny-with-atypical-tree
+29616232751	#L4 #neuron #excitatory/spiny-with-atypical-tree
+29631446108	#L4 #neuron #excitatory/spiny-with-atypical-tree
+29659232826	#L4 #neuron #excitatory/spiny-with-atypical-tree
+29659276664	#L4 #neuron #excitatory/spiny-with-atypical-tree
+29659875108	#L4 #neuron #excitatory/spiny-with-atypical-tree
+29672446871	#L4 #neuron #excitatory/spiny-with-atypical-tree
+29701429815	#L4 #neuron #excitatory/spiny-with-atypical-tree

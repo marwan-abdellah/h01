@@ -1,0 +1,1000 @@
+39760450951	#L5 #neuron #interneuron
+40139595620	#L5 #neuron #interneuron
+40152576948	#L5 #neuron #interneuron
+40167600126	#L5 #neuron #interneuron
+40241291830	#L5 #neuron #interneuron
+40243102998	#L5 #neuron #interneuron
+40271675602	#L5 #neuron #interneuron
+40517747597	#L5 #neuron #interneuron
+40549022387	#L5 #neuron #interneuron
+40604009804	#L5 #neuron #interneuron
+40619355682	#L5 #neuron #interneuron
+40621559783	#L5 #neuron #interneuron
+40679963920	#L5 #neuron #interneuron
+40692900589	#L5 #neuron #interneuron
+40709443489	#L5 #neuron #interneuron
+40942958019	#L5 #neuron #interneuron
+40957396927	#L5 #neuron #interneuron
+41086674878	#L5 #neuron #interneuron
+41305909296	#L5 #neuron #interneuron
+41334321603	#L5 #neuron #interneuron
+41423593055	#L5 #neuron #interneuron
+41539335959	#L5 #neuron #interneuron
+41714591602	#L5 #neuron #interneuron
+41874969162	#L5 #neuron #interneuron
+41918304429	#L5 #neuron #interneuron
+41947229040	#L5 #neuron #interneuron
+42048836801	#L5 #neuron #interneuron
+42093369868	#L5 #neuron #interneuron
+42137172902	#L5 #neuron #interneuron
+42193168019	#L5 #neuron #interneuron
+42253105074	#L5 #neuron #interneuron
+42265939633	#L5 #neuron #interneuron
+42355369878	#L5 #neuron #interneuron
+42385273840	#L5 #neuron #interneuron
+42414533411	#L5 #neuron #interneuron
+42428944531	#L5 #neuron #interneuron
+42442946131	#L5 #neuron #interneuron
+42470470714	#L5 #neuron #interneuron
+42471769863	#L5 #neuron #interneuron
+42486691776	#L5 #neuron #interneuron
+42528800787	#L5 #neuron #interneuron
+42529034364	#L5 #neuron #interneuron
+42558777527	#L5 #neuron #interneuron
+42762548484	#L5 #neuron #interneuron
+42807111199	#L5 #neuron #interneuron
+42936299434	#L5 #neuron #interneuron
+43096968839	#L5 #neuron #interneuron
+43256937531	#L5 #neuron #interneuron
+47576747181	#L5 #neuron #interneuron
+48129364556	#L5 #neuron #interneuron
+48656505068	#L5 #neuron #interneuron
+48846288769	#L5 #neuron #interneuron
+51044411167	#L5 #neuron #interneuron
+51264696440	#L5 #neuron #interneuron
+51482279724	#L5 #neuron #interneuron
+51744295762	#L5 #neuron #interneuron
+58059724633	#L5 #neuron #interneuron
+58860997839	#L5 #neuron #interneuron
+59078713260	#L5 #neuron #interneuron
+60523059117	#L5 #neuron #interneuron
+60536973806	#L5 #neuron #interneuron
+65336278984	#L5 #neuron #interneuron
+66210542951	#L5 #neuron #interneuron
+67494392965	#L5 #neuron #interneuron
+69286783910	#L5 #neuron #interneuron
+69343741748	#L5 #neuron #interneuron
+69358211160	#L5 #neuron #interneuron
+69620284640	#L5 #neuron #interneuron
+73779218043	#L5 #neuron #interneuron
+73881133091	#L5 #neuron #interneuron
+74186556786	#L5 #neuron #interneuron
+74201157856	#L5 #neuron #interneuron
+74288063500	#L5 #neuron #interneuron
+74302590917	#L5 #neuron #interneuron
+75162401116	#L5 #neuron #interneuron
+75238135835	#L5 #neuron #interneuron
+76620748529	#L5 #neuron #interneuron
+78194255798	#L5 #neuron #interneuron
+78239254998	#L5 #neuron #interneuron
+78297074918	#L5 #neuron #interneuron
+78340747079	#L5 #neuron #interneuron
+78399529852	#L5 #neuron #interneuron
+78457480747	#L5 #neuron #interneuron
+83736896736	#L5 #neuron #interneuron
+85880892816	#L5 #neuron #interneuron
+86099572482	#L5 #neuron #interneuron
+92137406379	#L5 #neuron #interneuron
+95953057269	#L5 #neuron #interneuron
+96347868493	#L5 #neuron #interneuron
+30589155650	#L5 #neuron #interneuron #thin-apical-dendrite
+31330858820	#L5 #neuron #interneuron #thin-apical-dendrite
+5624219241	#L5 #neuron #interneuron #bipolar
+5830048645	#L5 #neuron #interneuron #bipolar
+6294316445	#L5 #neuron #interneuron #bipolar
+31244711603	#L5 #neuron #interneuron #bipolar
+5960391297	#L5 #neuron #interneuron #bipolar #lot-of-axon
+2845020344	#L5 #neuron #interneuron #sparsely-spiny
+4052829299	#L5 #neuron #interneuron #sparsely-spiny
+4403034703	#L5 #neuron #interneuron #sparsely-spiny
+4490902946	#L5 #neuron #interneuron #sparsely-spiny
+4866923326	#L5 #neuron #interneuron #sparsely-spiny
+5275356391	#L5 #neuron #interneuron #sparsely-spiny
+5393507695	#L5 #neuron #interneuron #sparsely-spiny
+5481244696	#L5 #neuron #interneuron #sparsely-spiny
+5843305646	#L5 #neuron #interneuron #sparsely-spiny
+5857265443	#L5 #neuron #interneuron #sparsely-spiny
+6590264481	#L5 #neuron #interneuron #sparsely-spiny
+6661400687	#L5 #neuron #interneuron #sparsely-spiny
+6732711396	#L5 #neuron #interneuron #sparsely-spiny
+16253148518	#L5 #neuron #interneuron #sparsely-spiny
+33196995705	#L5 #neuron #interneuron #sparsely-spiny
+33459697467	#L5 #neuron #interneuron #sparsely-spiny
+33969097379	#L5 #neuron #interneuron #sparsely-spiny
+38434811342	#L5 #neuron #interneuron #sparsely-spiny
+38944270834	#L5 #neuron #interneuron #sparsely-spiny
+39192823423	#L5 #neuron #interneuron #sparsely-spiny
+39660026268	#L5 #neuron #interneuron #sparsely-spiny
+78515140008	#L5 #neuron #interneuron #sparsely-spiny
+6689098112	#L5 #neuron #interneuron #sparsely-spiny #lot-of-axon
+3731256789	#L5 #neuron #interneuron #sparsely-spiny #grey
+4589971622	#L5 #neuron #interneuron #web-like-interneuron
+6311486724	#L5 #neuron #interneuron #web-like-interneuron
+6879101098	#L5 #neuron #interneuron #web-like-interneuron
+31158302558	#L5 #neuron #interneuron #web-like-interneuron
+31785605046	#L5 #neuron #interneuron #web-like-interneuron
+32541717786	#L5 #neuron #interneuron #web-like-interneuron
+40213184703	#L5 #neuron #interneuron #web-like-interneuron
+40430038727	#L5 #neuron #interneuron #web-like-interneuron
+41902636649	#L5 #neuron #interneuron #web-like-interneuron
+60536316500	#L5 #neuron #interneuron #web-like-interneuron
+69330192405	#L5 #neuron #interneuron #web-like-interneuron
+78528661557	#L5 #neuron #interneuron #web-like-interneuron
+6251856225	#L5 #neuron #interneuron #web-like-interneuron #lot-of-axon
+30721732719	#L5 #neuron #interneuron #web-like-interneuron #lot-of-axon
+32542740227	#L5 #neuron #interneuron #web-like-interneuron #lot-of-axon
+33226168743	#L5 #neuron #interneuron #web-like-interneuron #lot-of-axon
+33721829307	#L5 #neuron #interneuron #web-like-interneuron #lot-of-axon
+39513373893	#L5 #neuron #interneuron #web-like-interneuron #lot-of-axon
+39643935658	#L5 #neuron #interneuron #web-like-interneuron #lot-of-axon
+39965727107	#L5 #neuron #interneuron #web-like-interneuron #lot-of-axon
+40591307324	#L5 #neuron #interneuron #web-like-interneuron #lot-of-axon
+40780243575	#L5 #neuron #interneuron #web-like-interneuron #lot-of-axon
+4198064933	#L5 #neuron #interneuron #lot-of-axon
+4474929225	#L5 #neuron #interneuron #lot-of-axon
+4503941280	#L5 #neuron #interneuron #lot-of-axon
+4678642941	#L5 #neuron #interneuron #lot-of-axon
+4869287534	#L5 #neuron #interneuron #lot-of-axon
+4881187520	#L5 #neuron #interneuron #lot-of-axon
+5057874043	#L5 #neuron #interneuron #lot-of-axon
+5772461570	#L5 #neuron #interneuron #lot-of-axon
+5857541580	#L5 #neuron #interneuron #lot-of-axon
+6121834307	#L5 #neuron #interneuron #lot-of-axon
+6134466306	#L5 #neuron #interneuron #lot-of-axon
+6819719006	#L5 #neuron #interneuron #lot-of-axon
+7372659407	#L5 #neuron #interneuron #lot-of-axon
+30531204622	#L5 #neuron #interneuron #lot-of-axon
+31143599142	#L5 #neuron #interneuron #lot-of-axon
+31244738917	#L5 #neuron #interneuron #lot-of-axon
+31288118540	#L5 #neuron #interneuron #lot-of-axon
+31668797111	#L5 #neuron #interneuron #lot-of-axon
+38828513969	#L5 #neuron #interneuron #lot-of-axon
+39004514726	#L5 #neuron #interneuron #lot-of-axon
+39266470690	#L5 #neuron #interneuron #lot-of-axon
+39630021132	#L5 #neuron #interneuron #lot-of-axon
+39922522641	#L5 #neuron #interneuron #lot-of-axon
+39936963532	#L5 #neuron #interneuron #lot-of-axon
+40371255843	#L5 #neuron #interneuron #lot-of-axon
+40562221359	#L5 #neuron #interneuron #lot-of-axon
+42194043747	#L5 #neuron #interneuron #lot-of-axon
+50315048537	#L5 #neuron #interneuron #lot-of-axon
+67244716597	#L5 #neuron #interneuron #lot-of-axon
+83534542139	#L5 #neuron #interneuron #lot-of-axon
+30007013792	#L5 #neuron #interneuron #lot-of-axon #grey
+4809613315	#L5 #neuron #interneuron #grey
+5668429595	#L5 #neuron #interneuron #grey
+30632564327	#L5 #neuron #interneuron #grey
+32643121795	#L5 #neuron #interneuron #grey
+3236093035	#L5 #neuron #unclassified-neuron
+3352098034	#L5 #neuron #unclassified-neuron
+3526551197	#L5 #neuron #unclassified-neuron
+3700960717	#L5 #neuron #unclassified-neuron
+3745141937	#L5 #neuron #unclassified-neuron
+3759948667	#L5 #neuron #unclassified-neuron
+3876010710	#L5 #neuron #unclassified-neuron
+3949045115	#L5 #neuron #unclassified-neuron
+4064903849	#L5 #neuron #unclassified-neuron
+4079358835	#L5 #neuron #unclassified-neuron
+4109875032	#L5 #neuron #unclassified-neuron
+4299309195	#L5 #neuron #unclassified-neuron
+4314494064	#L5 #neuron #unclassified-neuron
+4547233244	#L5 #neuron #unclassified-neuron
+4605827136	#L5 #neuron #unclassified-neuron
+4912243763	#L5 #neuron #unclassified-neuron
+5217492210	#L5 #neuron #unclassified-neuron
+5421776004	#L5 #neuron #unclassified-neuron
+5567200729	#L5 #neuron #unclassified-neuron
+5682973827	#L5 #neuron #unclassified-neuron
+6455832839	#L5 #neuron #unclassified-neuron
+6630781338	#L5 #neuron #unclassified-neuron
+6863872630	#L5 #neuron #unclassified-neuron
+7126326137	#L5 #neuron #unclassified-neuron
+7256435285	#L5 #neuron #unclassified-neuron
+7286366479	#L5 #neuron #unclassified-neuron
+7331264551	#L5 #neuron #unclassified-neuron
+7417935890	#L5 #neuron #unclassified-neuron
+7418198687	#L5 #neuron #unclassified-neuron
+7693515682	#L5 #neuron #unclassified-neuron
+16268332401	#L5 #neuron #unclassified-neuron
+16457750869	#L5 #neuron #unclassified-neuron
+21300654259	#L5 #neuron #unclassified-neuron
+25105601848	#L5 #neuron #unclassified-neuron
+25249275927	#L5 #neuron #unclassified-neuron
+25293020520	#L5 #neuron #unclassified-neuron
+25351424615	#L5 #neuron #unclassified-neuron
+25395271582	#L5 #neuron #unclassified-neuron
+25423758353	#L5 #neuron #unclassified-neuron
+30573048557	#L5 #neuron #unclassified-neuron
+30779755524	#L5 #neuron #unclassified-neuron
+33809449225	#L5 #neuron #unclassified-neuron
+34028725827	#L5 #neuron #unclassified-neuron
+34231621172	#L5 #neuron #unclassified-neuron
+34405825603	#L5 #neuron #unclassified-neuron
+38856298197	#L5 #neuron #unclassified-neuron
+39030663390	#L5 #neuron #unclassified-neuron
+39074554084	#L5 #neuron #unclassified-neuron
+39205013958	#L5 #neuron #unclassified-neuron
+39205407945	#L5 #neuron #unclassified-neuron
+39367874374	#L5 #neuron #unclassified-neuron
+42267617842	#L5 #neuron #unclassified-neuron
+43011114917	#L5 #neuron #unclassified-neuron
+43067914385	#L5 #neuron #unclassified-neuron
+43097115342	#L5 #neuron #unclassified-neuron
+43199088234	#L5 #neuron #unclassified-neuron
+43227954238	#L5 #neuron #unclassified-neuron
+51745448328	#L5 #neuron #unclassified-neuron
+56645119749	#L5 #neuron #unclassified-neuron
+65161591596	#L5 #neuron #unclassified-neuron
+69243287173	#L5 #neuron #unclassified-neuron
+69330250616	#L5 #neuron #unclassified-neuron
+69561923743	#L5 #neuron #unclassified-neuron
+69620328429	#L5 #neuron #unclassified-neuron
+69678206127	#L5 #neuron #unclassified-neuron
+74011899739	#L5 #neuron #unclassified-neuron
+74143016572	#L5 #neuron #unclassified-neuron
+74448308860	#L5 #neuron #unclassified-neuron
+74462837546	#L5 #neuron #unclassified-neuron
+96289274469	#L5 #neuron #unclassified-neuron
+96405571909	#L5 #neuron #unclassified-neuron
+30137210967	#L5 #neuron #unclassified-neuron #thin-apical-dendrite
+30559441514	#L5 #neuron #unclassified-neuron #thin-apical-dendrite
+30806490979	#L5 #neuron #unclassified-neuron #thin-apical-dendrite
+31608874519	#L5 #neuron #unclassified-neuron #thin-apical-dendrite
+39496611602	#L5 #neuron #unclassified-neuron #thin-apical-dendrite
+73575432204	#L5 #neuron #unclassified-neuron #thin-apical-dendrite
+78370721520	#L5 #neuron #unclassified-neuron #thin-apical-dendrite
+78457831080	#L5 #neuron #unclassified-neuron #thin-apical-dendrite
+78485938426	#L5 #neuron #unclassified-neuron #thin-apical-dendrite
+31391056477	#L5 #neuron #unclassified-neuron #thin-apical-dendrite #sparsely-spiny
+31959123513	#L5 #neuron #unclassified-neuron #thin-apical-dendrite #sparsely-spiny
+32309591479	#L5 #neuron #unclassified-neuron #thin-apical-dendrite #sparsely-spiny
+50886559304	#L5 #neuron #unclassified-neuron #thin-apical-dendrite #sparsely-spiny
+5437485692	#L5 #neuron #unclassified-neuron #thin-apical-dendrite #possible-interneuron
+48303963978	#L5 #neuron #unclassified-neuron #thin-apical-dendrite #possible-interneuron
+65539802597	#L5 #neuron #unclassified-neuron #thin-apical-dendrite #dark
+65612515790	#L5 #neuron #unclassified-neuron #thin-apical-dendrite #dark
+4183245114	#L5 #neuron #unclassified-neuron #thin-apical-dendrite #grey
+7300223993	#L5 #neuron #unclassified-neuron #bipolar
+6863419127	#L5 #neuron #unclassified-neuron #bipolar #sparsely-spiny
+6804899404	#L5 #neuron #unclassified-neuron #bipolar #sparsely-spiny #possible-interneuron
+6223136057	#L5 #neuron #unclassified-neuron #bipolar #possible-interneuron
+32936061086	#L5 #neuron #unclassified-neuron #bipolar #possible-interneuron
+5028642856	#L5 #neuron #unclassified-neuron #sparsely-spiny
+5217551456	#L5 #neuron #unclassified-neuron #sparsely-spiny
+5290965282	#L5 #neuron #unclassified-neuron #sparsely-spiny
+5452115726	#L5 #neuron #unclassified-neuron #sparsely-spiny
+6368738020	#L5 #neuron #unclassified-neuron #sparsely-spiny
+6557820139	#L5 #neuron #unclassified-neuron #sparsely-spiny
+6586848204	#L5 #neuron #unclassified-neuron #sparsely-spiny
+6834276710	#L5 #neuron #unclassified-neuron #sparsely-spiny
+31931687834	#L5 #neuron #unclassified-neuron #sparsely-spiny
+31944098818	#L5 #neuron #unclassified-neuron #sparsely-spiny
+32979280314	#L5 #neuron #unclassified-neuron #sparsely-spiny
+33883024798	#L5 #neuron #unclassified-neuron #sparsely-spiny
+39747310635	#L5 #neuron #unclassified-neuron #sparsely-spiny
+42107139276	#L5 #neuron #unclassified-neuron #sparsely-spiny
+42210105002	#L5 #neuron #unclassified-neuron #sparsely-spiny
+42472031898	#L5 #neuron #unclassified-neuron #sparsely-spiny
+42529180553	#L5 #neuron #unclassified-neuron #sparsely-spiny
+56834758351	#L5 #neuron #unclassified-neuron #sparsely-spiny
+69257099197	#L5 #neuron #unclassified-neuron #sparsely-spiny
+69373659735	#L5 #neuron #unclassified-neuron #sparsely-spiny
+69517815321	#L5 #neuron #unclassified-neuron #sparsely-spiny
+74608073009	#L5 #neuron #unclassified-neuron #sparsely-spiny
+78630853008	#L5 #neuron #unclassified-neuron #sparsely-spiny
+5334096701	#L5 #neuron #unclassified-neuron #sparsely-spiny #possible-interneuron
+5378104676	#L5 #neuron #unclassified-neuron #sparsely-spiny #possible-interneuron
+41872851726	#L5 #neuron #unclassified-neuron #sparsely-spiny #possible-interneuron
+42093238589	#L5 #neuron #unclassified-neuron #sparsely-spiny #possible-interneuron
+51525747297	#L5 #neuron #unclassified-neuron #sparsely-spiny #possible-interneuron
+3265002758	#L5 #neuron #unclassified-neuron #sparsely-spiny #possible-interneuron #grey
+6382170683	#L5 #neuron #unclassified-neuron #sparsely-spiny #grey
+12668588827	#L5 #neuron #unclassified-neuron #sparsely-spiny #grey
+41538707827	#L5 #neuron #unclassified-neuron #sparsely-spiny #grey
+5216937405	#L5 #neuron #unclassified-neuron #possible-interneuron
+5857497816	#L5 #neuron #unclassified-neuron #possible-interneuron
+7068943592	#L5 #neuron #unclassified-neuron #possible-interneuron
+41334731473	#L5 #neuron #unclassified-neuron #possible-interneuron
+69286798474	#L5 #neuron #unclassified-neuron #possible-interneuron
+3309479632	#L5 #neuron #unclassified-neuron #dark
+39061779432	#L5 #neuron #unclassified-neuron #dark
+39089711353	#L5 #neuron #unclassified-neuron #dark
+57185707517	#L5 #neuron #unclassified-neuron #dark
+67303836603	#L5 #neuron #unclassified-neuron #dark
+74098834988	#L5 #neuron #unclassified-neuron #dark
+3992147345	#L5 #neuron #unclassified-neuron #grey
+3512752660	#L5 #neuron #spiny-stellate
+3773716567	#L5 #neuron #spiny-stellate
+3788551051	#L5 #neuron #spiny-stellate
+3833230503	#L5 #neuron #spiny-stellate
+3949920978	#L5 #neuron #spiny-stellate
+4094078022	#L5 #neuron #spiny-stellate
+4094501608	#L5 #neuron #spiny-stellate
+4124300709	#L5 #neuron #spiny-stellate
+4152247000	#L5 #neuron #spiny-stellate
+4152861452	#L5 #neuron #spiny-stellate
+4153108523	#L5 #neuron #spiny-stellate
+4154686065	#L5 #neuron #spiny-stellate
+4254761989	#L5 #neuron #spiny-stellate
+4255432378	#L5 #neuron #spiny-stellate
+4312742466	#L5 #neuron #spiny-stellate
+4326699742	#L5 #neuron #spiny-stellate
+4326818082	#L5 #neuron #spiny-stellate
+4327955860	#L5 #neuron #spiny-stellate
+4372868243	#L5 #neuron #spiny-stellate
+4474214654	#L5 #neuron #spiny-stellate
+4475484255	#L5 #neuron #spiny-stellate
+4475995296	#L5 #neuron #spiny-stellate
+4489268853	#L5 #neuron #spiny-stellate
+4503782000	#L5 #neuron #spiny-stellate
+4504145716	#L5 #neuron #spiny-stellate
+4516965446	#L5 #neuron #spiny-stellate
+4519199538	#L5 #neuron #spiny-stellate
+4591898165	#L5 #neuron #spiny-stellate
+4619654531	#L5 #neuron #spiny-stellate
+4619873240	#L5 #neuron #spiny-stellate
+4723890949	#L5 #neuron #spiny-stellate
+4766773877	#L5 #neuron #spiny-stellate
+4780076410	#L5 #neuron #spiny-stellate
+4823076755	#L5 #neuron #spiny-stellate
+4839473227	#L5 #neuron #spiny-stellate
+4852629019	#L5 #neuron #spiny-stellate
+4896065848	#L5 #neuron #spiny-stellate
+4897964007	#L5 #neuron #spiny-stellate
+4924801658	#L5 #neuron #spiny-stellate
+4926903194	#L5 #neuron #spiny-stellate
+4938804262	#L5 #neuron #spiny-stellate
+4955754739	#L5 #neuron #spiny-stellate
+5027124405	#L5 #neuron #spiny-stellate
+5028934840	#L5 #neuron #spiny-stellate
+5042588326	#L5 #neuron #spiny-stellate
+5055801374	#L5 #neuron #spiny-stellate
+5114905708	#L5 #neuron #spiny-stellate
+5115869424	#L5 #neuron #spiny-stellate
+5159205830	#L5 #neuron #spiny-stellate
+5174375994	#L5 #neuron #spiny-stellate
+5248446458	#L5 #neuron #spiny-stellate
+5348623756	#L5 #neuron #spiny-stellate
+5376877616	#L5 #neuron #spiny-stellate
+5377446229	#L5 #neuron #spiny-stellate
+5377927964	#L5 #neuron #spiny-stellate
+5406487849	#L5 #neuron #spiny-stellate
+5595249249	#L5 #neuron #spiny-stellate
+5624832585	#L5 #neuron #spiny-stellate
+5682402703	#L5 #neuron #spiny-stellate
+5845146472	#L5 #neuron #spiny-stellate
+5887240031	#L5 #neuron #spiny-stellate
+5902484088	#L5 #neuron #spiny-stellate
+5975984947	#L5 #neuron #spiny-stellate
+5989857178	#L5 #neuron #spiny-stellate
+6091581258	#L5 #neuron #spiny-stellate
+6163710175	#L5 #neuron #spiny-stellate
+6209498692	#L5 #neuron #spiny-stellate
+6309603153	#L5 #neuron #spiny-stellate
+6384842151	#L5 #neuron #spiny-stellate
+6411635598	#L5 #neuron #spiny-stellate
+6412233719	#L5 #neuron #spiny-stellate
+6427024613	#L5 #neuron #spiny-stellate
+6484377108	#L5 #neuron #spiny-stellate
+6559179000	#L5 #neuron #spiny-stellate
+6631059913	#L5 #neuron #spiny-stellate
+6702705861	#L5 #neuron #spiny-stellate
+6777258586	#L5 #neuron #spiny-stellate
+6804898281	#L5 #neuron #spiny-stellate
+6863842503	#L5 #neuron #spiny-stellate
+7037463002	#L5 #neuron #spiny-stellate
+12857642016	#L5 #neuron #spiny-stellate
+13046505828	#L5 #neuron #spiny-stellate
+13951650786	#L5 #neuron #spiny-stellate
+21635455184	#L5 #neuron #spiny-stellate
+29977680734	#L5 #neuron #spiny-stellate
+30180955426	#L5 #neuron #spiny-stellate
+30211441416	#L5 #neuron #spiny-stellate
+30224642109	#L5 #neuron #spiny-stellate
+30501462297	#L5 #neuron #spiny-stellate
+30501870437	#L5 #neuron #spiny-stellate
+30516077733	#L5 #neuron #spiny-stellate
+30573824944	#L5 #neuron #spiny-stellate
+30865392105	#L5 #neuron #spiny-stellate
+31083559920	#L5 #neuron #spiny-stellate
+33663789818	#L5 #neuron #spiny-stellate
+33779853124	#L5 #neuron #spiny-stellate
+33779985123	#L5 #neuron #spiny-stellate
+41933255298	#L5 #neuron #spiny-stellate
+3645170418	#L5 #neuron #spiny-stellate #thin-apical-dendrite
+3907682045	#L5 #neuron #spiny-stellate #thin-apical-dendrite
+3994337380	#L5 #neuron #spiny-stellate #thin-apical-dendrite
+4372430258	#L5 #neuron #spiny-stellate #thin-apical-dendrite
+4809949027	#L5 #neuron #spiny-stellate #thin-apical-dendrite
+22948012913	#L5 #neuron #spiny-stellate #thin-apical-dendrite
+4501838736	#L5 #neuron #spiny-stellate #bipolar
+5115534039	#L5 #neuron #spiny-stellate #bipolar
+5144808371	#L5 #neuron #spiny-stellate #bipolar
+30605127877	#L5 #neuron #spiny-stellate #bipolar
+31274759074	#L5 #neuron #spiny-stellate #bipolar
+30588382028	#L5 #neuron #spiny-stellate #bipolar #sparsely-spiny
+4575925341	#L5 #neuron #spiny-stellate #inverted-apical-dendrite
+5247730833	#L5 #neuron #spiny-stellate #inverted-apical-dendrite
+7067117794	#L5 #neuron #spiny-stellate #inverted-apical-dendrite
+5231832117	#L5 #neuron #spiny-stellate #lot-of-axon
+6222230785	#L5 #neuron #spiny-stellate #lot-of-axon
+3512913025	#L5 #neuron #excitatory/spiny-with-atypical-tree
+3700975120	#L5 #neuron #excitatory/spiny-with-atypical-tree
+3877748532	#L5 #neuron #excitatory/spiny-with-atypical-tree
+3906395932	#L5 #neuron #excitatory/spiny-with-atypical-tree
+3949263909	#L5 #neuron #excitatory/spiny-with-atypical-tree
+3977765569	#L5 #neuron #excitatory/spiny-with-atypical-tree
+3992381078	#L5 #neuron #excitatory/spiny-with-atypical-tree
+4080630210	#L5 #neuron #excitatory/spiny-with-atypical-tree
+4109511205	#L5 #neuron #excitatory/spiny-with-atypical-tree
+4154788171	#L5 #neuron #excitatory/spiny-with-atypical-tree
+4168236598	#L5 #neuron #excitatory/spiny-with-atypical-tree
+4226041828	#L5 #neuron #excitatory/spiny-with-atypical-tree
+4226582094	#L5 #neuron #excitatory/spiny-with-atypical-tree
+4285043871	#L5 #neuron #excitatory/spiny-with-atypical-tree
+4285598280	#L5 #neuron #excitatory/spiny-with-atypical-tree
+4326758158	#L5 #neuron #excitatory/spiny-with-atypical-tree
+4342703170	#L5 #neuron #excitatory/spiny-with-atypical-tree
+4358209993	#L5 #neuron #excitatory/spiny-with-atypical-tree
+4385075020	#L5 #neuron #excitatory/spiny-with-atypical-tree
+4385820334	#L5 #neuron #excitatory/spiny-with-atypical-tree
+4402304818	#L5 #neuron #excitatory/spiny-with-atypical-tree
+4415561583	#L5 #neuron #excitatory/spiny-with-atypical-tree
+4472607541	#L5 #neuron #excitatory/spiny-with-atypical-tree
+4487619155	#L5 #neuron #excitatory/spiny-with-atypical-tree
+4488319671	#L5 #neuron #excitatory/spiny-with-atypical-tree
+4504380368	#L5 #neuron #excitatory/spiny-with-atypical-tree
+4516629580	#L5 #neuron #excitatory/spiny-with-atypical-tree
+4546707627	#L5 #neuron #excitatory/spiny-with-atypical-tree
+4560054347	#L5 #neuron #excitatory/spiny-with-atypical-tree
+4575237963	#L5 #neuron #excitatory/spiny-with-atypical-tree
+4605257635	#L5 #neuron #excitatory/spiny-with-atypical-tree
+4662421068	#L5 #neuron #excitatory/spiny-with-atypical-tree
+4721833111	#L5 #neuron #excitatory/spiny-with-atypical-tree
+4734651673	#L5 #neuron #excitatory/spiny-with-atypical-tree
+4735805175	#L5 #neuron #excitatory/spiny-with-atypical-tree
+4852583979	#L5 #neuron #excitatory/spiny-with-atypical-tree
+4852759837	#L5 #neuron #excitatory/spiny-with-atypical-tree
+4883859325	#L5 #neuron #excitatory/spiny-with-atypical-tree
+4925486793	#L5 #neuron #excitatory/spiny-with-atypical-tree
+4925853278	#L5 #neuron #excitatory/spiny-with-atypical-tree
+4939577645	#L5 #neuron #excitatory/spiny-with-atypical-tree
+4939826083	#L5 #neuron #excitatory/spiny-with-atypical-tree
+4940671855	#L5 #neuron #excitatory/spiny-with-atypical-tree
+4969698840	#L5 #neuron #excitatory/spiny-with-atypical-tree
+5012479504	#L5 #neuron #excitatory/spiny-with-atypical-tree
+5013648003	#L5 #neuron #excitatory/spiny-with-atypical-tree
+5028657682	#L5 #neuron #excitatory/spiny-with-atypical-tree
+5070490130	#L5 #neuron #excitatory/spiny-with-atypical-tree
+5086273205	#L5 #neuron #excitatory/spiny-with-atypical-tree
+5274523694	#L5 #neuron #excitatory/spiny-with-atypical-tree
+5303697342	#L5 #neuron #excitatory/spiny-with-atypical-tree
+5304295105	#L5 #neuron #excitatory/spiny-with-atypical-tree
+5319596957	#L5 #neuron #excitatory/spiny-with-atypical-tree
+5333994311	#L5 #neuron #excitatory/spiny-with-atypical-tree
+5347588009	#L5 #neuron #excitatory/spiny-with-atypical-tree
+5421628756	#L5 #neuron #excitatory/spiny-with-atypical-tree
+5465344152	#L5 #neuron #excitatory/spiny-with-atypical-tree
+5507629821	#L5 #neuron #excitatory/spiny-with-atypical-tree
+5579861349	#L5 #neuron #excitatory/spiny-with-atypical-tree
+5580765592	#L5 #neuron #excitatory/spiny-with-atypical-tree
+5581626504	#L5 #neuron #excitatory/spiny-with-atypical-tree
+5639096332	#L5 #neuron #excitatory/spiny-with-atypical-tree
+5668809890	#L5 #neuron #excitatory/spiny-with-atypical-tree
+5681338081	#L5 #neuron #excitatory/spiny-with-atypical-tree
+5699515856	#L5 #neuron #excitatory/spiny-with-atypical-tree
+5769863307	#L5 #neuron #excitatory/spiny-with-atypical-tree
+5915786263	#L5 #neuron #excitatory/spiny-with-atypical-tree
+5916193841	#L5 #neuron #excitatory/spiny-with-atypical-tree
+5916749978	#L5 #neuron #excitatory/spiny-with-atypical-tree
+5943395792	#L5 #neuron #excitatory/spiny-with-atypical-tree
+5946418456	#L5 #neuron #excitatory/spiny-with-atypical-tree
+5975415490	#L5 #neuron #excitatory/spiny-with-atypical-tree
+6017920275	#L5 #neuron #excitatory/spiny-with-atypical-tree
+6032958069	#L5 #neuron #excitatory/spiny-with-atypical-tree
+6047909437	#L5 #neuron #excitatory/spiny-with-atypical-tree
+6062248862	#L5 #neuron #excitatory/spiny-with-atypical-tree
+6119557448	#L5 #neuron #excitatory/spiny-with-atypical-tree
+6121600663	#L5 #neuron #excitatory/spiny-with-atypical-tree
+6192416963	#L5 #neuron #excitatory/spiny-with-atypical-tree
+6193642015	#L5 #neuron #excitatory/spiny-with-atypical-tree
+6222333320	#L5 #neuron #excitatory/spiny-with-atypical-tree
+6223852925	#L5 #neuron #excitatory/spiny-with-atypical-tree
+6309880605	#L5 #neuron #excitatory/spiny-with-atypical-tree
+6311283176	#L5 #neuron #excitatory/spiny-with-atypical-tree
+6353260894	#L5 #neuron #excitatory/spiny-with-atypical-tree
+6368972230	#L5 #neuron #excitatory/spiny-with-atypical-tree
+6571895874	#L5 #neuron #excitatory/spiny-with-atypical-tree
+6571997736	#L5 #neuron #excitatory/spiny-with-atypical-tree
+6572757730	#L5 #neuron #excitatory/spiny-with-atypical-tree
+6630606130	#L5 #neuron #excitatory/spiny-with-atypical-tree
+6645952600	#L5 #neuron #excitatory/spiny-with-atypical-tree
+6776471561	#L5 #neuron #excitatory/spiny-with-atypical-tree
+6791523753	#L5 #neuron #excitatory/spiny-with-atypical-tree
+6848701270	#L5 #neuron #excitatory/spiny-with-atypical-tree
+6865347869	#L5 #neuron #excitatory/spiny-with-atypical-tree
+6921983711	#L5 #neuron #excitatory/spiny-with-atypical-tree
+7037872744	#L5 #neuron #excitatory/spiny-with-atypical-tree
+7052691847	#L5 #neuron #excitatory/spiny-with-atypical-tree
+7068155336	#L5 #neuron #excitatory/spiny-with-atypical-tree
+7125200423	#L5 #neuron #excitatory/spiny-with-atypical-tree
+15671268706	#L5 #neuron #excitatory/spiny-with-atypical-tree
+15917953117	#L5 #neuron #excitatory/spiny-with-atypical-tree
+21868546640	#L5 #neuron #excitatory/spiny-with-atypical-tree
+24390329097	#L5 #neuron #excitatory/spiny-with-atypical-tree
+25133184398	#L5 #neuron #excitatory/spiny-with-atypical-tree
+25235201077	#L5 #neuron #excitatory/spiny-with-atypical-tree
+30079231307	#L5 #neuron #excitatory/spiny-with-atypical-tree
+30124113053	#L5 #neuron #excitatory/spiny-with-atypical-tree
+30239870769	#L5 #neuron #excitatory/spiny-with-atypical-tree
+30427990219	#L5 #neuron #excitatory/spiny-with-atypical-tree
+30544549786	#L5 #neuron #excitatory/spiny-with-atypical-tree
+30560041146	#L5 #neuron #excitatory/spiny-with-atypical-tree
+30792328901	#L5 #neuron #excitatory/spiny-with-atypical-tree
+30837518791	#L5 #neuron #excitatory/spiny-with-atypical-tree
+30851169843	#L5 #neuron #excitatory/spiny-with-atypical-tree
+30881743067	#L5 #neuron #excitatory/spiny-with-atypical-tree
+30922729388	#L5 #neuron #excitatory/spiny-with-atypical-tree
+30938075177	#L5 #neuron #excitatory/spiny-with-atypical-tree
+31026497852	#L5 #neuron #excitatory/spiny-with-atypical-tree
+31039815759	#L5 #neuron #excitatory/spiny-with-atypical-tree
+31315891553	#L5 #neuron #excitatory/spiny-with-atypical-tree
+31316459850	#L5 #neuron #excitatory/spiny-with-atypical-tree
+31331952051	#L5 #neuron #excitatory/spiny-with-atypical-tree
+31579059422	#L5 #neuron #excitatory/spiny-with-atypical-tree
+31812805604	#L5 #neuron #excitatory/spiny-with-atypical-tree
+31814674849	#L5 #neuron #excitatory/spiny-with-atypical-tree
+32090912180	#L5 #neuron #excitatory/spiny-with-atypical-tree
+32132422029	#L5 #neuron #excitatory/spiny-with-atypical-tree
+33052343813	#L5 #neuron #excitatory/spiny-with-atypical-tree
+33402694842	#L5 #neuron #excitatory/spiny-with-atypical-tree
+33518393330	#L5 #neuron #excitatory/spiny-with-atypical-tree
+33547566053	#L5 #neuron #excitatory/spiny-with-atypical-tree
+33590843276	#L5 #neuron #excitatory/spiny-with-atypical-tree
+33648546595	#L5 #neuron #excitatory/spiny-with-atypical-tree
+33706717253	#L5 #neuron #excitatory/spiny-with-atypical-tree
+33750870535	#L5 #neuron #excitatory/spiny-with-atypical-tree
+33750986669	#L5 #neuron #excitatory/spiny-with-atypical-tree
+33765339850	#L5 #neuron #excitatory/spiny-with-atypical-tree
+33969126110	#L5 #neuron #excitatory/spiny-with-atypical-tree
+39483544626	#L5 #neuron #excitatory/spiny-with-atypical-tree
+39555176445	#L5 #neuron #excitatory/spiny-with-atypical-tree
+41814257914	#L5 #neuron #excitatory/spiny-with-atypical-tree
+42210134263	#L5 #neuron #excitatory/spiny-with-atypical-tree
+42224589342	#L5 #neuron #excitatory/spiny-with-atypical-tree
+42632073534	#L5 #neuron #excitatory/spiny-with-atypical-tree
+48565570812	#L5 #neuron #excitatory/spiny-with-atypical-tree
+74505676187	#L5 #neuron #excitatory/spiny-with-atypical-tree
+78326903904	#L5 #neuron #excitatory/spiny-with-atypical-tree
+78355857704	#L5 #neuron #excitatory/spiny-with-atypical-tree
+78413006555	#L5 #neuron #excitatory/spiny-with-atypical-tree
+95473750257	#L5 #neuron #excitatory/spiny-with-atypical-tree
+3396820614	#L5 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+3615455831	#L5 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+4195918620	#L5 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+4490888391	#L5 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+5131653084	#L5 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+5406604845	#L5 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+5755597879	#L5 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+5917084996	#L5 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+5945906868	#L5 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+6137676392	#L5 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+31216399522	#L5 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+33737014030	#L5 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite
+3934137728	#L5 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #bipolar
+4036738505	#L5 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #bipolar
+4735045909	#L5 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #bipolar
+5320488582	#L5 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #bipolar
+5392251910	#L5 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #bipolar
+5408401469	#L5 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #bipolar
+5772886684	#L5 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #bipolar
+6006019472	#L5 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #bipolar
+6077169830	#L5 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #bipolar
+6149503191	#L5 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #bipolar
+30151826172	#L5 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #bipolar
+30210610362	#L5 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #bipolar
+30997195192	#L5 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #bipolar
+3513366766	#L5 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+3643767211	#L5 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+3760443772	#L5 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+4226317895	#L5 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+4504964800	#L5 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+4677298990	#L5 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+6368503598	#L5 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+30079580948	#L5 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+30166836701	#L5 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+30282710718	#L5 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+30588994676	#L5 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+31608027431	#L5 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+33330054139	#L5 #neuron #excitatory/spiny-with-atypical-tree #thin-apical-dendrite #sparsely-spiny
+3308995863	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+3571201273	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+3921319354	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+3965500400	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+4138580687	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+4212081898	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+4445420826	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+4516762348	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+4546022793	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+4546329154	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+4589094341	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+4619362213	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+4822112549	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+4854206125	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+5055786972	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+5070358536	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+5073949710	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+5218018257	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+5247205432	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+5275721242	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+5289607123	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+5304821127	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+5405349641	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+5405976475	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+5420840295	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+5641930003	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+5698624297	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+5757365776	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+5770826833	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+6105700421	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+6149094594	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+6207354122	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+6237926854	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+6280474821	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+6296506059	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+6498058438	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+6498277275	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+6528954156	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+6644856731	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+6761577291	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+6805263368	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+6833911543	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+6834085661	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+6965525562	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+7052458423	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+21940807057	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+29875896864	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+30240089916	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+30587943683	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+30588017519	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+31741290976	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+33345050064	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+33430684914	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+33517312799	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+34099367184	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+39147502414	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+39234714289	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+51118101511	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar
+4546722225	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar #inverted-apical-dendrite
+7182801373	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar #inverted-apical-dendrite
+30443656692	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar #inverted-apical-dendrite
+3338402126	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar #sparsely-spiny
+4168147487	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar #sparsely-spiny
+4429870422	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar #sparsely-spiny
+4489647258	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar #sparsely-spiny
+4546182625	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar #sparsely-spiny
+4663223744	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar #sparsely-spiny
+4750084977	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar #sparsely-spiny
+6018446166	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar #sparsely-spiny
+6063256489	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar #sparsely-spiny
+6454751678	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar #sparsely-spiny
+30982871694	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar #sparsely-spiny
+31709796963	#L5 #neuron #excitatory/spiny-with-atypical-tree #bipolar #grey
+4255476078	#L5 #neuron #excitatory/spiny-with-atypical-tree #inverted-apical-dendrite
+4357931741	#L5 #neuron #excitatory/spiny-with-atypical-tree #inverted-apical-dendrite
+4708341005	#L5 #neuron #excitatory/spiny-with-atypical-tree #inverted-apical-dendrite
+5086477944	#L5 #neuron #excitatory/spiny-with-atypical-tree #inverted-apical-dendrite
+5202088104	#L5 #neuron #excitatory/spiny-with-atypical-tree #inverted-apical-dendrite
+5261382769	#L5 #neuron #excitatory/spiny-with-atypical-tree #inverted-apical-dendrite
+5288628330	#L5 #neuron #excitatory/spiny-with-atypical-tree #inverted-apical-dendrite
+5610522088	#L5 #neuron #excitatory/spiny-with-atypical-tree #inverted-apical-dendrite
+5800378882	#L5 #neuron #excitatory/spiny-with-atypical-tree #inverted-apical-dendrite
+6499563331	#L5 #neuron #excitatory/spiny-with-atypical-tree #inverted-apical-dendrite
+6879027543	#L5 #neuron #excitatory/spiny-with-atypical-tree #inverted-apical-dendrite
+6892153922	#L5 #neuron #excitatory/spiny-with-atypical-tree #inverted-apical-dendrite
+6908653613	#L5 #neuron #excitatory/spiny-with-atypical-tree #inverted-apical-dendrite
+6921779296	#L5 #neuron #excitatory/spiny-with-atypical-tree #inverted-apical-dendrite
+6995369673	#L5 #neuron #excitatory/spiny-with-atypical-tree #inverted-apical-dendrite
+14448420153	#L5 #neuron #excitatory/spiny-with-atypical-tree #inverted-apical-dendrite
+16383739138	#L5 #neuron #excitatory/spiny-with-atypical-tree #inverted-apical-dendrite
+30457308962	#L5 #neuron #excitatory/spiny-with-atypical-tree #inverted-apical-dendrite
+31521984224	#L5 #neuron #excitatory/spiny-with-atypical-tree #inverted-apical-dendrite
+33270117562	#L5 #neuron #excitatory/spiny-with-atypical-tree #inverted-apical-dendrite
+33691780007	#L5 #neuron #excitatory/spiny-with-atypical-tree #inverted-apical-dendrite
+5436916425	#L5 #neuron #excitatory/spiny-with-atypical-tree #inverted-apical-dendrite #lot-of-axon
+3396455451	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+3920092521	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+4008311779	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+4096690602	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+4198080970	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+4312887201	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+4356485833	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+4387001919	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+4387513355	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+4444427625	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+4650141832	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+4708093783	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+4809147247	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+4810781503	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+5362436295	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+5406401210	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+5450203338	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+5451020661	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+5917990078	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+5932094695	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+5989082034	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+6018167229	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+6035046484	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+6470812835	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+6777798852	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+24915847317	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+29978191188	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+30589097324	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+30765914259	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+30982068484	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+31041099265	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+31171969645	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+31216735277	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+31287623563	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+31389830350	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+31461199557	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+31638339207	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+38886173478	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+39365947835	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+39540413467	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+40563185759	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+40619822451	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+57824429752	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+69329710123	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+73852120952	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny
+4224828822	#L5 #neuron #excitatory/spiny-with-atypical-tree #sparsely-spiny #grey
+31287988421	#L5 #neuron #excitatory/spiny-with-atypical-tree #lots-of-spines
+4196138893	#L5 #neuron #excitatory/spiny-with-atypical-tree #grey
+5114686529	#L5 #neuron #excitatory/spiny-with-atypical-tree #grey
+30544869428	#L5 #neuron #excitatory/spiny-with-atypical-tree #grey
+3134630475	#L5 #astrocyte #glial
+3279750805	#L5 #astrocyte #glial
+3410531150	#L5 #astrocyte #glial
+3454669742	#L5 #astrocyte #glial
+3483756402	#L5 #astrocyte #glial
+3497641447	#L5 #astrocyte #glial
+3498283538	#L5 #astrocyte #glial
+3526828132	#L5 #astrocyte #glial
+3527836164	#L5 #astrocyte #glial
+3541093023	#L5 #astrocyte #glial
+3556206703	#L5 #astrocyte #glial
+3584780203	#L5 #astrocyte #glial
+3600155533	#L5 #astrocyte #glial
+3601513070	#L5 #astrocyte #glial
+3686504625	#L5 #astrocyte #glial
+3702010697	#L5 #astrocyte #glial
+3717561844	#L5 #astrocyte #glial
+3745873290	#L5 #astrocyte #glial
+3761772462	#L5 #astrocyte #glial
+3775236058	#L5 #astrocyte #glial
+3802874523	#L5 #astrocyte #glial
+3846195471	#L5 #astrocyte #glial
+3861556917	#L5 #astrocyte #glial
+3861891683	#L5 #astrocyte #glial
+3891970681	#L5 #astrocyte #glial
+3892379326	#L5 #astrocyte #glial
+3904526643	#L5 #astrocyte #glial
+3905170220	#L5 #astrocyte #glial
+3907432479	#L5 #astrocyte #glial
+3935801811	#L5 #astrocyte #glial
+3950009104	#L5 #astrocyte #glial
+3977999873	#L5 #astrocyte #glial
+3993287575	#L5 #astrocyte #glial
+4007435550	#L5 #astrocyte #glial
+4009173354	#L5 #astrocyte #glial
+4009245666	#L5 #astrocyte #glial
+4050435862	#L5 #astrocyte #glial
+4051589159	#L5 #astrocyte #glial
+4081798923	#L5 #astrocyte #glial
+4095450301	#L5 #astrocyte #glial
+4096049328	#L5 #astrocyte #glial
+4096268186	#L5 #astrocyte #glial
+4109233421	#L5 #astrocyte #glial
+4109656173	#L5 #astrocyte #glial
+4111438196	#L5 #astrocyte #glial
+4138478636	#L5 #astrocyte #glial
+4154029982	#L5 #astrocyte #glial
+4166849626	#L5 #astrocyte #glial
+4210404240	#L5 #astrocyte #glial
+4210856336	#L5 #astrocyte #glial
+4211688895	#L5 #astrocyte #glial
+4242160687	#L5 #astrocyte #glial
+4254192094	#L5 #astrocyte #glial
+4269624934	#L5 #astrocyte #glial
+4297542956	#L5 #astrocyte #glial
+4341871117	#L5 #astrocyte #glial
+4343841498	#L5 #astrocyte #glial
+4343885732	#L5 #astrocyte #glial
+4357450739	#L5 #astrocyte #glial
+4386900812	#L5 #astrocyte #glial
+4387222103	#L5 #astrocyte #glial
+4400960728	#L5 #astrocyte #glial
+4415285430	#L5 #astrocyte #glial
+4416715032	#L5 #astrocyte #glial
+4417154260	#L5 #astrocyte #glial
+4429447841	#L5 #astrocyte #glial
+4446151704	#L5 #astrocyte #glial
+4459291428	#L5 #astrocyte #glial
+4460386978	#L5 #astrocyte #glial
+4474331578	#L5 #astrocyte #glial
+4504453109	#L5 #astrocyte #glial
+4533670053	#L5 #astrocyte #glial
+4561411365	#L5 #astrocyte #glial
+4576027623	#L5 #astrocyte #glial
+4577063138	#L5 #astrocyte #glial
+4590715045	#L5 #astrocyte #glial
+4618969405	#L5 #astrocyte #glial
+4650025583	#L5 #astrocyte #glial
+4662947181	#L5 #astrocyte #glial
+4663589152	#L5 #astrocyte #glial
+4664975807	#L5 #astrocyte #glial
+4678380718	#L5 #astrocyte #glial
+4692339221	#L5 #astrocyte #glial
+4694368162	#L5 #astrocyte #glial
+4723307855	#L5 #astrocyte #glial
+4766673457	#L5 #astrocyte #glial
+4780966884	#L5 #astrocyte #glial
+4810927502	#L5 #astrocyte #glial
+4824316658	#L5 #astrocyte #glial
+4837473513	#L5 #astrocyte #glial
+4839050414	#L5 #astrocyte #glial
+4854074656	#L5 #astrocyte #glial
+4854526712	#L5 #astrocyte #glial
+4868763570	#L5 #astrocyte #glial
+4897629010	#L5 #astrocyte #glial
+4910696635	#L5 #astrocyte #glial
+4939825317	#L5 #astrocyte #glial
+4969524103	#L5 #astrocyte #glial
+4983410208	#L5 #astrocyte #glial
+4983468041	#L5 #astrocyte #glial
+4998595030	#L5 #astrocyte #glial
+5000143047	#L5 #astrocyte #glial
+5012246995	#L5 #astrocyte #glial
+5013619375	#L5 #astrocyte #glial
+5014728985	#L5 #astrocyte #glial
+5027461378	#L5 #astrocyte #glial
+5041638604	#L5 #astrocyte #glial
+5056049957	#L5 #astrocyte #glial
+5057013903	#L5 #astrocyte #glial
+5058940614	#L5 #astrocyte #glial
+5073294065	#L5 #astrocyte #glial
+5085324436	#L5 #astrocyte #glial
+5087251268	#L5 #astrocyte #glial
+5100963028	#L5 #astrocyte #glial
+5101516913	#L5 #astrocyte #glial
+5115927884	#L5 #astrocyte #glial
+5116469109	#L5 #astrocyte #glial
+5204234896	#L5 #astrocyte #glial
+5216748571	#L5 #astrocyte #glial
+5217916321	#L5 #astrocyte #glial
+5246636676	#L5 #astrocyte #glial
+5277605042	#L5 #astrocyte #glial
+5290600229	#L5 #astrocyte #glial
+5305785347	#L5 #astrocyte #glial
+5319115466	#L5 #astrocyte #glial
+5319291558	#L5 #astrocyte #glial
+5320109132	#L5 #astrocyte #glial
+5347806436	#L5 #astrocyte #glial
+5348667940	#L5 #astrocyte #glial
+5363970746	#L5 #astrocyte #glial
+5364772630	#L5 #astrocyte #glial
+5376644074	#L5 #astrocyte #glial
+5420563630	#L5 #astrocyte #glial
+5420709167	#L5 #astrocyte #glial
+5422534898	#L5 #astrocyte #glial
+5434843932	#L5 #astrocyte #glial
+5494182012	#L5 #astrocyte #glial
+5494911507	#L5 #astrocyte #glial
+5509848976	#L5 #astrocyte #glial
+5524084788	#L5 #astrocyte #glial
+5566676178	#L5 #astrocyte #glial
+5609983020	#L5 #astrocyte #glial
+5610303250	#L5 #astrocyte #glial
+5626846781	#L5 #astrocyte #glial
+5684520270	#L5 #astrocyte #glial
+5684798545	#L5 #astrocyte #glial
+5698392195	#L5 #astrocyte #glial
+5712160593	#L5 #astrocyte #glial
+5713006999	#L5 #astrocyte #glial
+5741859278	#L5 #astrocyte #glial
+5756971324	#L5 #astrocyte #glial
+5785530575	#L5 #astrocyte #glial
+5799386984	#L5 #astrocyte #glial
+5815696615	#L5 #astrocyte #glial
+5829640150	#L5 #astrocyte #glial
+5843467971	#L5 #astrocyte #glial
+5844635492	#L5 #astrocyte #glial
+5857557623	#L5 #astrocyte #glial
+5858535646	#L5 #astrocyte #glial
+5872391409	#L5 #astrocyte #glial
+5873545397	#L5 #astrocyte #glial
+5901755294	#L5 #astrocyte #glial
+5945833835	#L5 #astrocyte #glial
+5947149427	#L5 #astrocyte #glial
+5959925077	#L5 #astrocyte #glial
+5960100124	#L5 #astrocyte #glial
+5961458313	#L5 #astrocyte #glial
+5961895248	#L5 #astrocyte #glial
+5990251480	#L5 #astrocyte #glial
+6005421118	#L5 #astrocyte #glial
+6048363234	#L5 #astrocyte #glial
+6077797678	#L5 #astrocyte #glial
+6092137150	#L5 #astrocyte #glial
+6092226170	#L5 #astrocyte #glial
+6120813552	#L5 #astrocyte #glial
+6121469302	#L5 #astrocyte #glial
+6135648659	#L5 #astrocyte #glial
+6136611253	#L5 #astrocyte #glial
+6163651766	#L5 #astrocyte #glial
+6193000479	#L5 #astrocyte #glial
+6194328602	#L5 #astrocyte #glial
+6194417186	#L5 #astrocyte #glial
+6237241090	#L5 #astrocyte #glial
+6279847178	#L5 #astrocyte #glial
+6280679819	#L5 #astrocyte #glial
+6282242215	#L5 #astrocyte #glial
+6324642222	#L5 #astrocyte #glial
+6325240844	#L5 #astrocyte #glial
+6327738254	#L5 #astrocyte #glial
+6354326983	#L5 #astrocyte #glial
+6355348873	#L5 #astrocyte #glial
+6384258549	#L5 #astrocyte #glial
+6425784221	#L5 #astrocyte #glial
+6426601763	#L5 #astrocyte #glial
+6426777013	#L5 #astrocyte #glial
+6457365604	#L5 #astrocyte #glial
+6469704530	#L5 #astrocyte #glial
+6485326176	#L5 #astrocyte #glial
+6485648552	#L5 #astrocyte #glial
+6513053959	#L5 #astrocyte #glial
+6528019505	#L5 #astrocyte #glial
+6586482229	#L5 #astrocyte #glial
+6588891963	#L5 #astrocyte #glial
+6616603770	#L5 #astrocyte #glial
+6630430930	#L5 #astrocyte #glial
+6731893505	#L5 #astrocyte #glial
+6732462820	#L5 #astrocyte #glial
+6732536568	#L5 #astrocyte #glial
+6775829034	#L5 #astrocyte #glial
+6777040450	#L5 #astrocyte #glial
+6777711703	#L5 #astrocyte #glial
+6879364218	#L5 #astrocyte #glial
+6894462017	#L5 #astrocyte #glial
+6908245466	#L5 #astrocyte #glial
+6922714851	#L5 #astrocyte #glial
+6936615164	#L5 #astrocyte #glial
+6994625175	#L5 #astrocyte #glial
+7038500173	#L5 #astrocyte #glial
+7038515681	#L5 #astrocyte #glial
+7039596100	#L5 #astrocyte #glial
+7052503383	#L5 #astrocyte #glial
+7095941484	#L5 #astrocyte #glial
+7169296239	#L5 #astrocyte #glial
+7169924370	#L5 #astrocyte #glial
+7183912437	#L5 #astrocyte #glial
+7199316687	#L5 #astrocyte #glial
+7256158256	#L5 #astrocyte #glial
+13091330479	#L5 #astrocyte #glial
+13208401524	#L5 #astrocyte #glial
+13340993451	#L5 #astrocyte #glial
+13353826929	#L5 #astrocyte #glial
+13556869181	#L5 #astrocyte #glial
+13673559948	#L5 #astrocyte #glial
+13762888442	#L5 #astrocyte #glial
+13775912499	#L5 #astrocyte #glial
+13980969514	#L5 #astrocyte #glial

@@ -1,0 +1,1000 @@
+93372914367	#L6 #glial #oligodendrocyte
+93431376376	#L6 #glial #oligodendrocyte
+93475019083	#L6 #glial #oligodendrocyte
+93518180037	#L6 #glial #oligodendrocyte
+93619672310	#L6 #glial #oligodendrocyte
+93619672573	#L6 #glial #oligodendrocyte
+93634272831	#L6 #glial #oligodendrocyte
+93635790758	#L6 #glial #oligodendrocyte
+93736421656	#L6 #glial #oligodendrocyte
+93780399796	#L6 #glial #oligodendrocyte
+93824304450	#L6 #glial #oligodendrocyte
+93839343483	#L6 #glial #oligodendrocyte
+93941610161	#L6 #glial #oligodendrocyte
+94014906038	#L6 #glial #oligodendrocyte
+94014978319	#L6 #glial #oligodendrocyte
+94072054538	#L6 #glial #oligodendrocyte
+94073353221	#L6 #glial #oligodendrocyte
+94291988705	#L6 #glial #oligodendrocyte
+94349224708	#L6 #glial #oligodendrocyte
+94408606145	#L6 #glial #oligodendrocyte
+94423251064	#L6 #glial #oligodendrocyte
+94423252333	#L6 #glial #oligodendrocyte
+94452395546	#L6 #glial #oligodendrocyte
+94465857771	#L6 #glial #oligodendrocyte
+94466954298	#L6 #glial #oligodendrocyte
+94553580809	#L6 #glial #oligodendrocyte
+94567436982	#L6 #glial #oligodendrocyte
+94568151630	#L6 #glial #oligodendrocyte
+94597192953	#L6 #glial #oligodendrocyte
+94713404274	#L6 #glial #oligodendrocyte
+94713447644	#L6 #glial #oligodendrocyte
+94713637194	#L6 #glial #oligodendrocyte
+94800979571	#L6 #glial #oligodendrocyte
+94873606465	#L6 #glial #oligodendrocyte
+94888221577	#L6 #glial #oligodendrocyte
+94903141900	#L6 #glial #oligodendrocyte
+94917248223	#L6 #glial #oligodendrocyte
+94977082735	#L6 #glial #oligodendrocyte
+95005832011	#L6 #glial #oligodendrocyte
+95063521571	#L6 #glial #oligodendrocyte
+95064061037	#L6 #glial #oligodendrocyte
+95122830544	#L6 #glial #oligodendrocyte
+95165770751	#L6 #glial #oligodendrocyte
+95209486287	#L6 #glial #oligodendrocyte
+95253040952	#L6 #glial #oligodendrocyte
+95427318994	#L6 #glial #oligodendrocyte
+95428515669	#L6 #glial #oligodendrocyte
+95457017286	#L6 #glial #oligodendrocyte
+95515027031	#L6 #glial #oligodendrocyte
+95529686435	#L6 #glial #oligodendrocyte
+95689728384	#L6 #glial #oligodendrocyte
+95705073830	#L6 #glial #oligodendrocyte
+95734699495	#L6 #glial #oligodendrocyte
+95966548428	#L6 #glial #oligodendrocyte
+96054110644	#L6 #glial #oligodendrocyte
+96185432456	#L6 #glial #oligodendrocyte
+96199974666	#L6 #glial #oligodendrocyte
+96244097820	#L6 #glial #oligodendrocyte
+96462252029	#L6 #glial #oligodendrocyte
+4108605032	#L6 #glial #microglia/opc
+4399457638	#L6 #glial #microglia/opc
+4442939993	#L6 #glial #microglia/opc
+4457424015	#L6 #glial #microglia/opc
+4589036113	#L6 #glial #microglia/opc
+4646915093	#L6 #glial #microglia/opc
+4704355599	#L6 #glial #microglia/opc
+4751720298	#L6 #glial #microglia/opc
+4762862385	#L6 #glial #microglia/opc
+4763006993	#L6 #glial #microglia/opc
+4778586975	#L6 #glial #microglia/opc
+4792181455	#L6 #glial #microglia/opc
+4792487536	#L6 #glial #microglia/opc
+4836537664	#L6 #glial #microglia/opc
+4850672487	#L6 #glial #microglia/opc
+4995441860	#L6 #glial #microglia/opc
+5011882240	#L6 #glial #microglia/opc
+5011969956	#L6 #glial #microglia/opc
+5025694305	#L6 #glial #microglia/opc
+5039784218	#L6 #glial #microglia/opc
+5083805999	#L6 #glial #microglia/opc
+5084098901	#L6 #glial #microglia/opc
+5112642756	#L6 #glial #microglia/opc
+5141305287	#L6 #glial #microglia/opc
+5141568681	#L6 #glial #microglia/opc
+5184859411	#L6 #glial #microglia/opc
+5199738818	#L6 #glial #microglia/opc
+5213726324	#L6 #glial #microglia/opc
+5230020618	#L6 #glial #microglia/opc
+5230137289	#L6 #glial #microglia/opc
+5258199882	#L6 #glial #microglia/opc
+5287811137	#L6 #glial #microglia/opc
+5360086738	#L6 #glial #microglia/opc
+5374512991	#L6 #glial #microglia/opc
+5375694966	#L6 #glial #microglia/opc
+5405071772	#L6 #glial #microglia/opc
+5434552691	#L6 #glial #microglia/opc
+5476996263	#L6 #glial #microglia/opc
+5520289489	#L6 #glial #microglia/opc
+5520463930	#L6 #glial #microglia/opc
+5564762573	#L6 #glial #microglia/opc
+5565873292	#L6 #glial #microglia/opc
+5565974496	#L6 #glial #microglia/opc
+5579934214	#L6 #glial #microglia/opc
+5637781940	#L6 #glial #microglia/opc
+5637899760	#L6 #glial #microglia/opc
+5682243098	#L6 #glial #microglia/opc
+5695719342	#L6 #glial #microglia/opc
+5709634830	#L6 #glial #microglia/opc
+5710758898	#L6 #glial #microglia/opc
+5724965462	#L6 #glial #microglia/opc
+5753772369	#L6 #glial #microglia/opc
+5754386540	#L6 #glial #microglia/opc
+5797152201	#L6 #glial #microglia/opc
+5798261928	#L6 #glial #microglia/opc
+5801183284	#L6 #glial #microglia/opc
+5855745657	#L6 #glial #microglia/opc
+5886102594	#L6 #glial #microglia/opc
+5958259403	#L6 #glial #microglia/opc
+5973241465	#L6 #glial #microglia/opc
+5973635829	#L6 #glial #microglia/opc
+5987155809	#L6 #glial #microglia/opc
+6001187597	#L6 #glial #microglia/opc
+6002106105	#L6 #glial #microglia/opc
+6002282557	#L6 #glial #microglia/opc
+6002414248	#L6 #glial #microglia/opc
+6059504082	#L6 #glial #microglia/opc
+6075200089	#L6 #glial #microglia/opc
+6075842602	#L6 #glial #microglia/opc
+6088443755	#L6 #glial #microglia/opc
+6089624517	#L6 #glial #microglia/opc
+6119046274	#L6 #glial #microglia/opc
+6119717634	#L6 #glial #microglia/opc
+6177727743	#L6 #glial #microglia/opc
+6205456294	#L6 #glial #microglia/opc
+6206229110	#L6 #glial #microglia/opc
+6279467217	#L6 #glial #microglia/opc
+6293367476	#L6 #glial #microglia/opc
+6307136612	#L6 #glial #microglia/opc
+6322218806	#L6 #glial #microglia/opc
+6365540193	#L6 #glial #microglia/opc
+6365832934	#L6 #glial #microglia/opc
+6366256067	#L6 #glial #microglia/opc
+6381411979	#L6 #glial #microglia/opc
+6497401813	#L6 #glial #microglia/opc
+6497768045	#L6 #glial #microglia/opc
+6512222936	#L6 #glial #microglia/opc
+6526034157	#L6 #glial #microglia/opc
+6570904092	#L6 #glial #microglia/opc
+6585445575	#L6 #glial #microglia/opc
+6672279028	#L6 #glial #microglia/opc
+6686688906	#L6 #glial #microglia/opc
+6687886951	#L6 #glial #microglia/opc
+6700808726	#L6 #glial #microglia/opc
+6700984257	#L6 #glial #microglia/opc
+6760527215	#L6 #glial #microglia/opc
+6774280705	#L6 #glial #microglia/opc
+6774455537	#L6 #glial #microglia/opc
+6789130638	#L6 #glial #microglia/opc
+6803175712	#L6 #glial #microglia/opc
+6847624828	#L6 #glial #microglia/opc
+6861332395	#L6 #glial #microglia/opc
+6905909794	#L6 #glial #microglia/opc
+6963890089	#L6 #glial #microglia/opc
+6977775416	#L6 #glial #microglia/opc
+6979965461	#L6 #glial #microglia/opc
+7008174360	#L6 #glial #microglia/opc
+7022250205	#L6 #glial #microglia/opc
+7066446717	#L6 #glial #microglia/opc
+7080230966	#L6 #glial #microglia/opc
+7094379643	#L6 #glial #microglia/opc
+7108979252	#L6 #glial #microglia/opc
+7123450004	#L6 #glial #microglia/opc
+7153571319	#L6 #glial #microglia/opc
+7210997110	#L6 #glial #microglia/opc
+7211260337	#L6 #glial #microglia/opc
+7211741009	#L6 #glial #microglia/opc
+7241454648	#L6 #glial #microglia/opc
+7255530247	#L6 #glial #microglia/opc
+7298764151	#L6 #glial #microglia/opc
+7327498736	#L6 #glial #microglia/opc
+7327966047	#L6 #glial #microglia/opc
+7328725084	#L6 #glial #microglia/opc
+7342873184	#L6 #glial #microglia/opc
+7356758277	#L6 #glial #microglia/opc
+7372293692	#L6 #glial #microglia/opc
+7372921517	#L6 #glial #microglia/opc
+7386223604	#L6 #glial #microglia/opc
+7400547708	#L6 #glial #microglia/opc
+7415731109	#L6 #glial #microglia/opc
+7576446508	#L6 #glial #microglia/opc
+7589907578	#L6 #glial #microglia/opc
+7620043182	#L6 #glial #microglia/opc
+7648282871	#L6 #glial #microglia/opc
+7823304551	#L6 #glial #microglia/opc
+13424803340	#L6 #glial #microglia/opc
+13584347351	#L6 #glial #microglia/opc
+13935487340	#L6 #glial #microglia/opc
+14356127901	#L6 #glial #microglia/opc
+14867483526	#L6 #glial #microglia/opc
+15421066235	#L6 #glial #microglia/opc
+15507971330	#L6 #glial #microglia/opc
+15711947640	#L6 #glial #microglia/opc
+16077074141	#L6 #glial #microglia/opc
+22071441687	#L6 #glial #microglia/opc
+22143789002	#L6 #glial #microglia/opc
+22522086641	#L6 #glial #microglia/opc
+22566153764	#L6 #glial #microglia/opc
+22682188170	#L6 #glial #microglia/opc
+22946611241	#L6 #glial #microglia/opc
+23150616856	#L6 #glial #microglia/opc
+23616709861	#L6 #glial #microglia/opc
+23661022961	#L6 #glial #microglia/opc
+23689378604	#L6 #glial #microglia/opc
+23747053067	#L6 #glial #microglia/opc
+23761274087	#L6 #glial #microglia/opc
+25291911655	#L6 #glial #microglia/opc
+25292290615	#L6 #glial #microglia/opc
+25379488846	#L6 #glial #microglia/opc
+25394512765	#L6 #glial #microglia/opc
+25510065585	#L6 #glial #microglia/opc
+30718635148	#L6 #glial #microglia/opc
+31052530764	#L6 #glial #microglia/opc
+31082112846	#L6 #glial #microglia/opc
+31185240793	#L6 #glial #microglia/opc
+31243659879	#L6 #glial #microglia/opc
+31314884480	#L6 #glial #microglia/opc
+31358497872	#L6 #glial #microglia/opc
+31402855234	#L6 #glial #microglia/opc
+31432245745	#L6 #glial #microglia/opc
+31474500937	#L6 #glial #microglia/opc
+31476356207	#L6 #glial #microglia/opc
+31518172640	#L6 #glial #microglia/opc
+31519821770	#L6 #glial #microglia/opc
+31563391971	#L6 #glial #microglia/opc
+31709139504	#L6 #glial #microglia/opc
+31723318397	#L6 #glial #microglia/opc
+31753030358	#L6 #glial #microglia/opc
+31766171925	#L6 #glial #microglia/opc
+31781049644	#L6 #glial #microglia/opc
+31781969007	#L6 #glial #microglia/opc
+31825393257	#L6 #glial #microglia/opc
+31870159490	#L6 #glial #microglia/opc
+31913392943	#L6 #glial #microglia/opc
+32001568840	#L6 #glial #microglia/opc
+32014942993	#L6 #glial #microglia/opc
+32073055497	#L6 #glial #microglia/opc
+32088094086	#L6 #glial #microglia/opc
+32160105953	#L6 #glial #microglia/opc
+32204055401	#L6 #glial #microglia/opc
+32320440939	#L6 #glial #microglia/opc
+32409650758	#L6 #glial #microglia/opc
+32424062941	#L6 #glial #microglia/opc
+32554157364	#L6 #glial #microglia/opc
+32598909300	#L6 #glial #microglia/opc
+32700124196	#L6 #glial #microglia/opc
+32788095239	#L6 #glial #microglia/opc
+32860706101	#L6 #glial #microglia/opc
+32917898260	#L6 #glial #microglia/opc
+32947187635	#L6 #glial #microglia/opc
+32948603633	#L6 #glial #microglia/opc
+32961919777	#L6 #glial #microglia/opc
+32991443720	#L6 #glial #microglia/opc
+33137598351	#L6 #glial #microglia/opc
+33167093391	#L6 #glial #microglia/opc
+33180701427	#L6 #glial #microglia/opc
+33252961884	#L6 #glial #microglia/opc
+33253355018	#L6 #glial #microglia/opc
+33384779057	#L6 #glial #microglia/opc
+33428013372	#L6 #glial #microglia/opc
+33428217271	#L6 #glial #microglia/opc
+33428597214	#L6 #glial #microglia/opc
+33486913389	#L6 #glial #microglia/opc
+33487117471	#L6 #glial #microglia/opc
+33604377031	#L6 #glial #microglia/opc
+33778013712	#L6 #glial #microglia/opc
+33865853016	#L6 #glial #microglia/opc
+34172255531	#L6 #glial #microglia/opc
+34390772220	#L6 #glial #microglia/opc
+39525478341	#L6 #glial #microglia/opc
+39714808799	#L6 #glial #microglia/opc
+39728811275	#L6 #glial #microglia/opc
+39729731079	#L6 #glial #microglia/opc
+39786952320	#L6 #glial #microglia/opc
+39832187184	#L6 #glial #microglia/opc
+39844552272	#L6 #glial #microglia/opc
+39904505871	#L6 #glial #microglia/opc
+39933868718	#L6 #glial #microglia/opc
+39990430777	#L6 #glial #microglia/opc
+40049025312	#L6 #glial #microglia/opc
+40063976640	#L6 #glial #microglia/opc
+40064241078	#L6 #glial #microglia/opc
+40122761662	#L6 #glial #microglia/opc
+40152518321	#L6 #glial #microglia/opc
+40208950982	#L6 #glial #microglia/opc
+40209623575	#L6 #glial #microglia/opc
+40209710150	#L6 #glial #microglia/opc
+40239759025	#L6 #glial #microglia/opc
+40252944074	#L6 #glial #microglia/opc
+40296352442	#L6 #glial #microglia/opc
+40325466557	#L6 #glial #microglia/opc
+40370349525	#L6 #glial #microglia/opc
+40371022248	#L6 #glial #microglia/opc
+40385229185	#L6 #glial #microglia/opc
+40413714655	#L6 #glial #microglia/opc
+40442669981	#L6 #glial #microglia/opc
+40472294122	#L6 #glial #microglia/opc
+40502372871	#L6 #glial #microglia/opc
+40617267707	#L6 #glial #microglia/opc
+40618610575	#L6 #glial #microglia/opc
+40660808743	#L6 #glial #microglia/opc
+40690301758	#L6 #glial #microglia/opc
+40705690632	#L6 #glial #microglia/opc
+40735653225	#L6 #glial #microglia/opc
+40763233448	#L6 #glial #microglia/opc
+40879560501	#L6 #glial #microglia/opc
+40879807999	#L6 #glial #microglia/opc
+40880918499	#L6 #glial #microglia/opc
+40894482432	#L6 #glial #microglia/opc
+40896380682	#L6 #glial #microglia/opc
+40996148777	#L6 #glial #microglia/opc
+40997696330	#L6 #glial #microglia/opc
+41084119734	#L6 #glial #microglia/opc
+41142829859	#L6 #glial #microglia/opc
+41172441640	#L6 #glial #microglia/opc
+41245154539	#L6 #glial #microglia/opc
+41259462924	#L6 #glial #microglia/opc
+41287745436	#L6 #glial #microglia/opc
+41303879097	#L6 #glial #microglia/opc
+41346791848	#L6 #glial #microglia/opc
+41448605282	#L6 #glial #microglia/opc
+41478347280	#L6 #glial #microglia/opc
+41491779808	#L6 #glial #microglia/opc
+41521536460	#L6 #glial #microglia/opc
+41536823512	#L6 #glial #microglia/opc
+41566391195	#L6 #glial #microglia/opc
+41580188687	#L6 #glial #microglia/opc
+41580481604	#L6 #glial #microglia/opc
+41667429787	#L6 #glial #microglia/opc
+41682469737	#L6 #glial #microglia/opc
+41740522677	#L6 #glial #microglia/opc
+41872545322	#L6 #glial #microglia/opc
+41899834518	#L6 #glial #microglia/opc
+42002392122	#L6 #glial #microglia/opc
+42017138752	#L6 #glial #microglia/opc
+42032176945	#L6 #glial #microglia/opc
+42032557117	#L6 #glial #microglia/opc
+42061423366	#L6 #glial #microglia/opc
+42075455460	#L6 #glial #microglia/opc
+42075585422	#L6 #glial #microglia/opc
+42089325824	#L6 #glial #microglia/opc
+42104847176	#L6 #glial #microglia/opc
+42147891218	#L6 #glial #microglia/opc
+42206396248	#L6 #glial #microglia/opc
+42221888243	#L6 #glial #microglia/opc
+42265837918	#L6 #glial #microglia/opc
+42337571099	#L6 #glial #microglia/opc
+42338009555	#L6 #glial #microglia/opc
+42351954119	#L6 #glial #microglia/opc
+42439618187	#L6 #glial #microglia/opc
+42512273168	#L6 #glial #microglia/opc
+42557112916	#L6 #glial #microglia/opc
+42585526185	#L6 #glial #microglia/opc
+42615224518	#L6 #glial #microglia/opc
+42643682013	#L6 #glial #microglia/opc
+42658122397	#L6 #glial #microglia/opc
+42673511395	#L6 #glial #microglia/opc
+42686871635	#L6 #glial #microglia/opc
+42745933764	#L6 #glial #microglia/opc
+42745991951	#L6 #glial #microglia/opc
+42746531043	#L6 #glial #microglia/opc
+42789195302	#L6 #glial #microglia/opc
+42789720804	#L6 #glial #microglia/opc
+42804351596	#L6 #glial #microglia/opc
+42906893085	#L6 #glial #microglia/opc
+42935001238	#L6 #glial #microglia/opc
+43051327281	#L6 #glial #microglia/opc
+43197175330	#L6 #glial #microglia/opc
+48550924473	#L6 #glial #microglia/opc
+48652387287	#L6 #glial #microglia/opc
+48740956978	#L6 #glial #microglia/opc
+48812415182	#L6 #glial #microglia/opc
+49089891609	#L6 #glial #microglia/opc
+49133796896	#L6 #glial #microglia/opc
+49279135552	#L6 #glial #microglia/opc
+49322136225	#L6 #glial #microglia/opc
+49337073513	#L6 #glial #microglia/opc
+49439775790	#L6 #glial #microglia/opc
+49528023781	#L6 #glial #microglia/opc
+49541310439	#L6 #glial #microglia/opc
+49556423174	#L6 #glial #microglia/opc
+49673027404	#L6 #glial #microglia/opc
+49745915874	#L6 #glial #microglia/opc
+49817869380	#L6 #glial #microglia/opc
+49979180986	#L6 #glial #microglia/opc
+50065837586	#L6 #glial #microglia/opc
+50109815883	#L6 #glial #microglia/opc
+50139835433	#L6 #glial #microglia/opc
+50197260369	#L6 #glial #microglia/opc
+50314345773	#L6 #glial #microglia/opc
+50315033484	#L6 #glial #microglia/opc
+50372764125	#L6 #glial #microglia/opc
+50402536704	#L6 #glial #microglia/opc
+50737015968	#L6 #glial #microglia/opc
+50795011100	#L6 #glial #microglia/opc
+50839646525	#L6 #glial #microglia/opc
+51029036095	#L6 #glial #microglia/opc
+51071481203	#L6 #glial #microglia/opc
+51232179800	#L6 #glial #microglia/opc
+51232792880	#L6 #glial #microglia/opc
+51320224206	#L6 #glial #microglia/opc
+51334664760	#L6 #glial #microglia/opc
+51363268541	#L6 #glial #microglia/opc
+51611323417	#L6 #glial #microglia/opc
+51757289721	#L6 #glial #microglia/opc
+51771964662	#L6 #glial #microglia/opc
+51815679812	#L6 #glial #microglia/opc
+51829156368	#L6 #glial #microglia/opc
+51873689606	#L6 #glial #microglia/opc
+51887560415	#L6 #glial #microglia/opc
+52048142658	#L6 #glial #microglia/opc
+57518655589	#L6 #glial #microglia/opc
+57547944342	#L6 #glial #microglia/opc
+57750065024	#L6 #glial #microglia/opc
+57750637353	#L6 #glial #microglia/opc
+57969126200	#L6 #glial #microglia/opc
+58114974435	#L6 #glial #microglia/opc
+58116536092	#L6 #glial #microglia/opc
+58275702745	#L6 #glial #microglia/opc
+58421581059	#L6 #glial #microglia/opc
+58422297124	#L6 #glial #microglia/opc
+58437013483	#L6 #glial #microglia/opc
+58683641219	#L6 #glial #microglia/opc
+58756148015	#L6 #glial #microglia/opc
+58903778462	#L6 #glial #microglia/opc
+58946559796	#L6 #glial #microglia/opc
+59164932699	#L6 #glial #microglia/opc
+59282367926	#L6 #glial #microglia/opc
+59339662599	#L6 #glial #microglia/opc
+59471742133	#L6 #glial #microglia/opc
+59572417449	#L6 #glial #microglia/opc
+59703723777	#L6 #glial #microglia/opc
+59732896071	#L6 #glial #microglia/opc
+59806222856	#L6 #glial #microglia/opc
+60142133362	#L6 #glial #microglia/opc
+60229608096	#L6 #glial #microglia/opc
+60388729471	#L6 #glial #microglia/opc
+60475969667	#L6 #glial #microglia/opc
+60607613647	#L6 #glial #microglia/opc
+60665856767	#L6 #glial #microglia/opc
+60724960794	#L6 #glial #microglia/opc
+66165060743	#L6 #glial #microglia/opc
+66179545768	#L6 #glial #microglia/opc
+66180098952	#L6 #glial #microglia/opc
+66354084765	#L6 #glial #microglia/opc
+66368949380	#L6 #glial #microglia/opc
+66383651694	#L6 #glial #microglia/opc
+66528801151	#L6 #glial #microglia/opc
+66616421355	#L6 #glial #microglia/opc
+66644659483	#L6 #glial #microglia/opc
+66674649621	#L6 #glial #microglia/opc
+66675103690	#L6 #glial #microglia/opc
+66717519928	#L6 #glial #microglia/opc
+66748706484	#L6 #glial #microglia/opc
+66805168491	#L6 #glial #microglia/opc
+66907856944	#L6 #glial #microglia/opc
+67141662355	#L6 #glial #microglia/opc
+67171084558	#L6 #glial #microglia/opc
+67242395697	#L6 #glial #microglia/opc
+67257420663	#L6 #glial #microglia/opc
+67346179156	#L6 #glial #microglia/opc
+67360211144	#L6 #glial #microglia/opc
+67389032359	#L6 #glial #microglia/opc
+67694266936	#L6 #glial #microglia/opc
+67723834513	#L6 #glial #microglia/opc
+67796402502	#L6 #glial #microglia/opc
+67900126062	#L6 #glial #microglia/opc
+68030061193	#L6 #glial #microglia/opc
+68074448513	#L6 #glial #microglia/opc
+68074667308	#L6 #glial #microglia/opc
+68248492951	#L6 #glial #microglia/opc
+68248754779	#L6 #glial #microglia/opc
+68395362560	#L6 #glial #microglia/opc
+68482618069	#L6 #glial #microglia/opc
+68657187506	#L6 #glial #microglia/opc
+68686608615	#L6 #glial #microglia/opc
+68875166582	#L6 #glial #microglia/opc
+69051313424	#L6 #glial #microglia/opc
+69429376138	#L6 #glial #microglia/opc
+69502587116	#L6 #glial #microglia/opc
+69516355033	#L6 #glial #microglia/opc
+69589200206	#L6 #glial #microglia/opc
+69589448194	#L6 #glial #microglia/opc
+69619334978	#L6 #glial #microglia/opc
+69647501592	#L6 #glial #microglia/opc
+74666360218	#L6 #glial #microglia/opc
+74855224623	#L6 #glial #microglia/opc
+74884018239	#L6 #glial #microglia/opc
+74885157661	#L6 #glial #microglia/opc
+74928201042	#L6 #glial #microglia/opc
+75000694438	#L6 #glial #microglia/opc
+75001119387	#L6 #glial #microglia/opc
+75014433574	#L6 #glial #microglia/opc
+75073407670	#L6 #glial #microglia/opc
+75101719011	#L6 #glial #microglia/opc
+75189119918	#L6 #glial #microglia/opc
+75322428765	#L6 #glial #microglia/opc
+75335437331	#L6 #glial #microglia/opc
+75364303479	#L6 #glial #microglia/opc
+75423045867	#L6 #glial #microglia/opc
+75482060608	#L6 #glial #microglia/opc
+75482645622	#L6 #glial #microglia/opc
+75628321155	#L6 #glial #microglia/opc
+75831594388	#L6 #glial #microglia/opc
+75846997807	#L6 #glial #microglia/opc
+75889297664	#L6 #glial #microglia/opc
+75890567653	#L6 #glial #microglia/opc
+76182529521	#L6 #glial #microglia/opc
+76355478206	#L6 #glial #microglia/opc
+76355886553	#L6 #glial #microglia/opc
+76371481019	#L6 #glial #microglia/opc
+76400507253	#L6 #glial #microglia/opc
+76502918732	#L6 #glial #microglia/opc
+76647149373	#L6 #glial #microglia/opc
+76880427959	#L6 #glial #microglia/opc
+76924450203	#L6 #glial #microglia/opc
+77071087077	#L6 #glial #microglia/opc
+77172170912	#L6 #glial #microglia/opc
+77245555104	#L6 #glial #microglia/opc
+77463402283	#L6 #glial #microglia/opc
+77464059459	#L6 #glial #microglia/opc
+77653010924	#L6 #glial #microglia/opc
+78031847882	#L6 #glial #microglia/opc
+78090412118	#L6 #glial #microglia/opc
+78440456627	#L6 #glial #microglia/opc
+78542912346	#L6 #glial #microglia/opc
+78600264809	#L6 #glial #microglia/opc
+78600747854	#L6 #glial #microglia/opc
+78615667947	#L6 #glial #microglia/opc
+78717612094	#L6 #glial #microglia/opc
+78761152296	#L6 #glial #microglia/opc
+83982660190	#L6 #glial #microglia/opc
+84056498704	#L6 #glial #microglia/opc
+84173175367	#L6 #glial #microglia/opc
+84289880406	#L6 #glial #microglia/opc
+84491914559	#L6 #glial #microglia/opc
+84537003126	#L6 #glial #microglia/opc
+84652511941	#L6 #glial #microglia/opc
+84755696127	#L6 #glial #microglia/opc
+84768882515	#L6 #glial #microglia/opc
+84827941881	#L6 #glial #microglia/opc
+85120823357	#L6 #glial #microglia/opc
+85149061530	#L6 #glial #microglia/opc
+85178352672	#L6 #glial #microglia/opc
+85483613440	#L6 #glial #microglia/opc
+85513618811	#L6 #glial #microglia/opc
+85543171087	#L6 #glial #microglia/opc
+85731349455	#L6 #glial #microglia/opc
+85790220767	#L6 #glial #microglia/opc
+85819802842	#L6 #glial #microglia/opc
+86008856348	#L6 #glial #microglia/opc
+86139112593	#L6 #glial #microglia/opc
+86387767802	#L6 #glial #microglia/opc
+86664848872	#L6 #glial #microglia/opc
+86824891234	#L6 #glial #microglia/opc
+87029627184	#L6 #glial #microglia/opc
+87611564368	#L6 #glial #microglia/opc
+92833888676	#L6 #glial #microglia/opc
+93109541869	#L6 #glial #microglia/opc
+93577971165	#L6 #glial #microglia/opc
+93664672225	#L6 #glial #microglia/opc
+93708037204	#L6 #glial #microglia/opc
+93738406743	#L6 #glial #microglia/opc
+93766323815	#L6 #glial #microglia/opc
+94028119307	#L6 #glial #microglia/opc
+94087093077	#L6 #glial #microglia/opc
+94379581254	#L6 #glial #microglia/opc
+94845264248	#L6 #glial #microglia/opc
+95079056637	#L6 #glial #microglia/opc
+96360278961	#L6 #glial #microglia/opc
+4822243103	#L6 #glial #microglia/opc #c-shaped
+5141392173	#L6 #glial #microglia/opc #c-shaped
+5827639376	#L6 #glial #microglia/opc #c-shaped
+6221486656	#L6 #glial #microglia/opc #c-shaped
+6438880899	#L6 #glial #microglia/opc #c-shaped
+31549375912	#L6 #glial #microglia/opc #c-shaped
+31622381106	#L6 #glial #microglia/opc #c-shaped
+31825831605	#L6 #glial #microglia/opc #c-shaped
+32087860683	#L6 #glial #microglia/opc #c-shaped
+40399085466	#L6 #glial #microglia/opc #c-shaped
+40559418538	#L6 #glial #microglia/opc #c-shaped
+40588183340	#L6 #glial #microglia/opc #c-shaped
+41448546283	#L6 #glial #microglia/opc #c-shaped
+41711744042	#L6 #glial #microglia/opc #c-shaped
+41726475814	#L6 #glial #microglia/opc #c-shaped
+48449360005	#L6 #glial #microglia/opc #c-shaped
+48827526772	#L6 #glial #microglia/opc #c-shaped
+58013161683	#L6 #glial #microglia/opc #c-shaped
+58276710465	#L6 #glial #microglia/opc #c-shaped
+67666671180	#L6 #glial #microglia/opc #c-shaped
+68512025300	#L6 #glial #microglia/opc #c-shaped
+83967535123	#L6 #glial #microglia/opc #c-shaped
+84275425698	#L6 #glial #microglia/opc #c-shaped
+92572006094	#L6 #glial #microglia/opc #c-shaped
+4879378788	#L6 #blood-vessel-cell
+6119586713	#L6 #blood-vessel-cell
+14227025379	#L6 #blood-vessel-cell
+33982339812	#L6 #blood-vessel-cell
+39699374791	#L6 #blood-vessel-cell
+57444905436	#L6 #blood-vessel-cell
+58522635114	#L6 #blood-vessel-cell
+67520019075	#L6 #blood-vessel-cell
+76692659523	#L6 #blood-vessel-cell
+76734504307	#L6 #blood-vessel-cell
+78193218474	#L6 #blood-vessel-cell
+87538603483	#L6 #blood-vessel-cell
+5344594921	#WM #unknown-type
+6203235465	#WM #unknown-type
+6640461900	#WM #unknown-type
+7397815985	#WM #unknown-type
+7789970053	#WM #unknown-type
+7879416583	#WM #unknown-type
+8066294249	#WM #unknown-type
+8255611833	#WM #unknown-type
+16596958430	#WM #unknown-type
+17164499345	#WM #unknown-type
+17454929086	#WM #unknown-type
+23118917737	#WM #unknown-type
+23277995257	#WM #unknown-type
+23496090410	#WM #unknown-type
+31895782307	#WM #unknown-type
+31968524504	#WM #unknown-type
+32917475165	#WM #unknown-type
+34299868461	#WM #unknown-type
+34895646089	#WM #unknown-type
+40513848778	#WM #unknown-type
+40571463075	#WM #unknown-type
+40629677171	#WM #unknown-type
+40777206859	#WM #unknown-type
+41083419036	#WM #unknown-type
+41592351641	#WM #unknown-type
+41855301987	#WM #unknown-type
+42129463216	#WM #unknown-type
+42318546987	#WM #unknown-type
+42508535298	#WM #unknown-type
+42508841806	#WM #unknown-type
+42567057698	#WM #unknown-type
+42656969364	#WM #unknown-type
+42671058650	#WM #unknown-type
+43048509670	#WM #unknown-type
+43107701868	#WM #unknown-type
+43119427462	#WM #unknown-type
+43294112268	#WM #unknown-type
+43352253662	#WM #unknown-type
+50150087447	#WM #unknown-type
+60136994268	#WM #unknown-type
+69630346627	#WM #unknown-type
+69674544070	#WM #unknown-type
+74840375322	#WM #unknown-type
+84943596815	#WM #unknown-type
+86587672051	#WM #unknown-type
+93559765028	#WM #unknown-type
+95963353371	#WM #unknown-type
+5169602423	#WM #unknown-type #dark
+5461300781	#WM #unknown-type #dark
+6686018243	#WM #unknown-type #dark
+6698823704	#WM #unknown-type #dark
+7093663709	#WM #unknown-type #dark
+7134911590	#WM #unknown-type #dark
+7542029753	#WM #unknown-type #dark
+7557551434	#WM #unknown-type #dark
+32217649323	#WM #unknown-type #dark
+33600743531	#WM #unknown-type #dark
+34023763523	#WM #unknown-type #dark
+34808932507	#WM #unknown-type #dark
+41386610063	#WM #unknown-type #dark
+41517653922	#WM #unknown-type #dark
+41781098753	#WM #unknown-type #dark
+42072971957	#WM #unknown-type #dark
+42712205254	#WM #unknown-type #dark
+43498614583	#WM #unknown-type #dark
+49335889864	#WM #unknown-type #dark
+50691022498	#WM #unknown-type #dark
+51288117391	#WM #unknown-type #dark
+58668425884	#WM #unknown-type #dark
+60166856772	#WM #unknown-type #dark
+60648278452	#WM #unknown-type #dark
+61173388337	#WM #unknown-type #dark
+67387983785	#WM #unknown-type #dark
+68145817605	#WM #unknown-type #dark
+69864326608	#WM #unknown-type #dark
+76601535068	#WM #unknown-type #dark
+6598586151	#WM #unknown-type #grey
+6901689253	#WM #unknown-type #grey
+15666056422	#WM #unknown-type #grey
+32086794392	#WM #unknown-type #grey
+32334194273	#WM #unknown-type #grey
+40893868782	#WM #unknown-type #grey
+43178721233	#WM #unknown-type #grey
+43468972946	#WM #unknown-type #grey
+3950855757	#WM #pyramidal #neuron
+4123249408	#WM #pyramidal #neuron
+4663340422	#WM #pyramidal #neuron
+4750201988	#WM #pyramidal #neuron
+4894095100	#WM #pyramidal #neuron
+5041039055	#WM #pyramidal #neuron
+5126908867	#WM #pyramidal #neuron
+5170126624	#WM #pyramidal #neuron
+5185604940	#WM #pyramidal #neuron
+5243380626	#WM #pyramidal #neuron
+5286452676	#WM #pyramidal #neuron
+5402561573	#WM #pyramidal #neuron
+5417892255	#WM #pyramidal #neuron
+5492181921	#WM #pyramidal #neuron
+5492502395	#WM #pyramidal #neuron
+5533080047	#WM #pyramidal #neuron
+5606871648	#WM #pyramidal #neuron
+5622014413	#WM #pyramidal #neuron
+5679905820	#WM #pyramidal #neuron
+5766927786	#WM #pyramidal #neuron
+5770899958	#WM #pyramidal #neuron
+5771133008	#WM #pyramidal #neuron
+5870712884	#WM #pyramidal #neuron
+5883414553	#WM #pyramidal #neuron
+5886482147	#WM #pyramidal #neuron
+5927714660	#WM #pyramidal #neuron
+6044010998	#WM #pyramidal #neuron
+6073273170	#WM #pyramidal #neuron
+6103480824	#WM #pyramidal #neuron
+6133062469	#WM #pyramidal #neuron
+6178473036	#WM #pyramidal #neuron
+6218887584	#WM #pyramidal #neuron
+6234759117	#WM #pyramidal #neuron
+6291862963	#WM #pyramidal #neuron
+6293310179	#WM #pyramidal #neuron
+6321590569	#WM #pyramidal #neuron
+6336149626	#WM #pyramidal #neuron
+6338411878	#WM #pyramidal #neuron
+6379119646	#WM #pyramidal #neuron
+6394231262	#WM #pyramidal #neuron
+6394610959	#WM #pyramidal #neuron
+6422381427	#WM #pyramidal #neuron
+6496745047	#WM #pyramidal #neuron
+6498380644	#WM #pyramidal #neuron
+6525902368	#WM #pyramidal #neuron
+6538124867	#WM #pyramidal #neuron
+6540883232	#WM #pyramidal #neuron
+6542328789	#WM #pyramidal #neuron
+6568186868	#WM #pyramidal #neuron
+6584848344	#WM #pyramidal #neuron
+6613348415	#WM #pyramidal #neuron
+6685462094	#WM #pyramidal #neuron
+6685769364	#WM #pyramidal #neuron
+6715832180	#WM #pyramidal #neuron
+6758014489	#WM #pyramidal #neuron
+6772016826	#WM #pyramidal #neuron
+6903893412	#WM #pyramidal #neuron
+6917457400	#WM #pyramidal #neuron
+6917983029	#WM #pyramidal #neuron
+6919925574	#WM #pyramidal #neuron
+6932905828	#WM #pyramidal #neuron
+6937359726	#WM #pyramidal #neuron
+6962780088	#WM #pyramidal #neuron
+6976578529	#WM #pyramidal #neuron
+7034398371	#WM #pyramidal #neuron
+7034455397	#WM #pyramidal #neuron
+7064095245	#WM #pyramidal #neuron
+7093165824	#WM #pyramidal #neuron
+7122632399	#WM #pyramidal #neuron
+7165076436	#WM #pyramidal #neuron
+7166360639	#WM #pyramidal #neuron
+7210003159	#WM #pyramidal #neuron
+7240389232	#WM #pyramidal #neuron
+7282017291	#WM #pyramidal #neuron
+7298355944	#WM #pyramidal #neuron
+7355691877	#WM #pyramidal #neuron
+7372264643	#WM #pyramidal #neuron
+7372790093	#WM #pyramidal #neuron
+7455389509	#WM #pyramidal #neuron
+7603806611	#WM #pyramidal #neuron
+7604565986	#WM #pyramidal #neuron
+7690391886	#WM #pyramidal #neuron
+7864332863	#WM #pyramidal #neuron
+7952362720	#WM #pyramidal #neuron
+7965824194	#WM #pyramidal #neuron
+7968117887	#WM #pyramidal #neuron
+7979213368	#WM #pyramidal #neuron
+8053562260	#WM #pyramidal #neuron
+8112886623	#WM #pyramidal #neuron
+14865761342	#WM #pyramidal #neuron
+15027306645	#WM #pyramidal #neuron
+23051592532	#WM #pyramidal #neuron
+31607049743	#WM #pyramidal #neuron
+31619589786	#WM #pyramidal #neuron
+31737218197	#WM #pyramidal #neuron
+31796133063	#WM #pyramidal #neuron
+31853193706	#WM #pyramidal #neuron
+31985391052	#WM #pyramidal #neuron
+32071799891	#WM #pyramidal #neuron
+32130598132	#WM #pyramidal #neuron
+32159769901	#WM #pyramidal #neuron
+32319184753	#WM #pyramidal #neuron
+32450417017	#WM #pyramidal #neuron
+32450563661	#WM #pyramidal #neuron
+32450768603	#WM #pyramidal #neuron
+32479065186	#WM #pyramidal #neuron
+32522386782	#WM #pyramidal #neuron
+32538112054	#WM #pyramidal #neuron
+32552755807	#WM #pyramidal #neuron
+32580994930	#WM #pyramidal #neuron
+32595464291	#WM #pyramidal #neuron
+32713207239	#WM #pyramidal #neuron
+32770296693	#WM #pyramidal #neuron
+32815136788	#WM #pyramidal #neuron
+32827839029	#WM #pyramidal #neuron
+32901472134	#WM #pyramidal #neuron
+33008496925	#WM #pyramidal #neuron
+33033128994	#WM #pyramidal #neuron
+33108003208	#WM #pyramidal #neuron
+33135730484	#WM #pyramidal #neuron
+33272278093	#WM #pyramidal #neuron
+33297786896	#WM #pyramidal #neuron
+33323265792	#WM #pyramidal #neuron
+33325557836	#WM #pyramidal #neuron
+33366382479	#WM #pyramidal #neuron
+33366425392	#WM #pyramidal #neuron
+33367127926	#WM #pyramidal #neuron
+33514187981	#WM #pyramidal #neuron
+33528716176	#WM #pyramidal #neuron
+33544557503	#WM #pyramidal #neuron
+33572490683	#WM #pyramidal #neuron
+33663848067	#WM #pyramidal #neuron
+33676580309	#WM #pyramidal #neuron
+33716908154	#WM #pyramidal #neuron
+33791972047	#WM #pyramidal #neuron
+33805580563	#WM #pyramidal #neuron
+33806149770	#WM #pyramidal #neuron
+33820079706	#WM #pyramidal #neuron
+33834695447	#WM #pyramidal #neuron
+33849340222	#WM #pyramidal #neuron
+33925907035	#WM #pyramidal #neuron
+33980121488	#WM #pyramidal #neuron
+33982325300	#WM #pyramidal #neuron
+33996663685	#WM #pyramidal #neuron
+34053782729	#WM #pyramidal #neuron
+34069084470	#WM #pyramidal #neuron
+34081932563	#WM #pyramidal #neuron
+34081961875	#WM #pyramidal #neuron
+34083641900	#WM #pyramidal #neuron
+34096418043	#WM #pyramidal #neuron
+34098973299	#WM #pyramidal #neuron
+34125604731	#WM #pyramidal #neuron
+34141388695	#WM #pyramidal #neuron
+34155172368	#WM #pyramidal #neuron
+34157435282	#WM #pyramidal #neuron
+34214349606	#WM #pyramidal #neuron
+34272418169	#WM #pyramidal #neuron
+34284769721	#WM #pyramidal #neuron
+34316148321	#WM #pyramidal #neuron
+34372639688	#WM #pyramidal #neuron
+34461194781	#WM #pyramidal #neuron
+34473999492	#WM #pyramidal #neuron
+34577097712	#WM #pyramidal #neuron
+34620141430	#WM #pyramidal #neuron
+34693160817	#WM #pyramidal #neuron
+34694808702	#WM #pyramidal #neuron
+34707966215	#WM #pyramidal #neuron
+34751156346	#WM #pyramidal #neuron
+34751418772	#WM #pyramidal #neuron
+34883161682	#WM #pyramidal #neuron
+40020290717	#WM #pyramidal #neuron
+40295518783	#WM #pyramidal #neuron
+40339000564	#WM #pyramidal #neuron
+40616550783	#WM #pyramidal #neuron
+40703689814	#WM #pyramidal #neuron
+40964976796	#WM #pyramidal #neuron
+41081259258	#WM #pyramidal #neuron
+41678584994	#WM #pyramidal #neuron
+41707890203	#WM #pyramidal #neuron
+41969860267	#WM #pyramidal #neuron
+42027988473	#WM #pyramidal #neuron
+42061628831	#WM #pyramidal #neuron
+42085719967	#WM #pyramidal #neuron
+42159951085	#WM #pyramidal #neuron
+42555083540	#WM #pyramidal #neuron
+42701982587	#WM #pyramidal #neuron
+42771586593	#WM #pyramidal #neuron
+42784858548	#WM #pyramidal #neuron
+42861791193	#WM #pyramidal #neuron
+42890716166	#WM #pyramidal #neuron
+43018546894	#WM #pyramidal #neuron
+43049283013	#WM #pyramidal #neuron
+43077199030	#WM #pyramidal #neuron
+43148875231	#WM #pyramidal #neuron
+43193701074	#WM #pyramidal #neuron
+43236204578	#WM #pyramidal #neuron
+43269129941	#WM #pyramidal #neuron
+43484524226	#WM #pyramidal #neuron
+43501679960	#WM #pyramidal #neuron
+43516762846	#WM #pyramidal #neuron
+43559456228	#WM #pyramidal #neuron
+43803817699	#WM #pyramidal #neuron
+49219447113	#WM #pyramidal #neuron
+49394016866	#WM #pyramidal #neuron
+51844457134	#WM #pyramidal #neuron
+52074454979	#WM #pyramidal #neuron
+52451307099	#WM #pyramidal #neuron
+67138847255	#WM #pyramidal #neuron
+69879380540	#WM #pyramidal #neuron
+75305637009	#WM #pyramidal #neuron
+78774441153	#WM #pyramidal #neuron
+78977539729	#WM #pyramidal #neuron
+78978254560	#WM #pyramidal #neuron
+87814329190	#WM #pyramidal #neuron
+87929850926	#WM #pyramidal #neuron
+96606656885	#WM #pyramidal #neuron
+4939505056	#WM #pyramidal #neuron #bipolar
+5390486092	#WM #pyramidal #neuron #bipolar
+5407684828	#WM #pyramidal #neuron #bipolar
+5475930233	#WM #pyramidal #neuron #bipolar
+5607528978	#WM #pyramidal #neuron #bipolar
+5829727160	#WM #pyramidal #neuron #bipolar
+5902512845	#WM #pyramidal #neuron #bipolar
+5942768753	#WM #pyramidal #neuron #bipolar
+6015642184	#WM #pyramidal #neuron #bipolar
+6073213825	#WM #pyramidal #neuron #bipolar
+6088121881	#WM #pyramidal #neuron #bipolar
+6349420196	#WM #pyramidal #neuron #bipolar
+6351303836	#WM #pyramidal #neuron #bipolar
+6425799553	#WM #pyramidal #neuron #bipolar
+6525742392	#WM #pyramidal #neuron #bipolar
+6642827177	#WM #pyramidal #neuron #bipolar
+6672861861	#WM #pyramidal #neuron #bipolar
+6804636718	#WM #pyramidal #neuron #bipolar
+6846160724	#WM #pyramidal #neuron #bipolar
+6873873396	#WM #pyramidal #neuron #bipolar
+6874691081	#WM #pyramidal #neuron #bipolar
+6933155262	#WM #pyramidal #neuron #bipolar
+6977044091	#WM #pyramidal #neuron #bipolar
+7095167696	#WM #pyramidal #neuron #bipolar
+7181501853	#WM #pyramidal #neuron #bipolar
+7283110982	#WM #pyramidal #neuron #bipolar
+7546351743	#WM #pyramidal #neuron #bipolar
+7589658232	#WM #pyramidal #neuron #bipolar
+7716439566	#WM #pyramidal #neuron #bipolar
+7878612352	#WM #pyramidal #neuron #bipolar
+7994631688	#WM #pyramidal #neuron #bipolar
+24183929410	#WM #pyramidal #neuron #bipolar
+32377574514	#WM #pyramidal #neuron #bipolar
+32480919756	#WM #pyramidal #neuron #bipolar
+33017637670	#WM #pyramidal #neuron #bipolar
+33573978352	#WM #pyramidal #neuron #bipolar
+33617694571	#WM #pyramidal #neuron #bipolar
+33628835525	#WM #pyramidal #neuron #bipolar
+33707723541	#WM #pyramidal #neuron #bipolar
+33733597584	#WM #pyramidal #neuron #bipolar
+33747615006	#WM #pyramidal #neuron #bipolar
+33849573319	#WM #pyramidal #neuron #bipolar
+33864991883	#WM #pyramidal #neuron #bipolar
+33951590438	#WM #pyramidal #neuron #bipolar
+34083028439	#WM #pyramidal #neuron #bipolar
+34128408583	#WM #pyramidal #neuron #bipolar
+34170313704	#WM #pyramidal #neuron #bipolar
+34170897343	#WM #pyramidal #neuron #bipolar
+34214392248	#WM #pyramidal #neuron #bipolar
+34475620515	#WM #pyramidal #neuron #bipolar
+41740069974	#WM #pyramidal #neuron #bipolar
+41766045822	#WM #pyramidal #neuron #bipolar
+41868047014	#WM #pyramidal #neuron #bipolar
+42685892214	#WM #pyramidal #neuron #bipolar
+42859747120	#WM #pyramidal #neuron #bipolar
+42949353565	#WM #pyramidal #neuron #bipolar
+43090560469	#WM #pyramidal #neuron #bipolar
+43138904385	#WM #pyramidal #neuron #bipolar
+43240307073	#WM #pyramidal #neuron #bipolar
+43280345455	#WM #pyramidal #neuron #bipolar
+52235954842	#WM #pyramidal #neuron #bipolar
+69937843003	#WM #pyramidal #neuron #bipolar
+78628780859	#WM #pyramidal #neuron #bipolar
+5345631891	#WM #pyramidal #neuron #sparsely-spiny
+6016838527	#WM #pyramidal #neuron #sparsely-spiny
+6074614674	#WM #pyramidal #neuron #sparsely-spiny
+33980865318	#WM #pyramidal #neuron #sparsely-spiny
+43324819208	#WM #pyramidal #neuron #sparsely-spiny #possible-interneuron
+87536209680	#WM #pyramidal #neuron #dark
+5315057593	#WM #neuron #interneuron
+5766767782	#WM #neuron #interneuron
+5767205757	#WM #neuron #interneuron
+5795401239	#WM #neuron #interneuron
+5853031738	#WM #neuron #interneuron
+5869368711	#WM #neuron #interneuron
+5928167473	#WM #neuron #interneuron
+5971211523	#WM #neuron #interneuron
+5986279127	#WM #neuron #interneuron
+6145473299	#WM #neuron #interneuron
+6161461428	#WM #neuron #interneuron
+6290944374	#WM #neuron #interneuron
+6337053219	#WM #neuron #interneuron
+6627876435	#WM #neuron #interneuron
+6742670191	#WM #neuron #interneuron
+6933095059	#WM #neuron #interneuron
